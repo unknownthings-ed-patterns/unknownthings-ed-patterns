@@ -9,3 +9,26 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+# ---- プライベートコンテンツ（公開禁止） ----
+# 生データ・未処理ソース
+content/raw/
+content/raw/**
+
+# Webクリップ
+content/Clippings/
+content/Clippings/**
+
+# 個人ノート
+content/個人/
+content/個人/**
+
+# PDFファイル（スキャンやレポートの混入を防ぐ）
+content/**/*.pdf
+content/**/*.PDF
+content/*.pdf
+content/*.PDF
+
+# Webクリップ・記事ファイル（content/ルート直下への混入を防ぐ）
+# 【...】で始まるファイル名はObsidianのClippingsフォルダ由来の可能性が高い
+content/【*

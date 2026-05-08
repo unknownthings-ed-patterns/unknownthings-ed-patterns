@@ -37,6 +37,12 @@ updated: 2026-05-02
 - [[パタン/自信を構築する（Confidence）]] — ARCSのC
 - [[パタン/満足感をもたらす（Satisfaction）]] — ARCSのS
 
+## Actionable Insight
+
+- 授業準備のとき「この授業はARCSのどの要素が弱いか？」と自問し、最も弱い1要素に絞って改善策を考える——全要素を均等に設計しようとするより、ボトルネックに集中する方が効果的
+- 学習者が意欲を失っている場面では「注意・関連性・自信・満足のどれが欠けているか」を観察して診断する——原因を特定することで有効な介入が選べる
+- 単元の最初に「なぜこれを学ぶのか（R）」を示し、最後に「何ができるようになったか（S）」を確認する——ARCSのRとSの両端を意識するだけで学習体験の構造が整う
+
 ## 出典
 
 - Keller, J. M. (2010). *Motivational Design for Learning and Performance: The ARCS Model Approach*. Springer.

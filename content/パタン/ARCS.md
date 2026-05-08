@@ -39,5 +39,5 @@ updated: 2026-05-02
 
 ## 出典
 
-- John M. Keller（2010）*Motivational Design for Learning and Performance: The ARCS Model Approach* Springer
-- Keller, J.M.（1987）「Development and use of the ARCS model of instructional design」*Journal of Instructional Development*, 10(3)
+- Keller, J. M. (2010). *Motivational Design for Learning and Performance: The ARCS Model Approach*. Springer.
+- Keller, J. M. (1987). Development and use of the ARCS model of instructional design. *Journal of Instructional Development*, 10(3), 2–10.

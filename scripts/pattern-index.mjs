@@ -158,7 +158,7 @@ function indexCandidates(names, indexedNames, counts) {
     })
     .filter((item) => item.score > 0)
     .sort((a, b) => b.score - a.score || b.count - a.count || collator.compare(a.name, b.name))
-    .slice(0, 40)
+    .slice(0, 10)
 }
 
 function renderCandidates(names, indexedNames, counts) {

@@ -13,6 +13,7 @@ rsync -a --delete \
   --exclude='パタン名インデックス.md' \
   --exclude='全パタン一覧.md' \
   --exclude='メンテナンス/旧名と現在名.md' \
+  --exclude='メンテナンス/主要パタン候補.md' \
   "$SRC" "$DST"
 
 # 変更があればcommitしてpush

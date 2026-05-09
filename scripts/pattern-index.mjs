@@ -4,6 +4,7 @@ import path from "node:path"
 const patternDir = "content/パタン"
 const mainIndex = "content/パタン名インデックス.md"
 const allPatternList = "content/全パタン一覧.md"
+const candidateList = "content/メンテナンス/主要パタン候補.md"
 const contentDir = "content"
 const mode = process.argv.includes("--check") ? "check" : "write"
 
@@ -43,6 +44,27 @@ function hasTag(markdown, tag) {
   return frontmatter(markdown).includes(tag)
 }
 
+function tags(markdown) {
+  const fm = frontmatter(markdown)
+  const inline = fm.match(/^tags:\s*\[([^\]]*)\]/m)
+  if (inline) {
+    return inline[1]
+      .split(",")
+      .map((tag) => tag.trim())
+      .filter(Boolean)
+  }
+
+  const block = fm.match(/^tags:\s*\n((?:\s*-\s*.+\n?)+)/m)
+  if (block) {
+    return block[1]
+      .split("\n")
+      .map((line) => line.replace(/^\s*-\s*/, "").trim())
+      .filter(Boolean)
+  }
+
+  return []
+}
+
 function indexedPatternNames() {
   const markdown = read(mainIndex)
   return new Set(
@@ -69,7 +91,8 @@ function rowFor(name) {
 
 function backlinkCounts(names) {
   const counts = new Map(names.map((name) => [name, 0]))
-  const files = markdownFiles().filter((file) => file !== allPatternList && file !== mainIndex)
+  const excluded = new Set([allPatternList, candidateList, mainIndex, "content/index.md"])
+  const files = markdownFiles().filter((file) => !excluded.has(file) && !file.startsWith("content/メンテナンス/"))
   for (const file of files) {
     const markdown = read(file)
     for (const match of markdown.matchAll(/\[\[パタン\/([^\]|\n]+)(?:\|[^\]\n]+)?\]\]/g)) {
@@ -100,6 +123,50 @@ function listItems(names) {
   return names.map((name) => `- [[パタン/${name}]]`)
 }
 
+function tagText(name) {
+  const visibleTags = tags(read(patternFile(name)))
+    .filter((tag) => tag !== "パタン")
+    .slice(0, 4)
+  if (!visibleTags.length) return ""
+  return ` — ${visibleTags.map((tag) => `#${tag}`).join(" ")}`
+}
+
+function indexCandidates(names, indexedNames, counts) {
+  return names
+    .filter((name) => !indexedNames.has(name))
+    .map((name) => {
+      const markdown = read(patternFile(name))
+      const parent = hasTag(markdown, "上位パタン") || markdown.includes("## 下位パタン一覧")
+      const count = counts.get(name) ?? 0
+      const score = count + (parent ? 20 : 0)
+      return { name, count, parent, score }
+    })
+    .filter((item) => item.score > 0)
+    .sort((a, b) => b.score - a.score || b.count - a.count || collator.compare(a.name, b.name))
+    .slice(0, 40)
+}
+
+function renderCandidates(names, indexedNames, counts) {
+  const candidates = indexCandidates(names, indexedNames, counts)
+  const lines = [
+    "---",
+    "title: 主要パタン候補",
+    "---",
+    "",
+    "# 主要パタン候補",
+    "",
+    "このページは `scripts/pattern-index.mjs` で自動生成するメンテナンス用リスト。",
+    "",
+    "主要パタン名インデックスに未掲載で、他ページからの参照が多いパタンや親パタンを追加候補として並べる。",
+    "",
+    "| パタン | 参照数 | 親パタン | スコア |",
+    "| --- | ---: | --- | ---: |",
+    ...candidates.map((item) => `| [[パタン/${item.name}]] | ${item.count} | ${item.parent ? "yes" : ""} | ${item.score} |`),
+    "",
+  ]
+  return lines.join("\n")
+}
+
 function renderAllPatterns(names, indexedNames, counts) {
   const groups = new Map()
   for (const name of names) {
@@ -111,11 +178,6 @@ function renderAllPatterns(names, indexedNames, counts) {
   const order = ["英数字", "ア行", "カ行", "サ行", "タ行", "ナ行", "ハ行", "マ行", "ヤ行", "ラ行", "ワ行", "その他"]
   const missing = names.filter((name) => !indexedNames.has(name))
   const { parents, questions, sequences } = patternGroups(names)
-  const candidates = missing
-    .map((name) => ({ name, count: counts.get(name) ?? 0 }))
-    .filter((item) => item.count > 0)
-    .sort((a, b) => b.count - a.count || collator.compare(a.name, b.name))
-    .slice(0, 30)
 
   const lines = [
     "---",
@@ -134,19 +196,10 @@ function renderAllPatterns(names, indexedNames, counts) {
     "",
     "## 探し方",
     "",
-    "- [主要パタン候補を見る](#主要パタン候補)",
     "- [親パタン・上位パタンを見る](#親パタン上位パタン)",
     "- [問い系を見る](#問い系)",
     "- [配列系を見る](#配列系)",
     "- [五十音順ですべて見る](#五十音順)",
-    "",
-    "## 主要パタン候補",
-    "",
-    "主要パタン名インデックスに未掲載で、他ページからの参照が多いパタン。追加候補を検討するときの目安。",
-    "",
-    "| パタン | 参照数 |",
-    "| --- | ---: |",
-    ...candidates.map((item) => `| [[パタン/${item.name}]] | ${item.count} |`),
     "",
     "## 親パタン・上位パタン",
     "",
@@ -169,7 +222,7 @@ function renderAllPatterns(names, indexedNames, counts) {
     if (!items?.length) continue
     lines.push(`## ${row}`, "")
     for (const name of items) {
-      lines.push(`- [[パタン/${name}]]`)
+      lines.push(`- [[パタン/${name}]]${tagText(name)}`)
     }
     lines.push("")
   }
@@ -181,6 +234,7 @@ const names = patternNames()
 const indexed = indexedPatternNames()
 const counts = backlinkCounts(names)
 const next = renderAllPatterns(names, indexed, counts)
+const candidatesNext = renderCandidates(names, indexed, counts)
 const missing = names.filter((name) => !indexed.has(name))
 
 if (mode === "check") {
@@ -189,11 +243,17 @@ if (mode === "check") {
     console.error(`${allPatternList} is out of date. Run: npm run update:pattern-list`)
     process.exit(1)
   }
+  const currentCandidates = fs.existsSync(candidateList) ? read(candidateList) : ""
+  if (currentCandidates !== candidatesNext) {
+    console.error(`${candidateList} is out of date. Run: npm run update:pattern-list`)
+    process.exit(1)
+  }
   console.log(
     `OK: ${names.length} patterns; ${indexed.size} in main index; ${missing.length} only in all-pattern list.`,
   )
 } else {
   fs.writeFileSync(allPatternList, next)
+  fs.writeFileSync(candidateList, candidatesNext)
   console.log(
     `Updated ${allPatternList}: ${names.length} patterns; ${indexed.size} in main index; ${missing.length} only in all-pattern list.`,
   )

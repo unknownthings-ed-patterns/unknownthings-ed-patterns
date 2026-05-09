@@ -14,6 +14,7 @@ rsync -a --delete \
   --exclude='全パタン一覧.md' \
   --exclude='メンテナンス/旧名と現在名.md' \
   --exclude='メンテナンス/主要パタン候補.md' \
+  --exclude='メンテナンス/全パタン一覧（メンテナンス）.md' \
   "$SRC" "$DST"
 
 # 変更があればcommitしてpush

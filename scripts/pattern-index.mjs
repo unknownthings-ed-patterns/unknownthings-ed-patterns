@@ -5,6 +5,7 @@ const patternDir = "content/パタン"
 const mainIndex = "content/パタン名インデックス.md"
 const allPatternList = "content/全パタン一覧.md"
 const candidateList = "content/メンテナンス/主要パタン候補.md"
+const maintenancePatternList = "content/メンテナンス/全パタン一覧（メンテナンス）.md"
 const contentDir = "content"
 const mode = process.argv.includes("--check") ? "check" : "write"
 
@@ -182,6 +183,14 @@ function renderCandidates(names, indexedNames, counts) {
 }
 
 function renderAllPatterns(names, indexedNames, counts) {
+  return renderPatternList(names, indexedNames, false)
+}
+
+function renderMaintenancePatterns(names, indexedNames, counts) {
+  return renderPatternList(names, indexedNames, true)
+}
+
+function renderPatternList(names, indexedNames, maintenance) {
   const groups = new Map()
   for (const name of names) {
     const row = rowFor(name)
@@ -195,18 +204,28 @@ function renderAllPatterns(names, indexedNames, counts) {
 
   const lines = [
     "---",
-    "title: 全パタン一覧",
+    `title: ${maintenance ? "全パタン一覧（メンテナンス）" : "全パタン一覧"}`,
     "---",
     "",
-    "# 全パタン一覧",
+    `# ${maintenance ? "全パタン一覧（メンテナンス）" : "全パタン一覧"}`,
     "",
-    "このページは `scripts/pattern-index.mjs` で自動生成する全パタンの索引。",
+    maintenance
+      ? "このページは `scripts/pattern-index.mjs` で自動生成するメンテナンス用の全パタン索引。"
+      : "すべてのパタン名を確認するための一覧。",
     "",
-    `- 全パタン数：${names.length}`,
-    `- [[パタン名インデックス|主要パタン名インデックス]] 掲載数：${indexedNames.size}`,
-    `- 主要パタン名インデックス未掲載：${missing.length}`,
+    ...(maintenance
+      ? [
+          `- 全パタン数：${names.length}`,
+          `- [[パタン名インデックス|主要パタン名インデックス]] 掲載数：${indexedNames.size}`,
+          `- 主要パタン名インデックス未掲載：${missing.length}`,
+          "",
+          "公開用の一覧は [[全パタン一覧]] を使う。追加候補は [[メンテナンス/主要パタン候補]] を確認する。",
+        ]
+      : []),
     "",
-    "主要な入口としては [[パタン名インデックス|主要パタン名インデックス]] を使い、全件確認や抜け漏れ確認にはこのページを使う。",
+    maintenance
+      ? "タグや件数を含めて確認したいときに使う。"
+      : "よく使う入口としては [[パタン名インデックス|主要パタン名インデックス]] を使い、全件を見たいときにこのページを使う。",
     "",
     "## 探し方",
     "",
@@ -236,7 +255,7 @@ function renderAllPatterns(names, indexedNames, counts) {
     if (!items?.length) continue
     lines.push(`## ${row}`, "")
     for (const name of items) {
-      lines.push(`- [[パタン/${name}]]${tagText(name)}`)
+      lines.push(`- [[パタン/${name}]]${maintenance ? tagText(name) : ""}`)
     }
     lines.push("")
   }
@@ -248,6 +267,7 @@ const names = patternNames()
 const indexed = indexedPatternNames()
 const counts = backlinkCounts(names)
 const next = renderAllPatterns(names, indexed, counts)
+const maintenanceNext = renderMaintenancePatterns(names, indexed, counts)
 const candidatesNext = renderCandidates(names, indexed, counts)
 const missing = names.filter((name) => !indexed.has(name))
 
@@ -255,6 +275,11 @@ if (mode === "check") {
   const current = fs.existsSync(allPatternList) ? read(allPatternList) : ""
   if (current !== next) {
     console.error(`${allPatternList} is out of date. Run: npm run update:pattern-list`)
+    process.exit(1)
+  }
+  const currentMaintenance = fs.existsSync(maintenancePatternList) ? read(maintenancePatternList) : ""
+  if (currentMaintenance !== maintenanceNext) {
+    console.error(`${maintenancePatternList} is out of date. Run: npm run update:pattern-list`)
     process.exit(1)
   }
   const currentCandidates = fs.existsSync(candidateList) ? read(candidateList) : ""
@@ -267,6 +292,7 @@ if (mode === "check") {
   )
 } else {
   fs.writeFileSync(allPatternList, next)
+  fs.writeFileSync(maintenancePatternList, maintenanceNext)
   fs.writeFileSync(candidateList, candidatesNext)
   console.log(
     `Updated ${allPatternList}: ${names.length} patterns; ${indexed.size} in main index; ${missing.length} only in all-pattern list.`,

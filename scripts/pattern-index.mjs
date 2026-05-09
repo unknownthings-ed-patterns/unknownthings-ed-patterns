@@ -9,6 +9,19 @@ const contentDir = "content"
 const mode = process.argv.includes("--check") ? "check" : "write"
 
 const collator = new Intl.Collator("ja")
+const visibleTagPriority = [
+  "上位パタン",
+  "熟慮的問い",
+  "熟慮的配列",
+  "熟慮的インストラクション",
+  "熟慮的動機付け",
+  "教材設計",
+  "フィードバック",
+  "文化",
+  "評価",
+  "動機づけ",
+  "特別支援",
+]
 
 function read(file) {
   return fs.readFileSync(file, "utf8")
@@ -124,8 +137,9 @@ function listItems(names) {
 }
 
 function tagText(name) {
-  const visibleTags = tags(read(patternFile(name)))
-    .filter((tag) => tag !== "パタン")
+  const sourceTags = tags(read(patternFile(name))).filter((tag) => tag !== "パタン")
+  const visibleTags = visibleTagPriority
+    .filter((tag) => sourceTags.includes(tag))
     .slice(0, 4)
   if (!visibleTags.length) return ""
   return ` — ${visibleTags.map((tag) => `#${tag}`).join(" ")}`

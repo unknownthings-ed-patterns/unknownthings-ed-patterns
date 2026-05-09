@@ -18,7 +18,7 @@
     "update:pattern-list": "node scripts/pattern-index.mjs",
     "check:pattern-index": "node scripts/pattern-index.mjs --check",
     "check:wikilinks": "node scripts/check-wikilinks.mjs",
-    "check": "tsc --noEmit && npx prettier . --check",
+    "check": "npm run check:pattern-index && tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"

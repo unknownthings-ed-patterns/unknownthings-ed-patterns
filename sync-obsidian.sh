@@ -11,6 +11,7 @@ rsync -a --delete \
   --exclude='困りごとから探す.md' \
   --exclude='目標から探す.md' \
   --exclude='パタン名インデックス.md' \
+  --exclude='メンテナンス/旧名と現在名.md' \
   "$SRC" "$DST"
 
 # 変更があればcommitしてpush

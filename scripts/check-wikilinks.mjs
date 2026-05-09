@@ -26,6 +26,7 @@ const existing = new Set(files.map((file) => file.replace(/^content\//, "").repl
 const missing = new Map()
 const brokenMarkdownLinks = []
 const badMarkdownLinks = []
+const brokenAnchorLinks = []
 const wikilinkPattern = /\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]*)?\]\]/g
 const markdownLinkPattern = /(!?)\[[^\]]*\]\(([^)]+)\)/g
 const assetExtensions = new Set([
@@ -47,6 +48,45 @@ function isSkippableMarkdownTarget(target) {
   return assetExtensions.has(ext)
 }
 
+function slugifyHeading(heading) {
+  return heading
+    .trim()
+    .replace(/#+$/, "")
+    .trim()
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+    .replace(/`([^`]+)`/g, "$1")
+    .toLowerCase()
+    .replace(/[\s]+/g, "-")
+    .replace(/[!"#$%&'()*+,./:;<=>?@[\\\]^`{|}~、。，．・「」『』（）]/g, "")
+}
+
+const anchorsByFile = new Map(
+  files.map((file) => {
+    const text = fs.readFileSync(file, "utf8")
+    const anchors = new Set()
+    for (const line of text.split("\n")) {
+      const match = /^(#{1,6})\s+(.+?)\s*$/.exec(line)
+      if (match) anchors.add(slugifyHeading(match[2]))
+    }
+    return [file, anchors]
+  }),
+)
+
+function checkAnchor(file, raw, matchIndex, text) {
+  const fragment = raw.split("#")[1]?.split("?")[0]
+  if (!fragment) return
+
+  const decoded = decodeURIComponent(fragment)
+  const anchor = slugifyHeading(decoded)
+  if (anchorsByFile.get(file)?.has(anchor)) return
+
+  brokenAnchorLinks.push({
+    file: file.replace(/^content\//, ""),
+    line: text.slice(0, matchIndex).split("\n").length,
+    target: raw,
+  })
+}
+
 for (const file of files) {
   const text = fs.readFileSync(file, "utf8")
   for (const match of text.matchAll(wikilinkPattern)) {
@@ -62,6 +102,11 @@ for (const file of files) {
     const isImage = match[1] === "!"
     const raw = match[2].trim()
     if (isImage || isSkippableMarkdownTarget(raw)) continue
+
+    if (raw.startsWith("#")) {
+      checkAnchor(file, raw, match.index, text)
+      continue
+    }
 
     const target = raw.split("#")[0].split("?")[0]
     if (!target || target.includes(" ")) continue
@@ -86,7 +131,14 @@ for (const file of files) {
       continue
     }
 
-    if (fs.existsSync(`${resolved}.md`) || fs.existsSync(resolved) || fs.existsSync(path.join(resolved, "index.md"))) {
+    const resolvedFile = fs.existsSync(`${resolved}.md`)
+      ? `${resolved}.md`
+      : fs.existsSync(path.join(resolved, "index.md"))
+        ? path.join(resolved, "index.md")
+        : null
+
+    if (resolvedFile || fs.existsSync(resolved)) {
+      if (raw.includes("#") && resolvedFile) checkAnchor(resolvedFile, raw, match.index, text)
       continue
     }
 
@@ -103,7 +155,12 @@ const rows = [...missing.entries()].sort(
     sourcesB.size - sourcesA.size || targetA.localeCompare(targetB, "ja"),
 )
 
-if (rows.length === 0 && badMarkdownLinks.length === 0 && brokenMarkdownLinks.length === 0) {
+if (
+  rows.length === 0 &&
+  badMarkdownLinks.length === 0 &&
+  brokenMarkdownLinks.length === 0 &&
+  brokenAnchorLinks.length === 0
+) {
   console.log(`OK: checked ${files.length} Markdown files; no unresolved wikilinks or bad page links.`)
   process.exit(0)
 }
@@ -129,6 +186,14 @@ if (badMarkdownLinks.length > 0) {
 if (brokenMarkdownLinks.length > 0) {
   console.error(`\nFound ${brokenMarkdownLinks.length} unresolved Markdown page link(s):`)
   for (const link of brokenMarkdownLinks) {
+    console.error(`\n- ${link.file}:${link.line}`)
+    console.error(`  target: ${link.target}`)
+  }
+}
+
+if (brokenAnchorLinks.length > 0) {
+  console.error(`\nFound ${brokenAnchorLinks.length} unresolved Markdown anchor link(s):`)
+  for (const link of brokenAnchorLinks) {
     console.error(`\n- ${link.file}:${link.line}`)
     console.error(`  target: ${link.target}`)
   }

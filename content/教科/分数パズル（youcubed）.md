@@ -3,14 +3,22 @@ type: practice
 subject: 算数
 class: 両方
 tags: [算数, LFHC, Jo Boaler, youcubed, 分数, 面積, パズル, アンカー課題]
-updated: 2026-04-29
+updated: 2026-05-14
 source: コピー ～ Fraction Puzzles.pdf（youcubed.org）
 ---
 
 # 分数パズル（Fraction Puzzles）― youcubed 完全版
 
-**出典**: youcubed.org / Jo Boaler（CC BY-NC 4.0）  
+**出典**: [Fraction Puzzles - YouCubed](https://www.youcubed.org/tasks/fraction-puzzles/) / Jo Boaler（CC BY-NC 4.0）  
 **対象学年**: 2年生・5年生（アンカー課題として）
+
+---
+
+## 図で見る
+
+![分数パズルの見方](fraction-puzzles-visual.svg)
+
+この図は、wiki用に作成したオリジナル図解である。左の長方形では96マス中24マスが色つきなので `1/4`、右の長方形では48マス中16マスが色つきなので `1/3` になる。子どもには、先に答えを見せるというより、「何個中、何個が色つき？」「同じ分数に言い換えられる？」を話し合う材料として使う。
 
 ---
 
@@ -239,4 +247,4 @@ source: コピー ～ Fraction Puzzles.pdf（youcubed.org）
 - [[パタン/問い返しのデザイン]] — タスク中の教師の関わり方
 - [[パタン/余白をつくる]] — 自分で考える時間を守る
 
-**元ソース**: `コピー ～ Fraction Puzzles.pdf`（youcubed.org, CC BY-NC 4.0）
+**元ソース**: `コピー ～ Fraction Puzzles.pdf`（[youcubed.org Fraction Puzzles](https://www.youcubed.org/tasks/fraction-puzzles/), CC BY-NC 4.0）

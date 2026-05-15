@@ -2,6 +2,7 @@
 type: pattern
 tags: [パタン, 熟慮的動機付け, ARCSモデル, 満足感]
 updated: 2026-05-02
+source: "一つの教育のパタン・ランゲージ（岩井輝久）"
 ---
 
 # 満足感をもたらす（Satisfaction）

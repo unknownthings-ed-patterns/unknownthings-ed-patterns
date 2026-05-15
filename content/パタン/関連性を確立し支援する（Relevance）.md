@@ -2,6 +2,7 @@
 type: pattern
 tags: [パタン, 熟慮的動機付け, ARCSモデル, 関連性]
 updated: 2026-05-02
+source: "一つの教育のパタン・ランゲージ（岩井輝久）"
 ---
 
 # 関連性を確立し支援する（Relevance）

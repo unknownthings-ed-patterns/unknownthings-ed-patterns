@@ -2,6 +2,7 @@
 type: pattern
 tags: [パタン, 熟慮的動機付け, ARCSモデル, 自信]
 updated: 2026-05-02
+source: "一つの教育のパタン・ランゲージ（岩井輝久）"
 ---
 
 # 自信を構築する（Confidence）

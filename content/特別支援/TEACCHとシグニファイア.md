@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [特別支援, TEACCH, シグニファイア, 環境構造化, ノーマン]
-related: [wiki/特別支援/太田ステージ.md, wiki/特別支援/特別支援級の算数指導.md]
+related: [特別支援/太田ステージ.md, 特別支援/特別支援級の算数指導.md]
 sources: [ＴＥＡＣＣＨとシグニファイア.md]
 updated: 2026-04-29
 ---

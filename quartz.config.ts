@@ -13,7 +13,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "goatcounter",
+      websiteId: "unknownthings-ed-patterns",
     },
     locale: "ja-JP",
     baseUrl: "unknownthings-ed-patterns.github.io/unknownthings-ed-patterns",

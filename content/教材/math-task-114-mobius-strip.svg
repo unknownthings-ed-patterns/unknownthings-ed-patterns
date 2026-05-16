@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-labelledby="title desc">
+  <title id="title">普通の輪とメビウスの帯</title>
+  <desc id="desc">普通の紙の輪と、1回ひねってつないだメビウスの帯を並べ、線を引くと全面を通ることを示す。</desc>
+  <rect width="760" height="360" fill="#fbfaf7"/>
+  <text x="38" y="44" font-family="sans-serif" font-size="24" font-weight="700" fill="#2b2b2b">1回ひねるだけで、「表」と「裏」がつながる</text>
+  <g transform="translate(88 94)">
+    <ellipse cx="120" cy="80" rx="115" ry="50" fill="none" stroke="#263238" stroke-width="24" opacity=".22"/>
+    <ellipse cx="120" cy="80" rx="115" ry="50" fill="none" stroke="#263238" stroke-width="3"/>
+    <ellipse cx="120" cy="80" rx="84" ry="32" fill="none" stroke="#fbfaf7" stroke-width="28"/>
+    <path d="M18 78 C80 35 160 35 222 78" fill="none" stroke="#e76f51" stroke-width="4" stroke-dasharray="8 6"/>
+    <text x="56" y="176" font-family="sans-serif" font-size="17" fill="#333">普通の輪：片面だけ進む</text>
+  </g>
+  <g transform="translate(430 86)">
+    <path d="M20 110 C70 10 190 10 240 110 C190 205 70 205 20 110 Z" fill="#8ecae6" opacity=".45" stroke="#263238" stroke-width="3"/>
+    <path d="M20 110 C80 160 180 60 240 110" fill="none" stroke="#263238" stroke-width="3"/>
+    <path d="M35 108 C90 18 180 24 230 108" fill="none" stroke="#e76f51" stroke-width="4" stroke-dasharray="8 6"/>
+    <path d="M230 108 C175 196 80 190 35 108" fill="none" stroke="#e76f51" stroke-width="4" stroke-dasharray="8 6"/>
+    <text x="35" y="205" font-family="sans-serif" font-size="17" fill="#333">メビウスの帯：一筆で全面へ</text>
+  </g>
+  <text x="126" y="314" font-family="sans-serif" font-size="16" fill="#555">切る前に予想する。「2つになる？」という直感が揺れるところが入口。</text>
+</svg>

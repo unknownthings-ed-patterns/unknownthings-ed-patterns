@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" role="img" aria-labelledby="title desc">
+  <title id="title">折って切ると対称になる</title>
+  <desc id="desc">折った紙を切り、開くと折り目を軸に対称な形が現れる図。</desc>
+  <rect width="760" height="330" fill="#fbfaf7"/>
+  <text x="38" y="42" font-family="sans-serif" font-size="24" font-weight="700" fill="#2b2b2b">折り目は対称軸になる</text>
+  <g transform="translate(80 85)" font-family="sans-serif" font-size="16" fill="#333">
+    <g>
+      <rect width="140" height="140" fill="#8ecae6" opacity=".35" stroke="#263238" stroke-width="3"/>
+      <line x1="70" y1="0" x2="70" y2="140" stroke="#e76f51" stroke-width="4" stroke-dasharray="8 6"/>
+      <path d="M98 42 l28 20 l-28 20 z" fill="#fff" stroke="#263238" stroke-width="2"/>
+      <text x="10" y="178">折って切る</text>
+    </g>
+    <g transform="translate(290 0)">
+      <rect width="140" height="140" fill="#90be6d" opacity=".28" stroke="#263238" stroke-width="3"/>
+      <line x1="70" y1="0" x2="70" y2="140" stroke="#e76f51" stroke-width="4" stroke-dasharray="8 6"/>
+      <path d="M42 42 l-28 20 l28 20 z" fill="#fff" stroke="#263238" stroke-width="2"/>
+      <path d="M98 42 l28 20 l-28 20 z" fill="#fff" stroke="#263238" stroke-width="2"/>
+      <text x="20" y="178">開くと左右対称</text>
+    </g>
+    <path d="M175 72h80" stroke="#555" stroke-width="3" marker-end="url(#arrow)"/>
+  </g>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#555"/></marker></defs>
+  <text x="525" y="150" font-family="sans-serif" font-size="18" fill="#555">予想してから開くと、<tspan x="525" dy="28">折り目と鏡映しの関係が見える。</tspan></text>
+</svg>

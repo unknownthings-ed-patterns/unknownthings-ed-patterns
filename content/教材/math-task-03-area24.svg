@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-labelledby="title desc">
+  <title id="title">面積24の長方形</title>
+  <desc id="desc">面積24平方センチメートルの長方形を因数ペアとして並べる模式図。</desc>
+  <rect width="760" height="360" fill="#fbfaf7"/>
+  <text x="38" y="42" font-family="sans-serif" font-size="24" font-weight="700" fill="#2b2b2b">面積24cm²の長方形はどれ？</text>
+  <g font-family="sans-serif" font-size="16" fill="#333" stroke="#3d405b" stroke-width="2">
+    <g transform="translate(50 88)">
+      <rect width="240" height="14" fill="#8ecae6" opacity=".75"/>
+      <text x="0" y="42" stroke="none">1×24</text>
+    </g>
+    <g transform="translate(50 155)">
+      <rect width="180" height="30" fill="#90be6d" opacity=".72"/>
+      <text x="0" y="58" stroke="none">2×12</text>
+    </g>
+    <g transform="translate(360 88)">
+      <rect width="160" height="45" fill="#ffd166" opacity=".75"/>
+      <text x="0" y="72" stroke="none">3×8</text>
+    </g>
+    <g transform="translate(360 188)">
+      <rect width="120" height="80" fill="#f28482" opacity=".68"/>
+      <text x="0" y="108" stroke="none">4×6</text>
+    </g>
+  </g>
+  <g font-family="sans-serif" font-size="18" fill="#333">
+    <text x="560" y="118">縦×横=24</text>
+    <text x="560" y="152">1×24</text>
+    <text x="560" y="180">2×12</text>
+    <text x="560" y="208">3×8</text>
+    <text x="560" y="236">4×6</text>
+  </g>
+  <text x="50" y="322" font-family="sans-serif" font-size="16" fill="#555">同じ面積でも、形が細長いほど周は長くなり、正方形に近いほど短くなる。</text>
+</svg>

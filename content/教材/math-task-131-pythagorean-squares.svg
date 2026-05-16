@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" role="img" aria-labelledby="title desc">
+  <title id="title">直角三角形の3辺に正方形を描く</title>
+  <desc id="desc">3、4、5の直角三角形の各辺に正方形を描き、9と16の面積の和が25になることを示す図。</desc>
+  <rect width="760" height="420" fill="#fbfaf7"/>
+  <text x="38" y="44" font-family="sans-serif" font-size="24" font-weight="700" fill="#2b2b2b">小さい2つの正方形の面積を足すと、大きい正方形</text>
+  <g transform="translate(210 92)" stroke="#263238" stroke-width="3">
+    <polygon points="0,180 240,180 0,0" fill="#fff" stroke="#263238"/>
+    <polygon points="-120,180 0,180 0,0 -120,0" fill="#8ecae6" opacity=".45"/>
+    <polygon points="0,180 240,180 240,300 0,300" fill="#90be6d" opacity=".45"/>
+    <polygon points="0,0 240,180 420,-60 180,-240" fill="#ffd166" opacity=".65"/>
+    <g font-family="sans-serif" font-size="22" font-weight="700" fill="#333" text-anchor="middle" stroke="none">
+      <text x="-60" y="96">3²=9</text>
+      <text x="120" y="252">4²=16</text>
+      <text x="210" y="-36">5²=25</text>
+    </g>
+    <g font-family="sans-serif" font-size="16" fill="#333" stroke="none">
+      <text x="-24" y="92">3</text><text x="118" y="202">4</text><text x="130" y="88">5</text>
+    </g>
+  </g>
+  <text x="250" y="382" font-family="sans-serif" font-size="18" fill="#333">9 + 16 = 25。面積の関係が、辺の関係を語っている。</text>
+</svg>

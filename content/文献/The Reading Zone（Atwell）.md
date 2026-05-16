@@ -1,15 +1,18 @@
 ---
 type: literature
-title: "The Reading Zone: How to Help Kids Become Skilled, Passionate, Habitual, Critical Readers"
-author: Nancie Atwell
-year: 2007
+title: "The Reading Zone: How to Help Kids Become Passionate, Skilled, Habitual, Critical Readers (Second Edition)"
+author: "Nancie Atwell, Anne Atwell Merkel"
+year: 2016
 tags: [文献, リーディングワークショップ, 読書指導, 国語, 没入読書, リーディング・ゾーン]
 ingested: 2026-05-13
+reintegrated: 2026-05-17
 ---
 
-# The Reading Zone（Atwell）
+# The Reading Zone（Atwell & Atwell Merkel, 2016）
 
-> 読書家は作られる——「ゾーン」に入る体験を繰り返すことで、子どもは熟練した・情熱的・習慣的・批評的な読書家になる。
+> 読書家は作られる——「ゾーン」に入る体験を繰り返すことで、子どもは情熱的・熟練した・習慣的・批評的な読書家になる。
+
+Atwell, N., & Atwell Merkel, A. (2016). *The Reading Zone: How to Help Kids Become Passionate, Skilled, Habitual, Critical Readers* (2nd ed.). Scholastic. ISBN 978-1-338-15830-4 (Foreword by Shelley Harwayne; portions from 1st ed. © 2007 by Nancie Atwell)
 
 ---
 
@@ -25,6 +28,10 @@ ingested: 2026-05-13
 - **夜の読書（At-Home Reading）**：毎晩最低30〜60分の家庭読書。学校での読む時間と家庭読書の両輪で読書量と読書力が育つ
 - **ジャンル知識**：複数のジャンルを経験することで、読者としてのレパートリーが広がる。ジャンル別のブック・トーク・ミニレッスンが選書の幅を拡げる
 - **書評（Book Reviews）**：読んだ本を他の読者のために評価・紹介する文章。クラス全体の選書ガイドブックになる
+
+---
+
+**第2版（2016）の特徴**：初版（2007、Nancie Atwell 単著）からの更新版。Anne Atwell Merkel（Atwell の娘・共同教師）が共著者として加わり、センター・フォー・ティーチング・アンド・ラーニング（CTL）での最新実践が反映されている。Foreword by Shelley Harwayne。
 
 ---
 
@@ -88,6 +95,14 @@ ingested: 2026-05-13
 - 教師が読む時間をどう確保するか（カンファランス中心の授業との両立）
 - 「ゾーン」体験のない学習者に対して、最初のゾーン体験をどう作るか
 - 家庭読書の習慣がない子にどうアプローチするか
+
+---
+
+## 出典
+
+Atwell, N., & Atwell Merkel, A. (2016). *The Reading Zone: How to Help Kids Become Passionate, Skilled, Habitual, Critical Readers* (2nd ed.). Scholastic. ISBN 978-1-338-15830-4
+
+（初版: Atwell, N. (2007). *The Reading Zone.* Scholastic.）
 
 ---
 

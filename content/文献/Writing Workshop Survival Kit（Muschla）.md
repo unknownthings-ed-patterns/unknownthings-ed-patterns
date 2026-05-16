@@ -2,16 +2,16 @@
 type: literature
 title: "Writing Workshop Survival Kit"
 author: "Gary Robert Muschla"
-year: 2005
+year: 2006
 tags: [文献, 国語, 作文指導, ライティングワークショップ, ミニレッスン, 中高学年, クラフト, ジャンル, メカニクス]
 ingested: 2026-05-14
 ---
 
-# Writing Workshop Survival Kit（Muschla）
+# Writing Workshop Survival Kit（Muschla, 2006）
 
 ## 要約
 
-**核心**：ライティング・ワークショップを5〜12年生で実装するための実践ハンドブック。100本以上のミニレッスンを「作文タイプ・技芸・メカニクス」の3層に整理し、日本の作文指導が最も手薄な「技芸（Art of Writing）」層——書き出し・イメージ・視点・声・文体——を体系的に教える枠組みを提供する。
+**核心**：ライティング・ワークショップを5〜12年生で実装するための実践ハンドブック（第2版）。100本のミニレッスンを「作文タイプ・技芸・メカニクス」の3層に整理し、日本の作文指導が最も手薄な「技芸（Art of Writing）」層——書き出し・イメージ・視点・声・文体——を体系的に教える枠組みを提供する。
 
 - **ライティング・ワークショップの基盤（Part I: Foundations）**：物理的な環境設計（フォルダ・ノートブック・材料の管理）・日常ルーティンの確立・「作家として書く」という文化の作り方を実践的に解説する
 - **編集と出版（Part II: Editing and Publishing）**：推敲（Revising）と編集（Editing）を区別する——推敲は「内容・構造の改善」、編集は「表記・文法の修正」。この区別がないと、子どもたちは提出前に誤字を直すだけで「推敲した」と思う。Publishing（出版・発表）が書く動機を具体化する
@@ -66,4 +66,4 @@ ingested: 2026-05-14
 
 ## 出典
 
-Muschla, G. R. (2005). *Writing Workshop Survival Kit* (2nd ed.). Jossey-Bass (J-B Ed: Survival Guides, Book 166).
+Muschla, G. R. (2006). *Writing Workshop Survival Kit* (2nd ed.). Jossey-Bass (J-B Ed: Survival Guides, Book 166).

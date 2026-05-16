@@ -9,7 +9,7 @@ ingested: 2026-05-15
 
 # Practice with Purpose（Diller, 2005）
 
-Diller, D. (2005). *Practice with Purpose: Literacy Work Stations for Grades 3-6*. Stenhouse Publishers.
+Diller, D. (2005). *Practice with Purpose: Literacy Work Stations for Grades 3-6*. Stenhouse Publishers / Pembroke Publishers. ISBN 1-57110-395-3
 
 著者は40年以上の小学校教師経験を持つリテラシーコンサルタント。Title I 読書専門家、リテラシーコーチを経て教育コンサルタントとして活動。*Literacy Work Stations: Making Centers Work*（K-2対象）の成功を受け、中学年（3〜6年生）の教室での実装を体系化したのが本書。
 

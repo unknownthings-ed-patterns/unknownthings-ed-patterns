@@ -2,14 +2,15 @@
 type: literature
 title: "The Teacher's Guide to Inclusive Education: 750 Strategies for Success!"
 author: "Peggy A. Hammeken"
-year: 2003
+year: 2007
 tags: [文献, 特別支援, インクルーシブ教育, 授業設計, 環境調整, ユニバーサルデザイン]
 ingested: 2026-05-15
+reintegrated: 2026-05-17
 ---
 
-# The Teacher's Guide to Inclusive Education（Hammeken, 2003）
+# The Teacher's Guide to Inclusive Education（Hammeken, 2007）
 
-Hammeken, P. A. (2003). *The Teacher's Guide to Inclusive Education: 750 Strategies for Success!* Peytral Publications / Corwin Press.
+Hammeken, P. A. (2007). *The Teacher's Guide to Inclusive Education: 750 Strategies for Success!* Corwin Press. ISBN 978-1-890455-10-1
 
 著者はミネソタ州の公立小学校で学習障害・知的障害・情緒行動障害のある子どもを担当した特別支援教員。インクルーシブ教育プログラムの立ち上げと教員研修に関わった後、Peytral Publications（インクルーシブ教育専門の出版社）を設立。
 

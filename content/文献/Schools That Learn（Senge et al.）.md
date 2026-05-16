@@ -2,14 +2,15 @@
 type: literature
 title: "Schools That Learn: A Fifth Discipline Fieldbook for Educators, Parents, and Everyone Who Cares About Education"
 author: "Peter Senge, Nelda Cambron-McCabe, Timothy Lucas, Bryan Smith, Janis Dutton, Art Kleiner"
-year: 2000/2012
+year: 2012
+reintegrated: 2026-05-17
 tags: [文献, 学習組織, システム思考, 学校改革, 組織学習]
 ingested: 2026-05-14
 ---
 
 # Schools That Learn（Senge et al., 2000/2012）
 
-Senge, P., Cambron-McCabe, N., Lucas, T., Smith, B., Dutton, J., & Kleiner, A. (2000/2012). *Schools That Learn: A Fifth Discipline Fieldbook for Educators, Parents, and Everyone Who Cares About Education* (Updated and Revised ed.). Crown Currency.
+Senge, P., Cambron-McCabe, N., Lucas, T., Smith, B., Dutton, J., & Kleiner, A. (2012). *Schools That Learn: A Fifth Discipline Fieldbook for Educators, Parents, and Everyone Who Cares About Education* (Updated and Revised ed.). Crown Business. (Original work published 2000)
 
 ---
 

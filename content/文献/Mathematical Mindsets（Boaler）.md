@@ -2,12 +2,13 @@
 type: literature
 title: "Mathematical Mindsets: Unleashing Students' Potential Through Creative Math, Inspiring Messages and Innovative Teaching"
 author: Jo Boaler
-year: 2015
+year: 2016
 tags: [文献, 算数, 数学的マインドセット, 成長マインドセット, 数感覚]
 ingested: 2026-05-08
+reintegrated: 2026-05-17
 ---
 
-# Mathematical Mindsets（Boaler, 2015）
+# Mathematical Mindsets（Boaler, 2016）
 
 > 「数学の能力を持って生まれてくる人はいない。数学を学ぶ能力を欠いたまま生まれてくる人もいない」——Jo Boaler
 
@@ -66,6 +67,6 @@ ingested: 2026-05-08
 
 ## 出典
 
-Boaler, J. (2015). *Mathematical Mindsets: Unleashing Students' Potential Through Creative Math, Inspiring Messages and Innovative Teaching*. Jossey-Bass.
+Boaler, J. (2016). *Mathematical Mindsets: Unleashing Students' Potential Through Creative Math, Inspiring Messages and Innovative Teaching*. Jossey-Bass (A Wiley Brand).
 
 youcubed.org（Stanford University）— 関連資料・ビデオ・タスク集

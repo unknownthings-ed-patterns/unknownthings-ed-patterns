@@ -9,7 +9,7 @@ ingested: 2026-05-15
 
 # Igniting a Passion for Reading（Layne, 2009）
 
-Layne, S. L.（2009）*Igniting a Passion for Reading: Successful Strategies for Building Lifetime Readers*. Stenhouse Publishers.
+Layne, S. L. (2009). *Igniting a Passion for Reading: Successful Strategies for Building Lifetime Readers*. Stenhouse Publishers. ISBN 978-1-57110-385-7 (Foreword by Gail Boushey and Joan Moser, "The 2 Sisters")
 
 ---
 

@@ -9,7 +9,7 @@ ingested: 2026-05-15
 
 # Teaching for Deep Comprehension（Dorn & Soffos, 2005）
 
-Dorn, L. J., & Soffos, C. (2005). *Teaching for Deep Comprehension: A Reading Workshop Approach*. Stenhouse Publishers.（付属DVD：85分の授業映像——1年生・4年生のリーディング・ワークショップと文学討論グループ）
+Dorn, L. J., & Soffos, C. (2005). *Teaching for Deep Comprehension: A Reading Workshop Approach*. Stenhouse Publishers. ISBN 1-57110-403-8 (Foreword by Carol A. Lyons; 付属DVD：85分の授業映像——1年生・4年生のリーディング・ワークショップと文学討論グループ)
 
 Linda J. Dorn はアーカンソー大学リトルロック校リテラシー・センター所長。Reading Recovery の理論的基盤を持つ「包括的リテラシー（Comprehensive Literacy）」モデルの主要開発者。Carla Soffos はリテラシー・コーチ。本書はリーディング・ワークショップの理論と「深い理解（Deep Comprehension）」の実践を接続する。
 

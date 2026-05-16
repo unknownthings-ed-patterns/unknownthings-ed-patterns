@@ -261,3 +261,9 @@ title: 教育パタン・ランゲージ Wiki
 
 [主要パタン名インデックスを見る](./パタン名インデックス)  
 [全パタン一覧を見る](./全パタン一覧)
+
+## フィードバック
+
+感想・コメントをお気軽にどうぞ。
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc9yJU3O2oWrO4yhRzJuqs0r-T42FYQf71Rv1sxj6vGVj7nYQ/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>

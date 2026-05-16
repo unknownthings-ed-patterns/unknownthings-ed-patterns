@@ -3,7 +3,7 @@ type: practice
 subject: 算数
 class: 両方
 tags: [算数, LFHC, Jo Boaler, youcubed, 分数, 面積, パズル, アンカー課題]
-updated: 2026-05-14
+updated: 2026-05-16
 source: コピー ～ Fraction Puzzles.pdf（youcubed.org）
 ---
 
@@ -243,6 +243,7 @@ source: コピー ～ Fraction Puzzles.pdf（youcubed.org）
 
 - [[教科/LowFloorHighCeilingタスク集]] — 他のLFHCタスク
 - [[教科/算数]] — 算数指導の全体像
+- [[教材/算数シンキング・タスク集]] — 分数・面積・視覚的数学の関連タスク
 - [[特別支援/特別支援級の算数指導]] — アンカー課題の文脈
 - [[パタン/問い返しのデザイン]] — タスク中の教師の関わり方
 - [[パタン/余白をつくる]] — 自分で考える時間を守る

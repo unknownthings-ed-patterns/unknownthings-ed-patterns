@@ -7,7 +7,7 @@ DST="/Users/iwaiteruhisa/quartz/content/"
 rsync -a --delete \
   --exclude='.obsidian' \
   --exclude='.DS_Store' \
-  --exclude='index.md' \
+  --exclude='/index.md' \
   --exclude='困りごとから探す.md' \
   --exclude='目標から探す.md' \
   --exclude='パタン名インデックス.md' \

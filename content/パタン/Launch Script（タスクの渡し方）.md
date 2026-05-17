@@ -71,15 +71,58 @@ Liljedahl & Giroux（2024）は、BTC14実践のうち「タスクの渡し方�
 
 ---
 
-### Launch Scriptの例：Task 12「パーティーのテーブル」（Tables at a Party）
+### Launch Scriptの例：OCRから確認した実際の台本
 
-Liljedahl & Giroux（2024）のTask 12（非カリキュラム）は、次のようなLaunch Scriptを持つ：
+**Task 1「Hexagon Havoc（六角形の大騒ぎ）」（K-2年、非カリキュラム）：**
+
+> 「I want you to take one of these yellow hexagons and divide it into smaller shapes using these other pattern blocks. How many different ways can you do it?」
+
+（日本語版）「この黄色い六角形を、他のパターンブロックを使って小さな形に分けてみてください。何通りの分け方ができますか？」
+
+グループに六角形ブロック1枚と各種パターンブロックを渡すだけ。説明なし、ヒントなし。
+
+---
+
+**Task 2「Next Door Numbers（隣の数）」（K-2年、非カリキュラム）：**
+
+> 「I want you to choose two numbers that are next to each other. Add them together. What do you notice?」
+
+（日本語版）「隣り合った2つの数を選んで足してみてください。何か気づくことがありますか？」
+
+小さな数から始めて、パターンを発見させる。「隣り合った」の意味は最初は自分で解釈させる。
+
+---
+
+**Task 8「Carnival Conundrum（カーニバルの謎）」（2-4年、非カリキュラム）：**
+
+> 「At the school carnival, there is a game where you drop a ball at the top and try to get it into a cup at the bottom. The balls can go left or right at each peg. Can you figure out where to drop the ball to make it go into a specific cup?」
+
+（日本語版）「学校のカーニバルに、上からボールを落として下のカップに入れるゲームがあります。ボールは各くぎで左か右に行きます。特定のカップに入れるには、どこからボールを落とせばいい？」
+
+三角形のペグボードの図を渡す。ヒントは一切なし。
+
+---
+
+**Task 12「Tables at a Party（パーティーのテーブル）」（2-5年、非カリキュラム）：**
+
+Liljedahl & Giroux（2024）のTask 12は、次のようなLaunch Scriptを持つ：
 
 > 「テーブルが1つあって、4人が座れます。テーブルを2つつなげると、6人座れます。テーブルを増やしていったとき、何人座れるか調べてください。」
 
 これだけである。ヒントなし、手順なし、図なし。Mildの「まず3つのとき」という始めの一手だけが付いている。
 
 子どもは「4、6、…何かパターンがある？」「テーブルの並べ方が変わったらどう？」と自分で問いを広げていく。
+
+---
+
+### 「消防士的アプローチ」（Firefighter Approach）
+
+Liljedahl & Giroux（2024）が特に強調するのは、**教師がグループをまわるタイミングと方法**。子どもが困り始めたら「消防士のように素早く動いて助けに行く」のではなく、「困っていることを見届けてから最低限のことだけを言う」姿勢。
+
+- **最初の5分は教室の前に立っている**——子どもが「先生に聞けば教えてくれる」と思わないように
+- **最初の接触は質問だけ**——「何が分かってる？」「どこまでやった？」を先に聞く
+- **ヒントを出すなら2種類を区別する**：①入口を下げる（「まずこっちだけ」）か、②能力を上げる（「この方法を知ってる？」）か
+- **全員が立って書いているか確認する**——座ったまま・ノートに書いている子に「ホワイトボード（黒板）に書いてみて」と促す
 
 ---
 

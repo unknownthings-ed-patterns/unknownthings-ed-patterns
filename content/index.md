@@ -161,6 +161,7 @@ title: 教育パタン・ランゲージ Wiki
 | [[パタン/RIPモデル]] | 読書会議をReview・Instruction・Planの3段階構造で設計する |
 | [[パタン/推論する（インファリング）]] | テキストに書かれていないことを既知の知識と手がかりから考える |
 | [[パタン/読みとつながる]] | 自分の経験・他の本・世界とつなぐことで読解を深める |
+| [[パタン/会話から問いを引き上げる（Lifting a Prompt）]] | クラスの対話から有機的に生まれた問いをノートエントリーへ移す——事前設計でなく子どもの声が問いになる（Buckner, 2009） |
 | [[パタン/問いをもつ（クエスチョニング）]] | Thin/Thick Questions・Wonder Wall・I Wonder→I Think で問いを能動的関与の核にする（Harvey & Goudvis, 2007） |
 | [[パタン/重要性の見極め]] | 「面白い」vs「重要」の区別・ノンフィクション特徴の活用・教室の80%問題（Harvey & Goudvis, 2007） |
 | [[パタン/統合する（シンセサイジング）]] | Summary≠Synthesis・Reading changes thinking・CPC フォームで思考の進化を記録する（Harvey & Goudvis, 2007） |

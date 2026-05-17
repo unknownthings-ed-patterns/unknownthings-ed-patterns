@@ -1,5 +1,25 @@
 # Wiki 操作ログ
 
+## [2026-05-17] cross-link | Mathematical Mindsets 再統合：パタン間ネットワーク補完
+
+**完了した作業：**
+
+**ナンバートーク：[Pattern Connection] 追加**
+- 数学的直観（mathematical intuition）の神経科学的根拠を追記
+- ナンバートークを公平性の実践として位置づけ（Ch.9）
+- 数学のクラス規範・算数の公平性・視覚的数学へのリンクを追加
+
+**豊かな課題：5C エンゲージメントと逆リンク追加**
+- Boaler（2016, Ch.5）の 5C（Curiosity・Connection Making・Challenge・Creativity・Collaboration）を拡張点に追記
+- 複雑指導（Complex Instruction）・脱トラッキング（De-tracking）へ相互リンク追加
+- 関連パタンにも両パタンを追記
+
+**形成的評価：A4L への接続リンク追加**
+- 関連パタンに [[パタン/学習のための評価（A4L）]] を追加
+- Black & Wiliam 根拠の汎用パタンと Boaler の算数固有実装を接続
+
+---
+
 ## [2026-05-17] integrate-complete | Mathematical Mindsets（Boaler）全9章の再統合
 
 **完了した作業：**

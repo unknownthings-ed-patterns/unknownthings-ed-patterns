@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-labelledby="title desc">
+  <title id="title">円を細かい扇形に切って並べ替える</title>
+  <desc id="desc">円を扇形に分け、交互に並べると長方形に近い形になることを示す模式図。</desc>
+  <rect width="760" height="360" fill="#fbfaf7"/>
+  <text x="38" y="44" font-family="sans-serif" font-size="24" font-weight="700" fill="#2b2b2b">細かく切って並べると、円は長方形に近づく</text>
+  <g transform="translate(105 104)">
+    <circle cx="75" cy="75" r="75" fill="#8ecae6" opacity=".52" stroke="#263238" stroke-width="3"/>
+    <g stroke="#263238" stroke-width="1.5" opacity=".75">
+      <line x1="75" y1="75" x2="150" y2="75"/>
+      <line x1="75" y1="75" x2="128" y2="22"/>
+      <line x1="75" y1="75" x2="75" y2="0"/>
+      <line x1="75" y1="75" x2="22" y2="22"/>
+      <line x1="75" y1="75" x2="0" y2="75"/>
+      <line x1="75" y1="75" x2="22" y2="128"/>
+      <line x1="75" y1="75" x2="75" y2="150"/>
+      <line x1="75" y1="75" x2="128" y2="128"/>
+    </g>
+    <text x="28" y="185" font-family="sans-serif" font-size="16" fill="#333">円を扇形に分ける</text>
+  </g>
+  <path d="M300 180h86" stroke="#555" stroke-width="3" marker-end="url(#arrow)"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#555"/></marker>
+  </defs>
+  <g transform="translate(430 112)">
+    <path d="M0 58 Q24 8 48 58 T96 58 T144 58 T192 58 T240 58 L240 128 Q216 78 192 128 T144 128 T96 128 T48 128 T0 128 Z" fill="#90be6d" opacity=".5" stroke="#263238" stroke-width="3"/>
+    <line x1="0" y1="128" x2="240" y2="128" stroke="#263238" stroke-width="2"/>
+    <line x1="0" y1="58" x2="0" y2="128" stroke="#e76f51" stroke-width="3"/>
+    <text x="-12" y="100" font-family="sans-serif" font-size="16" fill="#e76f51">r</text>
+    <text x="88" y="158" font-family="sans-serif" font-size="16" fill="#333">横は円周の半分 ≒ πr</text>
+  </g>
+  <text x="92" y="318" font-family="sans-serif" font-size="16" fill="#555">縦が半径 r、横が円周の半分 πr に近づくので、面積は r×πr = πr²。</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-labelledby="title desc">
+  <title id="title">ケーニヒスベルクの橋を点と線にする</title>
+  <desc id="desc">橋の地図を、土地を点、橋を線とするグラフに置き換え、各点につながる線の本数を数える図。</desc>
+  <rect width="760" height="360" fill="#fbfaf7"/>
+  <text x="38" y="44" font-family="sans-serif" font-size="24" font-weight="700" fill="#2b2b2b">地図を「点と線」に変えると、本質が見える</text>
+  <g transform="translate(110 82)" stroke="#263238" stroke-width="4" fill="none">
+    <rect x="0" y="0" width="170" height="210" rx="12" fill="#e9f5db" opacity=".75"/>
+    <rect x="250" y="0" width="170" height="210" rx="12" fill="#e9f5db" opacity=".75"/>
+    <ellipse cx="210" cy="75" rx="58" ry="42" fill="#8ecae6" opacity=".45"/>
+    <ellipse cx="210" cy="155" rx="58" ry="42" fill="#8ecae6" opacity=".45"/>
+    <g stroke="#e76f51" stroke-width="5">
+      <path d="M170 45 C185 45 195 45 210 45"/>
+      <path d="M170 105 C185 105 195 105 210 105"/>
+      <path d="M250 45 C235 45 225 45 210 45"/>
+      <path d="M250 105 C235 105 225 105 210 105"/>
+      <path d="M170 168 C185 168 195 168 210 168"/>
+      <path d="M250 168 C235 168 225 168 210 168"/>
+      <path d="M210 116 C210 126 210 136 210 146"/>
+    </g>
+    <text x="76" y="238" font-family="sans-serif" font-size="16" fill="#333" stroke="none">橋の地図</text>
+  </g>
+  <path d="M560 184m-130 0h-54" stroke="#555" stroke-width="3" marker-end="url(#arrow)"/>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#555"/></marker></defs>
+  <g transform="translate(560 82)" stroke="#263238" stroke-width="4" fill="none">
+    <path d="M0 105 C50 20 120 20 170 105"/>
+    <path d="M0 105 C50 190 120 190 170 105"/>
+    <path d="M0 105 C44 80 126 80 170 105"/>
+    <path d="M0 105 C44 130 126 130 170 105"/>
+    <path d="M85 35V175"/>
+    <path d="M0 105H85"/>
+    <path d="M85 175H170"/>
+    <g fill="#e76f51" stroke="#fff" stroke-width="2">
+      <circle cx="0" cy="105" r="13"/><circle cx="170" cy="105" r="13"/><circle cx="85" cy="35" r="13"/><circle cx="85" cy="175" r="13"/>
+    </g>
+    <g font-family="sans-serif" font-size="15" fill="#333" stroke="none" text-anchor="middle">
+      <text x="0" y="138">奇数</text><text x="170" y="138">奇数</text><text x="85" y="24">奇数</text><text x="85" y="210">奇数</text>
+      <text x="82" y="238">奇数の点が4つ → 一筆書きできない</text>
+    </g>
+  </g>
+</svg>

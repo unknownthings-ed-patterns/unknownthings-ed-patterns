@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-labelledby="title desc">
+  <title id="title">ハノイの塔の初期状態と再帰構造</title>
+  <desc id="desc">3本の棒と3枚の円盤を示し、上の2枚を中間へ移してから最大の円盤を右へ動かす考え方を表す。</desc>
+  <rect width="760" height="360" fill="#fbfaf7"/>
+  <text x="38" y="44" font-family="sans-serif" font-size="24" font-weight="700" fill="#2b2b2b">大きい円盤を動かすには、上の円盤を先にどける</text>
+  <g transform="translate(80 95)" stroke="#263238" stroke-width="3" fill="none">
+    <line x1="0" y1="180" x2="600" y2="180"/>
+    <line x1="100" y1="180" x2="100" y2="20"/><line x1="300" y1="180" x2="300" y2="20"/><line x1="500" y1="180" x2="500" y2="20"/>
+    <g stroke="#263238" stroke-width="2">
+      <rect x="35" y="145" width="130" height="26" rx="13" fill="#e76f51" opacity=".75"/>
+      <rect x="52" y="113" width="96" height="26" rx="13" fill="#ffd166" opacity=".9"/>
+      <rect x="68" y="81" width="64" height="26" rx="13" fill="#8ecae6" opacity=".9"/>
+    </g>
+    <path d="M130 75 C210 0 265 0 286 82" stroke="#2a9d8f" stroke-width="4" marker-end="url(#arrow)"/>
+    <path d="M98 173 C238 236 410 236 500 173" stroke="#e76f51" stroke-width="4" marker-end="url(#arrow2)"/>
+    <g font-family="sans-serif" font-size="16" fill="#333" stroke="none" text-anchor="middle">
+      <text x="100" y="214">出発</text><text x="300" y="214">中間</text><text x="500" y="214">ゴール</text>
+      <text x="300" y="58" fill="#2a9d8f">上の2枚を中間へ</text>
+      <text x="380" y="250" fill="#e76f51">最後に大きい円盤</text>
+    </g>
+  </g>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2a9d8f"/></marker>
+    <marker id="arrow2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#e76f51"/></marker>
+  </defs>
+  <text x="116" y="326" font-family="sans-serif" font-size="16" fill="#555">3枚は7手。n枚の問題は、n-1枚の問題を2回使って解く。</text>
+</svg>

@@ -5,6 +5,7 @@ author: Pedagogical Patterns Editorial Board（Joseph Bergin ほか）
 year: 2012
 tags: [文献, パタン・ランゲージ, 教授法, 経験学習, アクティブラーニング]
 ingested: 2026-05-09
+reintegrated: 2026-05-19
 ---
 
 # Pedagogical Patterns: Advice For Educators（Berginほか）
@@ -22,6 +23,32 @@ ingested: 2026-05-09
 - **フィードバック**パタン群：Feedback Sandwich、Differentiated Feedback、Peer Feedbackなど、フィードバックの質・量・タイミングに関する精緻なパタン体系を持つ。
 - ライセンスはCC BY-SA 3.0（2012年）。CS教育のコンテクストで書かれているが、初等・中等教育にも転用可能な普遍的原則を多く含む。
 
+## パタン全体マップ（2026-05-19 全文照合完了）
+
+本書の86パタンを「真の不変項（\*\*）」と「方向性正しい（\*）」に区別。以下は**Wikiに統合済みの** \*\* パタン一覧。
+
+| 原書パタン名 | Wikiパタン | カテゴリ |
+|---|---|---|
+| See Before Hear | [[パタン/見てから聞く]] | 経験学習 |
+| Built-In Failure | [[パタン/失敗を組み込む]] | 経験学習 |
+| Solution Before Abstraction | [[パタン/解決から抽象へ]] | 経験学習 |
+| Spiral | [[パタン/スパイラル学習]] | 多様な視点 |
+| Groups Work | [[パタン/グループ学習]] | 能動的学習 |
+| Honor Questions | [[パタン/問いを大切にする]] | フィードバック |
+| Invisible Teacher | [[パタン/非可視の教師]] | フィードバック |
+| Reflection | [[パタン/省察]] | 多様な視点 |
+| Gold Star | [[パタン/ゴールドスター]] | フィードバック |
+| Early Warning | [[パタン/早期警告]] | フィードバック |
+| Embrace Correction | [[パタン/修正を受け入れる]] | フィードバック |
+| Challenge Understanding | [[パタン/チャレンジ理解]] | フィードバック |
+| Consistent Metaphor | [[パタン/一貫したメタファー]] | 多様な視点 |
+| Explore For Yourself | [[パタン/自分で探求する]] | 能動的学習・多様な視点 |
+| Own Words | [[パタン/自分の言葉で]] | フィードバック |
+| Key Ideas Dominate Grading | [[パタン/主要概念で評価する]] | フィードバック |
+| Peer Feedback | [[パタン/ピアフィードバック]] | フィードバック |
+| Feedback Sandwich | [[パタン/サンドウィッチフィードバック]] | フィードバック |
+| Different Exercise Levels | [[パタン/多様な演習レベル]] | 能動的学習 |
+
 ## 重要な引用
 
 > "It doesn't matter what I do. It only matters what my students do."
@@ -30,11 +57,14 @@ ingested: 2026-05-09
 > "Learning comes from experience, and much useful experience comes from failure."
 > ——Built-In Failure パタンより
 
-> "If students don't actively engage the material, they won't retain it. They need to write and they need to 'do.'"
-> ——Active Student パタンより
+> "Therefore, motivate the participants to ask questions, by ensuring that there are no stupid questions... Always honor questions more than bright answers."
+> ——Honor Questions パタンより
 
-> "Your real job is to turn them into builders of new information structures so they will be able to solve the problems of their days."
-> ——Active Student パタンより
+> "Therefore, make the participants the focal point of the course. If a problem occurs direct them to their peers."
+> ——Invisible Teacher パタンより
+
+> "Note that peer feedback has value both for the one giving and the one receiving the feedback, but perhaps more for the giver."
+> ——Peer Feedback パタンより
 
 ## 教育実践への示唆
 
@@ -45,15 +75,29 @@ ingested: 2026-05-09
 
 ## 関連するWikiページ
 
-- [[パタン/能動的関与]] — Active Student の日本語実装。本書の統合後に大幅更新済み。
-- [[パタン/見てから聞く]] — See Before Hear パタン（本書より新規作成）
-- [[パタン/失敗を組み込む]] — Built-In Failure パタン（本書より新規作成）
-- [[パタン/解決から抽象へ]] — Solution Before Abstraction パタン（本書より新規作成）
-- [[パタン/スパイラル学習]] — Spiral パタン（本書より新規作成）
-- [[パタン/多様な演習レベル]] — Different Exercise Levels パタン（本書より新規作成）
-- [[パタン/具体から抽象へ]] — 関連パタン（Solution Before Abstraction と比較）
-- [[パタン/経験から出発すること]] — See Before Hear と相補的
-- [[概念/動機付け]] — Active Student のモチベーション理論的背景
+**初回統合（2026-05-09）:**
+- [[パタン/能動的関与]] — Active Student の日本語実装（Pattern Connection追加済み）
+- [[パタン/見てから聞く]] — See Before Hear **
+- [[パタン/失敗を組み込む]] — Built-In Failure **
+- [[パタン/解決から抽象へ]] — Solution Before Abstraction *
+- [[パタン/スパイラル学習]] — Spiral **
+- [[パタン/多様な演習レベル]] — Different Exercise Levels *
+- [[パタン/ピアフィードバック]] — Peer Feedback **（Pattern Connection追加済み）
+- [[パタン/サンドウィッチフィードバック]] — Feedback Sandwich **（Pattern Connection追加済み）
+
+**再統合（2026-05-19）— 新規作成パタン:**
+- [[パタン/グループ学習]] — Groups Work **
+- [[パタン/問いを大切にする]] — Honor Questions **
+- [[パタン/非可視の教師]] — Invisible Teacher **
+- [[パタン/省察]] — Reflection **
+- [[パタン/ゴールドスター]] — Gold Star **
+- [[パタン/早期警告]] — Early Warning **
+- [[パタン/修正を受け入れる]] — Embrace Correction **
+- [[パタン/チャレンジ理解]] — Challenge Understanding **
+- [[パタン/一貫したメタファー]] — Consistent Metaphor **
+- [[パタン/自分で探求する]] — Explore For Yourself **
+- [[パタン/自分の言葉で]] — Own Words **
+- [[パタン/主要概念で評価する]] — Key Ideas Dominate Grading **
 
 ## 展開したい問い
 

@@ -48,6 +48,12 @@ reintegrated: 2026-05-19
 | Peer Feedback | [[パタン/ピアフィードバック]] | フィードバック |
 | Feedback Sandwich | [[パタン/サンドウィッチフィードバック]] | フィードバック |
 | Different Exercise Levels | [[パタン/多様な演習レベル]] | 能動的学習 |
+| Nobody Is Perfect | [[パタン/誰も完璧ではない]] | 多様な視点・教師の姿勢 |
+| Try It Yourself | [[パタン/まずやってみる]] | 能動的学習 |
+| Reduce Risk | [[パタン/リスクを減らす]] | フィードバック・評価 |
+| Self Test | [[パタン/自己テスト]] | フィードバック・経験学習 |
+| Round Robin | [[パタン/ラウンドロビン]] | 経験学習・能動的学習 |
+| Set The Stage | [[パタン/場を設定する]] | 多様な視点・教授法 |
 
 ## 重要な引用
 
@@ -98,6 +104,16 @@ reintegrated: 2026-05-19
 - [[パタン/自分で探求する]] — Explore For Yourself **
 - [[パタン/自分の言葉で]] — Own Words **
 - [[パタン/主要概念で評価する]] — Key Ideas Dominate Grading **
+
+**第3次統合（2026-05-19）— 新規作成パタン:**
+- [[パタン/誰も完璧ではない]] — Nobody Is Perfect **
+- [[パタン/まずやってみる]] — Try It Yourself **
+- [[パタン/リスクを減らす]] — Reduce Risk **
+- [[パタン/自己テスト]] — Self Test **
+
+**第4次統合（2026-05-20）— 新規作成パタン:**
+- [[パタン/ラウンドロビン]] — Round Robin **
+- [[パタン/場を設定する]] — Set The Stage **
 
 ## 展開したい問い
 

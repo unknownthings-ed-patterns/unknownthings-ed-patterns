@@ -1,9 +1,9 @@
 ---
 type: pattern
-tags: [パタン, 国語, 読書指導, 読解指導, BDA, フロントローディング, 授業設計, 理科, 社会]
-source: "Buehl, D.（2017）Classroom Strategies for Interactive Learning. Stenhouse. / Vacca & Vacca（2005）Content Area Reading."
+tags: [パタン, 国語, 読書指導, 読解指導, BDA, フロントローディング, 授業設計, 理科, 社会, 語彙]
+source: "Buehl, D.（2017）Classroom Strategies for Interactive Learning. Stenhouse. / Vacca & Vacca（2005）Content Area Reading. / Allen, J.（1999）Words, Words, Words. Stenhouse."
 related: []
-updated: 2026-05-15
+updated: 2026-05-20
 ---
 
 # BDAフレームワーク
@@ -13,6 +13,28 @@ updated: 2026-05-15
 ---
 
 ## Pattern Connection
+
+**Allen（1999）統合（2026-05-20）**：
+
+*Words, Words, Words* はBDAの各フェーズに対応する語彙方略のセットを提供する。語彙指導はBDAの枠組みに収まるとき、単発の「覚える時間」でなく授業の流れと一体化した継続的な学びになる。
+
+- **既存パタンとの関連**：BDAフレームワークはBefore（背景知識の活性化・語彙の事前準備）→During（文脈からの語彙習得）→After（語彙の統合・深化）という語彙学習のサイクルと完全に対応する
+- **補強された点**：「語彙プレビュー」（Before）の方法として、Allenの「リスト・グループ・ラベル」「どれだけ知っているか」「ワードストーミング」が具体的な実装として加わった。Beforeの「語彙プレビュー」は「意味を教える」のでなく「前知識を活性化し、読む理由を作る」として設計する
+- **修正・拡張された点**：After フェーズに語彙深化の方略（コンテクスト−コンテンツ−エクスペリエンス、コンセプト・ラダー、リニア・アレイ）が加わり、「読んだ後に語彙を定着させる」活動の選択肢が広がった
+- **他のパタンへの波及**：[[パタン/語彙指導]] — Before/During/Afterの語彙方略を一体化したパタン
+
+### BDA × 語彙方略対応表（Allen, 1999）
+
+| フェーズ | 語彙方略 | 目的 |
+|---|---|---|
+| **Before** | リスト・グループ・ラベル | 主要概念に関連する語の前知識を活性化する |
+| **Before** | どれだけ知っているか | 語の自己評価で読む目的を作る |
+| **Before** | ワードストーミング | 関連語を出し合い概念の地図を描く |
+| **During** | リッチ・コンテクストの活用 | 文脈から語義を推測する |
+| **During** | 語攻略の12ステップ | 未知語に出会ったときの対処法を明示 |
+| **After** | コンテクスト−コンテンツ−エクスペリエンス | 文脈・教科・個人経験の3コラムで語を定着 |
+| **After** | コンセプト・ラダー | 問いで語の概念を深掘りする |
+| **After** | リニア・アレイ | 関連語を程度で並べ微妙な違いを理解する |
 
 **出典**: Buehl, D.（2017）*Classroom Strategies for Interactive Learning* (4th ed.). Stenhouse Publishers.
 

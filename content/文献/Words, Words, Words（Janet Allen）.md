@@ -120,6 +120,14 @@ Allen, J. (1999). *Words, Words, Words: Teaching Vocabulary in Grades 4-12*. Ste
 - [[パタン/共有読書（Shared Reading）]] — Reading With の実践
 - [[パタン/リーディング・ワークショップ]] — Reading By の制度設計
 
+## この文献からの導線
+
+| 種類 | ページ | 使い道 |
+|------|--------|--------|
+| パタン | [[パタン/語彙指導]]、[[パタン/ワードウォール]]、[[パタン/共有読書（Shared Reading）]] | 語彙を文脈・反復・意味ある使用で育てる授業設計に使う |
+| 実践 | [[パタン/リーディング・ワークショップ]] | 語彙が独立読書・共有読書・読み聞かせの中で育つ構造を見る |
+| 教材 | [[教材/読書の道具棚]] | 読書活動の中で語彙に触れる道具を探す |
+
 ## 出典
 
 Allen, J. (1999). *Words, Words, Words: Teaching Vocabulary in Grades 4-12*. Stenhouse Publishers.

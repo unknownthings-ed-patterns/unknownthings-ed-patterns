@@ -1,9 +1,9 @@
 ---
 type: pattern
-tags: [パタン, 国語, 読書指導, 共有読書, リーディングワークショップ, スキャフォールディング, 流暢さ]
-source: "Dorn, L. J., & Soffos, C.（2005）Teaching for Deep Comprehension: A Reading Workshop Approach. Stenhouse."
+tags: [パタン, 国語, 読書指導, 共有読書, リーディングワークショップ, スキャフォールディング, 流暢さ, 語彙]
+source: "Dorn, L. J., & Soffos, C.（2005）Teaching for Deep Comprehension: A Reading Workshop Approach. Stenhouse. / Allen, J.（1999）Words, Words, Words. Stenhouse."
 related: []
-updated: 2026-05-19
+updated: 2026-05-20
 ---
 
 # 共有読書（Shared Reading）
@@ -13,6 +13,15 @@ updated: 2026-05-19
 ---
 
 ## Pattern Connection
+
+**Allen（1999）統合（2026-05-20）**：
+
+*Words, Words, Words* は共有読書を「Reading With（一緒に読む）」として語彙指導の3つの道の第二の道に位置づける。独立読書では扱えない語彙方略の指導を「リアルタイムで」行える場として機能する。
+
+- **既存パタンとの関連**：Dorn & Soffos の「スケール・オブ・ヘルプ」による動的な足場は、語彙理解の足場とも重なる。共有読書の最中に教師が「この語、ここで何を意味しているか分かる？」と止まることが、語彙方略のモデリングになる
+- **補強された点**：共有読書中に教師が教えられる語彙指導の具体が加わった——文脈からの語義推測・辞書の使い方・多義語への気づき・専門語の重要性・語のネットワーク（類義語・対義語）の確認・リニア・アレイの共同構築
+- **修正・拡張された点**：共有読書の「目的の設定」として語彙目標が加わる。「今日はこのテキストを読みながら、知らない語に出会ったときの対処法をやってみよう」というように、語攻略の12の方略を共有読書でモデリングする場として使える
+- **他のパタンへの波及**：[[パタン/語彙指導]] — Reading With の語彙方略詳細。[[パタン/ワードウォール]] — 共有読書で出てきた語をウォールに追加する流れが語彙環境を生きたものにする
 
 **出典**: Dorn, L. J., & Soffos, C.（2005）*Teaching for Deep Comprehension: A Reading Workshop Approach*（Ch.3）. Stenhouse Publishers.（統合：2026-05-19）
 

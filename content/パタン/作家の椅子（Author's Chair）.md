@@ -3,7 +3,7 @@ type: pattern
 tags: [パタン, 国語, 作文指導, ライティングワークショップ, 出版, 共有]
 source: "Atwell, N.（1998）In the Middle. Heinemann. / Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Horn, M. & Giacobbe, M.E.（2007）Talking, Drawing, Writing. Stenhouse."
 related: []
-updated: 2026-05-20
+updated: 2026-05-21
 ---
 
 # 作家の椅子（Author's Chair）
@@ -34,6 +34,8 @@ updated: 2026-05-20
 ## このパタンが働く実践
 
 - [[実践/ライティング・ワークショップ年度初め]] — 作家の椅子を文化として導入し、書くことを教室の共有財にする。
+- [[実践/ローベルみたいな物語を書こう]] — 完成前の構想や作品を読み、仲間の反応を次の推敲に生かす。
+- [[実践/詩を紹介する・詩を創作する]] — 詩の紹介や自作詩を声に出して読み、読者の反応を受け取る。
 - [[パタン/出版（Publishing）]] — 作家の椅子は最も小さく始められる出版の形。
 - [[パタン/ストーリーテリング（語りの時間）]] — 書く前に語る場と、書いた後に読む場が対になる。
 

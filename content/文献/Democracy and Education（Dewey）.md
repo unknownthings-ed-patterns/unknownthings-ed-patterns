@@ -1,6 +1,6 @@
 ---
 type: literature
-title: Democracy and Education: An introduction to the philosophy of education
+title: "Democracy and Education: An introduction to the philosophy of education"
 author: John Dewey
 year: 1916
 tags: [文献, デューイ, 経験, 成長, 反省的思考, 民主主義, 教育哲学, 関心, 遊びと仕事]

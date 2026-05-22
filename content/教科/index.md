@@ -44,4 +44,4 @@ title: 教科
 - [[文献/Mathematics Tasks for the Thinking Classroom（Liljedahl & Giroux）]] — シンキング・タスクの設計原理
 - [[文献/Mathematical Mindsets（Boaler）]] — 数学マインドセット、視覚的数学、オープンタスク
 - [[文献/Teaching Mathematics Vocabulary in Context（Muray）]] — 算数語彙と文脈的指導
-- [[文献/index]] — 参考文献・研究メモ全体の入口
+- [[文献/index|文献]] — 参考文献・研究メモ全体の入口

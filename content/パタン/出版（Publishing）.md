@@ -148,6 +148,33 @@ Muschla第2版（2006）で追加された章。ワープロを使った推敲�
 
 ---
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    ne587bae78988["出版（Publishing）"]
+    ne383a9e382a4["ライティング・ワークショップ"]
+    ne68ea8e695b2["推敲（Revision）"]
+    ne8aaade381bf["読み書きの文化"]
+    ne887aae5b7b1["自己選択自己決定"]
+    ne383a9e382a4["ライティング・カンファリング"]
+    ne38389e382ad["ドキュメンテーション"]
+    ne3839de383bc["ポートフォリオファイル"]
+    ne382b3e3839f["コミュニティをつくる"]
+
+    ne587bae78988 --- ne383a9e382a4
+    ne587bae78988 --- ne68ea8e695b2
+    ne587bae78988 --- ne8aaade381bf
+    ne587bae78988 --- ne887aae5b7b1
+    ne587bae78988 --- ne383a9e382a4
+    ne587bae78988 --- ne38389e382ad
+    ne587bae78988 --- ne3839de383bc
+    ne587bae78988 --- ne382b3e3839f
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class ne587bae78988 hub
+```
+
 ## Actionable Insight
 
 - **今すぐできる出版：「作家の椅子」を今週試す**——毎週金曜日の最後の10分、1人だけ「今週書いたもの」を読み上げる時間を設ける。椅子は普通の椅子でいい。「読んでくれた人から一言もらいましょう」だけで出版の経験になる

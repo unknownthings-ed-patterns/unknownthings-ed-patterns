@@ -190,6 +190,35 @@ Liljedahl & Giroux（2024）の各タスクには「収束の問い」が設計�
 
 ---
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    n436f6e736f6c["Consolidation（収束の時間）"]
+    ne7ae97e695b0["算数シンキング・タスク"]
+    n5468696e2d53["Thin-Slicing設計（薄切り問題の作り方）"]
+    n4c61756e6368["Launch Script（タスクの渡し方）"]
+    ne695b0e5ada6["数学ワークショップ"]
+    ne382ade383bc["キーコンセプト（胚細胞的概念）"]
+    ne585b7e4bd93["具体から抽象へ"]
+    ne8a7a3e6b1ba["解決から抽象へ"]
+    ne4b880e4baba["一人の発言をみんなに広げる"]
+    ne68cafe3828a["振り返りでのねらいの共同構築"]
+
+    n436f6e736f6c --- ne7ae97e695b0
+    n436f6e736f6c --- n5468696e2d53
+    n436f6e736f6c --- n4c61756e6368
+    n436f6e736f6c --- ne695b0e5ada6
+    n436f6e736f6c --- ne382ade383bc
+    n436f6e736f6c --- ne585b7e4bd93
+    n436f6e736f6c --- ne8a7a3e6b1ba
+    n436f6e736f6c --- ne4b880e4baba
+    n436f6e736f6c --- ne68cafe3828a
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class n436f6e736f6c hub
+```
+
 ## Actionable Insight
 
 - **次の探究型授業で「収束の問いを1つだけ準備する」**——授業前に「この探究で子どもが見つけてほしい数学的構造は何か？」を一文で書く。それを問う形に変えれば収束の核心ができる（例：「なぜどのグループも同じ答えになったの？」）

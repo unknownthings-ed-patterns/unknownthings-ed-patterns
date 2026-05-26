@@ -133,6 +133,27 @@ Ellaとのチェックイン（Ella is reading *The Watsons Go to Birmingham—1
 
 ---
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    ne38381e382a7["チェックイン（Checking In）"]
+    n31e5afbe31e3["1対1の面談"]
+    ne383aae383bc["リーディング・ゾーン"]
+    ne383aae383bc["リーディング・ワークショップ"]
+    ne5bda2e68890["形成的評価"]
+    ne5ada6e7bf92["学習のための評価（A4L）"]
+
+    ne38381e382a7 --- n31e5afbe31e3
+    ne38381e382a7 --- ne383aae383bc
+    ne38381e382a7 --- ne383aae383bc
+    ne38381e382a7 --- ne5bda2e68890
+    ne38381e382a7 --- ne5ada6e7bf92
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class ne38381e382a7 hub
+```
+
 ## Actionable Insight
 
 - 今週の独立読書中に「ゾーンに入れた？」「今何を読んでいる？」の2問だけ全員に聞いて回る——深い対話は不要、2分以内で全員一巡することを目標にする

@@ -54,6 +54,27 @@ source: "一つの教育のパタン・ランゲージ（岩井輝久）"
 - [[パタン/自信を構築する（Confidence）]] — ARCSのC
 - [[パタン/満足感をもたらす（Satisfaction）]] — ARCSのS
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    n41524353["ARCS"]
+    ne7869fe685ae["熟慮的動機付け"]
+    ne6b3a8e6848f["注意を生み出し維持する（Attention）"]
+    ne996a2e980a3["関連性を確立し支援する（Relevance）"]
+    ne887aae4bfa1["自信を構築する（Confidence）"]
+    ne6ba80e8b6b3["満足感をもたらす（Satisfaction）"]
+
+    n41524353 --- ne7869fe685ae
+    n41524353 --- ne6b3a8e6848f
+    n41524353 --- ne996a2e980a3
+    n41524353 --- ne887aae4bfa1
+    n41524353 --- ne6ba80e8b6b3
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class n41524353 hub
+```
+
 ## Actionable Insight
 
 - 授業準備のとき「この授業はARCSのどの要素が弱いか？」と自問し、最も弱い1要素に絞って改善策を考える——全要素を均等に設計しようとするより、ボトルネックに集中する方が効果的

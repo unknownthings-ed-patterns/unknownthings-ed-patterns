@@ -113,6 +113,29 @@ CTLでの記録によれば、生徒の選書の約3回に1回はBooks-We-Love�
 
 ---
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    n426f6f6b732d["Books-We-Love（本の展示コーナー）"]
+    ne38396e38383["ブック・トーク"]
+    ne382b7e382b0["シグニファイア"]
+    ne8aaade381bf["読み書きの文化"]
+    n536f6d656461["Someday List（読みたい本リスト）"]
+    ne382b3e383ac["コレクション"]
+    ne383aae383bc["リーディング・ゾーン"]
+
+    n426f6f6b732d --- ne38396e38383
+    n426f6f6b732d --- ne382b7e382b0
+    n426f6f6b732d --- ne8aaade381bf
+    n426f6f6b732d --- n536f6d656461
+    n426f6f6b732d --- ne382b3e383ac
+    n426f6f6b732d --- ne383aae383bc
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class n426f6f6b732d hub
+```
+
 ## Actionable Insight
 
 - 本棚の一角に「背表紙」でなく「表紙が見える」展示スペースを作る——ブックスタンド1個・書見台1つでOK、最初は先生のおすすめ1冊だけでよい

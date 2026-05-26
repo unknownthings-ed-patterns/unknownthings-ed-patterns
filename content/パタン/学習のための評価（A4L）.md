@@ -183,6 +183,31 @@ Cohen & Garciaの研究では、課題の返却時に「私はあなたを信じ
 
 ---
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    ne5ada6e7bf92["学習のための評価（A4L）"]
+    ne5bda2e68890["形成的評価"]
+    ne68890e995b7["成長マインドセット"]
+    ne38395e382a3["フィードバック"]
+    ne99693e98195["間違いや失敗から学ぶ文化"]
+    ne887aae5b7b1["自己選択自己決定"]
+    ne588b0e98194["到達レベルの自己評価"]
+    ne5ada6e7bf92["学習する学校"]
+
+    ne5ada6e7bf92 --- ne5bda2e68890
+    ne5ada6e7bf92 --- ne68890e995b7
+    ne5ada6e7bf92 --- ne38395e382a3
+    ne5ada6e7bf92 --- ne99693e98195
+    ne5ada6e7bf92 --- ne887aae5b7b1
+    ne5ada6e7bf92 --- ne588b0e98194
+    ne5ada6e7bf92 --- ne5ada6e7bf92
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class ne5ada6e7bf92 hub
+```
+
 ## Actionable Insight
 
 - **今週の算数授業の最後に**: 「Exit Ticket：今日学んだ1つのこと」を紙に書かせる（3分）。翌日の授業の冒頭でいくつかを読み上げ、「みんなの理解を確認できた」と伝えるだけで文化が変わり始める

@@ -47,6 +47,25 @@ updated: 2026-05-21
 - [[パタン/読み書きの文化]]
 - [[パタン/ストーリーテリング（語りの時間）]]
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    ne4bd9ce5aeb6["作家の椅子（Author's Chair）"]
+    ne383a9e382a4["ライティング・ワークショップ"]
+    ne587bae78988["出版（Publishing）"]
+    ne8aaade381bf["読み書きの文化"]
+    ne382b9e38388["ストーリーテリング（語りの時間）"]
+
+    ne4bd9ce5aeb6 --- ne383a9e382a4
+    ne4bd9ce5aeb6 --- ne587bae78988
+    ne4bd9ce5aeb6 --- ne8aaade381bf
+    ne4bd9ce5aeb6 --- ne382b9e38388
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class ne4bd9ce5aeb6 hub
+```
+
 ## Actionable Insight
 
 - 今週の最後の5分に、1人だけ「今書いているもの」を読む時間を置く——それだけで、作品に読者が生まれる

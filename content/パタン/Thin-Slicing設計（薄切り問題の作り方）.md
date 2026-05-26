@@ -132,6 +132,35 @@ Thin-Slicingのタスクでは、収束（Consolidation）の中心的な問い�
 
 ---
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    n5468696e2d53["Thin-Slicing設計（薄切り問題の作り方）"]
+    ne7ae97e695b0["算数シンキング・タスク"]
+    ne5908ce4b880["同一文脈・複数概念の展開"]
+    ne98086e7ae97["逆算・双方向思考"]
+    n436f6e736f6c["Consolidation（収束の時間）"]
+    ne58d98e7b494["単純から複雑へ"]
+    ne585b7e4bd93["具体から抽象へ"]
+    ne382ade383bc["キーコンセプト（胚細胞的概念）"]
+    ne382b9e383a2["スモールステップ"]
+    n4c61756e6368["Launch Script（タスクの渡し方）"]
+
+    n5468696e2d53 --- ne7ae97e695b0
+    n5468696e2d53 --- ne5908ce4b880
+    n5468696e2d53 --- ne98086e7ae97
+    n5468696e2d53 --- n436f6e736f6c
+    n5468696e2d53 --- ne58d98e7b494
+    n5468696e2d53 --- ne585b7e4bd93
+    n5468696e2d53 --- ne382ade383bc
+    n5468696e2d53 --- ne382b9e383a2
+    n5468696e2d53 --- n4c61756e6368
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class n5468696e2d53 hub
+```
+
 ## Actionable Insight
 
 - **今日の算数の教科書問題をThin-Slice視点で見直す**——「この問題の次に出すとしたら、何を一つだけ変えた問題か？」と問う。それが授業の中での次の問いになる

@@ -188,6 +188,33 @@ KWL（K+W）        シンクアラウド         KWL（L）
 
 ---
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    n424441e38395["BDAフレームワーク"]
+    ne38386e382ad["テキスト・フレーム"]
+    ne382a2e383b3["アンティシペーション・ガイド"]
+    ne382b7e383b3["シンクアラウド"]
+    ne68ea8e8ab96["推論する（インファリング）"]
+    ne8aaade381bf["読みとつながる"]
+    ne8838ce699af["背景知識"]
+    ne4b88de6809d["不思議を育てる"]
+    ne3839fe3838b["ミニレッスン・サイクル"]
+
+    n424441e38395 --- ne38386e382ad
+    n424441e38395 --- ne382a2e383b3
+    n424441e38395 --- ne382b7e383b3
+    n424441e38395 --- ne68ea8e8ab96
+    n424441e38395 --- ne8aaade381bf
+    n424441e38395 --- ne8838ce699af
+    n424441e38395 --- ne4b88de6809d
+    n424441e38395 --- ne3839fe3838b
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class n424441e38395 hub
+```
+
 ## Actionable Insight
 
 - 次に読解授業を設計するとき、計画に「B：」「D：」「A：」と書いてから各フェーズを埋める——Before が空欄なら「まず整えること」を考える

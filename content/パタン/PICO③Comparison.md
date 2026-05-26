@@ -43,6 +43,21 @@ Comparisonを設定することで、問いは検証可能な形に近づく。
 - [[パタン/熟慮的問い]] — 親パタン
 - [[パタン/PICO④Outcome]] — 比較の結果として何を見るかを定義する次の要素
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    n5049434fe291["PICO③Comparison"]
+    ne7869fe685ae["熟慮的問い"]
+    n5049434fe291["PICO④Outcome"]
+
+    n5049434fe291 --- ne7869fe685ae
+    n5049434fe291 --- n5049434fe291
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class n5049434fe291 hub
+```
+
 ## Actionable Insight
 
 - 探究の問いを「〇〇をするとどうなるか」から「〇〇をした場合と△△をした場合を比べると何が違うか」に書き換える——比較軸を加えることで問いが検証可能な形に変わる

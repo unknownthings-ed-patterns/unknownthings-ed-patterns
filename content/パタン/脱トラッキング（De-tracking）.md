@@ -102,6 +102,31 @@ Boaler（2016）Ch.7「From Tracking to Growth Mindset Grouping」が一次資�
 
 ---
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    ne884b1e38388["脱トラッキング（De-tracking）"]
+    ne8a487e99b91["複雑指導（Complex Instruction）"]
+    ne8b18ae3818b["豊かな課題"]
+    ne7ae97e695b0["算数の公平性"]
+    ne68890e995b7["成長マインドセット"]
+    ne5a49ae6a798["多様な演習レベル"]
+    ne68e88e6a5ad["授業のユニバーサルデザイン"]
+    ne887aae5b7b1["自己選択自己決定"]
+
+    ne884b1e38388 --- ne8a487e99b91
+    ne884b1e38388 --- ne8b18ae3818b
+    ne884b1e38388 --- ne7ae97e695b0
+    ne884b1e38388 --- ne68890e995b7
+    ne884b1e38388 --- ne5a49ae6a798
+    ne884b1e38388 --- ne68e88e6a5ad
+    ne884b1e38388 --- ne887aae5b7b1
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class ne884b1e38388 hub
+```
+
 ## Actionable Insight
 
 - 今週の算数の問題を「この問いは、どのグループの子にも入れるか？」という視点で見直す——フロアが高い問題はLFHC形式に改造する

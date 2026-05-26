@@ -162,6 +162,29 @@ RIPモデルが機能するためには、**記録がカンファリングを支
 - [[パタン/不思議を育てる]] — I段階の「Intrigue」は探究の入口
 - [[パタン/深める問い]] — I段階の「Instruction/Insights/Intrigue」で深める問いが生まれる
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    n524950e383a2["RIPモデル"]
+    ne383aae383bc["リーディング・ワークショップ"]
+    ne382b7e383b3["シンクアラウド"]
+    ne382a2e383b3["アンカーチャート"]
+    ne383a1e382bf["メタ認知的モニタリング"]
+    ne4b88de6809d["不思議を育てる"]
+    ne6b7b1e38281["深める問い"]
+
+    n524950e383a2 --- ne383aae383bc
+    n524950e383a2 --- ne382b7e383b3
+    n524950e383a2 --- ne382a2e383b3
+    n524950e383a2 --- ne383a1e382bf
+    n524950e383a2 --- ne4b88de6809d
+    n524950e383a2 --- ne6b7b1e38281
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class n524950e383a2 hub
+```
+
 ## Actionable Insight
 
 - 今週、一人の子どもと会議するとき「今日、読者として自分について何か話してくれる？」という開幕の問いだけを変えてみる——子どもが話す量が変わる

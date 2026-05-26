@@ -43,6 +43,21 @@ Outcomeは「観察・測定・記述できるもの」として設定するこ�
 - [[パタン/熟慮的問い]] — 親パタン
 - [[パタン/PICO③Comparison]] — 成果を比較する基準となる第3要素
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    n5049434fe291["PICO④Outcome"]
+    ne7869fe685ae["熟慮的問い"]
+    n5049434fe291["PICO③Comparison"]
+
+    n5049434fe291 --- ne7869fe685ae
+    n5049434fe291 --- n5049434fe291
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class n5049434fe291 hub
+```
+
 ## Actionable Insight
 
 - 探究の問いを設定したら「何が変わっていれば答えが出たと言えるか」を一文で書かせる——成果指標を言語化することで探究の終着点が明確になる

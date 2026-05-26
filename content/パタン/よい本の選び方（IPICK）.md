@@ -200,6 +200,37 @@ CとKがOKなら「今の自分に合う本」
 
 ---
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    ne38288e38184["よい本の選び方（IPICK）"]
+    ne887aae5b7b1["自己選択自己決定"]
+    ne8aaade69bb8["読書アイデンティティ"]
+    ne383aae383bc["リーディング・ワークショップ"]
+    ne38387e382a4["デイリー5"]
+    ne383a1e382bf["メタ意識"]
+    ne887aae5b7b1["自己調整"]
+    ne382b7e383b3["シンクアラウド"]
+    ne8838ce699af["背景知識"]
+    n536f6d656461["Someday List（読みたい本リスト）"]
+    ne69599e5aea4["教室図書館"]
+
+    ne38288e38184 --- ne887aae5b7b1
+    ne38288e38184 --- ne8aaade69bb8
+    ne38288e38184 --- ne383aae383bc
+    ne38288e38184 --- ne38387e382a4
+    ne38288e38184 --- ne383a1e382bf
+    ne38288e38184 --- ne887aae5b7b1
+    ne38288e38184 --- ne382b7e383b3
+    ne38288e38184 --- ne8838ce699af
+    ne38288e38184 --- n536f6d656461
+    ne38288e38184 --- ne69599e5aea4
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class ne38288e38184 hub
+```
+
 ## Actionable Insight
 
 - 次の読書ミニレッスンで「IPICK シンクアラウド」を試す——教師が2〜3冊を手に取りながら頭の中の問いを声に出す。5分で終わる最もシンプルな選書指導

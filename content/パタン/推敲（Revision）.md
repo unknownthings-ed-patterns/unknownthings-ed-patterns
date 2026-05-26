@@ -168,6 +168,33 @@ Muschla（2006）が提示する推敲の3つの問い：
 
 ---
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    ne68ea8e695b2["推敲（Revision）"]
+    ne383a9e382a4["ライティング・ワークショップ"]
+    ne38397e383aa["プリライティング"]
+    ne4bd9ce5aeb6["作家のクラフト"]
+    ne383a9e382a4["ライティング・カンファリング"]
+    ne587bae78988["出版（Publishing）"]
+    ne38395e382a3["フィードバック"]
+    ne382a2e383b3["アンカーチャート"]
+    n31e5afbe31e3["1対1の面談"]
+
+    ne68ea8e695b2 --- ne383a9e382a4
+    ne68ea8e695b2 --- ne38397e383aa
+    ne68ea8e695b2 --- ne4bd9ce5aeb6
+    ne68ea8e695b2 --- ne383a9e382a4
+    ne68ea8e695b2 --- ne587bae78988
+    ne68ea8e695b2 --- ne38395e382a3
+    ne68ea8e695b2 --- ne382a2e383b3
+    ne68ea8e695b2 --- n31e5afbe31e3
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class ne68ea8e695b2 hub
+```
+
 ## Actionable Insight
 
 - **「推敲＝誤字修正」を解体する1回のミニレッスンを試す**——「推敲と編集は違います」と言うだけでなく、「今日は誤字を直さないで、内容だけを見直します」という制約を与えた推敲時間を1回設ける。この経験が「推敲とは何か」を体験させる

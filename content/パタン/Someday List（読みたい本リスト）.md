@@ -105,6 +105,35 @@ Atwell は学習者の Someday List を年度初めのオリエンテーショ�
 
 ---
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    n536f6d656461["Someday List（読みたい本リスト）"]
+    ne38396e38383["ブック・トーク"]
+    n426f6f6b732d["Books-We-Love（本の展示コーナー）"]
+    ne38381e382a7["チェックイン（Checking In）"]
+    ne383aae383bc["リーディング・ゾーン"]
+    ne887aae5b7b1["自己選択自己決定"]
+    ne383aae383bc["リーダーズ・ノート"]
+    ne8aaade69bb8["読書アイデンティティ"]
+    ne383aae383bc["リーディング・ワークショップ"]
+    ne69599e5aea4["教室図書館"]
+
+    n536f6d656461 --- ne38396e38383
+    n536f6d656461 --- n426f6f6b732d
+    n536f6d656461 --- ne38381e382a7
+    n536f6d656461 --- ne383aae383bc
+    n536f6d656461 --- ne887aae5b7b1
+    n536f6d656461 --- ne383aae383bc
+    n536f6d656461 --- ne8aaade69bb8
+    n536f6d656461 --- ne383aae383bc
+    n536f6d656461 --- ne69599e5aea4
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class n536f6d656461 hub
+```
+
 ## Actionable Insight
 
 - 今週、読書ノートの最初のページを「Someday List」専用ページにする——タイトルを書くだけでOK、きれいに作る必要はない

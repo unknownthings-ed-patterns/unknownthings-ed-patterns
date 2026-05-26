@@ -158,6 +158,29 @@ California、Railside Schoolで4年間の縦断調査。複雑指導を使った
 
 ---
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    ne8a487e99b91["複雑指導（Complex Instruction）"]
+    ne8b18ae3818b["豊かな課題"]
+    ne68890e995b7["成長マインドセット"]
+    ne884b1e38388["脱トラッキング（De-tracking）"]
+    ne7ae97e695b0["算数の公平性"]
+    ne5bf83e79086["心理的安全性（コンフォートゾーン）"]
+    ne883bde58b95["能動的関与"]
+
+    ne8a487e99b91 --- ne8b18ae3818b
+    ne8a487e99b91 --- ne68890e995b7
+    ne8a487e99b91 --- ne884b1e38388
+    ne8a487e99b91 --- ne7ae97e695b0
+    ne8a487e99b91 --- ne5bf83e79086
+    ne8a487e99b91 --- ne883bde58b95
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class ne8a487e99b91 hub
+```
+
 ## Actionable Insight
 
 - **今日から**: 次のグループ活動で4つの役割（進行役・記録係・資料管理・全体確認）カードを用意し、各自に配る。活動後にローテーションを宣言する

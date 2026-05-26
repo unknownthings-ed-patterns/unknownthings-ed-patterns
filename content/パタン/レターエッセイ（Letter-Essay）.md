@@ -129,6 +129,27 @@ updated: 2026-05-17
 
 ---
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    ne383ace382bf["レターエッセイ（Letter-Essay）"]
+    ne383aae383bc["リーダーズ・ノート"]
+    ne383aae383bc["リーディング・ゾーン"]
+    ne38395e382a3["フィードバック文化"]
+    ne8aaade69bb8["読書アイデンティティ"]
+    ne8a1a8e78fbe["表現して学ぶ"]
+
+    ne383ace382bf --- ne383aae383bc
+    ne383ace382bf --- ne383aae383bc
+    ne383ace382bf --- ne38395e382a3
+    ne383ace382bf --- ne8aaade69bb8
+    ne383ace382bf --- ne8a1a8e78fbe
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class ne383ace382bf hub
+```
+
 ## Actionable Insight
 
 - 今週の読書記録の書き出しを「○○先生へ」に変えてみる——形式だけ変えても、学習者の書き方に「誰かに伝える」感覚が生まれる

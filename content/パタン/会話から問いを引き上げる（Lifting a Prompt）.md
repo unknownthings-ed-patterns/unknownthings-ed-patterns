@@ -126,6 +126,31 @@ They hate Igor for keeping them in. (Connection from our earlier character chart
 - [[パタン/推論する（インファリング）]] — 対話から引き上げる問いの多くは推論を求める
 - [[文献/Notebook Connections（Buckner）]] — 一次資料
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    ne4bc9ae8a9b1["会話から問いを引き上げる（Lifting a Prompt）"]
+    ne383aae383bc["リーダーズ・ノート"]
+    ne38380e382a4["ダイアログ"]
+    ne7869fe685ae["熟慮的問い"]
+    ne382a2e383b3["アンカーチャート"]
+    ne382b7e383b3["シンクアラウド"]
+    ne6b7b1e38184["深い理解（3水準の読解）"]
+    ne68ea8e8ab96["推論する（インファリング）"]
+
+    ne4bc9ae8a9b1 --- ne383aae383bc
+    ne4bc9ae8a9b1 --- ne38380e382a4
+    ne4bc9ae8a9b1 --- ne7869fe685ae
+    ne4bc9ae8a9b1 --- ne382a2e383b3
+    ne4bc9ae8a9b1 --- ne382b7e383b3
+    ne4bc9ae8a9b1 --- ne6b7b1e38184
+    ne4bc9ae8a9b1 --- ne68ea8e8ab96
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class ne4bc9ae8a9b1 hub
+```
+
 ## Actionable Insight
 
 - 次の読み語りの後に「黒板に子どもの言ったことを3〜5個書く」だけ試す——翌日「昨日みんなが言っていたこと、ノートに書いてみよう」と橋渡しすれば Lifting a Prompt の最初の一歩になる

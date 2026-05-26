@@ -122,6 +122,29 @@ Dickinson, Golinkoff & Hirsh-Pasek（2010）：就学前の読み聞かせ（PEE
 
 ---
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    ne5afbee8a9b1["対話的読み聞かせ（PEER法）"]
+    ne8aaade381bf["読み聞かせ"]
+    ne8838ce699af["背景知識"]
+    ne8aa9ee5bd99["語彙の指導"]
+    ne382b7e383b3["シンクアラウド"]
+    ne4b88de6809d["不思議を育てる"]
+    ne8aaade69bb8["読書アイデンティティ"]
+
+    ne5afbee8a9b1 --- ne8aaade381bf
+    ne5afbee8a9b1 --- ne8838ce699af
+    ne5afbee8a9b1 --- ne8aa9ee5bd99
+    ne5afbee8a9b1 --- ne382b7e383b3
+    ne5afbee8a9b1 --- ne4b88de6809d
+    ne5afbee8a9b1 --- ne8aaade69bb8
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class ne5afbee8a9b1 hub
+```
+
 ## Actionable Insight
 
 - 次の読み聞かせで、1ページだけ途中で止めて「この次に何が起きると思う？」と聞いてみる——PEER法の P の最も簡単な形。予測が外れても「どっちが正しかった？」という振り返りが生まれる

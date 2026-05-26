@@ -1,7 +1,20 @@
 #!/bin/bash
+set -euo pipefail
 
 SRC="/Users/iwaiteruhisa/Library/Mobile Documents/iCloud~md~obsidian/Documents/教育のパタン・ランゲージ/wiki/"
 DST="/Users/iwaiteruhisa/quartz/content/"
+REPO="/Users/iwaiteruhisa/quartz"
+NODE_BIN="${NODE_BIN:-$(command -v node || true)}"
+
+if [ ! -d "$SRC" ]; then
+  echo "Obsidian source directory is not available: $SRC" >&2
+  exit 1
+fi
+
+if [ -z "$NODE_BIN" ]; then
+  echo "node command not found. Set NODE_BIN or fix PATH before syncing." >&2
+  exit 1
+fi
 
 # ObsidianのwikiをQuartzのcontentに同期（削除も反映）
 rsync -a --delete \
@@ -18,9 +31,9 @@ rsync -a --delete \
   "$SRC" "$DST"
 
 # 変更があればcommitしてpush
-cd /Users/iwaiteruhisa/quartz
-node scripts/normalize-links.mjs
-node scripts/pattern-index.mjs
+cd "$REPO"
+"$NODE_BIN" scripts/normalize-links.mjs
+"$NODE_BIN" scripts/pattern-index.mjs
 git add content/
 if ! git diff --staged --quiet; then
   git commit -m "auto: Obsidianから同期 $(date '+%Y-%m-%d %H:%M')"

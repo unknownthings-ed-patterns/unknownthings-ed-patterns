@@ -224,6 +224,7 @@ flowchart LR
 ---
 
 ## 出典
+- [[文献/Classroom Strategies for Interactive Learning（Buehl）]]
 
 Buehl, D. (2017). *Classroom Strategies for Interactive Learning* (4th ed.). Stenhouse Publishers.
 Vacca, R. T., & Vacca, J. A. L. (2005). *Content Area Reading: Literacy and Learning Across the Curriculum*. Pearson.

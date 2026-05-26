@@ -210,6 +210,7 @@ flowchart LR
 - **「発達段階別の言語調整」を試す**：同じ学年でも読者のレベルは違う。移行期・流暢読者のグループでは推論的問いかけ（「著者はなぜ……？」「あなたはどう思う？」）を大幅に増やし、明示的な説明は最小化する
 
 ## 出典
+- [[文献/Teaching for Deep Comprehension（Dorn & Soffos）]]
 
 Dorn, L. J., & Soffos, C. (2005). *Teaching for Deep Comprehension: A Reading Workshop Approach*. Stenhouse Publishers.
 Holdaway, D. (1979). *Foundations of Literacy*. Portsmouth, NH: Heinemann.

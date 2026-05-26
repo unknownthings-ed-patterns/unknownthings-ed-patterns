@@ -242,6 +242,8 @@ Newkirk, T. (2000). *Misreading Masculinity: Boys, Literacy, and Popular Culture
 ---
 
 ## 関連するWikiページ
+- [[パタン/Someday List（読みたい本リスト）]]
+- [[パタン/よい本の選び方（IPICK）]]
 
 - [[パタン/リーディング・ワークショップ]] — 本書の実践システム全体
 - [[パタン/リーディング・ゾーン]] — ゾーン体験をパタンとして記述（Jedの語源・神経科学・eBook含む）

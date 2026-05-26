@@ -209,7 +209,7 @@ CとKがOKなら「今の自分に合う本」
 
 ## 出典
 
-Boushey, G., & Moser, J. (2014). *The Daily 5: Fostering Literacy Independence in the Elementary Grades* (2nd ed.). Stenhouse Publishers.
+Boushey, G., & Moser, J. (2014). *The Daily 5: Fostering Literacy Independence in the Elementary Grades* (2nd ed.). Stenhouse Publishers. → [[文献/The Daily 5（Boushey & Moser）]]
 
 Atwell, N., & Atwell Merkel, A. (2016). *The Reading Zone* (2nd ed.). Scholastic.（3種類の本: Funkhouser の分類）
 

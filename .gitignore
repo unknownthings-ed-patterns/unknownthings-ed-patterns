@@ -4,6 +4,7 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
+sync-error.log
 .obsidian
 .quartz-cache
 private/

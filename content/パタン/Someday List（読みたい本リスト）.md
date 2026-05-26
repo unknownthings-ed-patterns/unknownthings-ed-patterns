@@ -1,5 +1,6 @@
 ---
 type: pattern
+status: complete
 tags: [パタン, 国語, 読書指導, 選書, リーディングワークショップ, 自己選択自己決定]
 source: "Atwell, N., & Atwell Merkel, A. (2016). The Reading Zone (2nd ed.). Scholastic."
 related: [リーディング・ゾーン, ブック・トーク, Books-We-Love（本の展示コーナー）, チェックイン（Checking In）]

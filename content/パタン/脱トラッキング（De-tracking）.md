@@ -1,5 +1,6 @@
 ---
 type: pattern
+status: complete
 tags: [パタン, 算数, 数学, 公平性, グループ編成, 脱追跡, 能力別]
 source: "Boaler, J. (2016) Mathematical Mindsets. Jossey-Bass."
 related: []

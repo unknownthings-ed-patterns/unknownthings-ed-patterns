@@ -1,5 +1,6 @@
 ---
 type: pattern
+status: complete
 tags: [パタン, グループ学習, 公平性, 算数, 協同学習, 複雑指導, ステータス]
 source: "Boaler, J. (2016) Mathematical Mindsets / Boaler & Staples (2008)"
 related: []

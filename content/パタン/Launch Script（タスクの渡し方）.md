@@ -1,5 +1,6 @@
 ---
 type: pattern
+status: complete
 tags: [パタン, 算数, 数学, シンキング・タスク, BTC, Launch, 導入, 問題解決]
 source: "Liljedahl, P. & Giroux, M.（2024）Mathematics Tasks for the Thinking Classroom, Grades K-5. Corwin."
 related: [算数シンキング・タスク, 数学ワークショップ, 簡明の原則（端的に具体的に出す）, 空白禁止の原則]

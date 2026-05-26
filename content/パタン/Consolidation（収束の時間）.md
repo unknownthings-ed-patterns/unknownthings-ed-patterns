@@ -1,5 +1,6 @@
 ---
 type: pattern
+status: complete
 tags: [パタン, 算数, 数学, シンキング・タスク, BTC, 収束, Consolidation, 問題解決, まとめ]
 source: "Liljedahl, P. & Giroux, M.（2024）Mathematics Tasks for the Thinking Classroom, Grades K-5. Corwin."
 related: [算数シンキング・タスク, 数学ワークショップ, Launch Script（タスクの渡し方）, キーコンセプト（胚細胞的概念）, 具体から抽象へ]

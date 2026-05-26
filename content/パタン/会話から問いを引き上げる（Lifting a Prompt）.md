@@ -1,5 +1,6 @@
 ---
 type: pattern
+status: complete
 tags: [パタン, 国語, 読書指導, リーダーズノート, 対話, 問い, 読解ストラテジー]
 updated: 2026-05-18
 source: "Notebook Connections（Buckner, 2009）Chapter 5"

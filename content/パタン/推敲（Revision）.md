@@ -1,5 +1,6 @@
 ---
 type: pattern
+status: complete
 tags: [パタン, 国語, 作文指導, ライティングワークショップ, 推敲, リビジョン, 評価]
 source: "Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Atwell, N.（1998）In the Middle. Heinemann. / Calkins, L.（1994）The Art of Teaching Writing. Heinemann."
 related: []

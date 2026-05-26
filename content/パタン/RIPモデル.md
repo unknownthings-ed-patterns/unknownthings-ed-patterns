@@ -1,5 +1,6 @@
 ---
 type: pattern
+status: complete
 tags: [パタン, 国語, 読書指導, カンファリング, 構造化, リーディングワークショップ]
 source: "Allen, P. A.（2009）Conferring: The Keystone of Reader's Workshop. Stenhouse."
 related: []

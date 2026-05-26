@@ -1,5 +1,6 @@
 ---
 type: pattern
+status: complete
 tags: [パタン, 評価, 形成的評価, 算数, フィードバック, 自己評価, A4L, 学習する学校]
 source: "Boaler, J. (2016) Mathematical Mindsets / Butler (1988) / Cohen & Garcia (2014) / Kallick & Stiggins（in Senge et al., 2000/2012）"
 related: []

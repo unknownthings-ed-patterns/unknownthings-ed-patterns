@@ -1,5 +1,6 @@
 ---
 type: pattern
+status: complete
 tags: [パタン, 学習する学校, チーム学習, 対話, 学校改革, 専門的学習共同体, 教師の成長]
 source: "Senge et al.（2000/2012）Schools That Learn. Part IV: Team and Professional Learning."
 related: []

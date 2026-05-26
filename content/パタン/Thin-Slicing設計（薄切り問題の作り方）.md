@@ -1,5 +1,6 @@
 ---
 type: pattern
+status: complete
 tags: [パタン, 算数, 数学, 設計, Thin-Slicing, 変異理論, BTC, 問題設計, カリキュラム]
 source: "Liljedahl, P. & Giroux, M.（2024）Mathematics Tasks for the Thinking Classroom, Grades K-5. Corwin. / Marton, F. & Tsui, A. B. M.（2004）Classroom Discourse and the Space of Learning. Erlbaum."
 related: []

@@ -1,5 +1,6 @@
 ---
 type: pattern
+status: complete
 tags: [パタン, 国語, 読書指導, 共有読書, リーディングワークショップ, スキャフォールディング, 流暢さ, 語彙]
 source: "Dorn, L. J., & Soffos, C.（2005）Teaching for Deep Comprehension: A Reading Workshop Approach. Stenhouse. / Allen, J.（1999）Words, Words, Words. Stenhouse."
 related: []

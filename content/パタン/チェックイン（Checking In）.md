@@ -1,5 +1,6 @@
 ---
 type: pattern
+status: complete
 tags: [パタン, 国語, 読書指導, 形成的評価, リーディングワークショップ, カンファランス]
 source: "Atwell, N., & Atwell Merkel, A. (2016). The Reading Zone (2nd ed.). Scholastic."
 related: [1対1の面談, リーディング・ゾーン, リーディング・ワークショップ, 形成的評価, 学習のための評価（A4L）]

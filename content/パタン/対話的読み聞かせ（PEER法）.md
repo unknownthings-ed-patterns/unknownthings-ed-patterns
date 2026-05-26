@@ -1,5 +1,6 @@
 ---
 type: pattern
+status: complete
 tags: [パタン, 国語, 読書指導, 読み聞かせ, 語彙, 背景知識, 就学前, K-2, 対話]
 source: "Arnold, D. S., & Whitehurst, G. J.（1994）Accelerating Language Development through Picture Book Reading. / Willingham, D. T.（2015）Raising Kids Who Read. Jossey-Bass."
 related: []

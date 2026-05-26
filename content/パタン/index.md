@@ -1,5 +1,6 @@
 ---
 title: パタン
+status: stub
 ---
 
 # パタン

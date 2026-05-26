@@ -1,5 +1,6 @@
 ---
 type: pattern
+status: complete
 tags: [パタン, 国語, 読書指導, 読解指導, BDA, フロントローディング, 授業設計, 理科, 社会, 語彙]
 source: "Buehl, D.（2017）Classroom Strategies for Interactive Learning. Stenhouse. / Vacca & Vacca（2005）Content Area Reading. / Allen, J.（1999）Words, Words, Words. Stenhouse."
 related: []

@@ -1,5 +1,6 @@
 ---
 type: pattern
+status: complete
 tags: [パタン, 国語, 読書指導, 学習環境, 選書, リーディングワークショップ, 読書文化]
 source: "Atwell, N., & Atwell Merkel, A. (2016). The Reading Zone (2nd ed.). Scholastic."
 related: [ブック・トーク, シグニファイア, 読み書きの文化, Someday List（読みたい本リスト）, コレクション, リーディング・ゾーン]

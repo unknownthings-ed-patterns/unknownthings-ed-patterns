@@ -16,6 +16,12 @@ if [ -z "$NODE_BIN" ]; then
   exit 1
 fi
 
+# クラスター図を自動生成（<!-- cluster: manual --> のあるファイルはスキップ）
+"$NODE_BIN" generate-cluster-diagrams.mjs
+
+# lintチェック → wiki/メンテナンス/lint-report.md に書き出し
+"$NODE_BIN" lint-wiki.mjs
+
 # ObsidianのwikiをQuartzのcontentに同期（削除も反映）
 rsync -a --delete \
   --exclude='.obsidian' \
@@ -28,6 +34,7 @@ rsync -a --delete \
   --exclude='メンテナンス/旧名と現在名.md' \
   --exclude='メンテナンス/主要パタン候補.md' \
   --exclude='メンテナンス/全パタン一覧（メンテナンス）.md' \
+  --exclude='メンテナンス/lint-report.md' \
   "$SRC" "$DST"
 
 # 変更があればcommitしてpush

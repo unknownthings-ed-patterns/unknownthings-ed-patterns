@@ -68,6 +68,10 @@ flowchart LR
 
 ## Actionable Insight
 
+## 出典
+
+- Atwell, N.（1998）In the Middle. Heinemann. / Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Horn, M. & Giacobbe, M.E.（2007）Talking, Drawing, Writing. Stenhouse.
+
 - 今週の最後の5分に、1人だけ「今書いているもの」を読む時間を置く——それだけで、作品に読者が生まれる
 - 聴き手には「心に残った一文」か「もっと聞きたいところ」のどちらかを返すよう伝える——評価でなく読者として反応することを最初から明示しておく
 - 最初の3回は教師が椅子に座って自分の書きかけを読む——「先生が公開している」というモデルが、子どもの椅子へのハードルを最も下げる

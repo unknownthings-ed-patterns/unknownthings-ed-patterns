@@ -154,31 +154,31 @@ Muschla第2版（2006）で追加された章。ワープロを使った推敲�
 
 ```mermaid
 flowchart LR
-    ne587bae78988["出版（Publishing）"]
-    ne383abe383bc["ルーブリック"]
-    ne4bd9ce5aeb6["作家の椅子（Author's Chair）"]
-    ne383a9e382a4["ライティング・ワークショップ"]
-    ne68ea8e695b2["推敲（Revision）"]
-    ne8aaade381bf["読み書きの文化"]
-    ne887aae5b7b1["自己選択自己決定"]
-    ne383a9e382a4["ライティング・カンファリング"]
-    ne38389e382ad["ドキュメンテーション"]
-    ne3839de383bc["ポートフォリオファイル"]
-    ne382b3e3839f["コミュニティをつくる"]
+    ne587bae78988efbc885075626c697368696e67efbc89["出版（Publishing）"]
+    ne383abe383bce38396e383aae38383e382af["ルーブリック"]
+    ne4bd9ce5aeb6e381aee6a485e5ad90efbc88417574686f722773204368616972efbc89["作家の椅子（Author's Chair）"]
+    ne383a9e382a4e38386e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397["ライティング・ワークショップ"]
+    ne68ea8e695b2efbc885265766973696f6eefbc89["推敲（Revision）"]
+    ne8aaade381bfe69bb8e3818de381aee69687e58c96["読み書きの文化"]
+    ne887aae5b7b1e981b8e68a9ee887aae5b7b1e6b1bae5ae9a["自己選択自己決定"]
+    ne383a9e382a4e38386e382a3e383b3e382b0e383bbe382abe383b3e38395e382a1e383aae383b3e382b0["ライティング・カンファリング"]
+    ne38389e382ade383a5e383a1e383b3e38386e383bce382b7e383a7e383b3["ドキュメンテーション"]
+    ne3839de383bce38388e38395e382a9e383aae382aae38395e382a1e382a4e383ab["ポートフォリオファイル"]
+    ne382b3e3839fe383a5e3838be38386e382a3e38292e381a4e3818fe3828b["コミュニティをつくる"]
 
-    ne587bae78988 --- ne383abe383bc
-    ne587bae78988 --- ne4bd9ce5aeb6
-    ne587bae78988 --- ne383a9e382a4
-    ne587bae78988 --- ne68ea8e695b2
-    ne587bae78988 --- ne8aaade381bf
-    ne587bae78988 --- ne887aae5b7b1
-    ne587bae78988 --- ne383a9e382a4
-    ne587bae78988 --- ne38389e382ad
-    ne587bae78988 --- ne3839de383bc
-    ne587bae78988 --- ne382b3e3839f
+    ne587bae78988efbc885075626c697368696e67efbc89 --- ne383abe383bce38396e383aae38383e382af
+    ne587bae78988efbc885075626c697368696e67efbc89 --- ne4bd9ce5aeb6e381aee6a485e5ad90efbc88417574686f722773204368616972efbc89
+    ne587bae78988efbc885075626c697368696e67efbc89 --- ne383a9e382a4e38386e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397
+    ne587bae78988efbc885075626c697368696e67efbc89 --- ne68ea8e695b2efbc885265766973696f6eefbc89
+    ne587bae78988efbc885075626c697368696e67efbc89 --- ne8aaade381bfe69bb8e3818de381aee69687e58c96
+    ne587bae78988efbc885075626c697368696e67efbc89 --- ne887aae5b7b1e981b8e68a9ee887aae5b7b1e6b1bae5ae9a
+    ne587bae78988efbc885075626c697368696e67efbc89 --- ne383a9e382a4e38386e382a3e383b3e382b0e383bbe382abe383b3e38395e382a1e383aae383b3e382b0
+    ne587bae78988efbc885075626c697368696e67efbc89 --- ne38389e382ade383a5e383a1e383b3e38386e383bce382b7e383a7e383b3
+    ne587bae78988efbc885075626c697368696e67efbc89 --- ne3839de383bce38388e38395e382a9e383aae382aae38395e382a1e382a4e383ab
+    ne587bae78988efbc885075626c697368696e67efbc89 --- ne382b3e3839fe383a5e3838be38386e382a3e38292e381a4e3818fe3828b
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
-    class ne587bae78988 hub
+    class ne587bae78988efbc885075626c697368696e67efbc89 hub
 ```
 
 ## Actionable Insight

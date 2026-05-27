@@ -173,29 +173,29 @@ Muschla（2006）が提示する推敲の3つの問い：
 
 ```mermaid
 flowchart LR
-    ne68ea8e695b2["推敲（Revision）"]
-    ne383abe383bc["ルーブリック"]
-    ne383a9e382a4["ライティング・ワークショップ"]
-    ne38397e383aa["プリライティング"]
-    ne4bd9ce5aeb6["作家のクラフト"]
-    ne383a9e382a4["ライティング・カンファリング"]
-    ne587bae78988["出版（Publishing）"]
-    ne38395e382a3["フィードバック"]
-    ne382a2e383b3["アンカーチャート"]
-    n31e5afbe31e3["1対1の面談"]
+    ne68ea8e695b2efbc885265766973696f6eefbc89["推敲（Revision）"]
+    ne383abe383bce38396e383aae38383e382af["ルーブリック"]
+    ne383a9e382a4e38386e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397["ライティング・ワークショップ"]
+    ne38397e383aae383a9e382a4e38386e382a3e383b3e382b0["プリライティング"]
+    ne4bd9ce5aeb6e381aee382afe383a9e38395e38388["作家のクラフト"]
+    ne383a9e382a4e38386e382a3e383b3e382b0e383bbe382abe383b3e38395e382a1e383aae383b3e382b0["ライティング・カンファリング"]
+    ne587bae78988efbc885075626c697368696e67efbc89["出版（Publishing）"]
+    ne38395e382a3e383bce38389e38390e38383e382af["フィードバック"]
+    ne382a2e383b3e382abe383bce38381e383a3e383bce38388["アンカーチャート"]
+    n31e5afbe31e381aee99da2e8ab87["1対1の面談"]
 
-    ne68ea8e695b2 --- ne383abe383bc
-    ne68ea8e695b2 --- ne383a9e382a4
-    ne68ea8e695b2 --- ne38397e383aa
-    ne68ea8e695b2 --- ne4bd9ce5aeb6
-    ne68ea8e695b2 --- ne383a9e382a4
-    ne68ea8e695b2 --- ne587bae78988
-    ne68ea8e695b2 --- ne38395e382a3
-    ne68ea8e695b2 --- ne382a2e383b3
-    ne68ea8e695b2 --- n31e5afbe31e3
+    ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne383abe383bce38396e383aae38383e382af
+    ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne383a9e382a4e38386e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397
+    ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne38397e383aae383a9e382a4e38386e382a3e383b3e382b0
+    ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne4bd9ce5aeb6e381aee382afe383a9e38395e38388
+    ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne383a9e382a4e38386e382a3e383b3e382b0e383bbe382abe383b3e38395e382a1e383aae383b3e382b0
+    ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne587bae78988efbc885075626c697368696e67efbc89
+    ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne38395e382a3e383bce38389e38390e38383e382af
+    ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne382a2e383b3e382abe383bce38381e383a3e383bce38388
+    ne68ea8e695b2efbc885265766973696f6eefbc89 --- n31e5afbe31e381aee99da2e8ab87
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
-    class ne68ea8e695b2 hub
+    class ne68ea8e695b2efbc885265766973696f6eefbc89 hub
 ```
 
 ## Actionable Insight

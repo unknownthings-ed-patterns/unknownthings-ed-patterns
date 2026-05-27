@@ -47,15 +47,15 @@ Comparisonを設定することで、問いは検証可能な形に近づく。
 
 ```mermaid
 flowchart LR
-    n5049434fe291["PICO③Comparison"]
-    ne7869fe685ae["熟慮的問い"]
-    n5049434fe291["PICO④Outcome"]
+    n5049434fe291a2436f6d70617269736f6e["PICO③Comparison"]
+    ne7869fe685aee79a84e5958fe38184["熟慮的問い"]
+    n5049434fe291a34f7574636f6d65["PICO④Outcome"]
 
-    n5049434fe291 --- ne7869fe685ae
-    n5049434fe291 --- n5049434fe291
+    n5049434fe291a2436f6d70617269736f6e --- ne7869fe685aee79a84e5958fe38184
+    n5049434fe291a2436f6d70617269736f6e --- n5049434fe291a34f7574636f6d65
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
-    class n5049434fe291 hub
+    class n5049434fe291a2436f6d70617269736f6e hub
 ```
 
 ## Actionable Insight

@@ -203,39 +203,39 @@ KWL（K+W）        シンクアラウド         KWL（L）
 
 ```mermaid
 flowchart LR
-    n424441e38395["BDAフレームワーク"]
-    ne38386e382ad["テキスト・セット"]
-    ne8a68fe5be8b["規律的リテラシー"]
-    ne8aa9ee5bd99["語彙の評価"]
-    ne8aa9ee5bd99["語彙指導"]
-    ne68e88e6a5ad["授業の縦糸と横糸"]
-    ne9878de8a681["重要性の見極め"]
-    ne6b7b1e38184["深い理解（3水準の読解）"]
-    ne8aaade8a7a3["読解の7プロセス"]
-    ne8a1a8e78fbe["表現して学ぶ"]
+    n424441e38395e383ace383bce383a0e383afe383bce382af["BDAフレームワーク"]
+    ne38386e382ade382b9e38388e383bbe382bbe38383e38388["テキスト・セット"]
+    ne8a68fe5be8be79a84e383aae38386e383a9e382b7e383bc["規律的リテラシー"]
+    ne8aa9ee5bd99e381aee8a995e4bea1["語彙の評価"]
+    ne8aa9ee5bd99e68c87e5b08e["語彙指導"]
+    ne68e88e6a5ade381aee7b8a6e7b3b8e381a8e6a8aae7b3b8["授業の縦糸と横糸"]
+    ne9878de8a681e680a7e381aee8a68be6a5b5e38281["重要性の見極め"]
+    ne6b7b1e38184e79086e8a7a3efbc8833e6b0b4e6ba96e381aee8aaade8a7a3efbc89["深い理解（3水準の読解）"]
+    ne8aaade8a7a3e381ae37e38397e383ade382bbe382b9["読解の7プロセス"]
+    ne8a1a8e78fbee38197e381a6e5ada6e381b6["表現して学ぶ"]
     ne4ba88e6b8ac["予測"]
-    ne38386e382ad["テキスト・フレーム"]
-    ne382a2e383b3["アンティシペーション・ガイド"]
-    ne382b7e383b3["シンクアラウド"]
-    ne68ea8e8ab96["推論する（インファリング）"]
+    ne38386e382ade382b9e38388e383bbe38395e383ace383bce383a0["テキスト・フレーム"]
+    ne382a2e383b3e38386e382a3e382b7e3839ae383bce382b7e383a7e383b3e383bbe382ace382a4e38389["アンティシペーション・ガイド"]
+    ne382b7e383b3e382afe382a2e383a9e382a6e38389["シンクアラウド"]
+    ne68ea8e8ab96e38199e3828befbc88e382a4e383b3e38395e382a1e383aae383b3e382b0efbc89["推論する（インファリング）"]
 
-    n424441e38395 --- ne38386e382ad
-    n424441e38395 --- ne8a68fe5be8b
-    n424441e38395 --- ne8aa9ee5bd99
-    n424441e38395 --- ne8aa9ee5bd99
-    n424441e38395 --- ne68e88e6a5ad
-    n424441e38395 --- ne9878de8a681
-    n424441e38395 --- ne6b7b1e38184
-    n424441e38395 --- ne8aaade8a7a3
-    n424441e38395 --- ne8a1a8e78fbe
-    n424441e38395 --- ne4ba88e6b8ac
-    n424441e38395 --- ne38386e382ad
-    n424441e38395 --- ne382a2e383b3
-    n424441e38395 --- ne382b7e383b3
-    n424441e38395 --- ne68ea8e8ab96
+    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne38386e382ade382b9e38388e383bbe382bbe38383e38388
+    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne8a68fe5be8be79a84e383aae38386e383a9e382b7e383bc
+    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne8aa9ee5bd99e381aee8a995e4bea1
+    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne8aa9ee5bd99e68c87e5b08e
+    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne68e88e6a5ade381aee7b8a6e7b3b8e381a8e6a8aae7b3b8
+    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne9878de8a681e680a7e381aee8a68be6a5b5e38281
+    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne6b7b1e38184e79086e8a7a3efbc8833e6b0b4e6ba96e381aee8aaade8a7a3efbc89
+    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne8aaade8a7a3e381ae37e38397e383ade382bbe382b9
+    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne8a1a8e78fbee38197e381a6e5ada6e381b6
+    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne4ba88e6b8ac
+    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne38386e382ade382b9e38388e383bbe38395e383ace383bce383a0
+    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne382a2e383b3e38386e382a3e382b7e3839ae383bce382b7e383a7e383b3e383bbe382ace382a4e38389
+    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne382b7e383b3e382afe382a2e383a9e382a6e38389
+    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne68ea8e8ab96e38199e3828befbc88e382a4e383b3e38395e382a1e383aae383b3e382b0efbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
-    class n424441e38395 hub
+    class n424441e38395e383ace383bce383a0e383afe383bce382af hub
 ```
 
 ## Actionable Insight

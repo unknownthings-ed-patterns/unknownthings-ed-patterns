@@ -167,25 +167,25 @@ RIPモデルが機能するためには、**記録がカンファリングを支
 
 ```mermaid
 flowchart LR
-    n524950e383a2["RIPモデル"]
-    ne383a9e382a4["ライティング・カンファリング"]
-    ne383aae383bc["リーディング・ワークショップ"]
-    ne382b7e383b3["シンクアラウド"]
-    ne382a2e383b3["アンカーチャート"]
-    ne383a1e382bf["メタ認知的モニタリング"]
-    ne4b88de6809d["不思議を育てる"]
-    ne6b7b1e38281["深める問い"]
+    n524950e383a2e38387e383ab["RIPモデル"]
+    ne383a9e382a4e38386e382a3e383b3e382b0e383bbe382abe383b3e38395e382a1e383aae383b3e382b0["ライティング・カンファリング"]
+    ne383aae383bce38387e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397["リーディング・ワークショップ"]
+    ne382b7e383b3e382afe382a2e383a9e382a6e38389["シンクアラウド"]
+    ne382a2e383b3e382abe383bce38381e383a3e383bce38388["アンカーチャート"]
+    ne383a1e382bfe8aa8de79fa5e79a84e383a2e3838be382bfe383aae383b3e382b0["メタ認知的モニタリング"]
+    ne4b88de6809de8adb0e38292e882b2e381a6e3828b["不思議を育てる"]
+    ne6b7b1e38281e3828be5958fe38184["深める問い"]
 
-    n524950e383a2 --- ne383a9e382a4
-    n524950e383a2 --- ne383aae383bc
-    n524950e383a2 --- ne382b7e383b3
-    n524950e383a2 --- ne382a2e383b3
-    n524950e383a2 --- ne383a1e382bf
-    n524950e383a2 --- ne4b88de6809d
-    n524950e383a2 --- ne6b7b1e38281
+    n524950e383a2e38387e383ab --- ne383a9e382a4e38386e382a3e383b3e382b0e383bbe382abe383b3e38395e382a1e383aae383b3e382b0
+    n524950e383a2e38387e383ab --- ne383aae383bce38387e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397
+    n524950e383a2e38387e383ab --- ne382b7e383b3e382afe382a2e383a9e382a6e38389
+    n524950e383a2e38387e383ab --- ne382a2e383b3e382abe383bce38381e383a3e383bce38388
+    n524950e383a2e38387e383ab --- ne383a1e382bfe8aa8de79fa5e79a84e383a2e3838be382bfe383aae383b3e382b0
+    n524950e383a2e38387e383ab --- ne4b88de6809de8adb0e38292e882b2e381a6e3828b
+    n524950e383a2e38387e383ab --- ne6b7b1e38281e3828be5958fe38184
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
-    class n524950e383a2 hub
+    class n524950e383a2e38387e383ab hub
 ```
 
 ## Actionable Insight

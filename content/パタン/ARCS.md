@@ -59,17 +59,17 @@ source: "一つの教育のパタン・ランゲージ（岩井輝久）"
 ```mermaid
 flowchart LR
     n41524353["ARCS"]
-    ne7869fe685ae["熟慮的動機付け"]
-    ne6b3a8e6848f["注意を生み出し維持する（Attention）"]
-    ne996a2e980a3["関連性を確立し支援する（Relevance）"]
-    ne887aae4bfa1["自信を構築する（Confidence）"]
-    ne6ba80e8b6b3["満足感をもたらす（Satisfaction）"]
+    ne7869fe685aee79a84e58b95e6a99fe4bb98e38191["熟慮的動機付け"]
+    ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89["注意を生み出し維持する（Attention）"]
+    ne996a2e980a3e680a7e38292e7a2bae7ab8be38197e694afe68fb4e38199e3828befbc8852656c6576616e6365efbc89["関連性を確立し支援する（Relevance）"]
+    ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89["自信を構築する（Confidence）"]
+    ne6ba80e8b6b3e6849fe38292e38282e3819fe38289e38199efbc88536174697366616374696f6eefbc89["満足感をもたらす（Satisfaction）"]
 
-    n41524353 --- ne7869fe685ae
-    n41524353 --- ne6b3a8e6848f
-    n41524353 --- ne996a2e980a3
-    n41524353 --- ne887aae4bfa1
-    n41524353 --- ne6ba80e8b6b3
+    n41524353 --- ne7869fe685aee79a84e58b95e6a99fe4bb98e38191
+    n41524353 --- ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89
+    n41524353 --- ne996a2e980a3e680a7e38292e7a2bae7ab8be38197e694afe68fb4e38199e3828befbc8852656c6576616e6365efbc89
+    n41524353 --- ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89
+    n41524353 --- ne6ba80e8b6b3e6849fe38292e38282e3819fe38289e38199efbc88536174697366616374696f6eefbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class n41524353 hub

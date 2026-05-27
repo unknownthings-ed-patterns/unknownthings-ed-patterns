@@ -106,25 +106,25 @@ Boaler（2016）Ch.7「From Tracking to Growth Mindset Grouping」が一次資�
 
 ```mermaid
 flowchart LR
-    ne884b1e38388["脱トラッキング（De-tracking）"]
-    ne8a487e99b91["複雑指導（Complex Instruction）"]
-    ne8b18ae3818b["豊かな課題"]
-    ne7ae97e695b0["算数の公平性"]
-    ne68890e995b7["成長マインドセット"]
-    ne5a49ae6a798["多様な演習レベル"]
-    ne68e88e6a5ad["授業のユニバーサルデザイン"]
-    ne887aae5b7b1["自己選択自己決定"]
+    ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89["脱トラッキング（De-tracking）"]
+    ne8a487e99b91e68c87e5b08eefbc88436f6d706c657820496e737472756374696f6eefbc89["複雑指導（Complex Instruction）"]
+    ne8b18ae3818be381aae8aab2e9a18c["豊かな課題"]
+    ne7ae97e695b0e381aee585ace5b9b3e680a7["算数の公平性"]
+    ne68890e995b7e3839ee382a4e383b3e38389e382bbe38383e38388["成長マインドセット"]
+    ne5a49ae6a798e381aae6bc94e7bf92e383ace38399e383ab["多様な演習レベル"]
+    ne68e88e6a5ade381aee383a6e3838be38390e383bce382b5e383abe38387e382b6e382a4e383b3["授業のユニバーサルデザイン"]
+    ne887aae5b7b1e981b8e68a9ee887aae5b7b1e6b1bae5ae9a["自己選択自己決定"]
 
-    ne884b1e38388 --- ne8a487e99b91
-    ne884b1e38388 --- ne8b18ae3818b
-    ne884b1e38388 --- ne7ae97e695b0
-    ne884b1e38388 --- ne68890e995b7
-    ne884b1e38388 --- ne5a49ae6a798
-    ne884b1e38388 --- ne68e88e6a5ad
-    ne884b1e38388 --- ne887aae5b7b1
+    ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89 --- ne8a487e99b91e68c87e5b08eefbc88436f6d706c657820496e737472756374696f6eefbc89
+    ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89 --- ne8b18ae3818be381aae8aab2e9a18c
+    ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89 --- ne7ae97e695b0e381aee585ace5b9b3e680a7
+    ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89 --- ne68890e995b7e3839ee382a4e383b3e38389e382bbe38383e38388
+    ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89 --- ne5a49ae6a798e381aae6bc94e7bf92e383ace38399e383ab
+    ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89 --- ne68e88e6a5ade381aee383a6e3838be38390e383bce382b5e383abe38387e382b6e382a4e383b3
+    ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89 --- ne887aae5b7b1e981b8e68a9ee887aae5b7b1e6b1bae5ae9a
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
-    class ne884b1e38388 hub
+    class ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89 hub
 ```
 
 ## Actionable Insight

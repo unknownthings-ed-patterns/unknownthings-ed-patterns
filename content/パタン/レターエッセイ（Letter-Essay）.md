@@ -133,21 +133,21 @@ updated: 2026-05-17
 
 ```mermaid
 flowchart LR
-    ne383ace382bf["レターエッセイ（Letter-Essay）"]
-    ne383aae383bc["リーダーズ・ノート"]
-    ne383aae383bc["リーディング・ゾーン"]
-    ne38395e382a3["フィードバック文化"]
-    ne8aaade69bb8["読書アイデンティティ"]
-    ne8a1a8e78fbe["表現して学ぶ"]
+    ne383ace382bfe383bce382a8e38383e382bbe382a4efbc884c65747465722d4573736179efbc89["レターエッセイ（Letter-Essay）"]
+    ne383aae383bce38380e383bce382bae383bbe3838ee383bce38388["リーダーズ・ノート"]
+    ne383aae383bce38387e382a3e383b3e382b0e383bbe382bee383bce383b3["リーディング・ゾーン"]
+    ne38395e382a3e383bce38389e38390e38383e382afe69687e58c96["フィードバック文化"]
+    ne8aaade69bb8e382a2e382a4e38387e383b3e38386e382a3e38386e382a3["読書アイデンティティ"]
+    ne8a1a8e78fbee38197e381a6e5ada6e381b6["表現して学ぶ"]
 
-    ne383ace382bf --- ne383aae383bc
-    ne383ace382bf --- ne383aae383bc
-    ne383ace382bf --- ne38395e382a3
-    ne383ace382bf --- ne8aaade69bb8
-    ne383ace382bf --- ne8a1a8e78fbe
+    ne383ace382bfe383bce382a8e38383e382bbe382a4efbc884c65747465722d4573736179efbc89 --- ne383aae383bce38380e383bce382bae383bbe3838ee383bce38388
+    ne383ace382bfe383bce382a8e38383e382bbe382a4efbc884c65747465722d4573736179efbc89 --- ne383aae383bce38387e382a3e383b3e382b0e383bbe382bee383bce383b3
+    ne383ace382bfe383bce382a8e38383e382bbe382a4efbc884c65747465722d4573736179efbc89 --- ne38395e382a3e383bce38389e38390e38383e382afe69687e58c96
+    ne383ace382bfe383bce382a8e38383e382bbe382a4efbc884c65747465722d4573736179efbc89 --- ne8aaade69bb8e382a2e382a4e38387e383b3e38386e382a3e38386e382a3
+    ne383ace382bfe383bce382a8e38383e382bbe382a4efbc884c65747465722d4573736179efbc89 --- ne8a1a8e78fbee38197e381a6e5ada6e381b6
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
-    class ne383ace382bf hub
+    class ne383ace382bfe383bce382a8e38383e382bbe382a4efbc884c65747465722d4573736179efbc89 hub
 ```
 
 ## Actionable Insight

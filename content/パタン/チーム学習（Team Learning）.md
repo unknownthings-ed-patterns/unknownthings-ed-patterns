@@ -164,25 +164,25 @@ Sengeが組織一般に描いた学習障害を、学校チームに具体化す
 
 ```mermaid
 flowchart LR
-    ne38381e383bc["チーム学習（Team Learning）"]
-    ne5ada6e7bf92["学習する学校"]
-    ne38380e382a4["ダイアログ"]
-    ne38391e383bc["パーソナル・マスタリー"]
-    ne68ea8e8ab96["推論のはしご"]
-    ne38395e382a3["フィードバックシステム"]
-    ne58886e695a3["分散型リーダーシップ"]
-    ne585b1e69c89["共有ビジョンのプロセス"]
+    ne38381e383bce383a0e5ada6e7bf92efbc885465616d204c6561726e696e67efbc89["チーム学習（Team Learning）"]
+    ne5ada6e7bf92e38199e3828be5ada6e6a0a1["学習する学校"]
+    ne38380e382a4e382a2e383ade382b0["ダイアログ"]
+    ne38391e383bce382bde3838ae383abe383bbe3839ee382b9e382bfe383aae383bc["パーソナル・マスタリー"]
+    ne68ea8e8ab96e381aee381afe38197e38194["推論のはしご"]
+    ne38395e382a3e383bce38389e38390e38383e382afe382b7e382b9e38386e383a0["フィードバックシステム"]
+    ne58886e695a3e59e8be383aae383bce38380e383bce382b7e38383e38397["分散型リーダーシップ"]
+    ne585b1e69c89e38393e382b8e383a7e383b3e381aee38397e383ade382bbe382b9["共有ビジョンのプロセス"]
 
-    ne38381e383bc --- ne5ada6e7bf92
-    ne38381e383bc --- ne38380e382a4
-    ne38381e383bc --- ne38391e383bc
-    ne38381e383bc --- ne68ea8e8ab96
-    ne38381e383bc --- ne38395e382a3
-    ne38381e383bc --- ne58886e695a3
-    ne38381e383bc --- ne585b1e69c89
+    ne38381e383bce383a0e5ada6e7bf92efbc885465616d204c6561726e696e67efbc89 --- ne5ada6e7bf92e38199e3828be5ada6e6a0a1
+    ne38381e383bce383a0e5ada6e7bf92efbc885465616d204c6561726e696e67efbc89 --- ne38380e382a4e382a2e383ade382b0
+    ne38381e383bce383a0e5ada6e7bf92efbc885465616d204c6561726e696e67efbc89 --- ne38391e383bce382bde3838ae383abe383bbe3839ee382b9e382bfe383aae383bc
+    ne38381e383bce383a0e5ada6e7bf92efbc885465616d204c6561726e696e67efbc89 --- ne68ea8e8ab96e381aee381afe38197e38194
+    ne38381e383bce383a0e5ada6e7bf92efbc885465616d204c6561726e696e67efbc89 --- ne38395e382a3e383bce38389e38390e38383e382afe382b7e382b9e38386e383a0
+    ne38381e383bce383a0e5ada6e7bf92efbc885465616d204c6561726e696e67efbc89 --- ne58886e695a3e59e8be383aae383bce38380e383bce382b7e38383e38397
+    ne38381e383bce383a0e5ada6e7bf92efbc885465616d204c6561726e696e67efbc89 --- ne585b1e69c89e38393e382b8e383a7e383b3e381aee38397e383ade382bbe382b9
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
-    class ne38381e383bc hub
+    class ne38381e383bce383a0e5ada6e7bf92efbc885465616d204c6561726e696e67efbc89 hub
 ```
 
 ## Actionable Insight

@@ -126,23 +126,23 @@ Dickinson, Golinkoff & Hirsh-Pasek（2010）：就学前の読み聞かせ（PEE
 
 ```mermaid
 flowchart LR
-    ne5afbee8a9b1["対話的読み聞かせ（PEER法）"]
-    ne8aaade381bf["読み聞かせ"]
-    ne8838ce699af["背景知識"]
-    ne8aa9ee5bd99["語彙の指導"]
-    ne382b7e383b3["シンクアラウド"]
-    ne4b88de6809d["不思議を育てる"]
-    ne8aaade69bb8["読書アイデンティティ"]
+    ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89["対話的読み聞かせ（PEER法）"]
+    ne8aaade381bfe8819ee3818be3819b["読み聞かせ"]
+    ne8838ce699afe79fa5e8ad98["背景知識"]
+    ne8aa9ee5bd99e381aee68c87e5b08e["語彙の指導"]
+    ne382b7e383b3e382afe382a2e383a9e382a6e38389["シンクアラウド"]
+    ne4b88de6809de8adb0e38292e882b2e381a6e3828b["不思議を育てる"]
+    ne8aaade69bb8e382a2e382a4e38387e383b3e38386e382a3e38386e382a3["読書アイデンティティ"]
 
-    ne5afbee8a9b1 --- ne8aaade381bf
-    ne5afbee8a9b1 --- ne8838ce699af
-    ne5afbee8a9b1 --- ne8aa9ee5bd99
-    ne5afbee8a9b1 --- ne382b7e383b3
-    ne5afbee8a9b1 --- ne4b88de6809d
-    ne5afbee8a9b1 --- ne8aaade69bb8
+    ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne8aaade381bfe8819ee3818be3819b
+    ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne8838ce699afe79fa5e8ad98
+    ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne8aa9ee5bd99e381aee68c87e5b08e
+    ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne382b7e383b3e382afe382a2e383a9e382a6e38389
+    ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne4b88de6809de8adb0e38292e882b2e381a6e3828b
+    ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne8aaade69bb8e382a2e382a4e38387e383b3e38386e382a3e38386e382a3
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
-    class ne5afbee8a9b1 hub
+    class ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 hub
 ```
 
 ## Actionable Insight

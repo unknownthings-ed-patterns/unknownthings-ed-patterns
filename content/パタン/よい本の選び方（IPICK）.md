@@ -205,31 +205,31 @@ CとKがOKなら「今の自分に合う本」
 
 ```mermaid
 flowchart LR
-    ne38288e38184["よい本の選び方（IPICK）"]
-    ne887aae5b7b1["自己選択自己決定"]
-    ne8aaade69bb8["読書アイデンティティ"]
-    ne383aae383bc["リーディング・ワークショップ"]
-    ne38387e382a4["デイリー5"]
-    ne383a1e382bf["メタ意識"]
-    ne887aae5b7b1["自己調整"]
-    ne382b7e383b3["シンクアラウド"]
-    ne8838ce699af["背景知識"]
-    n536f6d656461["Someday List（読みたい本リスト）"]
-    ne69599e5aea4["教室図書館"]
+    ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89["よい本の選び方（IPICK）"]
+    ne887aae5b7b1e981b8e68a9ee887aae5b7b1e6b1bae5ae9a["自己選択自己決定"]
+    ne8aaade69bb8e382a2e382a4e38387e383b3e38386e382a3e38386e382a3["読書アイデンティティ"]
+    ne383aae383bce38387e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397["リーディング・ワークショップ"]
+    ne38387e382a4e383aae383bc35["デイリー5"]
+    ne383a1e382bfe6848fe8ad98["メタ意識"]
+    ne887aae5b7b1e8aabfe695b4["自己調整"]
+    ne382b7e383b3e382afe382a2e383a9e382a6e38389["シンクアラウド"]
+    ne8838ce699afe79fa5e8ad98["背景知識"]
+    n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89["Someday List（読みたい本リスト）"]
+    ne69599e5aea4e59bb3e69bb8e9a4a8["教室図書館"]
 
-    ne38288e38184 --- ne887aae5b7b1
-    ne38288e38184 --- ne8aaade69bb8
-    ne38288e38184 --- ne383aae383bc
-    ne38288e38184 --- ne38387e382a4
-    ne38288e38184 --- ne383a1e382bf
-    ne38288e38184 --- ne887aae5b7b1
-    ne38288e38184 --- ne382b7e383b3
-    ne38288e38184 --- ne8838ce699af
-    ne38288e38184 --- n536f6d656461
-    ne38288e38184 --- ne69599e5aea4
+    ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne887aae5b7b1e981b8e68a9ee887aae5b7b1e6b1bae5ae9a
+    ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne8aaade69bb8e382a2e382a4e38387e383b3e38386e382a3e38386e382a3
+    ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne383aae383bce38387e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397
+    ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne38387e382a4e383aae383bc35
+    ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne383a1e382bfe6848fe8ad98
+    ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne887aae5b7b1e8aabfe695b4
+    ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne382b7e383b3e382afe382a2e383a9e382a6e38389
+    ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne8838ce699afe79fa5e8ad98
+    ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89
+    ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne69599e5aea4e59bb3e69bb8e9a4a8
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
-    class ne38288e38184 hub
+    class ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 hub
 ```
 
 ## Actionable Insight

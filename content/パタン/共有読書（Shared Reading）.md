@@ -181,31 +181,31 @@ Dorn & Soffos は読者の発達段階によって共有読書の言語を変え
 
 ```mermaid
 flowchart LR
-    ne585b1e69c89["共有読書（Shared Reading）"]
-    ne8aa9ee5bd99["語彙指導"]
-    ne8aaade88085["読者のツールボックス"]
-    ne383aae383bc["リーディング・ワークショップ"]
-    ne3839fe3838b["ミニレッスン・サイクル"]
-    ne382b7e383b3["シンクアラウド"]
-    ne6b7b1e38184["深い理解（3水準の読解）"]
-    ne382a2e383b3["アンカーチャート"]
-    ne8838ce699af["背景知識"]
-    ne382b9e382bf["スタミナを育てる"]
-    ne69687e5ada6["文学討論グループ"]
+    ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89["共有読書（Shared Reading）"]
+    ne8aa9ee5bd99e68c87e5b08e["語彙指導"]
+    ne8aaade88085e381aee38384e383bce383abe3839ce38383e382afe382b9["読者のツールボックス"]
+    ne383aae383bce38387e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397["リーディング・ワークショップ"]
+    ne3839fe3838be383ace38383e382b9e383b3e383bbe382b5e382a4e382afe383ab["ミニレッスン・サイクル"]
+    ne382b7e383b3e382afe382a2e383a9e382a6e38389["シンクアラウド"]
+    ne6b7b1e38184e79086e8a7a3efbc8833e6b0b4e6ba96e381aee8aaade8a7a3efbc89["深い理解（3水準の読解）"]
+    ne382a2e383b3e382abe383bce38381e383a3e383bce38388["アンカーチャート"]
+    ne8838ce699afe79fa5e8ad98["背景知識"]
+    ne382b9e382bfe3839fe3838ae38292e882b2e381a6e3828b["スタミナを育てる"]
+    ne69687e5ada6e8a88ee8ab96e382b0e383abe383bce38397["文学討論グループ"]
 
-    ne585b1e69c89 --- ne8aa9ee5bd99
-    ne585b1e69c89 --- ne8aaade88085
-    ne585b1e69c89 --- ne383aae383bc
-    ne585b1e69c89 --- ne3839fe3838b
-    ne585b1e69c89 --- ne382b7e383b3
-    ne585b1e69c89 --- ne6b7b1e38184
-    ne585b1e69c89 --- ne382a2e383b3
-    ne585b1e69c89 --- ne8838ce699af
-    ne585b1e69c89 --- ne382b9e382bf
-    ne585b1e69c89 --- ne69687e5ada6
+    ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 --- ne8aa9ee5bd99e68c87e5b08e
+    ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 --- ne8aaade88085e381aee38384e383bce383abe3839ce38383e382afe382b9
+    ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 --- ne383aae383bce38387e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397
+    ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 --- ne3839fe3838be383ace38383e382b9e383b3e383bbe382b5e382a4e382afe383ab
+    ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 --- ne382b7e383b3e382afe382a2e383a9e382a6e38389
+    ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 --- ne6b7b1e38184e79086e8a7a3efbc8833e6b0b4e6ba96e381aee8aaade8a7a3efbc89
+    ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 --- ne382a2e383b3e382abe383bce38381e383a3e383bce38388
+    ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 --- ne8838ce699afe79fa5e8ad98
+    ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 --- ne382b9e382bfe3839fe3838ae38292e882b2e381a6e3828b
+    ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 --- ne69687e5ada6e8a88ee8ab96e382b0e383abe383bce38397
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
-    class ne585b1e69c89 hub
+    class ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 hub
 ```
 
 ## Actionable Insight

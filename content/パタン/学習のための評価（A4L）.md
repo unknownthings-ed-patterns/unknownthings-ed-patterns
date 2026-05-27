@@ -188,27 +188,27 @@ Cohen & Garciaの研究では、課題の返却時に「私はあなたを信じ
 
 ```mermaid
 flowchart LR
-    ne5ada6e7bf92["学習のための評価（A4L）"]
-    ne38381e382a7["チェックイン（Checking In）"]
-    ne5bda2e68890["形成的評価"]
-    ne68890e995b7["成長マインドセット"]
-    ne38395e382a3["フィードバック"]
-    ne99693e98195["間違いや失敗から学ぶ文化"]
-    ne887aae5b7b1["自己選択自己決定"]
-    ne588b0e98194["到達レベルの自己評価"]
-    ne5ada6e7bf92["学習する学校"]
+    ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89["学習のための評価（A4L）"]
+    ne38381e382a7e38383e382afe382a4e383b3efbc88436865636b696e6720496eefbc89["チェックイン（Checking In）"]
+    ne5bda2e68890e79a84e8a995e4bea1["形成的評価"]
+    ne68890e995b7e3839ee382a4e383b3e38389e382bbe38383e38388["成長マインドセット"]
+    ne38395e382a3e383bce38389e38390e38383e382af["フィードバック"]
+    ne99693e98195e38184e38284e5a4b1e69597e3818be38289e5ada6e381b6e69687e58c96["間違いや失敗から学ぶ文化"]
+    ne887aae5b7b1e981b8e68a9ee887aae5b7b1e6b1bae5ae9a["自己選択自己決定"]
+    ne588b0e98194e383ace38399e383abe381aee887aae5b7b1e8a995e4bea1["到達レベルの自己評価"]
+    ne5ada6e7bf92e38199e3828be5ada6e6a0a1["学習する学校"]
 
-    ne5ada6e7bf92 --- ne38381e382a7
-    ne5ada6e7bf92 --- ne5bda2e68890
-    ne5ada6e7bf92 --- ne68890e995b7
-    ne5ada6e7bf92 --- ne38395e382a3
-    ne5ada6e7bf92 --- ne99693e98195
-    ne5ada6e7bf92 --- ne887aae5b7b1
-    ne5ada6e7bf92 --- ne588b0e98194
-    ne5ada6e7bf92 --- ne5ada6e7bf92
+    ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne38381e382a7e38383e382afe382a4e383b3efbc88436865636b696e6720496eefbc89
+    ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne5bda2e68890e79a84e8a995e4bea1
+    ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne68890e995b7e3839ee382a4e383b3e38389e382bbe38383e38388
+    ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne38395e382a3e383bce38389e38390e38383e382af
+    ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne99693e98195e38184e38284e5a4b1e69597e3818be38289e5ada6e381b6e69687e58c96
+    ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne887aae5b7b1e981b8e68a9ee887aae5b7b1e6b1bae5ae9a
+    ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne588b0e98194e383ace38399e383abe381aee887aae5b7b1e8a995e4bea1
+    ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne5ada6e7bf92e38199e3828be5ada6e6a0a1
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
-    class ne5ada6e7bf92 hub
+    class ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 hub
 ```
 
 ## Actionable Insight

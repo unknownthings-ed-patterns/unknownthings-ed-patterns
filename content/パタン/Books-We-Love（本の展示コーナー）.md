@@ -119,27 +119,27 @@ CTLでの記録によれば、生徒の選書の約3回に1回はBooks-We-Love�
 
 ```mermaid
 flowchart LR
-    n426f6f6b732d["Books-We-Love（本の展示コーナー）"]
-    ne382a2e383aa["アリテラシー（読む意志）"]
-    ne89197e88085["著者研究"]
-    ne38396e38383["ブック・トーク"]
-    ne382b7e382b0["シグニファイア"]
-    ne8aaade381bf["読み書きの文化"]
-    n536f6d656461["Someday List（読みたい本リスト）"]
-    ne382b3e383ac["コレクション"]
-    ne383aae383bc["リーディング・ゾーン"]
+    n426f6f6b732d57652d4c6f7665efbc88e69cace381aee5b195e7a4bae382b3e383bce3838ae383bcefbc89["Books-We-Love（本の展示コーナー）"]
+    ne382a2e383aae38386e383a9e382b7e383bcefbc88e8aaade38280e6848fe5bf97efbc89["アリテラシー（読む意志）"]
+    ne89197e88085e7a094e7a9b6["著者研究"]
+    ne38396e38383e382afe383bbe38388e383bce382af["ブック・トーク"]
+    ne382b7e382b0e3838be38395e382a1e382a4e382a2["シグニファイア"]
+    ne8aaade381bfe69bb8e3818de381aee69687e58c96["読み書きの文化"]
+    n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89["Someday List（読みたい本リスト）"]
+    ne382b3e383ace382afe382b7e383a7e383b3["コレクション"]
+    ne383aae383bce38387e382a3e383b3e382b0e383bbe382bee383bce383b3["リーディング・ゾーン"]
 
-    n426f6f6b732d --- ne382a2e383aa
-    n426f6f6b732d --- ne89197e88085
-    n426f6f6b732d --- ne38396e38383
-    n426f6f6b732d --- ne382b7e382b0
-    n426f6f6b732d --- ne8aaade381bf
-    n426f6f6b732d --- n536f6d656461
-    n426f6f6b732d --- ne382b3e383ac
-    n426f6f6b732d --- ne383aae383bc
+    n426f6f6b732d57652d4c6f7665efbc88e69cace381aee5b195e7a4bae382b3e383bce3838ae383bcefbc89 --- ne382a2e383aae38386e383a9e382b7e383bcefbc88e8aaade38280e6848fe5bf97efbc89
+    n426f6f6b732d57652d4c6f7665efbc88e69cace381aee5b195e7a4bae382b3e383bce3838ae383bcefbc89 --- ne89197e88085e7a094e7a9b6
+    n426f6f6b732d57652d4c6f7665efbc88e69cace381aee5b195e7a4bae382b3e383bce3838ae383bcefbc89 --- ne38396e38383e382afe383bbe38388e383bce382af
+    n426f6f6b732d57652d4c6f7665efbc88e69cace381aee5b195e7a4bae382b3e383bce3838ae383bcefbc89 --- ne382b7e382b0e3838be38395e382a1e382a4e382a2
+    n426f6f6b732d57652d4c6f7665efbc88e69cace381aee5b195e7a4bae382b3e383bce3838ae383bcefbc89 --- ne8aaade381bfe69bb8e3818de381aee69687e58c96
+    n426f6f6b732d57652d4c6f7665efbc88e69cace381aee5b195e7a4bae382b3e383bce3838ae383bcefbc89 --- n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89
+    n426f6f6b732d57652d4c6f7665efbc88e69cace381aee5b195e7a4bae382b3e383bce3838ae383bcefbc89 --- ne382b3e383ace382afe382b7e383a7e383b3
+    n426f6f6b732d57652d4c6f7665efbc88e69cace381aee5b195e7a4bae382b3e383bce3838ae383bcefbc89 --- ne383aae383bce38387e382a3e383b3e382b0e383bbe382bee383bce383b3
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
-    class n426f6f6b732d hub
+    class n426f6f6b732d57652d4c6f7665efbc88e69cace381aee5b195e7a4bae382b3e383bce3838ae383bcefbc89 hub
 ```
 
 ## Actionable Insight

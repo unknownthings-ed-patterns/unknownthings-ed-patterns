@@ -32,6 +32,29 @@ ARCSモデルの最初の要素。どれだけ重要な内容でも、学習者�
 - 内容への入口が開かれ、後続の学習に取り組む下地が整う
 - 注意喚起だけでなく関連性・自信・満足との組み合わせが重要であることを意識できる
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89["注意を生み出し維持する（Attention）"]
+    ne5ada6e7bf92e88488e7b5a1e381aee5a489e68f9b["学習脈絡の変換"]
+    ne7869fe685aee79a84e58b95e6a99fe4bb98e38191["熟慮的動機付け"]
+    n41524353["ARCS"]
+    n41312ee88888e591b3e381aee78db2e5be97efbc88e79fa5e8a69ae79a84e5969ae8b5b7efbc89["A1.興味の獲得（知覚的喚起）"]
+    n41322ee68ea2e7a9b6e5bf83e381aee588bae6bf80efbc88e5969ae8b5b7efbc89["A2.探究心の刺激（喚起）"]
+    n41332ee6b3a8e6848fe381aee68c81e7b69aefbc88e5a489e58c96e680a7efbc89["A3.注意の持続（変化性）"]
+
+    ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89 --- ne5ada6e7bf92e88488e7b5a1e381aee5a489e68f9b
+    ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89 --- ne7869fe685aee79a84e58b95e6a99fe4bb98e38191
+    ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89 --- n41524353
+    ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89 --- n41312ee88888e591b3e381aee78db2e5be97efbc88e79fa5e8a69ae79a84e5969ae8b5b7efbc89
+    ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89 --- n41322ee68ea2e7a9b6e5bf83e381aee588bae6bf80efbc88e5969ae8b5b7efbc89
+    ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89 --- n41332ee6b3a8e6848fe381aee68c81e7b69aefbc88e5a489e58c96e680a7efbc89
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89 hub
+```
+
 ## Actionable Insight
 
 - 授業の冒頭に「驚きの事実・デモ・謎めいた問い」を1つ置く——学習者が「気になる」と感じることが学習の入り口を開く最初の鍵

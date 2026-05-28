@@ -31,6 +31,27 @@ PowerPointなどのスライドプレゼンテーションは、技術的な準�
 - 発表者と聴衆の距離が縮まり、対話的な発表になりやすい
 - 学習者が「作って発表する」経験を通じて説明力と構成力を育てられる
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    ne7b499e88a9de5b185efbc884b50e6b395efbc89["紙芝居（KP法）"]
+    ne7869fe685aee79a84e382a4e383b3e382b9e38388e383a9e382afe382b7e383a7e383b3["熟慮的インストラクション"]
+    ne6a78be980a0e696b9e795a5efbc88e6a899e8ad98e58c96efbc89["構造方略（標識化）"]
+    ne59bb3e8a7a3["図解"]
+    ne5bcb7e8aabf["強調"]
+    ne58588e8a18ce382aae383bce382ace3838ae382a4e382b6e383bc["先行オーガナイザー"]
+
+    ne7b499e88a9de5b185efbc884b50e6b395efbc89 --- ne7869fe685aee79a84e382a4e383b3e382b9e38388e383a9e382afe382b7e383a7e383b3
+    ne7b499e88a9de5b185efbc884b50e6b395efbc89 --- ne6a78be980a0e696b9e795a5efbc88e6a899e8ad98e58c96efbc89
+    ne7b499e88a9de5b185efbc884b50e6b395efbc89 --- ne59bb3e8a7a3
+    ne7b499e88a9de5b185efbc884b50e6b395efbc89 --- ne5bcb7e8aabf
+    ne7b499e88a9de5b185efbc884b50e6b395efbc89 --- ne58588e8a18ce382aae383bce382ace3838ae382a4e382b6e383bc
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class ne7b499e88a9de5b185efbc884b50e6b395efbc89 hub
+```
+
 ## Actionable Insight
 
 - 説明したい内容をA4紙に1枚1メッセージで手書きし、順番に見せながら話す——紙をめくるリズムが聴衆の注意を維持し、発表者と聴衆の距離を縮める

@@ -32,6 +32,31 @@ ARCSモデルの第3要素。学習内容が関連性を持っていても、「
 - 成功体験の蓄積が次の挑戦への動機となる好循環が生まれる
 - 教師は「できた」を意図的に設計することの重要性を意識できる
 
+## クラスター図
+
+```mermaid
+flowchart LR
+    ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89["自信を構築する（Confidence）"]
+    ne6bf80e58ab1e381aee58e9fe58987["激励の原則"]
+    ne5a4b1e69597e38292e7b584e381bfe8bebce38280["失敗を組み込む"]
+    ne7869fe685aee79a84e58b95e6a99fe4bb98e38191["熟慮的動機付け"]
+    n41524353["ARCS"]
+    n43312ee68890e58a9fe381b8e381aee69c9fe5be85e6849fefbc88e5ada6e7bf92e8a681e6b182efbc89["C1.成功への期待感（学習要求）"]
+    n43322ee68890e58a9fe381aee6a99fe4bc9a["C2.成功の機会"]
+    n43332ee5808be4babae381aee8b2ace4bbbbefbc88e5808be4babae79a84e381aae382b3e383b3e38388e383ade383bce383abefbc89["C3.個人の責任（個人的なコントロール）"]
+
+    ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89 --- ne6bf80e58ab1e381aee58e9fe58987
+    ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89 --- ne5a4b1e69597e38292e7b584e381bfe8bebce38280
+    ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89 --- ne7869fe685aee79a84e58b95e6a99fe4bb98e38191
+    ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89 --- n41524353
+    ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89 --- n43312ee68890e58a9fe381b8e381aee69c9fe5be85e6849fefbc88e5ada6e7bf92e8a681e6b182efbc89
+    ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89 --- n43322ee68890e58a9fe381aee6a99fe4bc9a
+    ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89 --- n43332ee5808be4babae381aee8b2ace4bbbbefbc88e5808be4babae79a84e381aae382b3e383b3e38388e383ade383bce383abefbc89
+
+    classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
+    class ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89 hub
+```
+
 ## Actionable Insight
 
 - 難しい課題の最初に「必ずできる小さな成功体験」を意図的に設計する——最初の成功がその後の挑戦意欲と粘り強さの土台になる

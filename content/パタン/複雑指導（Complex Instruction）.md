@@ -147,6 +147,7 @@ California、Railside Schoolで4年間の縦断調査。複雑指導を使った
 - 副次効果として、上位生徒が説明・つなぎ・視点の提供という高次の思考を経験する
 
 ## 関連パタン
+- [[パタン/数学ワークショップ]]
 
 - [[パタン/豊かな課題]] — 複雑指導が機能するには「グループワークに値する問題」が必要。一問一答型の課題では多次元性が生まれない
 - [[パタン/成長マインドセット]] — 多次元性こそ、成長マインドセットの「誰でも成長できる」を学習環境の構造で実装したもの
@@ -163,6 +164,7 @@ California、Railside Schoolで4年間の縦断調査。複雑指導を使った
 ```mermaid
 flowchart LR
     ne8a487e99b91e68c87e5b08eefbc88436f6d706c657820496e737472756374696f6eefbc89["複雑指導（Complex Instruction）"]
+    ne695b0e5ada6e383afe383bce382afe382b7e383a7e38383e38397["数学ワークショップ"]
     ne8b18ae3818be381aae8aab2e9a18c["豊かな課題"]
     ne68890e995b7e3839ee382a4e383b3e38389e382bbe38383e38388["成長マインドセット"]
     ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89["脱トラッキング（De-tracking）"]
@@ -170,6 +172,7 @@ flowchart LR
     ne5bf83e79086e79a84e5ae89e585a8e680a7efbc88e382b3e383b3e38395e382a9e383bce38388e382bee383bce383b3efbc89["心理的安全性（コンフォートゾーン）"]
     ne883bde58b95e79a84e996a2e4b88e["能動的関与"]
 
+    ne8a487e99b91e68c87e5b08eefbc88436f6d706c657820496e737472756374696f6eefbc89 --- ne695b0e5ada6e383afe383bce382afe382b7e383a7e38383e38397
     ne8a487e99b91e68c87e5b08eefbc88436f6d706c657820496e737472756374696f6eefbc89 --- ne8b18ae3818be381aae8aab2e9a18c
     ne8a487e99b91e68c87e5b08eefbc88436f6d706c657820496e737472756374696f6eefbc89 --- ne68890e995b7e3839ee382a4e383b3e38389e382bbe38383e38388
     ne8a487e99b91e68c87e5b08eefbc88436f6d706c657820496e737472756374696f6eefbc89 --- ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89

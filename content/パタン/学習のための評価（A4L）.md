@@ -170,6 +170,7 @@ Cohen & Garciaの研究では、課題の返却時に「私はあなたを信じ
 - 低ステータスの生徒が「評価される恐怖」より「学習のナビゲーション」として評価を活用し始める
 
 ## 関連パタン
+- [[パタン/数学ワークショップ]]
 - [[パタン/チェックイン（Checking In）]]
 
 - [[パタン/形成的評価]] — A4Lの理論的基盤。本パタンは算数における具体的実装
@@ -189,6 +190,7 @@ Cohen & Garciaの研究では、課題の返却時に「私はあなたを信じ
 ```mermaid
 flowchart LR
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89["学習のための評価（A4L）"]
+    ne695b0e5ada6e383afe383bce382afe382b7e383a7e38383e38397["数学ワークショップ"]
     ne38381e382a7e38383e382afe382a4e383b3efbc88436865636b696e6720496eefbc89["チェックイン（Checking In）"]
     ne5bda2e68890e79a84e8a995e4bea1["形成的評価"]
     ne68890e995b7e3839ee382a4e383b3e38389e382bbe38383e38388["成長マインドセット"]
@@ -198,6 +200,7 @@ flowchart LR
     ne588b0e98194e383ace38399e383abe381aee887aae5b7b1e8a995e4bea1["到達レベルの自己評価"]
     ne5ada6e7bf92e38199e3828be5ada6e6a0a1["学習する学校"]
 
+    ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne695b0e5ada6e383afe383bce382afe382b7e383a7e38383e38397
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne38381e382a7e38383e382afe382a4e383b3efbc88436865636b696e6720496eefbc89
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne5bda2e68890e79a84e8a995e4bea1
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne68890e995b7e3839ee382a4e383b3e38389e382bbe38383e38388

@@ -119,6 +119,7 @@ Thin-Slicingのタスクでは、収束（Consolidation）の中心的な問い�
 - Thin-Slicingは教師が事前に「不変にしたいもの」を明確に決めていないと設計できない——準備の密度が問われる
 
 ## 関連パタン
+- [[パタン/コペルニクス的転回（認識論）]]
 - [[パタン/4象限ノートテンプレート（意味のあるノート）]]
 
 - [[パタン/算数シンキング・タスク]] — Thin-Slicingはカリキュラムタスク設計の核心原理
@@ -138,6 +139,7 @@ Thin-Slicingのタスクでは、収束（Consolidation）の中心的な問い�
 ```mermaid
 flowchart LR
     n5468696e2d536c6963696e67e8a8ade8a888efbc88e89684e58887e3828ae5958fe9a18ce381aee4bd9ce3828ae696b9efbc89["Thin-Slicing設計（薄切り問題の作り方）"]
+    ne382b3e3839ae383abe3838be382afe382b9e79a84e8bba2e59b9eefbc88e8aa8de8ad98e8ab96efbc89["コペルニクス的転回（認識論）"]
     n34e8b1a1e99990e3838ee383bce38388e38386e383b3e38397e383ace383bce38388efbc88e6848fe591b3e381aee38182e3828be3838ee383bce38388efbc89["4象限ノートテンプレート（意味のあるノート）"]
     ne7ae97e695b0e382b7e383b3e382ade383b3e382b0e383bbe382bfe382b9e382af["算数シンキング・タスク"]
     ne5908ce4b880e69687e88488e383bbe8a487e695b0e6a682e5bfb5e381aee5b195e9968b["同一文脈・複数概念の展開"]
@@ -149,6 +151,7 @@ flowchart LR
     ne382b9e383a2e383bce383abe382b9e38386e38383e38397["スモールステップ"]
     n4c61756e636820536372697074efbc88e382bfe382b9e382afe381aee6b8a1e38197e696b9efbc89["Launch Script（タスクの渡し方）"]
 
+    n5468696e2d536c6963696e67e8a8ade8a888efbc88e89684e58887e3828ae5958fe9a18ce381aee4bd9ce3828ae696b9efbc89 --- ne382b3e3839ae383abe3838be382afe382b9e79a84e8bba2e59b9eefbc88e8aa8de8ad98e8ab96efbc89
     n5468696e2d536c6963696e67e8a8ade8a888efbc88e89684e58887e3828ae5958fe9a18ce381aee4bd9ce3828ae696b9efbc89 --- n34e8b1a1e99990e3838ee383bce38388e38386e383b3e38397e383ace383bce38388efbc88e6848fe591b3e381aee38182e3828be3838ee383bce38388efbc89
     n5468696e2d536c6963696e67e8a8ade8a888efbc88e89684e58887e3828ae5958fe9a18ce381aee4bd9ce3828ae696b9efbc89 --- ne7ae97e695b0e382b7e383b3e382ade383b3e382b0e383bbe382bfe382b9e382af
     n5468696e2d536c6963696e67e8a8ade8a888efbc88e89684e58887e3828ae5958fe9a18ce381aee4bd9ce3828ae696b9efbc89 --- ne5908ce4b880e69687e88488e383bbe8a487e695b0e6a682e5bfb5e381aee5b195e9968b

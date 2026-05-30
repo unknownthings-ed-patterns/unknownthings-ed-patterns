@@ -17,6 +17,7 @@
     "normalize:links": "node scripts/normalize-links.mjs",
     "update:pattern-list": "node scripts/pattern-index.mjs",
     "update:literature-report": "node scripts/literature-report.mjs",
+    "update:fix-candidates": "node fix-candidates-report.mjs",
     "check:pattern-index": "node scripts/pattern-index.mjs --check",
     "check:literature": "node scripts/literature-report.mjs --check",
     "check:wikilinks": "node scripts/check-wikilinks.mjs",

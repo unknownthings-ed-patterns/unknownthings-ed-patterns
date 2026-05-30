@@ -1,6 +1,6 @@
 #!/bin/bash
 # run-all-fixes.sh
-# すべての fix スクリプトを順に実行する。
+# 既存リンクに基づく逆参照追加だけを順に実行する。
 # デフォルトは dry-run。実際に書き換える場合だけ --apply を付ける。
 
 set -euo pipefail
@@ -25,6 +25,10 @@ if [ "$APPLY" = false ]; then
   echo ""
 fi
 
+echo "対象: 既存リンクに基づく逆参照追加のみ"
+echo "除外: 孤立リンク移動、引用対応表による文献追加、出典セクション追加"
+echo ""
+
 # 実書き換えのときだけ、可能なら事前スナップショットを作成する。
 if [ "$APPLY" = true ] && git -C "$WIKI_BASE" rev-parse --git-dir > /dev/null 2>&1; then
   git -C "$WIKI_BASE" add -A
@@ -35,28 +39,24 @@ if [ "$APPLY" = true ] && git -C "$WIKI_BASE" rev-parse --git-dir > /dev/null 2>
 fi
 
 
-echo "=== [1/6] ハブパタン逆参照 (fix-hub-backlinks) ==="
+echo "=== [1/5] ハブパタン逆参照 (fix-hub-backlinks) ==="
 "$NODE_BIN" fix-hub-backlinks.mjs "${FIX_ARGS[@]}"
 
 echo ""
-echo "=== [2/6] 文献→Wiki逆参照 (fix-bunken-backlinks) ==="
+echo "=== [2/5] 文献→Wiki逆参照 (fix-bunken-backlinks) ==="
 "$NODE_BIN" fix-bunken-backlinks.mjs "${FIX_ARGS[@]}"
 
 echo ""
-echo "=== [3/6] 実践→パタン逆参照 (fix-jissen-backlinks) ==="
+echo "=== [3/5] 実践→パタン逆参照 (fix-jissen-backlinks) ==="
 "$NODE_BIN" fix-jissen-backlinks.mjs "${FIX_ARGS[@]}"
 
 echo ""
-echo "=== [4/6] 概念→パタン逆参照 (fix-gainen-backlinks) ==="
+echo "=== [4/5] 概念→パタン逆参照 (fix-gainen-backlinks) ==="
 "$NODE_BIN" fix-gainen-backlinks.mjs "${FIX_ARGS[@]}"
 
 echo ""
-echo "=== [5/6] 他Dir→パタン/文献逆参照 (fix-otherdir-backlinks) ==="
+echo "=== [5/5] 他Dir→パタン/文献逆参照 (fix-otherdir-backlinks) ==="
 "$NODE_BIN" fix-otherdir-backlinks.mjs "${FIX_ARGS[@]}"
-
-echo ""
-echo "=== [6/6] 出典セクション追加 (fix-add-source-section) ==="
-"$NODE_BIN" fix-add-source-section.mjs "${FIX_ARGS[@]}"
 
 echo ""
 if [ "$APPLY" = true ]; then

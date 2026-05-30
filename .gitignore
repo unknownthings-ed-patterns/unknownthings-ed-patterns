@@ -5,6 +5,7 @@ public
 prof
 tsconfig.tsbuildinfo
 sync-error.log
+.lint-history.json
 .obsidian
 .quartz-cache
 private/

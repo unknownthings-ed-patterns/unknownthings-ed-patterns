@@ -12,7 +12,9 @@ const VAULT = '/Users/iwaiteruhisa/Library/Mobile Documents/iCloud~md~obsidian/D
 const MIN_LINKS = 2   // 関連パタンリンクがこれ未満のファイルは図を生成しない
 
 function extractRelatedLinks(content) {
-  const m = content.match(/^#{2,3}\s*関連パタン([\s\S]*?)(?=^#{1,3} |\n---|\Z)/m)
+  // Two-pass: try to find section bounded by next heading; fall back to end of file
+  const m = content.match(/^#{2,3}\s*関連パタン([\s\S]*?)(?=^#{1,3}\s)/m)
+          || content.match(/^#{2,3}\s*関連パタン([\s\S]*)$/m)
   if (!m) return []
   return [...m[1].matchAll(/\[\[パタン\/([^\]|#]+?)(?:\|[^\]]+)?\]\]/g)]
     .map(r => r[1].trim())
@@ -21,8 +23,8 @@ function extractRelatedLinks(content) {
 }
 
 function nodeId(name) {
-  // Mermaid node IDs: strip spaces and special chars
-  return 'n' + Buffer.from(name).toString('hex').slice(0, 12)
+  // Use full hex to avoid collisions between patterns sharing the same prefix
+  return 'n' + Buffer.from(name).toString('hex')
 }
 
 function buildDiagram(hubName, relatedNames) {

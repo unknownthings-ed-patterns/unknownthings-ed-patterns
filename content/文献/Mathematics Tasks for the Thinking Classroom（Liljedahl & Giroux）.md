@@ -7,11 +7,36 @@ isbn: "978-1-0719-1329-1"
 publisher: "Corwin (Corwin Mathematics Series)"
 pages: 440
 tags: [文献, 算数, 数学, 問題解決, シンキング・タスク, BTCフレームワーク, LFHC, 収束, 足場がけ]
+literature_status: integrated
 ingested: 2026-05-14
 reintegrated: 2026-05-17
+updated: 2026-05-31
 ---
 
 # Mathematics Tasks for the Thinking Classroom, Grades K-5（Liljedahl & Giroux）
+
+## 3行要約
+
+- K-5算数で「考える教室」をつくるための50タスクと、Launch、探究、Consolidationの授業構造を具体化した実践書である。
+- Low Floor High Ceiling、Mild/Medium/Spicy、Thin-Slicing、意味あるノートなど、算数パタンに直結する設計原理が多い。
+- このWikiでは、算数シンキング・タスク、Launch Script、Consolidation、教材集を育てる主要文献として使う。
+
+## このWikiでの使い道
+
+| 使い道 | 接続先 |
+|---|---|
+| 算数で考える文化をつくるタスクを設計する | [[パタン/算数シンキング・タスク]]、[[パタン/非カリキュラムタスク（考える文化をつくる問い）]] |
+| タスクの渡し方と収束を設計する | [[パタン/Launch Script（タスクの渡し方）]]、[[パタン/Consolidation（収束の時間）]] |
+| 日本語版の教材・タスク集へ展開する | [[教材/算数シンキング・タスク集]]、[[教材/算数シンキング・タスク集索引]] |
+| BTCと数学マインドセットを接続する | [[文献/Mathematical Mindsets（Boaler）]]、[[パタン/成長マインドセット]] |
+
+## 関連パタンTOP5
+
+- [[パタン/算数シンキング・タスク]]
+- [[パタン/Launch Script（タスクの渡し方）]]
+- [[パタン/Consolidation（収束の時間）]]
+- [[パタン/Thin-Slicing設計（薄切り問題の作り方）]]
+- [[パタン/4象限ノートテンプレート（意味のあるノート）]]
 
 ## 要約
 

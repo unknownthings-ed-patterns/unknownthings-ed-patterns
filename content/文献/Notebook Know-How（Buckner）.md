@@ -4,8 +4,10 @@ title: "Notebook Know-How: Strategies for the Writer's Notebook"
 author: "Aimee Buckner"
 year: 2005
 tags: [文献, ライティングワークショップ, ライターズノート, 書くこと, 国語]
+literature_status: integrated
 ingested: 2026-05-14
-updated: 2026-05-18
+reintegrated: 2026-05-31
+updated: 2026-05-31
 ---
 
 # Notebook Know-How（Buckner, 2005）
@@ -15,6 +17,30 @@ Buckner, A. (2005). *Notebook Know-How: Strategies for the Writer's Notebook*. S
 **献辞**：For Judith Eggemeier and Nina Mackellar — "A small tribute to your grand influence"
 
 ---
+
+## 3行要約
+
+- ライターズ・ノートは、完成作文を書く場所ではなく、アイデア・観察・言葉・技法を貯めて試す作家の実験室である。
+- 毎日の低リスクな書き込み、読み返し、ハイライト、1行の引き上げが、正式な作品づくりへの道を作る。
+- このWikiでは、ライティング・ワークショップの起動、書き出しのクラフト、作家のように読む実践を支える文献として使う。
+
+## このWikiでの使い道
+
+| 使い道 | 接続先 |
+|---|---|
+| 年度初めにライターズ・ノートを起動する | [[実践/ライターズ・ノートの起動]] |
+| ノートを「種の貯蔵庫」として扱う | [[パタン/ライターズ・ノート]] |
+| 書き出しや文体を作家から借りる | [[実践/書き出しのクラフト]]、[[パタン/作家のように読む]] |
+| ノートを支える道具・フォームを整える | [[教材/ライターズ・ノートの道具棚]] |
+| 作品化の前に題材をこねる | [[パタン/コレクションと趣味]]、[[パタン/精緻化]] |
+
+## 関連パタンTOP5
+
+- [[パタン/ライターズ・ノート]]
+- [[パタン/作家のように読む]]
+- [[パタン/作家のクラフト]]
+- [[パタン/作家の椅子（Author's Chair）]]
+- [[パタン/出版（Publishing）]]
 
 ## 本の構成
 

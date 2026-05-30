@@ -110,7 +110,7 @@ Allen, P. A. (2009). *Conferring: The Keystone of Reader's Workshop*. Stenhouse 
 
 ## 関連パタン（追加）
 
-- [[パタン/カンファリング]] — RIPモデルの実践パタン化——Review・Instruction・Planの3段階
+- [[パタン/RIPモデル]] — カンファリングをReview・Instruction・Planの3段階として扱う
 - [[パタン/フィードバック]] — カンファリングはフィードバックの最も個別化された形態
 - [[パタン/読者のツールボックス]] — 「賢い読者」として持つべき方略のセット
 - [[パタン/形成的評価]] — カンファリングノートによる継続的な読みの記録と評価

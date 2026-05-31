@@ -150,6 +150,7 @@ Dewey, J. (1938). *Experience and Education*. Kappa Delta Pi.
 ---
 
 ## 関連するWikiページ
+- [[概念/教育思想の系譜]]
 
 - [[パタン/副次的学習]] — 本書の副次的学習（Collateral Learning）概念をパタン化
 - [[パタン/経験の質を問う]] — 本書の連続性・相互作用の2基準で大幅補強

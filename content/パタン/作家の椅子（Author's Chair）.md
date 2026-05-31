@@ -39,6 +39,7 @@ updated: 2026-05-21
 - [[実践/詩を紹介する・詩を創作する]] — 詩の紹介や自作詩を声に出して読み、読者の反応を受け取る。
 
 ## 関連パタン
+- [[パタン/共有の時間]]
 
 - [[パタン/ライティング・ワークショップ]]
 - [[パタン/出版（Publishing）]]
@@ -50,11 +51,13 @@ updated: 2026-05-21
 ```mermaid
 flowchart LR
     ne4bd9ce5aeb6e381aee6a485e5ad90efbc88417574686f722773204368616972efbc89["作家の椅子（Author's Chair）"]
+    ne585b1e69c89e381aee69982e99693["共有の時間"]
     ne383a9e382a4e38386e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397["ライティング・ワークショップ"]
     ne587bae78988efbc885075626c697368696e67efbc89["出版（Publishing）"]
     ne8aaade381bfe69bb8e3818de381aee69687e58c96["読み書きの文化"]
     ne382b9e38388e383bce383aae383bce38386e383aae383b3e382b0efbc88e8aa9ee3828ae381aee69982e99693efbc89["ストーリーテリング（語りの時間）"]
 
+    ne4bd9ce5aeb6e381aee6a485e5ad90efbc88417574686f722773204368616972efbc89 --- ne585b1e69c89e381aee69982e99693
     ne4bd9ce5aeb6e381aee6a485e5ad90efbc88417574686f722773204368616972efbc89 --- ne383a9e382a4e38386e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397
     ne4bd9ce5aeb6e381aee6a485e5ad90efbc88417574686f722773204368616972efbc89 --- ne587bae78988efbc885075626c697368696e67efbc89
     ne4bd9ce5aeb6e381aee6a485e5ad90efbc88417574686f722773204368616972efbc89 --- ne8aaade381bfe69bb8e3818de381aee69687e58c96

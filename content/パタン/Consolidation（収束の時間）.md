@@ -175,6 +175,7 @@ Liljedahl & Giroux（2024）の各タスクには「収束の問い」が設計�
 - 収束に時間をかけすぎると、次の探究への意欲が削がれる
 
 ## 関連パタン
+- [[パタン/共有の時間]]
 - [[パタン/4象限ノートテンプレート（意味のあるノート）]]
 - [[パタン/逆算・双方向思考]]
 - [[パタン/同一文脈・複数概念の展開]]
@@ -199,6 +200,7 @@ Liljedahl & Giroux（2024）の各タスクには「収束の問い」が設計�
 ```mermaid
 flowchart LR
     n436f6e736f6c69646174696f6eefbc88e58f8ee69d9fe381aee69982e99693efbc89["Consolidation（収束の時間）"]
+    ne585b1e69c89e381aee69982e99693["共有の時間"]
     n34e8b1a1e99990e3838ee383bce38388e38386e383b3e38397e383ace383bce38388efbc88e6848fe591b3e381aee38182e3828be3838ee383bce38388efbc89["4象限ノートテンプレート（意味のあるノート）"]
     ne98086e7ae97e383bbe58f8ce696b9e59091e6809de88083["逆算・双方向思考"]
     ne5908ce4b880e69687e88488e383bbe8a487e695b0e6a682e5bfb5e381aee5b195e9968b["同一文脈・複数概念の展開"]
@@ -213,6 +215,7 @@ flowchart LR
     ne4b880e4babae381aee799bae8a880e38292e381bfe38293e381aae381abe5ba83e38192e3828b["一人の発言をみんなに広げる"]
     ne68cafe3828ae8bf94e3828ae381a7e381aee381ade38289e38184e381aee585b1e5908ce6a78be7af89["振り返りでのねらいの共同構築"]
 
+    n436f6e736f6c69646174696f6eefbc88e58f8ee69d9fe381aee69982e99693efbc89 --- ne585b1e69c89e381aee69982e99693
     n436f6e736f6c69646174696f6eefbc88e58f8ee69d9fe381aee69982e99693efbc89 --- n34e8b1a1e99990e3838ee383bce38388e38386e383b3e38397e383ace383bce38388efbc88e6848fe591b3e381aee38182e3828be3838ee383bce38388efbc89
     n436f6e736f6c69646174696f6eefbc88e58f8ee69d9fe381aee69982e99693efbc89 --- ne98086e7ae97e383bbe58f8ce696b9e59091e6809de88083
     n436f6e736f6c69646174696f6eefbc88e58f8ee69d9fe381aee69982e99693efbc89 --- ne5908ce4b880e69687e88488e383bbe8a487e695b0e6a682e5bfb5e381aee5b195e9968b

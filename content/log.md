@@ -1,4 +1,24 @@
 
+## [2026-05-31] ingest | How We Think（Dewey, 1910）統合 → 文献1件（新規）・既存パタン7件更新・index更新
+
+**統合テーマ**：John Dewey *How We Think*（1910）より、反省的思考5段階の一次資料・好奇心三位一体・felt difficulty・Play→Work attitude・apperception principle・「問いのかみつき」・「考えることは定義上自分で考えること」を抽出し既存パタン7件に統合。
+
+### 更新ファイル
+
+| ファイル | 変更種別 | 内容 |
+|---|---|---|
+| `文献/How We Think（Dewey）.md` | **新規作成** | 3行要約・核心概念7件・重要引用4件・教育実践への示唆・関連Wiki12件・展開したい問い3件 |
+| `パタン/反省的思考の5段階.md` | Pattern Connection追加 | 1910年版が一次資料であることの明記・歩行者の例・1910年版引用・source更新 |
+| `パタン/タウマゼイン（驚きから始まる探究）.md` | Pattern Connection追加 | felt difficultyとタウマゼインの対応表・「問いのかみつき」引用・命令できない共通点 |
+| `パタン/帰納的推論と演繹的推論.md` | Pattern Connection追加 | 双方向運動・泥棒の例・Darwin反例習慣・科学的帰納の3方法 |
+| `パタン/既知から未知へ.md` | Pattern Connection追加 | apperception principle・学校知識と学校外経験の断絶批判・情報提供原則① |
+| `パタン/作ることで学ぶ.md` | Pattern Connection追加 | Play→Work attitude の発達的連続性・幼稚園と小学校の断絶批判・Activity and Thought（Ch.12） |
+| `パタン/好奇心から多方興味へ.md` | Pattern Connection追加（セクション新設） | 好奇心三位一体（curiosity・imagination・inquiry）・Preface中心命題・命令できない共通点 |
+| `パタン/自分の頭で考える（Selbstdenken）.md` | Pattern Connection追加 | 「考えることは定義上自分で考えること」（Ch.14）・カント/ショーペンハウアーとの哲学的共鳴・情報は刺激であるべき原則 |
+| `index.md` | 更新 | How We Think（Dewey）を統合文献に追加 |
+
+---
+
 ## [2026-05-31] ingest | Moral Principles in Education（Dewey, 1909）統合 → 文献1件（新規）・新規パタン1件・既存パタン4件更新・index更新
 
 **統合テーマ**：John Dewey *Moral Principles in Education*（1909）より、道徳的観念 vs 道徳についての観念・胚細胞的コミュニティ・道徳の三位一体（Social Intelligence/Power/Interests）・構成>吸収・性格の三構成要素を抽出し教育パタン化。副次的学習（1938）・内発的動機付け（SDT, 2000）の哲学的前身として統合。

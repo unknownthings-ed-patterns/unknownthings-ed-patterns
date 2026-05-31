@@ -1,4 +1,22 @@
 
+## [2026-05-31] ingest | Moral Principles in Education（Dewey, 1909）統合 → 文献1件（新規）・新規パタン1件・既存パタン4件更新・index更新
+
+**統合テーマ**：John Dewey *Moral Principles in Education*（1909）より、道徳的観念 vs 道徳についての観念・胚細胞的コミュニティ・道徳の三位一体（Social Intelligence/Power/Interests）・構成>吸収・性格の三構成要素を抽出し教育パタン化。副次的学習（1938）・内発的動機付け（SDT, 2000）の哲学的前身として統合。
+
+### 更新ファイル
+
+| ファイル | 変更種別 | 内容 |
+|---|---|---|
+| `文献/Moral Principles in Education（Dewey）.md` | **新規作成** | 5テーマ要約・重要引用4件・教育実践への示唆・関連Wikiページ10件・展開したい問い3件 |
+| `パタン/胚細胞的コミュニティとしての学校.md` | **新規作成** | 「学校は社会生活の準備でなく社会生活そのもの」——道徳の三位一体・水なしに泳ぐ比喩・自己教育適用例・mermaidクラスター図 |
+| `パタン/副次的学習.md` | Pattern Connection追加 | Dewey（1909）節：道徳的観念 vs 道徳についての観念——副次的学習の先駆け（1938の29年前） |
+| `パタン/作ることで学ぶ.md` | Pattern Connection追加 | Dewey（1909）節：構成>吸収原則——受動的吸収が判断力・主体性を阻む。性格の第一要素「力・主体性」 |
+| `パタン/内発的動機付け.md` | Pattern Connection追加 | Dewey（1909）節：「恐怖と競争心」批判・遠い将来への動機の無効性・SDTの哲学的前身 |
+| `パタン/道徳的交渉.md` | Pattern Connection追加 | Dewey（1909）節：行為を改善する道徳的観念の授受・道徳的無知の危険——判断力の活性化として設計 |
+| `index.md` | 更新 | 胚細胞的コミュニティとしての学校をパタンセクションに追加・Moral Principles in Educationを統合文献に追加 |
+
+---
+
 ## [2026-05-31] ingest | Category Theory for Programmers（Milewski, 2023）統合 → 文献1件（新規）・新規パタン1件・index更新
 
 **統合テーマ**：Bartosz Milewski『Category Theory for Programmers』（CC BY-SA 4.0, 2023年）より、合成・関手・自然変換・宣言的アプローチ・米田の補題を抽出し教育パタン化。「合成はプログラミングの本質——問題を分解し再合成する」（Ch.1）と7±2チャンク（Miller, 1956）を認知科学的根拠として統合。

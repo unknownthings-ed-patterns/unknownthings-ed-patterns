@@ -175,6 +175,7 @@ KWL（K+W）        シンクアラウド         KWL（L）
 - ただし、全フェーズを毎回詰め込みすぎると授業が重くなる——1〜2つの方略を深く使う方が、多数を浅く使うより効果的
 
 ## 関連パタン
+- [[パタン/自分の頭で考える（Selbstdenken）]]
 - [[パタン/ア・プリオリな枠組み]]
 - [[パタン/コペルニクス的転回（認識論）]]
 - [[教科/国語]]
@@ -207,6 +208,7 @@ KWL（K+W）        シンクアラウド         KWL（L）
 ```mermaid
 flowchart LR
     n424441e38395e383ace383bce383a0e383afe383bce382af["BDAフレームワーク"]
+    ne887aae58886e381aee9a0ade381a7e88083e38188e3828befbc8853656c62737464656e6b656eefbc89["自分の頭で考える（Selbstdenken）"]
     ne382a2e383bbe38397e383aae382aae383aae381aae69ea0e7b584e381bf["ア・プリオリな枠組み"]
     ne382b3e3839ae383abe3838be382afe382b9e79a84e8bba2e59b9eefbc88e8aa8de8ad98e8ab96efbc89["コペルニクス的転回（認識論）"]
     ne38386e382ade382b9e38388e383bbe382bbe38383e38388["テキスト・セット"]
@@ -220,8 +222,8 @@ flowchart LR
     ne8a1a8e78fbee38197e381a6e5ada6e381b6["表現して学ぶ"]
     ne4ba88e6b8ac["予測"]
     ne38386e382ade382b9e38388e383bbe38395e383ace383bce383a0["テキスト・フレーム"]
-    ne382a2e383b3e38386e382a3e382b7e3839ae383bce382b7e383a7e383b3e383bbe382ace382a4e38389["アンティシペーション・ガイド"]
 
+    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne887aae58886e381aee9a0ade381a7e88083e38188e3828befbc8853656c62737464656e6b656eefbc89
     n424441e38395e383ace383bce383a0e383afe383bce382af --- ne382a2e383bbe38397e383aae382aae383aae381aae69ea0e7b584e381bf
     n424441e38395e383ace383bce383a0e383afe383bce382af --- ne382b3e3839ae383abe3838be382afe382b9e79a84e8bba2e59b9eefbc88e8aa8de8ad98e8ab96efbc89
     n424441e38395e383ace383bce383a0e383afe383bce382af --- ne38386e382ade382b9e38388e383bbe382bbe38383e38388
@@ -235,7 +237,6 @@ flowchart LR
     n424441e38395e383ace383bce383a0e383afe383bce382af --- ne8a1a8e78fbee38197e381a6e5ada6e381b6
     n424441e38395e383ace383bce383a0e383afe383bce382af --- ne4ba88e6b8ac
     n424441e38395e383ace383bce383a0e383afe383bce382af --- ne38386e382ade382b9e38388e383bbe38395e383ace383bce383a0
-    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne382a2e383b3e38386e382a3e382b7e3839ae383bce382b7e383a7e383b3e383bbe382ace382a4e38389
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class n424441e38395e383ace383bce383a0e383afe383bce382af hub

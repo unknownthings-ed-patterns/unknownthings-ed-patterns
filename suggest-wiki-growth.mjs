@@ -215,16 +215,105 @@ function suggestPairDisposition(sourceType) {
   return '新規パタン化しない。まず既存ページの関連パタン欄に、ラベル付きリンクとして追加できるか確認する。'
 }
 
+function suggestPairPriority(pair, sourceType) {
+  if (sourceType === 'near' && pair.shared.length >= 10) {
+    return {
+      priority: '高',
+      reason: '共通する関連パタンが多く、違いを書くと読者の迷いを減らしやすい。',
+    }
+  }
+  if (sourceType === 'literature' && pair.shared.length >= 2) {
+    return {
+      priority: '高',
+      reason: '複数文献を共有しており、出典にもとづく接続として検討しやすい。',
+    }
+  }
+  if (sourceType === 'practice') {
+    return {
+      priority: '中',
+      reason: '同じ実践内で働くため有用だが、授業手順上の並びを本文で確認する必要がある。',
+    }
+  }
+  if (sourceType === 'concept') {
+    return {
+      priority: '低',
+      reason: '同じ概念に属するだけの可能性があるため、本文を読んでから接続する。',
+    }
+  }
+  return {
+    priority: '中',
+    reason: 'つながりは見えるが、本文を読んで関係を確かめてから反映する。',
+  }
+}
+
+function pairKey(pair) {
+  return `${pair.a} ↔ ${pair.b}`
+}
+
+function pairSearchText(pair) {
+  return `${pair.a} ${pair.b} ${pair.shared.join(' ')}`
+}
+
+const EDIT_GROUPS = [
+  {
+    name: '問い系',
+    keywords: ['問い', '質問', '発問', '課題', 'アポリア', 'コンフリクト', 'クエスチョニング'],
+  },
+  {
+    name: '読書ワークショップ系',
+    keywords: ['読書', 'リーディング', 'ブック', 'カンファリング', 'シンクアラウド', 'テキスト', 'ノート'],
+  },
+  {
+    name: '動機付け系',
+    keywords: ['動機', '興味', 'トリガー', '帰属', '予測差分', '有用性', '必要感', 'コミットメント'],
+  },
+  {
+    name: '古典思想系',
+    keywords: ['プラトン', 'アリストテレス', 'カント', 'デューイ', 'ソクラテス', '無知', '道徳', 'タウマゼイン'],
+  },
+  {
+    name: '評価・フィードバック系',
+    keywords: ['評価', 'フィードバック', 'PICO', 'Outcome', 'Comparison', '成功規準', '評定'],
+  },
+  {
+    name: '熟慮的教材・課題系',
+    keywords: ['熟慮的教育材料', '教材', '豊かな課題', '具体物', '実物', '材料'],
+  },
+]
+
+function editGroupsForPair(pair) {
+  const text = pairSearchText(pair)
+  return EDIT_GROUPS.filter((group) => group.keywords.some((keyword) => text.includes(keyword))).map(
+    (group) => group.name,
+  )
+}
+
+function annotatePair(pair, sourceType) {
+  const label = suggestPairLabel(pair, sourceType)
+  const priority = suggestPairPriority(pair, sourceType)
+  return {
+    ...pair,
+    sourceType,
+    label,
+    priority,
+    disposition: suggestPairDisposition(sourceType),
+    groups: editGroupsForPair(pair),
+  }
+}
+
 function renderPairList(pairs, sharedLabel, sharedPrefix, sourceType, emptyText) {
   if (pairs.length === 0) return [emptyText]
   const lines = []
-  for (const pair of pairs) {
-    const label = suggestPairLabel(pair, sourceType)
+  for (const rawPair of pairs) {
+    const pair = annotatePair(rawPair, sourceType)
     lines.push(
       `- [[パタン/${pair.a}]] ↔ [[パタン/${pair.b}]]`,
       `  - ${sharedLabel}: ${pair.shared.map((item) => `[[${item.includes('/') ? item : `${sharedPrefix}/${item}`}]]`).join('、')}`,
-      `  - 仮ラベル: \`${label.label}\` — ${label.reason}`,
-      `  - 処理方針: ${suggestPairDisposition(sourceType)}`,
+      `  - 優先度: \`${pair.priority.priority}\` — ${pair.priority.reason}`,
+      `  - 作業状態: [ ] 未確認 / [ ] 読む / [ ] 関連欄へ反映 / [ ] 本文へ吸収 / [ ] 保留 / [ ] 完了`,
+      `  - 編集単位: ${pair.groups.length > 0 ? pair.groups.map((group) => `\`${group}\``).join('、') : '`未分類`'}`,
+      `  - 仮ラベル: \`${pair.label.label}\` — ${pair.label.reason}`,
+      `  - 処理方針: ${pair.disposition}`,
     )
   }
   return lines
@@ -259,17 +348,105 @@ function suggestIssueDisposition(target) {
   }
 }
 
+function suggestIssuePriority(target) {
+  if (countWikiTargets(target, '実践') > 0) {
+    return {
+      priority: '高',
+      reason: '実践ページに反映できるため、読者の使い道に直結しやすい。',
+    }
+  }
+  if (countWikiTargets(target, 'パタン') >= 2) {
+    return {
+      priority: '高',
+      reason: '受け皿になる既存パタンが複数あり、吸収先を比較しながら整理できる。',
+    }
+  }
+  if (countWikiTargets(target, 'パタン') >= 1) {
+    return {
+      priority: '中',
+      reason: '既存パタンに吸収できる可能性があるが、本文確認が必要。',
+    }
+  }
+  return {
+    priority: '低',
+    reason: '受け皿を先に探してから、新規draftの必要性を判断する。',
+  }
+}
+
 function renderIssues(issues) {
   if (issues.length === 0) return ['候補なし。']
   const lines = []
   for (const { issue, source, target } of issues) {
     const disposition = suggestIssueDisposition(target)
+    const priority = suggestIssuePriority(target)
     lines.push(`- ${issue}`)
     lines.push(`  - 出典: ${source}`)
     lines.push(`  - 圧縮先候補: ${target}`)
+    lines.push(`  - 優先度: \`${priority.priority}\` — ${priority.reason}`)
+    lines.push(`  - 作業状態: [ ] 未確認 / [ ] 読む / [ ] 本文へ吸収 / [ ] 実践ページへ反映 / [ ] 保留 / [ ] 完了`)
     lines.push(`  - 処理方針: \`${disposition.status}\` — ${disposition.reason}`)
   }
   return lines
+}
+
+function flattenPairs() {
+  return [
+    ...byLiterature.map((pair) => annotatePair(pair, 'literature')),
+    ...byConcept.map((pair) => annotatePair(pair, 'concept')),
+    ...byPractice.map((pair) => annotatePair(pair, 'practice')),
+    ...nearPairs.map((pair) => annotatePair(pair, 'near')),
+  ]
+}
+
+function renderEditGroups(pairs) {
+  const lines = []
+  for (const group of EDIT_GROUPS) {
+    const grouped = pairs
+      .filter((pair) => pair.groups.includes(group.name))
+      .sort(
+        (a, b) =>
+          priorityRank(b.priority.priority) - priorityRank(a.priority.priority) ||
+          b.shared.length - a.shared.length ||
+          pairKey(a).localeCompare(pairKey(b), 'ja'),
+      )
+    const uniqueGrouped = []
+    const seen = new Set()
+    for (const pair of grouped) {
+      const key = pairKey(pair)
+      if (seen.has(key)) continue
+      seen.add(key)
+      uniqueGrouped.push(pair)
+      if (uniqueGrouped.length >= 8) break
+    }
+    lines.push(`### ${group.name}`)
+    lines.push('')
+    if (uniqueGrouped.length === 0) {
+      lines.push('候補なし。', '')
+      continue
+    }
+    for (const pair of uniqueGrouped) {
+      lines.push(
+        `- [[パタン/${pair.a}]] ↔ [[パタン/${pair.b}]]`,
+        `  - 優先度: \`${pair.priority.priority}\` / 仮ラベル: \`${pair.label.label}\` / 出所: ${sourceTypeName(pair.sourceType)}`,
+        `  - 作業状態: [ ] 未確認 / [ ] 読む / [ ] 反映 / [ ] 保留 / [ ] 完了`,
+      )
+    }
+    lines.push('')
+  }
+  return lines
+}
+
+function priorityRank(priority) {
+  return { 高: 3, 中: 2, 低: 1 }[priority] ?? 0
+}
+
+function sourceTypeName(sourceType) {
+  return {
+    literature: '共通文献',
+    concept: '共通概念',
+    practice: '共通実践',
+    near: '近いパタン',
+  }[sourceType]
 }
 
 const patternData = collectPatternData()
@@ -278,6 +455,7 @@ const byConcept = topPairs(patternData, (data) => data.conceptLinks, 1, 30)
 const byPractice = collectPracticeClusters(patternData)
 const nearPairs = topPairs(patternData, (data) => data.relatedPatternLinks, 2, 30)
 const issues = parseUnpatternedIssues()
+const allAnnotatedPairs = flattenPairs()
 const today = todayTokyo()
 
 const L = []
@@ -304,6 +482,16 @@ L.push(`- 共通実践から見つかった未接続ペア: ${byPractice.length}
 L.push(`- 近いパタンの違いに追加したい候補: ${nearPairs.length}`)
 L.push(`- 未パタン化の論点: ${issues.length}`)
 L.push('')
+L.push('## 優先度と状態の見方')
+L.push('')
+L.push('- `高`: 複数の根拠があり、反映すると読み手の導線が改善しやすい。')
+L.push('- `中`: 有望だが、本文を読んで関係を確認してから反映する。')
+L.push('- `低`: 同じ概念に属するだけの可能性があり、まず保留気味に読む。')
+L.push('- 作業状態は手動でチェックする。自動生成し直すと初期状態に戻るため、完了記録を残す場合は別ページへ移す。')
+L.push('')
+L.push('## 編集単位別の入口')
+L.push('')
+L.push(...renderEditGroups(allAnnotatedPairs))
 L.push('---')
 L.push('')
 L.push('## 1. 共通文献から見つかった新しいつながり')

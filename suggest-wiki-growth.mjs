@@ -70,7 +70,15 @@ function linkedEitherWay(a, b, patternData) {
   return patternData.get(a)?.allPatternLinks.includes(b) || patternData.get(b)?.allPatternLinks.includes(a)
 }
 
-function topPairs(patternData, getItems, minShared, limit) {
+function canonicalPair(a, b) {
+  return [a, b].sort((x, y) => x.localeCompare(y, 'ja')).join(' ↔ ')
+}
+
+function completedEitherWay(a, b, completedPairs) {
+  return completedPairs.has(canonicalPair(a, b))
+}
+
+function topPairs(patternData, getItems, minShared, limit, completedPairs = new Set()) {
   const names = [...patternData.keys()]
   const pairs = []
   for (let i = 0; i < names.length; i++) {
@@ -78,6 +86,7 @@ function topPairs(patternData, getItems, minShared, limit) {
       const a = names[i]
       const b = names[j]
       if (linkedEitherWay(a, b, patternData)) continue
+      if (completedEitherWay(a, b, completedPairs)) continue
       const shared = intersects(getItems(patternData.get(a)), getItems(patternData.get(b)))
       if (shared.length < minShared) continue
       pairs.push({ a, b, shared })
@@ -91,6 +100,44 @@ function topPairs(patternData, getItems, minShared, limit) {
         x.b.localeCompare(y.b, 'ja'),
     )
     .slice(0, limit)
+}
+
+function parsePairCell(cell) {
+  const links = [...cell.matchAll(/\[\[パタン\/([^\]|#]+?)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]/g)].map((match) =>
+    match[1].trim(),
+  )
+  if (links.length < 2) return null
+  return [links[0], links[1]]
+}
+
+function parseReflectionLog() {
+  const file = join(DIRS.maintenance, 'つながり反映ログ.md')
+  if (!existsSync(file)) return { rows: [], completedPairs: new Set() }
+  const rows = readFileSync(file, 'utf8')
+    .split(/\r?\n/)
+    .filter((line) => line.startsWith('| ') && !line.includes('---') && !line.includes('日付 | 候補'))
+    .map((line) => line.split('|').slice(1, -1).map((cell) => cell.trim()))
+    .filter((cells) => cells.length >= 6)
+    .map(([date, pairCell, target, label, change, commit]) => {
+      const pair = parsePairCell(pairCell)
+      if (!pair) return null
+      const [a, b] = pair
+      return {
+        date,
+        a,
+        b,
+        target,
+        label,
+        change,
+        commit,
+        key: canonicalPair(a, b),
+      }
+    })
+    .filter(Boolean)
+  return {
+    rows,
+    completedPairs: new Set(rows.map((row) => row.key)),
+  }
 }
 
 function parseUnpatternedIssues() {
@@ -126,7 +173,7 @@ function collectPatternData() {
   return data
 }
 
-function collectPracticeClusters(patternData) {
+function collectPracticeClusters(patternData, completedPairs = new Set()) {
   const practiceToPatterns = new Map()
 
   for (const [pattern, data] of patternData) {
@@ -154,6 +201,7 @@ function collectPracticeClusters(patternData) {
         const a = patterns[i]
         const b = patterns[j]
         if (linkedEitherWay(a, b, patternData)) continue
+        if (completedEitherWay(a, b, completedPairs)) continue
         pairs.push({ a, b, shared: [practice] })
       }
     }
@@ -436,6 +484,20 @@ function renderEditGroups(pairs) {
   return lines
 }
 
+function renderCompletedReflections(reflections) {
+  if (reflections.length === 0) return ['反映済みログなし。']
+  const lines = []
+  for (const row of reflections) {
+    lines.push(
+      `- ${row.date}: [[パタン/${row.a}]] ↔ [[パタン/${row.b}]]`,
+      `  - ラベル: \`${row.label}\``,
+      `  - 反映先: ${row.target}`,
+      `  - 変更内容: ${row.change}`,
+    )
+  }
+  return lines
+}
+
 function priorityRank(priority) {
   return { 高: 3, 中: 2, 低: 1 }[priority] ?? 0
 }
@@ -449,11 +511,12 @@ function sourceTypeName(sourceType) {
   }[sourceType]
 }
 
+const reflectionLog = parseReflectionLog()
 const patternData = collectPatternData()
-const byLiterature = topPairs(patternData, (data) => data.literatureLinks, 1, 30)
-const byConcept = topPairs(patternData, (data) => data.conceptLinks, 1, 30)
-const byPractice = collectPracticeClusters(patternData)
-const nearPairs = topPairs(patternData, (data) => data.relatedPatternLinks, 2, 30)
+const byLiterature = topPairs(patternData, (data) => data.literatureLinks, 1, 30, reflectionLog.completedPairs)
+const byConcept = topPairs(patternData, (data) => data.conceptLinks, 1, 30, reflectionLog.completedPairs)
+const byPractice = collectPracticeClusters(patternData, reflectionLog.completedPairs)
+const nearPairs = topPairs(patternData, (data) => data.relatedPatternLinks, 2, 30, reflectionLog.completedPairs)
 const issues = parseUnpatternedIssues()
 const allAnnotatedPairs = flattenPairs()
 const today = todayTokyo()
@@ -481,6 +544,7 @@ L.push(`- 共通概念から見つかった未接続ペア: ${byConcept.length}`
 L.push(`- 共通実践から見つかった未接続ペア: ${byPractice.length}`)
 L.push(`- 近いパタンの違いに追加したい候補: ${nearPairs.length}`)
 L.push(`- 未パタン化の論点: ${issues.length}`)
+L.push(`- 反映ログに記録済みのつながり: ${reflectionLog.rows.length}`)
 L.push('')
 L.push('## 優先度と状態の見方')
 L.push('')
@@ -492,6 +556,10 @@ L.push('')
 L.push('## 編集単位別の入口')
 L.push('')
 L.push(...renderEditGroups(allAnnotatedPairs))
+L.push('## 反映済みのつながり')
+L.push('')
+L.push(...renderCompletedReflections(reflectionLog.rows))
+L.push('')
 L.push('---')
 L.push('')
 L.push('## 1. 共通文献から見つかった新しいつながり')

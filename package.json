@@ -19,6 +19,7 @@
     "update:literature-report": "node scripts/literature-report.mjs",
     "update:fix-candidates": "node fix-candidates-report.mjs",
     "suggest:wiki-growth": "node suggest-wiki-growth.mjs",
+    "update:connection-board": "node sync-connection-board.mjs",
     "check:pattern-index": "node scripts/pattern-index.mjs --check",
     "check:literature": "node scripts/literature-report.mjs --check",
     "check:wikilinks": "node scripts/check-wikilinks.mjs",

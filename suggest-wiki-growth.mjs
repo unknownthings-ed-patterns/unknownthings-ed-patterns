@@ -164,27 +164,110 @@ function collectPracticeClusters(patternData) {
     .slice(0, 30)
 }
 
-function renderPairList(pairs, sharedLabel, sharedPrefix, emptyText) {
+function suggestPairLabel(pair, sourceType) {
+  if (sourceType === 'literature') {
+    if (pair.shared.length >= 2) {
+      return {
+        label: '出典',
+        reason: '複数の共通文献があるため、同じ根拠から補強される関係として確認する。',
+      }
+    }
+    return {
+      label: '補完',
+      reason: '同じ文献から生まれた観点として、一緒に読むと働きが強まるか確認する。',
+    }
+  }
+
+  if (sourceType === 'concept') {
+    return {
+      label: '補完',
+      reason: '同じ概念を共有しているため、同じ考えを別の場面で支える関係として確認する。',
+    }
+  }
+
+  if (sourceType === 'practice') {
+    return {
+      label: '実践化',
+      reason: '同じ実践の中で働くため、授業手順の中でどう並ぶか確認する。',
+    }
+  }
+
+  if (sourceType === 'near') {
+    return {
+      label: '対比',
+      reason: '共通する関連パタンが多いため、似ているが何が違うかを書く候補にする。',
+    }
+  }
+
+  return {
+    label: '補完',
+    reason: '近い働きを持つ可能性があるため、本文を読んで関係を確認する。',
+  }
+}
+
+function suggestPairDisposition(sourceType) {
+  if (sourceType === 'near') {
+    return '新規パタン化しない。まず「近いパタンの違い」または関連パタン欄に、対比として整理する。'
+  }
+  if (sourceType === 'practice') {
+    return '新規パタン化しない。まず実践ページ側の「圧縮されているパタン」と、各パタンの関連欄で接続する。'
+  }
+  return '新規パタン化しない。まず既存ページの関連パタン欄に、ラベル付きリンクとして追加できるか確認する。'
+}
+
+function renderPairList(pairs, sharedLabel, sharedPrefix, sourceType, emptyText) {
   if (pairs.length === 0) return [emptyText]
   const lines = []
   for (const pair of pairs) {
+    const label = suggestPairLabel(pair, sourceType)
     lines.push(
       `- [[パタン/${pair.a}]] ↔ [[パタン/${pair.b}]]`,
       `  - ${sharedLabel}: ${pair.shared.map((item) => `[[${item.includes('/') ? item : `${sharedPrefix}/${item}`}]]`).join('、')}`,
-      `  - 提案: 関連パタン欄に \`補完\`、\`発展\`、\`対比\` のどれで結べるか確認する。`,
+      `  - 仮ラベル: \`${label.label}\` — ${label.reason}`,
+      `  - 処理方針: ${suggestPairDisposition(sourceType)}`,
     )
   }
   return lines
+}
+
+function countWikiTargets(text, prefix) {
+  return [...text.matchAll(new RegExp(String.raw`\[\[${prefix}/`, 'g'))].length
+}
+
+function suggestIssueDisposition(target) {
+  if (countWikiTargets(target, '実践') > 0) {
+    return {
+      status: '実践へ',
+      reason: '新規パタンを作る前に、実践ページの圧縮や手順として整理できるか確認する。',
+    }
+  }
+  if (countWikiTargets(target, '概念') > 0 && countWikiTargets(target, 'パタン') === 0) {
+    return {
+      status: '概念へ',
+      reason: '独立パタンより、概念ページ側の整理として受け止められる可能性が高い。',
+    }
+  }
+  if (countWikiTargets(target, 'パタン') >= 1) {
+    return {
+      status: '吸収予定',
+      reason: '既存パタンへの接続先があるため、まず本文追記・関連欄・出典欄への吸収を試す。',
+    }
+  }
+  return {
+    status: 'draft候補',
+    reason: '受け皿が弱い場合だけ、status: draft の小さな新規パタンとして検討する。',
+  }
 }
 
 function renderIssues(issues) {
   if (issues.length === 0) return ['候補なし。']
   const lines = []
   for (const { issue, source, target } of issues) {
+    const disposition = suggestIssueDisposition(target)
     lines.push(`- ${issue}`)
     lines.push(`  - 出典: ${source}`)
     lines.push(`  - 圧縮先候補: ${target}`)
-    lines.push('  - 提案: 既存ページへ吸収できるかを先に確認し、足りなければ draft として小さく作る。')
+    lines.push(`  - 処理方針: \`${disposition.status}\` — ${disposition.reason}`)
   }
   return lines
 }
@@ -210,6 +293,7 @@ L.push(`最終実行: ${today}`)
 L.push('')
 L.push('このページは、自動生成された提案レポート。本文やリンクはまだ変更していない。')
 L.push('候補は「作る」ためではなく、まず「読む・統合する・既存ページに吸収する」ために使う。')
+L.push('仮ラベルと処理方針は、編集の入口を決めるための下書き。最終判断は本文を読んでから行う。')
 L.push('')
 L.push('## 概要')
 L.push('')
@@ -224,21 +308,21 @@ L.push('---')
 L.push('')
 L.push('## 1. 共通文献から見つかった新しいつながり')
 L.push('')
-L.push(...renderPairList(byLiterature, '共通文献', '文献', '候補なし。'))
+L.push(...renderPairList(byLiterature, '共通文献', '文献', 'literature', '候補なし。'))
 L.push('')
 L.push('## 2. 共通概念から見つかった新しいつながり')
 L.push('')
-L.push(...renderPairList(byConcept, '共通概念', '概念', '候補なし。'))
+L.push(...renderPairList(byConcept, '共通概念', '概念', 'concept', '候補なし。'))
 L.push('')
 L.push('## 3. 共通実践から見つかった新しいつながり')
 L.push('')
-L.push(...renderPairList(byPractice, '共通実践', '実践', '候補なし。'))
+L.push(...renderPairList(byPractice, '共通実践', '実践', 'practice', '候補なし。'))
 L.push('')
 L.push('## 4. 近いパタンの違いに追加したい候補')
 L.push('')
 L.push('共通する関連パタンが多いが、互いにはまだ直接つながっていないペア。')
 L.push('')
-L.push(...renderPairList(nearPairs, '共通関連パタン', 'パタン', '候補なし。'))
+L.push(...renderPairList(nearPairs, '共通関連パタン', 'パタン', 'near', '候補なし。'))
 L.push('')
 L.push('## 5. 未パタン化の論点からの候補')
 L.push('')

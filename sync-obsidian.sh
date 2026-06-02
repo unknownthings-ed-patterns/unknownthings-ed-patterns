@@ -16,11 +16,17 @@ if [ -z "$NODE_BIN" ]; then
   exit 1
 fi
 
+# リンク整合性を修正（rsync 前に実行）
+"$REPO/run-all-fixes.sh"
+
 # クラスター図を自動生成（<!-- cluster: manual --> のあるファイルはスキップ）
 "$NODE_BIN" generate-cluster-diagrams.mjs
 
 # lintチェック → wiki/メンテナンス/lint-report.md に書き出し
 "$NODE_BIN" lint-wiki.mjs
+
+# ネットワーク中心性レポート → wiki/メンテナンス/network-report.md に書き出し
+"$NODE_BIN" network-report.mjs
 
 # ObsidianのwikiをQuartzのcontentに同期（削除も反映）
 rsync -a --delete \
@@ -35,6 +41,7 @@ rsync -a --delete \
   --exclude='メンテナンス/主要パタン候補.md' \
   --exclude='メンテナンス/全パタン一覧（メンテナンス）.md' \
   --exclude='メンテナンス/lint-report.md' \
+  --exclude='メンテナンス/network-report.md' \
   "$SRC" "$DST"
 
 # 変更があればcommitしてpush

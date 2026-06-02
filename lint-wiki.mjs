@@ -100,7 +100,7 @@ const noPatternTag = [...data.entries()]
   .map(([name]) => name)
 
 // ⑤⑥ 文献ページとパタンの双方向リンクチェック
-const bunkenFiles = readdirSync(BUNKEN).filter(f => f.endsWith('.md') && f !== 'index.md' && f !== '文献.md' && !f.endsWith('.pdf'))
+const bunkenFiles = readdirSync(BUNKEN).filter(f => f.endsWith('.md') && f !== 'index.md' && f !== '文献.md' && f !== '文献ページテンプレート.md' && !f.endsWith('.pdf'))
 const bunkenNames = new Set(bunkenFiles.map(f => f.replace(/\.md$/, '')))
 
 // 文献ページが持つ [[パタン/X]] リンクを収集

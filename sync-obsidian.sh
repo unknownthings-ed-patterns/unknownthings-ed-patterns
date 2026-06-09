@@ -32,7 +32,6 @@ fi
 rsync -a --delete \
   --exclude='.obsidian' \
   --exclude='.DS_Store' \
-  --exclude='/index.md' \
   --exclude='困りごとから探す.md' \
   --exclude='目標から探す.md' \
   --exclude='パタン名インデックス.md' \
@@ -46,6 +45,8 @@ rsync -a --delete \
 
 # 変更があればcommitしてpush
 cd "$REPO"
+# YAMLフロントマターのコロン自動クォート（ビルドエラー防止）
+"$NODE_BIN" fix-yaml-colons.mjs
 "$NODE_BIN" scripts/normalize-links.mjs
 "$NODE_BIN" scripts/pattern-index.mjs
 git add content/

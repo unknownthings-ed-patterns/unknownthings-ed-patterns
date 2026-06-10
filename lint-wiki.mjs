@@ -762,7 +762,11 @@ L.push(`| stub       | ${cntStub}       | ${pct(cntStub)}       |`)
 if (cntOther > 0) L.push(`| その他     | ${cntOther}       | ${pct(cntOther)}       |`)
 L.push('')
 
-writeFileSync(REPORT, L.join('\n'), 'utf8')
+// 内容が変わらない限りvaultに書き込まない（launchd WatchPathsの再トリガー防止）
+const reportContent = L.join('\n')
+if (!existsSync(REPORT) || readFileSync(REPORT, 'utf8') !== reportContent) {
+  writeFileSync(REPORT, reportContent, 'utf8')
+}
 
 const historyData = { date: today, ...Object.fromEntries(CHECKS.map(c => [c.key, c.val])) }
 writeFileSync(HISTORY_PATH, JSON.stringify(historyData, null, 2), 'utf8')

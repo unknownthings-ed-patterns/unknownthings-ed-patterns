@@ -4,7 +4,7 @@
  * wiki/メンテナンス/network-report.md に書き出す。
  */
 
-import { readFileSync, writeFileSync, readdirSync } from 'fs'
+import { readFileSync, writeFileSync, readdirSync, existsSync } from 'fs'
 import { join } from 'path'
 
 const VAULT  = '/Users/iwaiteruhisa/Library/Mobile Documents/iCloud~md~obsidian/Documents/教育のパタン・ランゲージ/wiki/パタン'
@@ -114,5 +114,9 @@ L.push(`| 最大参照数 | ${maxOut}（${byOut[0]?.name}）|`)
 L.push(`| ネットワーク密度 | ${density}% |`)
 L.push('')
 
-writeFileSync(REPORT, L.join('\n'), 'utf8')
+// 内容が変わらない限りvaultに書き込まない（launchd WatchPathsの再トリガー防止）
+const reportContent = L.join('\n')
+if (!existsSync(REPORT) || readFileSync(REPORT, 'utf8') !== reportContent) {
+  writeFileSync(REPORT, reportContent, 'utf8')
+}
 console.log(`network-report: ${files.length} パタン / ${totalLinks} リンク / TOP被参照: ${byIn[0]?.name}(${byIn[0]?.in}) / 密度: ${density}%`)

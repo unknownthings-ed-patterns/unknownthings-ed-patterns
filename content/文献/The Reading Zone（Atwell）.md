@@ -3,7 +3,7 @@ type: literature
 title: "The Reading Zone: How to Help Kids Become Passionate, Skilled, Habitual, Critical Readers (Second Edition)"
 author: "Nancie Atwell, Anne Atwell Merkel"
 year: 2016
-tags: [文献, リーディングワークショップ, 読書指導, 国語, 没入読書, リーディング・ゾーン]
+tags: [文献, リーディング・ワークショップ, 読書指導, 国語, 没入読書, リーディング・ゾーン]
 ingested: 2026-05-13
 reintegrated: 2026-05-17
 ---

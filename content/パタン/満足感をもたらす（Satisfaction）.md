@@ -1,7 +1,7 @@
 ---
 type: pattern
 status: complete
-tags: [パタン, 熟慮的動機付け, ARCSモデル, 満足感]
+tags: [パタン, 熟慮的動機づけ, ARCSモデル, 満足感]
 updated: 2026-05-02
 source: "一つの教育のパタン・ランゲージ（岩井輝久）"
 ---
@@ -37,13 +37,13 @@ ARCSモデルの第4要素。注意・関連性・自信が揃っていても、
 ```mermaid
 flowchart LR
     ne6ba80e8b6b3e6849fe38292e38282e3819fe38289e38199efbc88536174697366616374696f6eefbc89["満足感をもたらす（Satisfaction）"]
-    ne7869fe685aee79a84e58b95e6a99fe4bb98e38191["熟慮的動機付け"]
+    ne7869fe685aee79a84e58b95e6a99fe381a5e38191["熟慮的動機づけ"]
     n41524353["ARCS"]
     n53312ee58685e799bae79a84e6ba80e8b6b3e6849fefbc88e58685e799bae79a84e381aae5bcb7e58c96efbc89["S1.内発的満足感（内発的な強化）"]
     n53322ee5a0b1e985ace381aee38182e3828be68890e69e9cefbc88e5a496e799bae79a84e381aae5a0b1e985acefbc89["S2.報酬のある成果（外発的な報酬）"]
     n53332ee585ace5b9b3e381aae5be85e98187efbc88e585ace5b9b3e6849fefbc89["S3.公平な待遇（公平感）"]
 
-    ne6ba80e8b6b3e6849fe38292e38282e3819fe38289e38199efbc88536174697366616374696f6eefbc89 --- ne7869fe685aee79a84e58b95e6a99fe4bb98e38191
+    ne6ba80e8b6b3e6849fe38292e38282e3819fe38289e38199efbc88536174697366616374696f6eefbc89 --- ne7869fe685aee79a84e58b95e6a99fe381a5e38191
     ne6ba80e8b6b3e6849fe38292e38282e3819fe38289e38199efbc88536174697366616374696f6eefbc89 --- n41524353
     ne6ba80e8b6b3e6849fe38292e38282e3819fe38289e38199efbc88536174697366616374696f6eefbc89 --- n53312ee58685e799bae79a84e6ba80e8b6b3e6849fefbc88e58685e799bae79a84e381aae5bcb7e58c96efbc89
     ne6ba80e8b6b3e6849fe38292e38282e3819fe38289e38199efbc88536174697366616374696f6eefbc89 --- n53322ee5a0b1e985ace381aee38182e3828be68890e69e9cefbc88e5a496e799bae79a84e381aae5a0b1e985acefbc89
@@ -64,7 +64,7 @@ flowchart LR
 - 一つの教育のパタン・ランゲージ（岩井輝久）
 
 ## 関連パタン
-- [[パタン/熟慮的動機付け]] — 親パタン
+- [[パタン/熟慮的動機づけ]] — 親パタン
 - [[パタン/ARCS]] — 上位フレームワーク
 - [[パタン/S1.内発的満足感（内発的な強化）]] — サブパターン
 - [[パタン/S2.報酬のある成果（外発的な報酬）]] — サブパターン

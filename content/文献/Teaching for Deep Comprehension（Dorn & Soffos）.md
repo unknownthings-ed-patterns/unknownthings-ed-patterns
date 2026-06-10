@@ -3,7 +3,7 @@ type: literature
 title: "Teaching for Deep Comprehension: A Reading Workshop Approach"
 author: "Linda J. Dorn, Carla Soffos"
 year: 2005
-tags: [文献, 国語, 読書指導, 読解, 深い理解, リーディングワークショップ, テキスト・セット, 文学討論, ミニレッスン, 共有読書, ストラテジー, スケール・オブ・ヘルプ]
+tags: [文献, 国語, 読書指導, 読解, 深い理解, リーディング・ワークショップ, テキスト・セット, 文学討論, ミニレッスン, 共有読書, ストラテジー, スケール・オブ・ヘルプ]
 ingested: 2026-05-15
 updated: 2026-05-19
 ---

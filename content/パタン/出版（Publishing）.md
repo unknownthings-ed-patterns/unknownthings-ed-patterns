@@ -1,7 +1,7 @@
 ---
 type: pattern
 status: complete
-tags: [パタン, 国語, 作文指導, ライティングワークショップ, 出版, 公開, 動機付け]
+tags: [パタン, 国語, 作文指導, ライティングワークショップ, 出版, 公開, 動機づけ]
 source: "Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Atwell, N.（1998）In the Middle. Heinemann."
 related: []
 updated: 2026-05-19

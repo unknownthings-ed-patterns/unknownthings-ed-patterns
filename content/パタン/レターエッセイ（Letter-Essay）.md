@@ -1,7 +1,7 @@
 ---
 type: pattern
 status: complete
-tags: [パタン, 国語, 読書指導, 書くこと, リーディングワークショップ, フィードバック文化, 読書記録]
+tags: [パタン, 国語, 読書指導, 書くこと, リーディング・ワークショップ, フィードバック文化, 読書記録]
 source: "Atwell, N., & Atwell Merkel, A. (2016). The Reading Zone (2nd ed.). Scholastic."
 related: [リーダーズ・ノート, リーディング・ゾーン, フィードバック文化, 読書アイデンティティ, 表現して学ぶ]
 updated: 2026-05-17

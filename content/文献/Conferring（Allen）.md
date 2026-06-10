@@ -3,7 +3,7 @@ type: literature
 title: "Conferring: The Keystone of Reader's Workshop"
 author: "Patrick A. Allen（Foreword by Debbie Miller）"
 year: 2009
-tags: [文献, 国語, 読書指導, カンファリング, リーディングワークショップ, RIPモデル]
+tags: [文献, 国語, 読書指導, カンファリング, リーディング・ワークショップ, RIPモデル]
 ingested: 2026-05-13
 ---
 

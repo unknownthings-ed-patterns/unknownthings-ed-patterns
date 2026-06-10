@@ -1,7 +1,7 @@
 ---
 type: pattern
 status: complete
-tags: [パタン, 熟慮的動機付け, ARCSモデル, ケラー]
+tags: [パタン, 熟慮的動機づけ, ARCSモデル, ケラー]
 updated: 2026-05-02
 source: "一つの教育のパタン・ランゲージ（岩井輝久）"
 ---
@@ -48,7 +48,7 @@ source: "一つの教育のパタン・ランゲージ（岩井輝久）"
 
 ## 関連パタン
 
-- [[パタン/熟慮的動機付け]] — 親パタン
+- [[パタン/熟慮的動機づけ]] — 親パタン
 - [[パタン/注意を生み出し維持する（Attention）]] — ARCSのA
 - [[パタン/関連性を確立し支援する（Relevance）]] — ARCSのR
 - [[パタン/自信を構築する（Confidence）]] — ARCSのC
@@ -59,13 +59,13 @@ source: "一つの教育のパタン・ランゲージ（岩井輝久）"
 ```mermaid
 flowchart LR
     n41524353["ARCS"]
-    ne7869fe685aee79a84e58b95e6a99fe4bb98e38191["熟慮的動機付け"]
+    ne7869fe685aee79a84e58b95e6a99fe381a5e38191["熟慮的動機づけ"]
     ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89["注意を生み出し維持する（Attention）"]
     ne996a2e980a3e680a7e38292e7a2bae7ab8be38197e694afe68fb4e38199e3828befbc8852656c6576616e6365efbc89["関連性を確立し支援する（Relevance）"]
     ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89["自信を構築する（Confidence）"]
     ne6ba80e8b6b3e6849fe38292e38282e3819fe38289e38199efbc88536174697366616374696f6eefbc89["満足感をもたらす（Satisfaction）"]
 
-    n41524353 --- ne7869fe685aee79a84e58b95e6a99fe4bb98e38191
+    n41524353 --- ne7869fe685aee79a84e58b95e6a99fe381a5e38191
     n41524353 --- ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89
     n41524353 --- ne996a2e980a3e680a7e38292e7a2bae7ab8be38197e694afe68fb4e38199e3828befbc8852656c6576616e6365efbc89
     n41524353 --- ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89

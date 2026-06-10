@@ -3,7 +3,7 @@ type: literature
 title: "The Joy of Planning: Designing Minilesson Cycles in Grades 3-6"
 author: "Franki Sibberson"
 year: 2012
-tags: [文献, 国語, 読書指導, ミニレッスン, リーディングワークショップ, 授業設計, サイクル計画]
+tags: [文献, 国語, 読書指導, ミニレッスン, リーディング・ワークショップ, 授業設計, サイクル計画]
 ingested: 2026-05-13
 updated: 2026-05-18
 ---

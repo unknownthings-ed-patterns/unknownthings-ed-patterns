@@ -1,7 +1,7 @@
 ---
 type: pattern
 status: complete
-tags: [パタン, 熟慮的動機付け, ARCSモデル, 関連性]
+tags: [パタン, 熟慮的動機づけ, ARCSモデル, 関連性]
 updated: 2026-05-02
 source: "一つの教育のパタン・ランゲージ（岩井輝久）"
 ---
@@ -38,14 +38,14 @@ ARCSモデルの第2要素。注意を引いた後、学習者が「なぜこれ
 flowchart LR
     ne996a2e980a3e680a7e38292e7a2bae7ab8be38197e694afe68fb4e38199e3828befbc8852656c6576616e6365efbc89["関連性を確立し支援する（Relevance）"]
     ne69c9fe5be85e383bbe98194e68890e4bea1e580a4efbc88e9878de8a681e680a7e4bea1e580a4efbc89["期待・達成価値（重要性価値）"]
-    ne7869fe685aee79a84e58b95e6a99fe4bb98e38191["熟慮的動機付け"]
+    ne7869fe685aee79a84e58b95e6a99fe381a5e38191["熟慮的動機づけ"]
     n41524353["ARCS"]
     n52312ee382b4e383bce383abe381a8e996a2e980a3e381a5e38191e3828be38193e381a8efbc88e79baee79a84e6809de88083e680a7efbc89["R1.ゴールと関連づけること（目的思考性）"]
     n52322ee88888e591b3efbc88e58b95e6a99fefbc89e381a8e381aee4b880e887b4["R2.興味（動機）との一致"]
     n52332ee7b58ce9a893e381a8e381aee381a4e381aae3818ce3828aefbc88e8a6aae38197e381bfe38284e38199e38195efbc89["R3.経験とのつながり（親しみやすさ）"]
 
     ne996a2e980a3e680a7e38292e7a2bae7ab8be38197e694afe68fb4e38199e3828befbc8852656c6576616e6365efbc89 --- ne69c9fe5be85e383bbe98194e68890e4bea1e580a4efbc88e9878de8a681e680a7e4bea1e580a4efbc89
-    ne996a2e980a3e680a7e38292e7a2bae7ab8be38197e694afe68fb4e38199e3828befbc8852656c6576616e6365efbc89 --- ne7869fe685aee79a84e58b95e6a99fe4bb98e38191
+    ne996a2e980a3e680a7e38292e7a2bae7ab8be38197e694afe68fb4e38199e3828befbc8852656c6576616e6365efbc89 --- ne7869fe685aee79a84e58b95e6a99fe381a5e38191
     ne996a2e980a3e680a7e38292e7a2bae7ab8be38197e694afe68fb4e38199e3828befbc8852656c6576616e6365efbc89 --- n41524353
     ne996a2e980a3e680a7e38292e7a2bae7ab8be38197e694afe68fb4e38199e3828befbc8852656c6576616e6365efbc89 --- n52312ee382b4e383bce383abe381a8e996a2e980a3e381a5e38191e3828be38193e381a8efbc88e79baee79a84e6809de88083e680a7efbc89
     ne996a2e980a3e680a7e38292e7a2bae7ab8be38197e694afe68fb4e38199e3828befbc8852656c6576616e6365efbc89 --- n52322ee88888e591b3efbc88e58b95e6a99fefbc89e381a8e381aee4b880e887b4
@@ -68,7 +68,7 @@ flowchart LR
 ## 関連パタン
 - [[特別支援/特別支援で使えるパタン]]
 - [[パタン/期待・達成価値（重要性価値）]]
-- [[パタン/熟慮的動機付け]] — 親パタン
+- [[パタン/熟慮的動機づけ]] — 親パタン
 - [[パタン/ARCS]] — 上位フレームワーク
 - [[パタン/R1.ゴールと関連づけること（目的思考性）]] — サブパターン
 - [[パタン/R2.興味（動機）との一致]] — サブパターン

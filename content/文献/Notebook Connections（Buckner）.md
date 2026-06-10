@@ -3,7 +3,7 @@ type: literature
 title: "Notebook Connections: Strategies for the Reader's Notebook"
 author: "Aimee Buckner"
 year: 2009
-tags: [文献, リーディングワークショップ, リーダーズノート, 読書指導, 国語]
+tags: [文献, リーディング・ワークショップ, リーダーズノート, 読書指導, 国語]
 ingested: 2026-05-15
 updated: 2026-05-18
 ---

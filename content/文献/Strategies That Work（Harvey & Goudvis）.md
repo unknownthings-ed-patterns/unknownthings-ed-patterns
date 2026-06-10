@@ -3,7 +3,7 @@ type: literature
 title: "Strategies That Work: Teaching Comprehension for Understanding and Engagement (2nd ed.)"
 author: "Stephanie Harvey & Anne Goudvis"
 year: 2007
-tags: [文献, 国語, 読書指導, 読解ストラテジー, リーディングワークショップ]
+tags: [文献, 国語, 読書指導, 読解ストラテジー, リーディング・ワークショップ]
 ingested: 2026-05-09
 updated: 2026-05-17
 ---

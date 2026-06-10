@@ -3,7 +3,7 @@ type: literature
 title: "Growing Readers: Units of Study in the Primary Classroom"
 author: "Kathy Collins"
 year: 2004
-tags: [文献, 読書指導, リーディングワークショップ, 低学年, 単元計画]
+tags: [文献, 読書指導, リーディング・ワークショップ, 低学年, 単元計画]
 ingested: 2026-05-24
 reintegrated: 2026-05-24
 ---

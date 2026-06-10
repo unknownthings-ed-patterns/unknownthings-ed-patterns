@@ -1,7 +1,7 @@
 ---
 type: pattern
 status: complete
-tags: [パタン, 熟慮的動機付け, ARCSモデル, 自信]
+tags: [パタン, 熟慮的動機づけ, ARCSモデル, 自信]
 updated: 2026-05-02
 source: "一つの教育のパタン・ランゲージ（岩井輝久）"
 ---
@@ -39,7 +39,7 @@ flowchart LR
     ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89["自信を構築する（Confidence）"]
     ne6bf80e58ab1e381aee58e9fe58987["激励の原則"]
     ne5a4b1e69597e38292e7b584e381bfe8bebce38280["失敗を組み込む"]
-    ne7869fe685aee79a84e58b95e6a99fe4bb98e38191["熟慮的動機付け"]
+    ne7869fe685aee79a84e58b95e6a99fe381a5e38191["熟慮的動機づけ"]
     n41524353["ARCS"]
     n43312ee68890e58a9fe381b8e381aee69c9fe5be85e6849fefbc88e5ada6e7bf92e8a681e6b182efbc89["C1.成功への期待感（学習要求）"]
     n43322ee68890e58a9fe381aee6a99fe4bc9a["C2.成功の機会"]
@@ -47,7 +47,7 @@ flowchart LR
 
     ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89 --- ne6bf80e58ab1e381aee58e9fe58987
     ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89 --- ne5a4b1e69597e38292e7b584e381bfe8bebce38280
-    ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89 --- ne7869fe685aee79a84e58b95e6a99fe4bb98e38191
+    ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89 --- ne7869fe685aee79a84e58b95e6a99fe381a5e38191
     ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89 --- n41524353
     ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89 --- n43312ee68890e58a9fe381b8e381aee69c9fe5be85e6849fefbc88e5ada6e7bf92e8a681e6b182efbc89
     ne887aae4bfa1e38292e6a78be7af89e38199e3828befbc88436f6e666964656e6365efbc89 --- n43322ee68890e58a9fe381aee6a99fe4bc9a
@@ -70,7 +70,7 @@ flowchart LR
 ## 関連パタン
 - [[パタン/激励の原則]]
 - [[パタン/失敗を組み込む]]
-- [[パタン/熟慮的動機付け]] — 親パタン
+- [[パタン/熟慮的動機づけ]] — 親パタン
 - [[パタン/ARCS]] — 上位フレームワーク
 - [[パタン/C1.成功への期待感（学習要求）]] — サブパターン
 - [[パタン/C2.成功の機会]] — サブパターン

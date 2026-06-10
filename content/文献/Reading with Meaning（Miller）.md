@@ -3,7 +3,7 @@ type: literature
 title: "Reading with Meaning: Teaching Comprehension in the Primary Grades"
 author: "Debbie Miller"
 year: 2002
-tags: [文献, 国語, 読書指導, 読解ストラテジー, 低学年, リーディングワークショップ]
+tags: [文献, 国語, 読書指導, 読解ストラテジー, 低学年, リーディング・ワークショップ]
 ingested: 2026-05-18
 ---
 

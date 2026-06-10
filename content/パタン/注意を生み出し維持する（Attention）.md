@@ -1,7 +1,7 @@
 ---
 type: pattern
 status: complete
-tags: [パタン, 熟慮的動機付け, ARCSモデル, 注意]
+tags: [パタン, 熟慮的動機づけ, ARCSモデル, 注意]
 updated: 2026-05-02
 source: "一つの教育のパタン・ランゲージ（岩井輝久）"
 ---
@@ -38,14 +38,14 @@ ARCSモデルの最初の要素。どれだけ重要な内容でも、学習者�
 flowchart LR
     ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89["注意を生み出し維持する（Attention）"]
     ne5ada6e7bf92e88488e7b5a1e381aee5a489e68f9b["学習脈絡の変換"]
-    ne7869fe685aee79a84e58b95e6a99fe4bb98e38191["熟慮的動機付け"]
+    ne7869fe685aee79a84e58b95e6a99fe381a5e38191["熟慮的動機づけ"]
     n41524353["ARCS"]
     n41312ee88888e591b3e381aee78db2e5be97efbc88e79fa5e8a69ae79a84e5969ae8b5b7efbc89["A1.興味の獲得（知覚的喚起）"]
     n41322ee68ea2e7a9b6e5bf83e381aee588bae6bf80efbc88e5969ae8b5b7efbc89["A2.探究心の刺激（喚起）"]
     n41332ee6b3a8e6848fe381aee68c81e7b69aefbc88e5a489e58c96e680a7efbc89["A3.注意の持続（変化性）"]
 
     ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89 --- ne5ada6e7bf92e88488e7b5a1e381aee5a489e68f9b
-    ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89 --- ne7869fe685aee79a84e58b95e6a99fe4bb98e38191
+    ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89 --- ne7869fe685aee79a84e58b95e6a99fe381a5e38191
     ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89 --- n41524353
     ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89 --- n41312ee88888e591b3e381aee78db2e5be97efbc88e79fa5e8a69ae79a84e5969ae8b5b7efbc89
     ne6b3a8e6848fe38292e7949fe381bfe587bae38197e7b6ade68c81e38199e3828befbc88417474656e74696f6eefbc89 --- n41322ee68ea2e7a9b6e5bf83e381aee588bae6bf80efbc88e5969ae8b5b7efbc89
@@ -67,7 +67,7 @@ flowchart LR
 
 ## 関連パタン
 - [[パタン/学習脈絡の変換]]
-- [[パタン/熟慮的動機付け]] — 親パタン
+- [[パタン/熟慮的動機づけ]] — 親パタン
 - [[パタン/ARCS]] — 上位フレームワーク
 - [[パタン/A1.興味の獲得（知覚的喚起）]] — サブパターン
 - [[パタン/A2.探究心の刺激（喚起）]] — サブパターン

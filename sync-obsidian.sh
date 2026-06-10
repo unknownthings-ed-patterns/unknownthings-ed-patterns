@@ -33,6 +33,9 @@ if [ "$MD_COUNT" -lt "$MIN_MD_COUNT" ]; then
   exit 1
 fi
 
+# launchd実行時はcwdが / になるため、相対パスのスクリプトが動くようリポジトリへ移動
+cd "$REPO"
+
 # リンク整合性を修正（rsync 前に実行）
 "$REPO/run-all-fixes.sh"
 

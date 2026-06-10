@@ -291,6 +291,8 @@ if (mode === "check") {
     `OK: ${names.length} patterns; ${indexed.size} in main index; ${missing.length} only in all-pattern list.`,
   )
 } else {
+  // content/メンテナンス/ はgit管理外（非公開）だがローカル参照用に生成を続ける
+  fs.mkdirSync(path.dirname(maintenancePatternList), { recursive: true })
   fs.writeFileSync(allPatternList, next)
   fs.writeFileSync(maintenancePatternList, maintenanceNext)
   fs.writeFileSync(candidateList, candidatesNext)

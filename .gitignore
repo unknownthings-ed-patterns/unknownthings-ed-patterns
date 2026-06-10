@@ -25,6 +25,11 @@ content/Clippings/**
 content/個人/
 content/個人/**
 
+# 内部運用情報（メンテナンスページ・作業ログ）
+content/メンテナンス/
+content/メンテナンス/**
+content/log.md
+
 # PDFファイル（スキャンやレポートの混入を防ぐ）
 content/**/*.pdf
 content/**/*.PDF

@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "ja-JP",
     baseUrl: "unknownthings-ed-patterns.github.io/unknownthings-ed-patterns",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "メンテナンス", "log.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

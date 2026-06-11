@@ -40,23 +40,23 @@ fi
 
 
 echo "=== [1/5] ハブパタン逆参照 (fix-hub-backlinks) ==="
-"$NODE_BIN" fix-hub-backlinks.mjs "${FIX_ARGS[@]}"
+"$NODE_BIN" fix-hub-backlinks.mjs ${FIX_ARGS[@]+"${FIX_ARGS[@]}"}
 
 echo ""
 echo "=== [2/5] 文献→Wiki逆参照 (fix-bunken-backlinks) ==="
-"$NODE_BIN" fix-bunken-backlinks.mjs "${FIX_ARGS[@]}"
+"$NODE_BIN" fix-bunken-backlinks.mjs ${FIX_ARGS[@]+"${FIX_ARGS[@]}"}
 
 echo ""
 echo "=== [3/5] 実践→パタン逆参照 (fix-jissen-backlinks) ==="
-"$NODE_BIN" fix-jissen-backlinks.mjs "${FIX_ARGS[@]}"
+"$NODE_BIN" fix-jissen-backlinks.mjs ${FIX_ARGS[@]+"${FIX_ARGS[@]}"}
 
 echo ""
 echo "=== [4/5] 概念→パタン逆参照 (fix-gainen-backlinks) ==="
-"$NODE_BIN" fix-gainen-backlinks.mjs "${FIX_ARGS[@]}"
+"$NODE_BIN" fix-gainen-backlinks.mjs ${FIX_ARGS[@]+"${FIX_ARGS[@]}"}
 
 echo ""
 echo "=== [5/5] 他Dir→パタン/文献逆参照 (fix-otherdir-backlinks) ==="
-"$NODE_BIN" fix-otherdir-backlinks.mjs "${FIX_ARGS[@]}"
+"$NODE_BIN" fix-otherdir-backlinks.mjs ${FIX_ARGS[@]+"${FIX_ARGS[@]}"}
 
 echo ""
 if [ "$APPLY" = true ]; then

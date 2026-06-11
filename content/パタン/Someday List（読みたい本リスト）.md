@@ -92,6 +92,7 @@ Atwell は学習者の Someday List を年度初めのオリエンテーショ�
 - ただし、リストに書いてもいつまでも読まない状態が続く場合は、選書の偏り（難しすぎ・ジャンルの固定）を確認する必要がある
 
 ## 関連パタン
+- [[パタン/夏の読書（格差を閉じる）]]
 - [[実践/読書への情熱を育てる実践集]]
 - [[パタン/よい本の選び方（IPICK）]]
 - [[パタン/著者研究]]
@@ -113,6 +114,7 @@ Atwell は学習者の Someday List を年度初めのオリエンテーショ�
 ```mermaid
 flowchart LR
     n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89["Someday List（読みたい本リスト）"]
+    ne5a48fe381aee8aaade69bb8efbc88e6a0bce5b7aee38292e99689e38198e3828befbc89["夏の読書（格差を閉じる）"]
     ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89["よい本の選び方（IPICK）"]
     ne89197e88085e7a094e7a9b6["著者研究"]
     ne38396e38383e382afe383bbe38388e383bce382af["ブック・トーク"]
@@ -125,6 +127,7 @@ flowchart LR
     ne383aae383bce38387e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397["リーディング・ワークショップ"]
     ne69599e5aea4e59bb3e69bb8e9a4a8["教室図書館"]
 
+    n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89 --- ne5a48fe381aee8aaade69bb8efbc88e6a0bce5b7aee38292e99689e38198e3828befbc89
     n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89 --- ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89
     n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89 --- ne89197e88085e7a094e7a9b6
     n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89 --- ne38396e38383e382afe383bbe38388e383bce382af

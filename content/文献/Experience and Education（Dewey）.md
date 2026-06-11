@@ -150,6 +150,7 @@ Dewey, J. (1938). *Experience and Education*. Kappa Delta Pi.
 ---
 
 ## 関連するWikiページ
+- [[パタン/胚細胞的コミュニティとしての学校]]
 - [[概念/教育思想の系譜]]
 
 - [[パタン/副次的学習]] — 本書の副次的学習（Collateral Learning）概念をパタン化

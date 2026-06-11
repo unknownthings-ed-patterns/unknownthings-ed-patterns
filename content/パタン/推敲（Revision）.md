@@ -210,6 +210,7 @@ Muschla（2006）が提示する推敲の3つの問い：
 - ただし推敲のスキルは一度教えれば身につくものではなく、作品を書くたびに繰り返し経験することで徐々に定着する
 
 ## 関連パタン
+- [[パタン/多作多捨]]
 - [[実践/言葉をよりすぐって俳句を作ろう]]
 - [[実践/俳句と短歌を楽しもう]]
 - [[パタン/ルーブリック]]
@@ -232,6 +233,7 @@ Muschla（2006）が提示する推敲の3つの問い：
 ```mermaid
 flowchart LR
     ne68ea8e695b2efbc885265766973696f6eefbc89["推敲（Revision）"]
+    ne5a49ae4bd9ce5a49ae68da8["多作多捨"]
     ne383abe383bce38396e383aae38383e382af["ルーブリック"]
     ne383a9e382a4e38386e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397["ライティング・ワークショップ"]
     ne38397e383aae383a9e382a4e38386e382a3e383b3e382b0["プリライティング"]
@@ -242,6 +244,7 @@ flowchart LR
     ne382a2e383b3e382abe383bce38381e383a3e383bce38388["アンカーチャート"]
     n31e5afbe31e381aee99da2e8ab87["1対1の面談"]
 
+    ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne5a49ae4bd9ce5a49ae68da8
     ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne383abe383bce38396e383aae38383e382af
     ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne383a9e382a4e38386e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397
     ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne38397e383aae383a9e382a4e38386e382a3e383b3e382b0

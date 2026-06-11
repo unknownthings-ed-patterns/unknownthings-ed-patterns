@@ -207,6 +207,15 @@ AIは「記号から記号への漂流」を続けながら驚異的な速度で
 - 記号操作の速度は下がる場合があるが、概念理解の深さは大きく増す
 
 ## 関連パタン
+- [[パタン/アスペクトの気づき（もう見えていたのに見えていなかった）]]
+- [[パタン/概念の芯をつかむ（地力の学び方）]]
+- [[パタン/概念の創造（哲学）]]
+- [[パタン/語ることと示すこと（言語の限界）]]
+- [[パタン/授業と情報の区別]]
+- [[パタン/数式は言葉（式を読む・式で語る）]]
+- [[パタン/直接見えない対象への類推（認識論的に困難な文脈）]]
+- [[パタン/定義から始める（言葉を厳密にする）]]
+- [[パタン/二つの世界の橋（現象と数式を往来する）]]
 
 - [[パタン/具体から抽象へ]] — 記号接地の教授論的実装
 - [[パタン/身体的理解]] — 身体経験が接地の主要な経路
@@ -223,23 +232,35 @@ AIは「記号から記号への漂流」を続けながら驚異的な速度で
 ```mermaid
 flowchart LR
     ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89["記号接地（Symbol Grounding）"]
+    ne382a2e382b9e3839ae382afe38388e381aee6b097e381a5e3818defbc88e38282e38186e8a68be38188e381a6e38184e3819fe381aee381abe8a68be38188e381a6e38184e381aae3818be381a3e3819fefbc89["アスペクトの気づき（もう見えていたのに見えていなかった）"]
+    ne6a682e5bfb5e381aee88aafe38292e381a4e3818be38280efbc88e59cb0e58a9be381aee5ada6e381b3e696b9efbc89["概念の芯をつかむ（地力の学び方）"]
+    ne6a682e5bfb5e381aee589b5e980a0efbc88e593b2e5ada6efbc89["概念の創造（哲学）"]
+    ne8aa9ee3828be38193e381a8e381a8e7a4bae38199e38193e381a8efbc88e8a880e8aa9ee381aee99990e7958cefbc89["語ることと示すこと（言語の限界）"]
+    ne68e88e6a5ade381a8e68385e5a0b1e381aee58cbae588a5["授業と情報の区別"]
+    ne695b0e5bc8fe381afe8a880e89189efbc88e5bc8fe38292e8aaade38280e383bbe5bc8fe381a7e8aa9ee3828befbc89["数式は言葉（式を読む・式で語る）"]
+    ne79bb4e68ea5e8a68be38188e381aae38184e5afbee8b1a1e381b8e381aee9a19ee68ea8efbc88e8aa8de8ad98e8ab96e79a84e381abe59bb0e99ba3e381aae69687e88488efbc89["直接見えない対象への類推（認識論的に困難な文脈）"]
+    ne5ae9ae7bea9e3818be38289e5a78be38281e3828befbc88e8a880e89189e38292e58eb3e5af86e381abe38199e3828befbc89["定義から始める（言葉を厳密にする）"]
+    ne4ba8ce381a4e381aee4b896e7958ce381aee6a98befbc88e78fbee8b1a1e381a8e695b0e5bc8fe38292e5be80e69da5e38199e3828befbc89["二つの世界の橋（現象と数式を往来する）"]
     ne585b7e4bd93e3818be38289e68abde8b1a1e381b8["具体から抽象へ"]
     ne8baabe4bd93e79a84e79086e8a7a3["身体的理解"]
     ne58d8ae585b7e4bd93e789a9["半具体物"]
     ne5ae9fe789a9efbc88e585b7e4bd93e789a9efbc89["実物（具体物）"]
     ne8aa9ee5bd99e68c87e5b08e["語彙指導"]
-    ne3839fe383a1e383bce382b7e382b9efbc88e6a8a1e580a3e381abe38288e3828be5ada6e381b3efbc89["ミメーシス（模倣による学び）"]
-    ne697a2e79fa5e3818be38289e69caae79fa5e381b8["既知から未知へ"]
-    ne695b0e5ada6e8aa9ee5bd99e381aee69687e88488e79a84e68c87e5b08e["数学語彙の文脈的指導"]
 
+    ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne382a2e382b9e3839ae382afe38388e381aee6b097e381a5e3818defbc88e38282e38186e8a68be38188e381a6e38184e3819fe381aee381abe8a68be38188e381a6e38184e381aae3818be381a3e3819fefbc89
+    ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne6a682e5bfb5e381aee88aafe38292e381a4e3818be38280efbc88e59cb0e58a9be381aee5ada6e381b3e696b9efbc89
+    ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne6a682e5bfb5e381aee589b5e980a0efbc88e593b2e5ada6efbc89
+    ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne8aa9ee3828be38193e381a8e381a8e7a4bae38199e38193e381a8efbc88e8a880e8aa9ee381aee99990e7958cefbc89
+    ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne68e88e6a5ade381a8e68385e5a0b1e381aee58cbae588a5
+    ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne695b0e5bc8fe381afe8a880e89189efbc88e5bc8fe38292e8aaade38280e383bbe5bc8fe381a7e8aa9ee3828befbc89
+    ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne79bb4e68ea5e8a68be38188e381aae38184e5afbee8b1a1e381b8e381aee9a19ee68ea8efbc88e8aa8de8ad98e8ab96e79a84e381abe59bb0e99ba3e381aae69687e88488efbc89
+    ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne5ae9ae7bea9e3818be38289e5a78be38281e3828befbc88e8a880e89189e38292e58eb3e5af86e381abe38199e3828befbc89
+    ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne4ba8ce381a4e381aee4b896e7958ce381aee6a98befbc88e78fbee8b1a1e381a8e695b0e5bc8fe38292e5be80e69da5e38199e3828befbc89
     ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne585b7e4bd93e3818be38289e68abde8b1a1e381b8
     ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne8baabe4bd93e79a84e79086e8a7a3
     ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne58d8ae585b7e4bd93e789a9
     ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne5ae9fe789a9efbc88e585b7e4bd93e789a9efbc89
     ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne8aa9ee5bd99e68c87e5b08e
-    ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne3839fe383a1e383bce382b7e382b9efbc88e6a8a1e580a3e381abe38288e3828be5ada6e381b3efbc89
-    ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne697a2e79fa5e3818be38289e69caae79fa5e381b8
-    ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 --- ne695b0e5ada6e8aa9ee5bd99e381aee69687e88488e79a84e68c87e5b08e
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne8a898e58fb7e68ea5e59cb0efbc8853796d626f6c2047726f756e64696e67efbc89 hub

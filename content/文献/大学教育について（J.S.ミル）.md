@@ -75,6 +75,7 @@ Mill, J.S. (1867). *Inaugural Address delivered to the University of St. Andrews
 ---
 
 ## 関連するWikiページ
+- [[パタン/知識の体系化]]
 
 - [[概念/教養と人格形成]] — ミルの人格形成論の核心的接続先。三層（享受・判断・社会的責任）との対応
 - [[概念/教育思想の系譜]] — 近代教育哲学の文脈における位置づけ

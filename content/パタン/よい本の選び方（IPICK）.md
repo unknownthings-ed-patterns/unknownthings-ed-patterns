@@ -205,6 +205,7 @@ CとKがOKなら「今の自分に合う本」
 - ただし、IPICK を形式的に唱えるだけでは「分かったようで使えない」状態になりやすい——教師のモデリングと個別カンファリングでの追確認が必要
 
 ## 関連パタン
+- [[パタン/夏の読書（格差を閉じる）]]
 - [[実践/デイリー5の起動]]
 
 - [[パタン/自己選択自己決定]] — IPICK が「選ぶ機会」に「選ぶ力」を加える
@@ -227,6 +228,7 @@ CとKがOKなら「今の自分に合う本」
 ```mermaid
 flowchart LR
     ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89["よい本の選び方（IPICK）"]
+    ne5a48fe381aee8aaade69bb8efbc88e6a0bce5b7aee38292e99689e38198e3828befbc89["夏の読書（格差を閉じる）"]
     ne887aae5b7b1e981b8e68a9ee887aae5b7b1e6b1bae5ae9a["自己選択自己決定"]
     ne8aaade69bb8e382a2e382a4e38387e383b3e38386e382a3e38386e382a3["読書アイデンティティ"]
     ne383aae383bce38387e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397["リーディング・ワークショップ"]
@@ -240,6 +242,7 @@ flowchart LR
     ne58f8de88abbe38199e3828be8aaade69bb8["反芻する読書"]
     ne887aae58886e381aee9a0ade381a7e88083e38188e3828befbc8853656c62737464656e6b656eefbc89["自分の頭で考える（Selbstdenken）"]
 
+    ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne5a48fe381aee8aaade69bb8efbc88e6a0bce5b7aee38292e99689e38198e3828befbc89
     ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne887aae5b7b1e981b8e68a9ee887aae5b7b1e6b1bae5ae9a
     ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne8aaade69bb8e382a2e382a4e38387e383b3e38386e382a3e38386e382a3
     ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne383aae383bce38387e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397

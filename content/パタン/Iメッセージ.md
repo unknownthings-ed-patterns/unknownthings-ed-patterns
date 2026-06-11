@@ -43,6 +43,7 @@ Iメッセージの基本構造は「私は〔状況〕のとき、〔感情・�
 - Iメッセージの練習が学習者同士の[[パタン/ピアフィードバック]]の質を高める
 
 ## 関連パタン
+- [[パタン/前向き責任（罰でなく未来のために）]]
 - [[学級経営/学級経営で使えるパタン]]
 - [[特別支援/特別支援で使えるパタン]]
 - [[パタン/35プラス1]]
@@ -59,6 +60,7 @@ Iメッセージの基本構造は「私は〔状況〕のとき、〔感情・�
 ```mermaid
 flowchart LR
     n49e383a1e38383e382bbe383bce382b8["Iメッセージ"]
+    ne5898de59091e3818de8b2ace4bbbbefbc88e7bdb0e381a7e381aae3818fe69caae69da5e381aee3819fe38281e381abefbc89["前向き責任（罰でなく未来のために）"]
     n3335e38397e383a9e382b931["35プラス1"]
     ne383aae383b4e382a9e382a4e382b7e383b3e382b0efbc88e799bae8a880e38292e8a880e38184e68f9be38188e381a6e7a2bae8aa8de38199e3828be799bae8a9b1efbc89["リヴォイシング（発言を言い換えて確認する発話）"]
     ne99693e68ea5e79a84e381abe8aaace6988ee38199e3828be383a1e38383e382bbe383bce382b8efbc88e4bc9ae8a9b1e381aee383a1e382bfe383a1e38383e382bbe383bce382b8efbc89["間接的に説明するメッセージ（会話のメタメッセージ）"]
@@ -67,6 +69,7 @@ flowchart LR
     ne6848fe591b3e381aee38182e3828be585b7e4bd93e79a84e381aae38395e382a3e383bce38389e38390e38383e382af["意味のある具体的なフィードバック"]
     ne38394e382a2e38395e382a3e383bce38389e38390e38383e382af["ピアフィードバック"]
 
+    n49e383a1e38383e382bbe383bce382b8 --- ne5898de59091e3818de8b2ace4bbbbefbc88e7bdb0e381a7e381aae3818fe69caae69da5e381aee3819fe38281e381abefbc89
     n49e383a1e38383e382bbe383bce382b8 --- n3335e38397e383a9e382b931
     n49e383a1e38383e382bbe383bce382b8 --- ne383aae383b4e382a9e382a4e382b7e383b3e382b0efbc88e799bae8a880e38292e8a880e38184e68f9be38188e381a6e7a2bae8aa8de38199e3828be799bae8a9b1efbc89
     n49e383a1e38383e382bbe383bce382b8 --- ne99693e68ea5e79a84e381abe8aaace6988ee38199e3828be383a1e38383e382bbe383bce382b8efbc88e4bc9ae8a9b1e381aee383a1e382bfe383a1e38383e382bbe383bce382b8efbc89

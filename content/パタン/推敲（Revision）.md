@@ -225,6 +225,7 @@ Muschla（2006）が提示する推敲の3つの問い：
 - [[パタン/1対1の面談]] — ライティング・カンファリングの基盤パタン
 - [[文献/Writing Workshop Survival Kit（Muschla）]] — 本パタンの一次資料
 - [[文献/考える短歌（俵万智）]] — 添削プロセスの可視化・削る観点の実例集（俵万智, 2004）
+- [[パタン/編集（Editing）]] — 姉妹パタン。推敲が終わった後の最終段階。表記の規約を読者のために整える
 
 ---
 
@@ -243,6 +244,7 @@ flowchart LR
     ne38395e382a3e383bce38389e38390e38383e382af["フィードバック"]
     ne382a2e383b3e382abe383bce38381e383a3e383bce38388["アンカーチャート"]
     n31e5afbe31e381aee99da2e8ab87["1対1の面談"]
+    ne7b7a8e99b86efbc8845646974696e67efbc89["編集（Editing）"]
 
     ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne5a49ae4bd9ce5a49ae68da8
     ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne383abe383bce38396e383aae38383e382af
@@ -254,6 +256,7 @@ flowchart LR
     ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne38395e382a3e383bce38389e38390e38383e382af
     ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne382a2e383b3e382abe383bce38381e383a3e383bce38388
     ne68ea8e695b2efbc885265766973696f6eefbc89 --- n31e5afbe31e381aee99da2e8ab87
+    ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne7b7a8e99b86efbc8845646974696e67efbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne68ea8e695b2efbc885265766973696f6eefbc89 hub

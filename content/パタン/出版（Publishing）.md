@@ -147,6 +147,7 @@ Muschla第2版（2006）で追加された章。ワープロを使った推敲�
 - [[パタン/ポートフォリオファイル]] — 出版作品を含む成長の可視化
 - [[パタン/コミュニティをつくる]] — 出版が教室のコミュニティをつなぐ
 - [[文献/Writing Workshop Survival Kit（Muschla）]] — 本パタンの一次資料
+- [[パタン/編集（Editing）]] — 出版の直前に通す最終段階。本物の読者の存在が編集を「規則」から「読者への礼儀」に変える
 
 ---
 
@@ -165,6 +166,7 @@ flowchart LR
     ne38389e382ade383a5e383a1e383b3e38386e383bce382b7e383a7e383b3["ドキュメンテーション"]
     ne3839de383bce38388e38395e382a9e383aae382aae38395e382a1e382a4e383ab["ポートフォリオファイル"]
     ne382b3e3839fe383a5e3838be38386e382a3e38292e381a4e3818fe3828b["コミュニティをつくる"]
+    ne7b7a8e99b86efbc8845646974696e67efbc89["編集（Editing）"]
 
     ne587bae78988efbc885075626c697368696e67efbc89 --- ne383abe383bce38396e383aae38383e382af
     ne587bae78988efbc885075626c697368696e67efbc89 --- ne4bd9ce5aeb6e381aee6a485e5ad90efbc88417574686f722773204368616972efbc89
@@ -176,6 +178,7 @@ flowchart LR
     ne587bae78988efbc885075626c697368696e67efbc89 --- ne38389e382ade383a5e383a1e383b3e38386e383bce382b7e383a7e383b3
     ne587bae78988efbc885075626c697368696e67efbc89 --- ne3839de383bce38388e38395e382a9e383aae382aae38395e382a1e382a4e383ab
     ne587bae78988efbc885075626c697368696e67efbc89 --- ne382b3e3839fe383a5e3838be38386e382a3e38292e381a4e3818fe3828b
+    ne587bae78988efbc885075626c697368696e67efbc89 --- ne7b7a8e99b86efbc8845646974696e67efbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne587bae78988efbc885075626c697368696e67efbc89 hub

@@ -182,6 +182,7 @@ Cohen & Garciaの研究では、課題の返却時に「私はあなたを信じ
 - [[パタン/学習する学校]] — AS LearningのメタコグニションはSengeのメンタルモデル・ディシプリンと連結する
 - [[文献/Mathematical Mindsets（Boaler）]] — 一次資料。Ch.8に詳細
 - [[文献/Schools That Learn（Senge et al.）]] — KallickとStigginsのAssessment AS Learningの一次資料
+- [[パタン/再提出を許す（リトライ・サイクル）]] — 「成績付けの6つの改善」第1項「再提出の許可」を独立パタンとして展開した実装
 
 ---
 
@@ -199,6 +200,7 @@ flowchart LR
     ne887aae5b7b1e981b8e68a9ee887aae5b7b1e6b1bae5ae9a["自己選択自己決定"]
     ne588b0e98194e383ace38399e383abe381aee887aae5b7b1e8a995e4bea1["到達レベルの自己評価"]
     ne5ada6e7bf92e38199e3828be5ada6e6a0a1["学習する学校"]
+    ne5868de68f90e587bae38292e8a8b1e38199efbc88e383aae38388e383a9e382a4e383bbe382b5e382a4e382afe383abefbc89["再提出を許す（リトライ・サイクル）"]
 
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne695b0e5ada6e383afe383bce382afe382b7e383a7e38383e38397
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne38381e382a7e38383e382afe382a4e383b3efbc88436865636b696e6720496eefbc89
@@ -209,6 +211,7 @@ flowchart LR
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne887aae5b7b1e981b8e68a9ee887aae5b7b1e6b1bae5ae9a
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne588b0e98194e383ace38399e383abe381aee887aae5b7b1e8a995e4bea1
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne5ada6e7bf92e38199e3828be5ada6e6a0a1
+    ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne5868de68f90e587bae38292e8a8b1e38199efbc88e383aae38388e383a9e382a4e383bbe382b5e382a4e382afe383abefbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 hub

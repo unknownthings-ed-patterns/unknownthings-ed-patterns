@@ -102,6 +102,7 @@ Boaler（2016）Ch.7「From Tracking to Growth Mindset Grouping」が一次資�
 - [[パタン/授業のユニバーサルデザイン]] — 全員参加の設計思想との接続
 - [[パタン/自己選択自己決定]] — 生徒自身が「どこまで進むか」を選ぶ設計
 - [[文献/Mathematical Mindsets（Boaler）]] — 一次資料
+- [[パタン/ガイデッド・リーディング（小グループの読み指導）]] — 緊張関係にあるパタン。読み指導での小グループ編成は固定化すれば能力別トラッキングに堕ちる——柔軟な組み替えがこの緊張への答え
 
 ---
 
@@ -117,6 +118,7 @@ flowchart LR
     ne5a49ae6a798e381aae6bc94e7bf92e383ace38399e383ab["多様な演習レベル"]
     ne68e88e6a5ade381aee383a6e3838be38390e383bce382b5e383abe38387e382b6e382a4e383b3["授業のユニバーサルデザイン"]
     ne887aae5b7b1e981b8e68a9ee887aae5b7b1e6b1bae5ae9a["自己選択自己決定"]
+    ne382ace382a4e38387e38383e38389e383bbe383aae383bce38387e382a3e383b3e382b0efbc88e5b08fe382b0e383abe383bce38397e381aee8aaade381bfe68c87e5b08eefbc89["ガイデッド・リーディング（小グループの読み指導）"]
 
     ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89 --- ne8a487e99b91e68c87e5b08eefbc88436f6d706c657820496e737472756374696f6eefbc89
     ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89 --- ne8b18ae3818be381aae8aab2e9a18c
@@ -125,6 +127,7 @@ flowchart LR
     ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89 --- ne5a49ae6a798e381aae6bc94e7bf92e383ace38399e383ab
     ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89 --- ne68e88e6a5ade381aee383a6e3838be38390e383bce382b5e383abe38387e382b6e382a4e383b3
     ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89 --- ne887aae5b7b1e981b8e68a9ee887aae5b7b1e6b1bae5ae9a
+    ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89 --- ne382ace382a4e38387e38383e38389e383bbe383aae383bce38387e382a3e383b3e382b0efbc88e5b08fe382b0e383abe383bce38397e381aee8aaade381bfe68c87e5b08eefbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne884b1e38388e383a9e38383e382ade383b3e382b0efbc8844652d747261636b696e67efbc89 hub

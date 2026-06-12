@@ -179,6 +179,7 @@ Dorn & Soffos は読者の発達段階によって共有読書の言語を変え
 - [[パタン/背景知識]] — オリエンテーションで背景知識を活性化する
 - [[パタン/スタミナを育てる]] — 易しい再読がスタミナの「助走」になる
 - [[パタン/文学討論グループ]] — 共有読書から文学討論グループへの発展
+- [[パタン/ガイデッド・リーディング（小グループの読み指導）]] — 連続体の第3段階。本パタン（一緒に読む第2段階）の次に、子どもが自分で読むのを教師が傍で支える段階へ進む
 
 ## クラスター図
 
@@ -195,6 +196,7 @@ flowchart LR
     ne8838ce699afe79fa5e8ad98["背景知識"]
     ne382b9e382bfe3839fe3838ae38292e882b2e381a6e3828b["スタミナを育てる"]
     ne69687e5ada6e8a88ee8ab96e382b0e383abe383bce38397["文学討論グループ"]
+    ne382ace382a4e38387e38383e38389e383bbe383aae383bce38387e382a3e383b3e382b0efbc88e5b08fe382b0e383abe383bce38397e381aee8aaade381bfe68c87e5b08eefbc89["ガイデッド・リーディング（小グループの読み指導）"]
 
     ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 --- ne8aa9ee5bd99e68c87e5b08e
     ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 --- ne8aaade88085e381aee38384e383bce383abe3839ce38383e382afe382b9
@@ -206,6 +208,7 @@ flowchart LR
     ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 --- ne8838ce699afe79fa5e8ad98
     ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 --- ne382b9e382bfe3839fe3838ae38292e882b2e381a6e3828b
     ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 --- ne69687e5ada6e8a88ee8ab96e382b0e383abe383bce38397
+    ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 --- ne382ace382a4e38387e38383e38389e383bbe383aae383bce38387e382a3e383b3e382b0efbc88e5b08fe382b0e383abe383bce38397e381aee8aaade381bfe68c87e5b08eefbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne585b1e69c89e8aaade69bb8efbc885368617265642052656164696e67efbc89 hub

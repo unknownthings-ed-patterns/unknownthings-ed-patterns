@@ -220,6 +220,7 @@ CとKがOKなら「今の自分に合う本」
 - [[パタン/教室図書館]] — 選べる図書館の設計（ジャンルバスケット・Book Baggie）が IPICK の発動条件を整える
 - [[パタン/反芻する読書]] — 少なく深く読む「よい本」を選ぶことが反芻の前提になる
 - [[パタン/自分の頭で考える（Selbstdenken）]] — 借り物の知識でなく自分の血肉になる本を選ぶ眼を育てる
+- [[パタン/ガイデッド・リーディング（小グループの読み指導）]] — 教師が「少し背伸び」の本を選ぶ場面と、子どもが自分で「合う本」を選ぶ場面が連続体として補完し合う
 
 ---
 
@@ -241,6 +242,7 @@ flowchart LR
     ne69599e5aea4e59bb3e69bb8e9a4a8["教室図書館"]
     ne58f8de88abbe38199e3828be8aaade69bb8["反芻する読書"]
     ne887aae58886e381aee9a0ade381a7e88083e38188e3828befbc8853656c62737464656e6b656eefbc89["自分の頭で考える（Selbstdenken）"]
+    ne382ace382a4e38387e38383e38389e383bbe383aae383bce38387e382a3e383b3e382b0efbc88e5b08fe382b0e383abe383bce38397e381aee8aaade381bfe68c87e5b08eefbc89["ガイデッド・リーディング（小グループの読み指導）"]
 
     ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne5a48fe381aee8aaade69bb8efbc88e6a0bce5b7aee38292e99689e38198e3828befbc89
     ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne887aae5b7b1e981b8e68a9ee887aae5b7b1e6b1bae5ae9a
@@ -255,6 +257,7 @@ flowchart LR
     ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne69599e5aea4e59bb3e69bb8e9a4a8
     ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne58f8de88abbe38199e3828be8aaade69bb8
     ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne887aae58886e381aee9a0ade381a7e88083e38188e3828befbc8853656c62737464656e6b656eefbc89
+    ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 --- ne382ace382a4e38387e38383e38389e383bbe383aae383bce38387e382a3e383b3e382b0efbc88e5b08fe382b0e383abe383bce38397e381aee8aaade381bfe68c87e5b08eefbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89 hub

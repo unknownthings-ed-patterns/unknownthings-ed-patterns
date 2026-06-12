@@ -209,6 +209,7 @@ P4Cはフランス・オーストラリア・ハワイ・韓国・台湾など�
 - [[パタン/哲学カフェ]] — 学校外・大人向けの哲学対話。P4Cの市民的拡張形態
 - [[概念/探究の共同体（Community of Inquiry）]] — リップマンが提唱した「理想的な哲学対話がおこなわれる教室」の概念名称
 - [[文献/僕らの世界を作りかえる哲学の授業（土屋）]] — 本パタンの主要出典
+- [[パタン/IRE型応答の脱却（Talk Move）]] — 教師の第3ターンを評価からTalk Moveへ組み替える構造パタン。哲学対話はIRE構造の構造的対極にあり、教師が評価者の座を降りる徹底形
 
 ## クラスター図
 
@@ -228,6 +229,7 @@ flowchart LR
     ne5a5bde5a587e5bf83e3818be38289e5a49ae696b9e88888e591b3e381b8["好奇心から多方興味へ"]
     ne7869fe685aee79a84e58b95e6a99fe381a5e38191["熟慮的動機づけ"]
     ne593b2e5ada6e382abe38395e382a7["哲学カフェ"]
+    n495245e59e8be5bf9ce7ad94e381aee884b1e58db4efbc8854616c6b204d6f7665efbc89["IRE型応答の脱却（Talk Move）"]
 
     ne593b2e5ada6e5afbee8a9b1efbc88503443efbc89 --- ne382bfe382a6e3839ee382bce382a4e383b3efbc88e9a99ae3818de3818be38289e5a78be381bee3828be68ea2e7a9b6efbc89
     ne593b2e5ada6e5afbee8a9b1efbc88503443efbc89 --- ne382a2e3839de383aae382a2e381aee8a8ade8a888
@@ -242,6 +244,7 @@ flowchart LR
     ne593b2e5ada6e5afbee8a9b1efbc88503443efbc89 --- ne5a5bde5a587e5bf83e3818be38289e5a49ae696b9e88888e591b3e381b8
     ne593b2e5ada6e5afbee8a9b1efbc88503443efbc89 --- ne7869fe685aee79a84e58b95e6a99fe381a5e38191
     ne593b2e5ada6e5afbee8a9b1efbc88503443efbc89 --- ne593b2e5ada6e382abe38395e382a7
+    ne593b2e5ada6e5afbee8a9b1efbc88503443efbc89 --- n495245e59e8be5bf9ce7ad94e381aee884b1e58db4efbc8854616c6b204d6f7665efbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne593b2e5ada6e5afbee8a9b1efbc88503443efbc89 hub

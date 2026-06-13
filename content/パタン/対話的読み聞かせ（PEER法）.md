@@ -117,7 +117,7 @@ Dickinson, Golinkoff & Hirsh-Pasek（2010）：就学前の読み聞かせ（PEE
 
 - [[パタン/読み聞かせ]] — 親パタン。PEER法は読み聞かせの「どう読むか」の技法
 - [[パタン/背景知識]] — PEER法により状況モデルの構築が促進される
-- [[パタン/語彙の指導]] — Distancing プロンプトが語彙の実生活接続を生む
+- [[パタン/語彙指導]] — Distancing プロンプトが語彙の実生活接続を生む
 - [[パタン/シンクアラウド]] — 子どもが声に出して考える機会を設計するという意味で同じ方向
 - [[パタン/不思議を育てる]] — ノンフィクションでの PEER 法が「驚く事実」への問いを生む
 - [[パタン/読書アイデンティティ]] — 能動的な参加経験が「本は面白い」という連合を強化する
@@ -131,14 +131,14 @@ flowchart LR
     ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89["対話的読み聞かせ（PEER法）"]
     ne8aaade381bfe8819ee3818be3819b["読み聞かせ"]
     ne8838ce699afe79fa5e8ad98["背景知識"]
-    ne8aa9ee5bd99e381aee68c87e5b08e["語彙の指導"]
+    ne8aa9ee5bd99e68c87e5b08e["語彙指導"]
     ne382b7e383b3e382afe382a2e383a9e382a6e38389["シンクアラウド"]
     ne4b88de6809de8adb0e38292e882b2e381a6e3828b["不思議を育てる"]
     ne8aaade69bb8e382a2e382a4e38387e383b3e38386e382a3e38386e382a3["読書アイデンティティ"]
 
     ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne8aaade381bfe8819ee3818be3819b
     ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne8838ce699afe79fa5e8ad98
-    ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne8aa9ee5bd99e381aee68c87e5b08e
+    ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne8aa9ee5bd99e68c87e5b08e
     ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne382b7e383b3e382afe382a2e383a9e382a6e38389
     ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne4b88de6809de8adb0e38292e882b2e381a6e3828b
     ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne8aaade69bb8e382a2e382a4e38387e383b3e38386e382a3e38386e382a3

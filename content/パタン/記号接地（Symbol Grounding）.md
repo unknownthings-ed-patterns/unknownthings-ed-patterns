@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 認知科学, 言語習得, 算数, 概念形成, 記号接地, 抽象概念]
 source: "今井むつみ・秋田喜美（2023）言語の本質 ことばはどう生まれ、進化したか. 中公新書"
 related: []
-updated: 2026-06-02
+updated: 2026-06-13
 ---
 
 # 記号接地（Symbol Grounding）

@@ -3,9 +3,9 @@ type: literature
 title: "Writing Workshop Survival Kit"
 author: "Gary Robert Muschla"
 year: 2006
-tags: [文献, 国語, 作文指導, ライティングワークショップ, ミニレッスン, 中高学年, クラフト, ジャンル, メカニクス, プリライティング, 評価]
+tags: [文献, 国語, 作文指導, ライティング・ワークショップ, ミニレッスン, 中高学年, クラフト, ジャンル, メカニクス, プリライティング, 評価]
 ingested: 2026-05-14
-updated: 2026-05-19
+updated: 2026-06-13
 ---
 
 # Writing Workshop Survival Kit（Muschla, 2006）

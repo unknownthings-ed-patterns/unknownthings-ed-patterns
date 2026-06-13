@@ -3,11 +3,11 @@ type: literature
 title: "Notebook Know-How: Strategies for the Writer's Notebook"
 author: "Aimee Buckner"
 year: 2005
-tags: [文献, ライティングワークショップ, ライターズノート, 書くこと, 国語]
+tags: [文献, ライティング・ワークショップ, ライターズノート, 書くこと, 国語]
 literature_status: integrated
 ingested: 2026-05-14
 reintegrated: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-13
 ---
 
 # Notebook Know-How（Buckner, 2005）

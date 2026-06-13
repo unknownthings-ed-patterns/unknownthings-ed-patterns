@@ -1,10 +1,10 @@
 ---
 type: pattern
 status: complete
-tags: [パタン, 国語, 作文指導, ライティングワークショップ, 出版, 共有]
+tags: [パタン, 国語, 作文指導, ライティング・ワークショップ, 出版, 共有]
 source: "Atwell, N.（1998）In the Middle. Heinemann. / Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Horn, M. & Giacobbe, M.E.（2007）Talking, Drawing, Writing. Stenhouse."
 related: []
-updated: 2026-05-21
+updated: 2026-06-13
 ---
 
 # 作家の椅子（Author's Chair）

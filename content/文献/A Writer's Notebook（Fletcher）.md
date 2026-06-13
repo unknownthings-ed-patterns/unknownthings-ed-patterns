@@ -3,7 +3,7 @@ type: literature
 title: "A Writer's Notebook: Unlocking the Writer Within You"
 author: Ralph Fletcher
 year: 1996
-tags: [文献, 国語, 作文指導, ライティングワークショップ, ライターズ・ノート, 書くこと, 観察, 記憶]
+tags: [文献, 国語, 作文指導, ライティング・ワークショップ, ライターズ・ノート, 書くこと, 観察, 記憶]
 ingested: 2026-06-02
 ---
 

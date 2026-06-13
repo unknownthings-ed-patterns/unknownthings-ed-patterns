@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 読書指導, 選書, 自律性, メタ認知, 自己選択自己決定, K-6]
 source: "Boushey, G., & Moser, J.（2014）The Daily 5: Fostering Literacy Independence in the Elementary Grades（2nd ed.）. Stenhouse."
 related: []
-updated: 2026-05-18
+updated: 2026-06-13
 ---
 
 # よい本の選び方（IPICK）

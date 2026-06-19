@@ -25,6 +25,10 @@ Willingham, D. T.（2015）. *Raising Kids Who Read: What Parents and Teachers C
 - **補強された点**: [[パタン/読み聞かせ]] の「語彙・知識のインプット」という目的を、PEER法という具体的な手続きに落とし込む。単に読むより顕著に効果が高い（Arnold & Whitehurst, 1994; Zevenbergen & Whitehurst, 2003）
 - **他のパタンへの波及**: [[パタン/背景知識]] — PEER法で子どもが能動的に参加するほど、状況モデルの構築が促進される。[[パタン/シンクアラウド]] — PEER法の Expand ステップは、教師のシンクアラウドを逆向きに——子どもが声に出して考える機会を作る
 
+**心の理論（ToM）との接続（Brandt, 2026）：**
+
+PEER法のCROWDプロンプト、特に**Wh-questions**（"What is she thinking?" "Why did he look surprised?"）と**Distancing**（"This character believed X—have you ever thought something was true and then found out you were wrong?"）は、自然に**心の状態言語**を引き出す文脈を作る。Brandt（2026）によれば、心の状態言語（"think/know/believe/wonder"型）への曝露がToM発達を支える——PEER法の読み聞かせがToMの育成でもあるという理解が加わる。→ [[パタン/心の状態言語の意図的使用（メンタル・ステート・トーク）]]
+
 ---
 
 ## 背景（Context）

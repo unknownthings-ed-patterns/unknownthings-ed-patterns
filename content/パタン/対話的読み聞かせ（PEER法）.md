@@ -127,6 +127,7 @@ Dickinson, Golinkoff & Hirsh-Pasek（2010）：就学前の読み聞かせ（PEE
 - [[パタン/シンクアラウド]] — 子どもが声に出して考える機会を設計するという意味で同じ方向
 - [[パタン/不思議を育てる]] — ノンフィクションでの PEER 法が「驚く事実」への問いを生む
 - [[パタン/読書アイデンティティ]] — 能動的な参加経験が「本は面白い」という連合を強化する
+- [[パタン/心の状態言語の意図的使用（メンタル・ステート・トーク）]] — PEER法のプロンプトが心の状態言語を自然に活性化する文脈を作る（Brandt, 2026）
 
 ---
 
@@ -141,6 +142,7 @@ flowchart LR
     ne382b7e383b3e382afe382a2e383a9e382a6e38389["シンクアラウド"]
     ne4b88de6809de8adb0e38292e882b2e381a6e3828b["不思議を育てる"]
     ne8aaade69bb8e382a2e382a4e38387e383b3e38386e382a3e38386e382a3["読書アイデンティティ"]
+    ne5bf83e381aee78ab6e6858be8a880e8aa9ee381aee6848fe59bb3e79a84e4bdbfe794a8efbc88e383a1e383b3e382bfe383abe383bbe382b9e38386e383bce38388e383bbe38388e383bce382afefbc89["心の状態言語の意図的使用（メンタル・ステート・トーク）"]
 
     ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne8aaade381bfe8819ee3818be3819b
     ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne8838ce699afe79fa5e8ad98
@@ -148,6 +150,7 @@ flowchart LR
     ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne382b7e383b3e382afe382a2e383a9e382a6e38389
     ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne4b88de6809de8adb0e38292e882b2e381a6e3828b
     ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne8aaade69bb8e382a2e382a4e38387e383b3e38386e382a3e38386e382a3
+    ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne5bf83e381aee78ab6e6858be8a880e8aa9ee381aee6848fe59bb3e79a84e4bdbfe794a8efbc88e383a1e383b3e382bfe383abe383bbe382b9e38386e383bce38388e383bbe38388e383bce382afefbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 hub

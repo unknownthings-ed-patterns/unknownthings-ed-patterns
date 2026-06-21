@@ -128,6 +128,7 @@ Dickinson, Golinkoff & Hirsh-Pasek（2010）：就学前の読み聞かせ（PEE
 - [[パタン/不思議を育てる]] — ノンフィクションでの PEER 法が「驚く事実」への問いを生む
 - [[パタン/読書アイデンティティ]] — 能動的な参加経験が「本は面白い」という連合を強化する
 - [[パタン/心の状態言語の意図的使用（メンタル・ステート・トーク）]] — PEER法のプロンプトが心の状態言語を自然に活性化する文脈を作る（Brandt, 2026）
+- [[パタン/ナチュラル・ペダゴジー（自然的教授法）]] — PEER法の呼びかけ・アイコンタクト・子どもの名前使用は呈示的シグナルとして機能し、子どもを文化的模倣モードに切り替える（Csibra & Gergely 2011）
 
 ---
 
@@ -143,6 +144,7 @@ flowchart LR
     ne4b88de6809de8adb0e38292e882b2e381a6e3828b["不思議を育てる"]
     ne8aaade69bb8e382a2e382a4e38387e383b3e38386e382a3e38386e382a3["読書アイデンティティ"]
     ne5bf83e381aee78ab6e6858be8a880e8aa9ee381aee6848fe59bb3e79a84e4bdbfe794a8efbc88e383a1e383b3e382bfe383abe383bbe382b9e38386e383bce38388e383bbe38388e383bce382afefbc89["心の状態言語の意図的使用（メンタル・ステート・トーク）"]
+    ne3838ae38381e383a5e383a9e383abe383bbe3839ae38380e382b4e382b8e383bcefbc88e887aae784b6e79a84e69599e68e88e6b395efbc89["ナチュラル・ペダゴジー（自然的教授法）"]
 
     ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne8aaade381bfe8819ee3818be3819b
     ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne8838ce699afe79fa5e8ad98
@@ -151,6 +153,7 @@ flowchart LR
     ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne4b88de6809de8adb0e38292e882b2e381a6e3828b
     ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne8aaade69bb8e382a2e382a4e38387e383b3e38386e382a3e38386e382a3
     ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne5bf83e381aee78ab6e6858be8a880e8aa9ee381aee6848fe59bb3e79a84e4bdbfe794a8efbc88e383a1e383b3e382bfe383abe383bbe382b9e38386e383bce38388e383bbe38388e383bce382afefbc89
+    ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 --- ne3838ae38381e383a5e383a9e383abe383bbe3839ae38380e382b4e382b8e383bcefbc88e887aae784b6e79a84e69599e68e88e6b395efbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne5afbee8a9b1e79a84e8aaade381bfe8819ee3818be3819befbc8850454552e6b395efbc89 hub

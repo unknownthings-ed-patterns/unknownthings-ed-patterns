@@ -133,6 +133,7 @@ updated: 2026-06-13
 - [[パタン/段階的手放し]] — 教師の全直しから子ども自身の編集へ、責任を段階的に移す（I Do→We Do→You Doの編集版）
 - [[パタン/再提出を許す（リトライ・サイクル）]] — 編集パスを経た再提出は「直せる」構造の書くこと版
 - [[文献/Writing Workshop Survival Kit（Muschla）]] — 一次資料のひとつ。推敲と編集の分離・編集チェックリストの体系の出典
+- [[パタン/AIフィードバックと教師の二重ループ]] — 低次の表記整えをAIが補助し、教師は最終編集者として高次に集中する。役割分担が直結
 
 ## クラスター図
 
@@ -148,6 +149,7 @@ flowchart LR
     ne382a2e383b3e382abe383bce38381e383a3e383bce38388["アンカーチャート"]
     ne6aeb5e99a8ee79a84e6898be694bee38197["段階的手放し"]
     ne5868de68f90e587bae38292e8a8b1e38199efbc88e383aae38388e383a9e382a4e383bbe382b5e382a4e382afe383abefbc89["再提出を許す（リトライ・サイクル）"]
+    n4149e38395e382a3e383bce38389e38390e38383e382afe381a8e69599e5b8abe381aee4ba8ce9878de383abe383bce38397["AIフィードバックと教師の二重ループ"]
 
     ne7b7a8e99b86efbc8845646974696e67efbc89 --- ne68ea8e695b2efbc885265766973696f6eefbc89
     ne7b7a8e99b86efbc8845646974696e67efbc89 --- ne587bae78988efbc885075626c697368696e67efbc89
@@ -158,6 +160,7 @@ flowchart LR
     ne7b7a8e99b86efbc8845646974696e67efbc89 --- ne382a2e383b3e382abe383bce38381e383a3e383bce38388
     ne7b7a8e99b86efbc8845646974696e67efbc89 --- ne6aeb5e99a8ee79a84e6898be694bee38197
     ne7b7a8e99b86efbc8845646974696e67efbc89 --- ne5868de68f90e587bae38292e8a8b1e38199efbc88e383aae38388e383a9e382a4e383bbe382b5e382a4e382afe383abefbc89
+    ne7b7a8e99b86efbc8845646974696e67efbc89 --- n4149e38395e382a3e383bce38389e38390e38383e382afe381a8e69599e5b8abe381aee4ba8ce9878de383abe383bce38397
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne7b7a8e99b86efbc8845646974696e67efbc89 hub

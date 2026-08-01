@@ -3,7 +3,7 @@ type: pattern
 status: complete
 tags: [パタン, 国語, ライティング・ワークショップ, 書くこと, 編集, 特別支援]
 source: "Fletcher & Portalupi (2001), Calkins (1994), Muschla (2005)"
-updated: 2026-06-13
+updated: 2026-08-02
 ---
 
 # 編集（Editing）
@@ -134,6 +134,7 @@ updated: 2026-06-13
 - [[パタン/再提出を許す（リトライ・サイクル）]] — 編集パスを経た再提出は「直せる」構造の書くこと版
 - [[文献/Writing Workshop Survival Kit（Muschla）]] — 一次資料のひとつ。推敲と編集の分離・編集チェックリストの体系の出典
 - [[パタン/AIフィードバックと教師の二重ループ]] — 低次の表記整えをAIが補助し、教師は最終編集者として高次に集中する。役割分担が直結
+- [[パタン/制作しながら質を判断する（産出中のモニタリング）]] — 編集が表記の点検を扱うのに対し、こちらは制作中の質そのものの判断を扱う（Sadler, 1989）
 
 ## クラスター図
 
@@ -150,6 +151,7 @@ flowchart LR
     ne6aeb5e99a8ee79a84e6898be694bee38197["段階的手放し"]
     ne5868de68f90e587bae38292e8a8b1e38199efbc88e383aae38388e383a9e382a4e383bbe382b5e382a4e382afe383abefbc89["再提出を許す（リトライ・サイクル）"]
     n4149e38395e382a3e383bce38389e38390e38383e382afe381a8e69599e5b8abe381aee4ba8ce9878de383abe383bce38397["AIフィードバックと教師の二重ループ"]
+    ne588b6e4bd9ce38197e381aae3818ce38289e8b3aae38292e588a4e696ade38199e3828befbc88e794a3e587bae4b8ade381aee383a2e3838be382bfe383aae383b3e382b0efbc89["制作しながら質を判断する（産出中のモニタリング）"]
 
     ne7b7a8e99b86efbc8845646974696e67efbc89 --- ne68ea8e695b2efbc885265766973696f6eefbc89
     ne7b7a8e99b86efbc8845646974696e67efbc89 --- ne587bae78988efbc885075626c697368696e67efbc89
@@ -161,6 +163,7 @@ flowchart LR
     ne7b7a8e99b86efbc8845646974696e67efbc89 --- ne6aeb5e99a8ee79a84e6898be694bee38197
     ne7b7a8e99b86efbc8845646974696e67efbc89 --- ne5868de68f90e587bae38292e8a8b1e38199efbc88e383aae38388e383a9e382a4e383bbe382b5e382a4e382afe383abefbc89
     ne7b7a8e99b86efbc8845646974696e67efbc89 --- n4149e38395e382a3e383bce38389e38390e38383e382afe381a8e69599e5b8abe381aee4ba8ce9878de383abe383bce38397
+    ne7b7a8e99b86efbc8845646974696e67efbc89 --- ne588b6e4bd9ce38197e381aae3818ce38289e8b3aae38292e588a4e696ade38199e3828befbc88e794a3e587bae4b8ade381aee383a2e3838be382bfe383aae383b3e382b0efbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne7b7a8e99b86efbc8845646974696e67efbc89 hub

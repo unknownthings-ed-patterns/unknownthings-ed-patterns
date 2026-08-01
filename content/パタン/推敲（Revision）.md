@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 作文指導, ライティング・ワークショップ, 推敲, リビジョン, 評価]
 source: "Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Atwell, N.（1998）In the Middle. Heinemann. / Calkins, L.（1994）The Art of Teaching Writing. Heinemann."
 related: []
-updated: 2026-06-13
+updated: 2026-08-02
 ---
 
 # 推敲（Revision）
@@ -226,6 +226,7 @@ Muschla（2006）が提示する推敲の3つの問い：
 - [[文献/Writing Workshop Survival Kit（Muschla）]] — 本パタンの一次資料
 - [[文献/考える短歌（俵万智）]] — 添削プロセスの可視化・削る観点の実例集（俵万智, 2004）
 - [[パタン/編集（Editing）]] — 姉妹パタン。推敲が終わった後の最終段階。表記の規約を読者のために整える
+- [[パタン/制作しながら質を判断する（産出中のモニタリング）]] — 推敲が書き終えた後に見るのに対し、こちらは書いている最中に見る（Sadler, 1989）
 
 ---
 
@@ -245,6 +246,7 @@ flowchart LR
     ne382a2e383b3e382abe383bce38381e383a3e383bce38388["アンカーチャート"]
     n31e5afbe31e381aee99da2e8ab87["1対1の面談"]
     ne7b7a8e99b86efbc8845646974696e67efbc89["編集（Editing）"]
+    ne588b6e4bd9ce38197e381aae3818ce38289e8b3aae38292e588a4e696ade38199e3828befbc88e794a3e587bae4b8ade381aee383a2e3838be382bfe383aae383b3e382b0efbc89["制作しながら質を判断する（産出中のモニタリング）"]
 
     ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne5a49ae4bd9ce5a49ae68da8
     ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne383abe383bce38396e383aae38383e382af
@@ -257,6 +259,7 @@ flowchart LR
     ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne382a2e383b3e382abe383bce38381e383a3e383bce38388
     ne68ea8e695b2efbc885265766973696f6eefbc89 --- n31e5afbe31e381aee99da2e8ab87
     ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne7b7a8e99b86efbc8845646974696e67efbc89
+    ne68ea8e695b2efbc885265766973696f6eefbc89 --- ne588b6e4bd9ce38197e381aae3818ce38289e8b3aae38292e588a4e696ade38199e3828befbc88e794a3e587bae4b8ade381aee383a2e3838be382bfe383aae383b3e382b0efbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne68ea8e695b2efbc885265766973696f6eefbc89 hub

@@ -2,9 +2,8 @@
 type: pattern
 status: complete
 tags: [パタン, 評価, 形成的評価, 算数, フィードバック, 自己評価, A4L, 学習する学校]
-source: "Boaler, J. (2016) Mathematical Mindsets / Butler (1988) / Cohen & Garcia (2014) / Kallick & Stiggins（in Senge et al., 2000/2012）"
-related: []
-updated: 2026-05-19
+source: "Boaler, J. (2016) Mathematical Mindsets / Butler (1988) / Cohen & Garcia (2014) / Kallick & Stiggins（in Senge et al., 2000/2012）/ Black, P. & Wiliam, D.（1998）Assessment and classroom learning"
+updated: 2026-08-03
 ---
 
 # 学習のための評価（A4L）
@@ -162,6 +161,26 @@ Cohen & Garciaの研究では、課題の返却時に「私はあなたを信じ
 
 この一文は「このフィードバックはあなたへの投資であり、あなたが成長できると思っているから書いた」という関係性のメッセージを伝える。診断的コメントに添えることで、コメントが「批判」ではなく「信頼」として届く。
 
+---
+
+### Butler 研究の原数値と、レビュー側からの補正（Black & Wiliam, 1998）
+
+Boaler が引く Butler（1988）は、ブラックとウィリアム（1998）の系統的レビューでも中心的な証拠として扱われている。原論文に近い数値を押さえておくと、本パタンの主張の強さと限界がはっきりする。
+
+- 対象は**11歳のイスラエルの子ども48名**、3セッション。**コメントのみ**群は得点が**約3分の1上昇**し、その水準を維持した。**評点＋コメント**群は3セッションを通じて**有意に低下**、評点のみ群も低下した。
+- Butler（1987）は**称賛**を加えた4条件で、**コメントのみ群だけが他の3群より1標準偏差高かった**。他の3群のあいだに有意差はない。**称賛は評点と同じ側に落ちる**——ここは「褒めればよい」という誤解を解く上で重要である。
+- 興味の測定では、**低達成の子どもだけが、評点を含むどの条件でも興味を損なわれた**。高達成の子どもは3条件すべてで高い興味を保った。**害は苦しい子に集中する**。
+
+レビュー側からの補正も二点、そのまま受け取っておきたい。
+
+第一に、Butler の実験は**生態学的妥当性を欠く**——通常のカリキュラムの一部でもなく、担任が実施したものでもない。ブラックとウィリアム自身がそう明記したうえで、それでも通常の教室に重要な教訓を与えると論じている。「フィンランドはテストをしないのに PISA が高い」といった対比も含め、**単一の事例を根拠に制度を語らない**ほうが本パタンは強くなる。
+
+第二に、レビューの結論は「**唯一の最適モデルは立ち現れてこない**。立ち現れるのは一組の**導きの原理**であり……各教師が**自分自身のやり方で**自分の実践に組み込まねばならない」（p.62）である。本パタンが並べる9つの手法や「成績付けの6つの改善」は、順に実施すべき手順書ではなく、選んで組み合わせる原理の一覧として読むのが正しい。
+
+なお、Butler の知見を単独の実務パタンとして取り出したものが [[パタン/評点なしで返す（コメントだけの一巡）]] である。
+
+---
+
 ## 結果（Consequences）
 
 - 生徒が成績の数字ではなく、自分の理解状況に注目するようになる
@@ -183,6 +202,11 @@ Cohen & Garciaの研究では、課題の返却時に「私はあなたを信じ
 - [[文献/Mathematical Mindsets（Boaler）]] — 一次資料。Ch.8に詳細
 - [[文献/Schools That Learn（Senge et al.）]] — KallickとStigginsのAssessment AS Learningの一次資料
 - [[パタン/再提出を許す（リトライ・サイクル）]] — 「成績付けの6つの改善」第1項「再提出の許可」を独立パタンとして展開した実装
+- [[パタン/評点なしで返す（コメントだけの一巡）]] — 「診断的コメント」を Butler の原数値から独立パタンとして取り出したもの
+- [[パタン/見取ったあとの手を決めておく（データ利用のルール化）]] — Exit Ticket や信号機で得た情報を、その場の判断でなく事前のルールで使う
+- [[パタン/進歩の傾きを見る（水準ではなく変化率）]] — 「今どこにいるか」を点ではなく軌跡で捉える
+- [[概念/自我関与と課題関与（フィードバックが向ける先）]] — 評点・称賛が効かずコメントが効く理由を説明する軸
+- [[文献/Assessment and Classroom Learning（Black & Wiliam）]] — Butler 研究を含む証拠の系統的レビュー。本パタンの実証的裏づけ（Black & Wiliam, 1998）
 
 ---
 
@@ -201,6 +225,9 @@ flowchart LR
     ne588b0e98194e383ace38399e383abe381aee887aae5b7b1e8a995e4bea1["到達レベルの自己評価"]
     ne5ada6e7bf92e38199e3828be5ada6e6a0a1["学習する学校"]
     ne5868de68f90e587bae38292e8a8b1e38199efbc88e383aae38388e383a9e382a4e383bbe382b5e382a4e382afe383abefbc89["再提出を許す（リトライ・サイクル）"]
+    ne8a995e782b9e381aae38197e381a7e8bf94e38199efbc88e382b3e383a1e383b3e38388e381a0e38191e381aee4b880e5b7a1efbc89["評点なしで返す（コメントだけの一巡）"]
+    ne8a68be58f96e381a3e3819fe38182e381a8e381aee6898be38292e6b1bae38281e381a6e3818ae3818fefbc88e38387e383bce382bfe588a9e794a8e381aee383abe383bce383abe58c96efbc89["見取ったあとの手を決めておく（データ利用のルール化）"]
+    ne980b2e6ada9e381aee582bee3818de38292e8a68be3828befbc88e6b0b4e6ba96e381a7e381afe381aae3818fe5a489e58c96e78e87efbc89["進歩の傾きを見る（水準ではなく変化率）"]
 
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne695b0e5ada6e383afe383bce382afe382b7e383a7e38383e38397
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne38381e382a7e38383e382afe382a4e383b3efbc88436865636b696e6720496eefbc89
@@ -212,6 +239,9 @@ flowchart LR
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne588b0e98194e383ace38399e383abe381aee887aae5b7b1e8a995e4bea1
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne5ada6e7bf92e38199e3828be5ada6e6a0a1
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne5868de68f90e587bae38292e8a8b1e38199efbc88e383aae38388e383a9e382a4e383bbe382b5e382a4e382afe383abefbc89
+    ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne8a995e782b9e381aae38197e381a7e8bf94e38199efbc88e382b3e383a1e383b3e38388e381a0e38191e381aee4b880e5b7a1efbc89
+    ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne8a68be58f96e381a3e3819fe38182e381a8e381aee6898be38292e6b1bae38281e381a6e3818ae3818fefbc88e38387e383bce382bfe588a9e794a8e381aee383abe383bce383abe58c96efbc89
+    ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne980b2e6ada9e381aee582bee3818de38292e8a68be3828befbc88e6b0b4e6ba96e381a7e381afe381aae3818fe5a489e58c96e78e87efbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 hub
@@ -235,6 +265,10 @@ Kallick, B., & Stiggins, R. (2000/2012). Assessment as Learning. In P. Senge, N.
 Butler, R. (1988). Enhancing and undermining intrinsic motivation: The effects of task-involving and ego-involving evaluation on interest and performance. *British Journal of Educational Psychology*, 58(1), 1–14.
 
 Cohen, G. L., & Garcia, J. (2014). Educational theory, practice, and policy and the wisdom of social psychology. *Policy Insights from the Behavioral and Brain Sciences*, 1(1), 13–20.
+
+Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.
+
+Butler, R. (1987). Task-involving and ego-involving properties of evaluation. *Journal of Educational Psychology*, 79, 474–482.
 
 Boaler, J., & Staples, M. (2008). Creating mathematical futures through an equitable teaching approach. *Teachers College Record*, 110(3), 608–645.
 

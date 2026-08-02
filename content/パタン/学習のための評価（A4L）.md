@@ -211,6 +211,7 @@ Boaler が引く Butler（1988）は、ブラックとウィリアム（1998）�
 ---
 
 - [[概念/教授学的契約（やり過ごしの均衡）]] — 評価の目的を変えることは「正当な活動」の範囲を変えること
+- [[パタン/聴き方を変える（評価的・解釈的・解釈学的）]] — 評価を学習の一部として運用する立場が、教師の聴き方という最小単位に現れたもの
 ## クラスター図
 
 ```mermaid
@@ -229,6 +230,7 @@ flowchart LR
     ne8a995e782b9e381aae38197e381a7e8bf94e38199efbc88e382b3e383a1e383b3e38388e381a0e38191e381aee4b880e5b7a1efbc89["評点なしで返す（コメントだけの一巡）"]
     ne8a68be58f96e381a3e3819fe38182e381a8e381aee6898be38292e6b1bae38281e381a6e3818ae3818fefbc88e38387e383bce382bfe588a9e794a8e381aee383abe383bce383abe58c96efbc89["見取ったあとの手を決めておく（データ利用のルール化）"]
     ne980b2e6ada9e381aee582bee3818de38292e8a68be3828befbc88e6b0b4e6ba96e381a7e381afe381aae3818fe5a489e58c96e78e87efbc89["進歩の傾きを見る（水準ではなく変化率）"]
+    ne881b4e3818de696b9e38292e5a489e38188e3828befbc88e8a995e4bea1e79a84e383bbe8a7a3e98788e79a84e383bbe8a7a3e98788e5ada6e79a84efbc89["聴き方を変える（評価的・解釈的・解釈学的）"]
 
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne695b0e5ada6e383afe383bce382afe382b7e383a7e38383e38397
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne38381e382a7e38383e382afe382a4e383b3efbc88436865636b696e6720496eefbc89
@@ -243,6 +245,7 @@ flowchart LR
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne8a995e782b9e381aae38197e381a7e8bf94e38199efbc88e382b3e383a1e383b3e38388e381a0e38191e381aee4b880e5b7a1efbc89
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne8a68be58f96e381a3e3819fe38182e381a8e381aee6898be38292e6b1bae38281e381a6e3818ae3818fefbc88e38387e383bce382bfe588a9e794a8e381aee383abe383bce383abe58c96efbc89
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne980b2e6ada9e381aee582bee3818de38292e8a68be3828befbc88e6b0b4e6ba96e381a7e381afe381aae3818fe5a489e58c96e78e87efbc89
+    ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 --- ne881b4e3818de696b9e38292e5a489e38188e3828befbc88e8a995e4bea1e79a84e383bbe8a7a3e98788e79a84e383bbe8a7a3e98788e5ada6e79a84efbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89 hub

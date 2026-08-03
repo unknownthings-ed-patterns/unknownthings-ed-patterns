@@ -196,6 +196,9 @@ B児が「まん中に『どうして』ってある」と言った。そこで 
 - [[パタン/偶発の瞬間を活かす（コンティンジェンシー）]] — 偶発の瞬間の質は、そこで読み取る解釈の質を超えない
 - [[概念/自己調整学習の内側（成長の道とウェルビーイングの道）]] — 「わかったつもり」が、自己調整のどの段階で生じるかのモデル
 - [[文献/Developing the Theory of Formative Assessment（Black & Wiliam, 2009）]] — fit と match が「教師のモデルの限界」として再登場する2009年版
+- [[パタン/その過程が本当に働いたかを確かめる]] — 同じ問題を評価設計の側から言ったもの。課題が意図した過程を引き出せているかを確かめる
+- [[パタン/余計な難しさを外す（構成概念に無関係な分散）]] — 正答が理解の証拠にならない一因。無関係な易しさが「わかったふり」を作る
+- [[概念/妥当性（スコアの意味についての評価判断）]] — 「解釈が妥当か」を問う枠組み。fit と match のずれは妥当性の問題として整理できる
 
 ## クラスター図
 
@@ -215,6 +218,7 @@ flowchart LR
     ne588b6e4bd9ce38197e381aae3818ce38289e8b3aae38292e588a4e696ade38199e3828befbc88e794a3e587bae4b8ade381aee383a2e3838be382bfe383aae383b3e382b0efbc89["制作しながら質を判断する（産出中のモニタリング）"]
     ne7ad94e38188e381aee587bae381a9e38193e3828de38292e68ea8e38197e9878fe3828befbc88e8aaa4e7ad94e381aee8a7a3e98788efbc89["答えの出どころを推し量る（誤答の解釈）"]
     ne581b6e799bae381aee79eace99693e38292e6b4bbe3818be38199efbc88e382b3e383b3e38386e382a3e383b3e382b8e382a7e383b3e382b7e383bcefbc89["偶発の瞬間を活かす（コンティンジェンシー）"]
+    ne3819de381aee9818ee7a88be3818ce69cace5bd93e381abe5838de38184e3819fe3818be38292e7a2bae3818be38281e3828b["その過程が本当に働いたかを確かめる"]
 
     ne79086e8a7a3e381aee38197e3828be38197e38292e8aaade38280efbc8866697420e381a8206d61746368efbc89 --- ne881b4e3818de696b9e38292e5a489e38188e3828befbc88e8a995e4bea1e79a84e383bbe8a7a3e98788e79a84e383bbe8a7a3e98788e5ada6e79a84efbc89
     ne79086e8a7a3e381aee38197e3828be38197e38292e8aaade38280efbc8866697420e381a8206d61746368efbc89 --- ne5bda2e68890e79a84e8a995e4bea1
@@ -229,6 +233,7 @@ flowchart LR
     ne79086e8a7a3e381aee38197e3828be38197e38292e8aaade38280efbc8866697420e381a8206d61746368efbc89 --- ne588b6e4bd9ce38197e381aae3818ce38289e8b3aae38292e588a4e696ade38199e3828befbc88e794a3e587bae4b8ade381aee383a2e3838be382bfe383aae383b3e382b0efbc89
     ne79086e8a7a3e381aee38197e3828be38197e38292e8aaade38280efbc8866697420e381a8206d61746368efbc89 --- ne7ad94e38188e381aee587bae381a9e38193e3828de38292e68ea8e38197e9878fe3828befbc88e8aaa4e7ad94e381aee8a7a3e98788efbc89
     ne79086e8a7a3e381aee38197e3828be38197e38292e8aaade38280efbc8866697420e381a8206d61746368efbc89 --- ne581b6e799bae381aee79eace99693e38292e6b4bbe3818be38199efbc88e382b3e383b3e38386e382a3e383b3e382b8e382a7e383b3e382b7e383bcefbc89
+    ne79086e8a7a3e381aee38197e3828be38197e38292e8aaade38280efbc8866697420e381a8206d61746368efbc89 --- ne3819de381aee9818ee7a88be3818ce69cace5bd93e381abe5838de38184e3819fe3818be38292e7a2bae3818be38281e3828b
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne79086e8a7a3e381aee38197e3828be38197e38292e8aaade38280efbc8866697420e381a8206d61746368efbc89 hub

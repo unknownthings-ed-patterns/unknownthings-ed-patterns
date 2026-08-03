@@ -180,6 +180,7 @@ Sadler, D. R. (1989). Formative assessment and the design of instructional syste
 
 ## 関連するWikiページ
 
+- [[文献/Developing the Theory of Formative Assessment（Black & Wiliam, 2009）]] — 本論文の20年後の理論篇。「産出の行為の中で」という本論文の句が、学習者の内側のモデル（自己調整学習）への入口として引き継がれている
 - [[パタン/評価的専門性を渡す（ギルド知識のダウンロード）]] — 本論文の中心主張をパタン化したもの
 - [[パタン/潜在規準と顕在規準（規準の浮き沈み）]] — 規準を潜在と顕在で出し入れする機構
 - [[パタン/制作しながら質を判断する（産出中のモニタリング）]] — 3条件の(b)を産出中まで前倒しした実践

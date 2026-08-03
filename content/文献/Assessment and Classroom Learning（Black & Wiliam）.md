@@ -170,6 +170,7 @@ Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment i
 
 ## 関連するWikiページ
 
+- [[文献/Developing the Theory of Formative Assessment（Black & Wiliam, 2009）]] — 本稿の11年後、同じ二人による理論篇。本稿が「効く」を証拠で示したのに対し、あちらは「なぜ・どのように効くのか」を扱い、定義そのものを「程度」と「決定」で書き直した
 - [[文献/Formative Assessment and the Design of Instructional Systems（Sadler）]] — 本稿が理論的支柱として繰り返し依拠する論文。ギャップ原則・自己評価の必要性・成績の逆効果はすべて Sadler 由来
 - [[パタン/形成的評価]] — 本稿が定義を与えた中心概念
 - [[パタン/学習のための評価（A4L）]] — 本稿の主張を実践の言葉に翻訳したもの

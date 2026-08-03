@@ -229,6 +229,7 @@ Black, P., & Wiliam, D. (2009). Developing the theory of formative assessment. *
 - [[概念/教育評価論]] — サドラー・ブラック＆ウィリアムの位置づけ
 
 ---
+- [[パタン/学習のための評価（A4L）]] — A4L の実践群が5つの戦略のどこに位置するかを与える
 
 ## 展開したい問い
 

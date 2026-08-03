@@ -195,6 +195,7 @@ Sadler, D. R. (1989). Formative assessment and the design of instructional syste
 - [[概念/教育評価論]] — サドラーとアイスナーの位置づけ
 
 ---
+- [[概念/形成的評価の5つの戦略（3×3の枠組み）]] — サドラーの規準論が、戦略①「学習の意図と成功の規準の共有」として定式化された
 
 ## 展開したい問い
 

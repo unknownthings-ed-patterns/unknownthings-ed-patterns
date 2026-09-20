@@ -4,7 +4,7 @@ title: "Validity of Psychological Assessment: Validation of Inferences from Pers
 author: "Samuel Messick"
 year: 1994
 tags: [文献, 教育評価, 評価, 妥当性, 構成概念妥当性, テスト, ルーブリック, 特別支援, メシック]
-source: "Messick, S.（1994）Validity of psychological assessment: Validation of inferences from persons' responses and performances as scientific inquiry into score meaning"
+source: "Messick, S.（1994）Validity of psychological assessment: Validation of inferences from persons' responses and performances as scientific inquiry into score meaning. *ETS Research Report Series*, 1994(2), i–28（Report No. RR-94-45）. https://doi.org/10.1002/j.2333-8504.1994.tb01618.x"
 updated: 2026-08-03
 ---
 

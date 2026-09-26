@@ -43,11 +43,11 @@ updated: 2026-09-27
 
 > "Background Knowledge + Text Clues = Inference. It is a formula of sorts for inferring."
 
-> "Synthesis is about the evolution of thought, not a summary of information... Reading changes thinking."
+> "To make synthesizing understandable for our kids, we talk with them about how reading changes and adds to thinking."
 
-> "Asking questions is the hallmark of active, engaged reading. Questions keep readers focused and alert as they read."
+> "Questions are the master key to understanding. Questions clarify confusion. Questions stimulate research efforts. Questions propel us forward and take us deeper into reading."
 
-> "About 80 percent of the books in most classrooms are fiction, yet about 80 percent of reading done in the real world—newspapers, magazines, nonfiction books, Internet—is nonfiction."
+> "Over 80 percent of the classroom books fell into the fiction category. Considering that about 80 percent of the reading we do outside of school is nonfiction, it wasn’t hard to recognize a disconnect."
 
 ## 教育実践への示唆
 

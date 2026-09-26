@@ -9,7 +9,7 @@ updated: 2026-09-27
 
 # Consolidation（収束の時間）
 
-> 探究の後の「5〜10分の収束」が、活動を「学び」に変える。収束なき探究は経験だけを残し、概念を残さない。
+> 探究の後の「収束」が、活動を「学び」に変える。収束なき探究は経験だけを残し、概念を残さない。
 
 ---
 
@@ -48,7 +48,7 @@ Liljedahl & Giroux（2024）は、探究の中の子どもの考えは力強い�
 
 ## 解決（Solution）
 
-**探究の後の5〜10分で、子どもの発見をシンプルから複雑な順に並べ直し、共通する数学的構造を「なぜ？」「いつも？」で引き出す。**
+**探究の後に、子どもの発見をシンプルから複雑な順に並べ直し、共通する数学的構造を「なぜ？」「いつも？」で引き出す。**
 
 ---
 
@@ -251,7 +251,4 @@ Liljedahl, P., & Giroux, M.（2024）. *Mathematics Tasks for the Thinking Class
 Liljedahl, P.（2021）. *Building Thinking Classrooms in Mathematics*. Corwin.
 
 > "if students walk out of the room without an opportunity to organize, structure, and formalize their thinking, their ideas are apt to drift away before their next math lesson."
-> — Liljedahl & Giroux（2024）
-
-> "If students are doing thinking tasks but not experiencing consolidation, they are experiencing activity without learning."
 > — Liljedahl & Giroux（2024）

@@ -122,7 +122,7 @@ They hate Igor for keeping them in. (Connection from our earlier character chart
 - [[パタン/熟慮的問い]] — 問いを目的・相手・文脈から設計する上位パタン
 - [[パタン/アンカーチャート]] — 対話を記録する道具
 - [[パタン/シンクアラウド]] — 教師が「対話中の思考を可視化する」ことでモデルを示す
-- [[パタン/深い理解（表層と深層）]] — 「物語の深層（Beneath the Story）」は第2水準（推論的理解）以上を目指す
+- [[パタン/深い理解（表層と深層）]] — 「物語の深層（Beneath the Story）」は表層を越えて深層の理解を目指す
 - [[パタン/推論する（インファリング）]] — 対話から引き上げる問いの多くは推論を求める
 - [[文献/Notebook Connections（Buckner）]] — 一次資料
 

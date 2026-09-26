@@ -232,9 +232,6 @@ Dr. Constance L. Marks による円形ジャンルチャートを含む。Fictio
 
 ## 重要な引用
 
-> "We have produced a generation of aliterate students—those who CAN read but simply CHOOSE not to."
-> —Layne（2009）
-
 > "A good book read well will do more for the woes of the disenfranchised readers than all the leveled books our publishers can crank out."
 > —Layne（2009）
 

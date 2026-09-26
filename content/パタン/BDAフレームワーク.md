@@ -186,7 +186,7 @@ KWL（K+W）        シンクアラウド         KWL（L）
 - [[パタン/語彙指導]]
 - [[パタン/授業の縦糸と横糸]]
 - [[パタン/重要性の見極め]]
-- [[パタン/深い理解（3水準の読解）]]
+- [[パタン/深い理解（表層と深層）]]
 - [[パタン/読解の7プロセス]]
 - [[パタン/表現して学ぶ]]
 - [[パタン/予測（インストラクション）]]
@@ -217,7 +217,7 @@ flowchart LR
     ne8aa9ee5bd99e68c87e5b08e["語彙指導"]
     ne68e88e6a5ade381aee7b8a6e7b3b8e381a8e6a8aae7b3b8["授業の縦糸と横糸"]
     ne9878de8a681e680a7e381aee8a68be6a5b5e38281["重要性の見極め"]
-    ne6b7b1e38184e79086e8a7a3efbc8833e6b0b4e6ba96e381aee8aaade8a7a3efbc89["深い理解（3水準の読解）"]
+    ne6b7b1e38184e79086e8a7a3efbc88e8a1a8e5b1a4e381a8e6b7b1e5b1a4efbc89["深い理解（表層と深層）"]
     ne8aaade8a7a3e381ae37e38397e383ade382bbe382b9["読解の7プロセス"]
     ne8a1a8e78fbee38197e381a6e5ada6e381b6["表現して学ぶ"]
     ne4ba88e6b8ac["予測"]
@@ -232,7 +232,7 @@ flowchart LR
     n424441e38395e383ace383bce383a0e383afe383bce382af --- ne8aa9ee5bd99e68c87e5b08e
     n424441e38395e383ace383bce383a0e383afe383bce382af --- ne68e88e6a5ade381aee7b8a6e7b3b8e381a8e6a8aae7b3b8
     n424441e38395e383ace383bce383a0e383afe383bce382af --- ne9878de8a681e680a7e381aee8a68be6a5b5e38281
-    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne6b7b1e38184e79086e8a7a3efbc8833e6b0b4e6ba96e381aee8aaade8a7a3efbc89
+    n424441e38395e383ace383bce383a0e383afe383bce382af --- ne6b7b1e38184e79086e8a7a3efbc88e8a1a8e5b1a4e381a8e6b7b1e5b1a4efbc89
     n424441e38395e383ace383bce383a0e383afe383bce382af --- ne8aaade8a7a3e381ae37e38397e383ade382bbe382b9
     n424441e38395e383ace383bce383a0e383afe383bce382af --- ne8a1a8e78fbee38197e381a6e5ada6e381b6
     n424441e38395e383ace383bce383a0e383afe383bce382af --- ne4ba88e6b8ac

@@ -122,7 +122,7 @@ They hate Igor for keeping them in. (Connection from our earlier character chart
 - [[パタン/熟慮的問い]] — 問いを目的・相手・文脈から設計する上位パタン
 - [[パタン/アンカーチャート]] — 対話を記録する道具
 - [[パタン/シンクアラウド]] — 教師が「対話中の思考を可視化する」ことでモデルを示す
-- [[パタン/深い理解（3水準の読解）]] — 「物語の深層（Beneath the Story）」は第2水準（推論的理解）以上を目指す
+- [[パタン/深い理解（表層と深層）]] — 「物語の深層（Beneath the Story）」は第2水準（推論的理解）以上を目指す
 - [[パタン/推論する（インファリング）]] — 対話から引き上げる問いの多くは推論を求める
 - [[文献/Notebook Connections（Buckner）]] — 一次資料
 
@@ -136,7 +136,7 @@ flowchart LR
     ne7869fe685aee79a84e5958fe38184["熟慮的問い"]
     ne382a2e383b3e382abe383bce38381e383a3e383bce38388["アンカーチャート"]
     ne382b7e383b3e382afe382a2e383a9e382a6e38389["シンクアラウド"]
-    ne6b7b1e38184e79086e8a7a3efbc8833e6b0b4e6ba96e381aee8aaade8a7a3efbc89["深い理解（3水準の読解）"]
+    ne6b7b1e38184e79086e8a7a3efbc88e8a1a8e5b1a4e381a8e6b7b1e5b1a4efbc89["深い理解（表層と深層）"]
     ne68ea8e8ab96e38199e3828befbc88e382a4e383b3e38395e382a1e383aae383b3e382b0efbc89["推論する（インファリング）"]
 
     ne4bc9ae8a9b1e3818be38289e5958fe38184e38292e5bc95e3818de4b88ae38192e3828befbc884c696674696e6720612050726f6d7074efbc89 --- ne383aae383bce38380e383bce382bae383bbe3838ee383bce38388
@@ -144,7 +144,7 @@ flowchart LR
     ne4bc9ae8a9b1e3818be38289e5958fe38184e38292e5bc95e3818de4b88ae38192e3828befbc884c696674696e6720612050726f6d7074efbc89 --- ne7869fe685aee79a84e5958fe38184
     ne4bc9ae8a9b1e3818be38289e5958fe38184e38292e5bc95e3818de4b88ae38192e3828befbc884c696674696e6720612050726f6d7074efbc89 --- ne382a2e383b3e382abe383bce38381e383a3e383bce38388
     ne4bc9ae8a9b1e3818be38289e5958fe38184e38292e5bc95e3818de4b88ae38192e3828befbc884c696674696e6720612050726f6d7074efbc89 --- ne382b7e383b3e382afe382a2e383a9e382a6e38389
-    ne4bc9ae8a9b1e3818be38289e5958fe38184e38292e5bc95e3818de4b88ae38192e3828befbc884c696674696e6720612050726f6d7074efbc89 --- ne6b7b1e38184e79086e8a7a3efbc8833e6b0b4e6ba96e381aee8aaade8a7a3efbc89
+    ne4bc9ae8a9b1e3818be38289e5958fe38184e38292e5bc95e3818de4b88ae38192e3828befbc884c696674696e6720612050726f6d7074efbc89 --- ne6b7b1e38184e79086e8a7a3efbc88e8a1a8e5b1a4e381a8e6b7b1e5b1a4efbc89
     ne4bc9ae8a9b1e3818be38289e5958fe38184e38292e5bc95e3818de4b88ae38192e3828befbc884c696674696e6720612050726f6d7074efbc89 --- ne68ea8e8ab96e38199e3828befbc88e382a4e383b3e38395e382a1e383aae383b3e382b0efbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold

@@ -101,7 +101,7 @@ SORT reintegrated DESC
 | [[文献/Notebook Know-How（Buckner）]] | [[パタン/ライターズ・ノート]]、[[教材/ライターズ・ノートの道具棚]]、[[実践/ライターズ・ノートの起動]] |
 | [[文献/Talking, Drawing, Writing（Horn & Giacobbe）]] | [[パタン/話す・描く・書く]]、[[パタン/作家の椅子（Author's Chair）]]、[[実践/ライティング・ワークショップ年度初め]] |
 | [[文献/Writing Workshop Survival Kit（Muschla）]] | [[パタン/作家のクラフト]]、[[パタン/プリライティング]]、[[実践/書き出しのクラフト]] |
-| [[文献/Teaching for Deep Comprehension（Dorn & Soffos）]] | [[パタン/深い理解（3水準の読解）]]、[[パタン/文学討論グループ]]、[[実践/文学討論グループの設計]] |
+| [[文献/Teaching for Deep Comprehension（Dorn & Soffos）]] | [[パタン/深い理解（表層と深層）]]、[[パタン/文学討論グループ]]、[[実践/文学討論グループの設計]] |
 | [[文献/Practice with Purpose（Diller）]] | [[パタン/リテラシー・ワークステーション]]、[[実践/リテラシー・ワークステーションの起動]] |
 | [[文献/Strategies That Work（Harvey & Goudvis）]] | [[パタン/シンクアラウド]]、[[パタン/読みとつながる]]、[[実践/テキストコーディング]]、[[実践/2列メモ（シンクシート）]] |
 | [[文献/Teaching the Best Practice Way（Daniels & Bizar）]] | [[パタン/読み書きの文化]]、[[パタン/表現して学ぶ]]、[[実践/リテラチャー・サークルの起動]] |

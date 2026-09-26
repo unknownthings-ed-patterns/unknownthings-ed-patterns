@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 読書指導, 読み聞かせ, 語彙, 背景知識, 就学前, K-2, 対話]
 source: "Arnold, D. S., & Whitehurst, G. J.（1994）Accelerating Language Development through Picture Book Reading. / Willingham, D. T.（2015）Raising Kids Who Read. Jossey-Bass."
 related: []
-updated: 2026-06-13
+updated: 2026-09-27
 ---
 
 # 対話的読み聞かせ（PEER法）
@@ -21,7 +21,7 @@ updated: 2026-06-13
 
 Willingham, D. T.（2015）. *Raising Kids Who Read: What Parents and Teachers Can Do*. Jossey-Bass. → [[文献/Raising Kids Who Read（Willingham）]]
 
-- **既存パタンとの関連**: [[パタン/読み聞かせ]] が「なぜ・いつ・何を読むか」を扱うのに対し、本パタンは「**どう読むか**」——特に就学前〜K-2の子どもの語彙獲得に最も効果が高い対話型の読み方の技法を提供する
+- **既存パタンとの関連**: [[パタン/読み聞かせ]] が「なぜ・いつ・何を読むか」を扱うのに対し、本パタンは「**どう読むか**」——就学前の子どもの語彙獲得を支える対話型の読み方の技法を提供する
 - **補強された点**: [[パタン/読み聞かせ]] の「語彙・知識のインプット」という目的を、PEER法という具体的な手続きに落とし込む。単に読むより顕著に効果が高い（Arnold & Whitehurst, 1994; Zevenbergen & Whitehurst, 2003）
 - **他のパタンへの波及**: [[パタン/背景知識]] — PEER法で子どもが能動的に参加するほど、状況モデルの構築が促進される。[[パタン/シンクアラウド]] — PEER法の Expand ステップは、教師のシンクアラウドを逆向きに——子どもが声に出して考える機会を作る
 
@@ -89,7 +89,7 @@ Zevenbergen & Whitehurst（2003）は読み聞かせで使える5種類のプロ
 
 ### いつ・どこで使うか
 
-**最も効果が高い年齢**：2〜5歳（就学前）。K-2年生にも効果がある。
+**対象年齢**：効果がはっきり報告されているのは、主に就学前の子どもである。Willingham も、乳幼児〜就学前の子どもへの読み聞かせとしてこの読み方を扱っている。
 
 **1回の読み聞かせでの使い方**：
 1. 最初は通常通り読む——楽しさを最優先

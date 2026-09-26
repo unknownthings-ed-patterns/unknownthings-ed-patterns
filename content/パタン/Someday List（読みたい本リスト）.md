@@ -100,6 +100,8 @@ Atwell は学習者の Someday List を年度初めのオリエンテーショ�
 - [[パタン/読書アイデンティティ]] — 「読みたい本がたくさんある」という状態が読書家としての自己像を育てる
 - [[パタン/リーディング・ワークショップ]] — 読みたい本リストが機能するワークショップの構造
 - [[パタン/教室図書館]] — 教室図書館のバスケットやBook Talkが Someday List のネタ源になる
+- [[パタン/一冊を手渡す（本のマッチング）]] — 手渡された本を今すぐ読まなくても、リストに書いておける
+- [[パタン/ブック・チャット]] — ブック・チャットを聞くとき机に用紙を置き、読みたい本を書きとめる（Layne の Books to Consider）
 
 ---
 
@@ -120,6 +122,8 @@ flowchart LR
     ne8aaade69bb8e382a2e382a4e38387e383b3e38386e382a3e38386e382a3["読書アイデンティティ"]
     ne383aae383bce38387e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397["リーディング・ワークショップ"]
     ne69599e5aea4e59bb3e69bb8e9a4a8["教室図書館"]
+    ne4b880e5868ae38292e6898be6b8a1e38199efbc88e69cace381aee3839ee38383e38381e383b3e382b0efbc89["一冊を手渡す（本のマッチング）"]
+    ne38396e38383e382afe383bbe38381e383a3e38383e38388["ブック・チャット"]
 
     n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89 --- ne5a48fe381aee8aaade69bb8efbc88e6a0bce5b7aee38292e99689e38198e3828befbc89
     n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89 --- ne38288e38184e69cace381aee981b8e381b3e696b9efbc88495049434befbc89
@@ -133,6 +137,8 @@ flowchart LR
     n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89 --- ne8aaade69bb8e382a2e382a4e38387e383b3e38386e382a3e38386e382a3
     n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89 --- ne383aae383bce38387e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397
     n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89 --- ne69599e5aea4e59bb3e69bb8e9a4a8
+    n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89 --- ne4b880e5868ae38292e6898be6b8a1e38199efbc88e69cace381aee3839ee38383e38381e383b3e382b0efbc89
+    n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89 --- ne38396e38383e382afe383bbe38381e383a3e38383e38388
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89 hub

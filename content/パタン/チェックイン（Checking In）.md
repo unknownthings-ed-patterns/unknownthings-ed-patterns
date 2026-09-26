@@ -139,6 +139,7 @@ Ellaとのチェックイン（Ella is reading *The Watsons Go to Birmingham—1
 - [[パタン/リーディング・ワークショップ]] — 独立読書時間中に行う教師の動きとして位置づける
 - [[パタン/形成的評価]] — 毎日の即時確認が形成的評価の最小単位
 - [[パタン/学習のための評価（A4L）]] — 「今どこにいるか」を毎日確認する評価実践
+- [[パタン/一冊を手渡す（本のマッチング）]] — 毎日の短い確認で気づいた「読む本がない子」に、合う本を手渡す
 
 ---
 
@@ -157,6 +158,7 @@ flowchart LR
     ne383aae383bce38387e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397["リーディング・ワークショップ"]
     ne5bda2e68890e79a84e8a995e4bea1["形成的評価"]
     ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89["学習のための評価（A4L）"]
+    ne4b880e5868ae38292e6898be6b8a1e38199efbc88e69cace381aee3839ee38383e38381e383b3e382b0efbc89["一冊を手渡す（本のマッチング）"]
 
     ne38381e382a7e38383e382afe382a4e383b3efbc88436865636b696e6720496eefbc89 --- n536f6d65646179204c697374efbc88e8aaade381bfe3819fe38184e69cace383aae382b9e38388efbc89
     ne38381e382a7e38383e382afe382a4e383b3efbc88436865636b696e6720496eefbc89 --- ne382a2e383aae38386e383a9e382b7e383bcefbc88e8aaade38280e6848fe5bf97efbc89
@@ -168,6 +170,7 @@ flowchart LR
     ne38381e382a7e38383e382afe382a4e383b3efbc88436865636b696e6720496eefbc89 --- ne383aae383bce38387e382a3e383b3e382b0e383bbe383afe383bce382afe382b7e383a7e38383e38397
     ne38381e382a7e38383e382afe382a4e383b3efbc88436865636b696e6720496eefbc89 --- ne5bda2e68890e79a84e8a995e4bea1
     ne38381e382a7e38383e382afe382a4e383b3efbc88436865636b696e6720496eefbc89 --- ne5ada6e7bf92e381aee3819fe38281e381aee8a995e4bea1efbc8841344cefbc89
+    ne38381e382a7e38383e382afe382a4e383b3efbc88436865636b696e6720496eefbc89 --- ne4b880e5868ae38292e6898be6b8a1e38199efbc88e69cace381aee3839ee38383e38381e383b3e382b0efbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne38381e382a7e38383e382afe382a4e383b3efbc88436865636b696e6720496eefbc89 hub

@@ -231,6 +231,7 @@ Black, P., & Wiliam, D. (2009). Developing the theory of formative assessment. *
 
 ---
 - [[パタン/学習のための評価（A4L）]] — A4L の実践群が5つの戦略のどこに位置するかを与える
+- [[文献/The Power of Feedback（Hattie & Timperley, 2007）]] — 本稿が4類型を引き、学習志向への影響が欠けていると批判した原典
 
 ## 展開したい問い
 

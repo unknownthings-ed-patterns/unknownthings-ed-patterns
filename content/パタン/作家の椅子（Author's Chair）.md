@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 作文指導, ライティング・ワークショップ, 出版, 共有]
 source: "Atwell, N.（1998）In the Middle. Heinemann. / Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Horn, M. & Giacobbe, M.E.（2007）Talking, Drawing, Writing. Stenhouse."
 related: []
-updated: 2026-06-13
+updated: 2026-10-11
 ---
 
 # 作家の椅子（Author's Chair）
@@ -24,6 +24,8 @@ updated: 2026-06-13
 **授業の終わりや週末に、1〜2人が椅子に座って作品を読み、聴き手が短く応答する時間を設ける。**
 
 最初は普通の椅子でよい。大切なのは、そこに座った子を「作家」として扱うこと、聴き手が評価ではなく読者として反応すること、短くても継続することである。
+
+> **研究の裏づけ（2026-10-11）**：[[文献/Teaching Elementary School Students to Be Effective Writers（Graham et al., 2012）]] は、作家の椅子を幼稚園〜6年生に使える共有の方略として挙げ、「関わり合う書き手の共同体をつくる」の例に置く。この勧めの根拠は **minimal**：5つの研究のうち4つは作文の質と量に正の効果を示したが、1つは負と正の両方、1つは効果なしで、多くは他の要素と組み合わされていたため、共同体の要素の効果を切り分けられない（p. 34–35）。
 
 ## 使い方
 
@@ -45,6 +47,7 @@ updated: 2026-06-13
 - [[パタン/出版（Publishing）]]
 - [[パタン/読み書きの文化]]
 - [[パタン/ストーリーテリング（語りの時間）]]
+- [[文献/Teaching Elementary School Students to Be Effective Writers（Graham et al., 2012）]] — 書き手の共同体の例。根拠は minimal（勧め4）
 
 ## クラスター図
 

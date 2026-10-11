@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 作文指導, ライティング・ワークショップ, 出版, 公開, 動機づけ]
 source: "Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Atwell, N.（1998）In the Middle. Heinemann."
 related: []
-updated: 2026-06-13
+updated: 2026-10-11
 ---
 
 # 出版（Publishing）
@@ -148,6 +148,7 @@ Muschla第2版（2006）で追加された章。ワープロを使った推敲�
 - [[パタン/コミュニティをつくる]] — 出版が教室のコミュニティをつなぐ
 - [[文献/Writing Workshop Survival Kit（Muschla）]] — 本パタンの一次資料
 - [[パタン/編集（Editing）]] — 出版の直前に通す最終段階。本物の読者の存在が編集を「規則」から「読者への礼儀」に変える
+- [[文献/Teaching Elementary School Students to Be Effective Writers（Graham et al., 2012）]] — 本当の読み手に向けて書き、共同体を教室の外へ広げる（勧め2b・4）
 
 ---
 

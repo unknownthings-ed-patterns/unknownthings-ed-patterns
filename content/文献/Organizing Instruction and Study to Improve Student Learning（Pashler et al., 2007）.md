@@ -159,6 +159,7 @@ Pashler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, 
 | 文献 | [[文献/Developing Effective Fractions Instruction（Siegler et al., 2010）]] | 同じ IES の実践ガイド |
 | 文献 | [[文献/認知心理学者が教える最適の学習法（Weinstein & Sumeracki）]] | 同じ知見を一般向けに紹介した本 |
 | 文献 | [[文献/Making Things Hard on Yourself, But in a Good Way（Bjork & Bjork, 2011）]] | 間隔・テストを望ましい困難として論じる |
+| 文献 | [[文献/Teaching Elementary School Students to Be Effective Writers（Graham et al., 2012）]] | 同じ IES の実践ガイド（作文） |
 
 ## 未パタン化の論点
 

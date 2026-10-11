@@ -115,6 +115,7 @@ reintegrated2: 2026-05-20
 - [[実践/学習科学の6方略]] — 6方略の授業実装ガイド（本書より再構成）
 - [[文献/Developing Effective Fractions Instruction（Siegler et al., 2010）]] — 意味のある情報のほうが覚えやすいという知見を、分数の計算手続きの指導に当てた実践ガイド
 - [[文献/Why Minimal Guidance During Instruction Does Not Work（Kirschner, Sweller & Clark, 2006）]] — 認知負荷理論から発見型の授業を批判した論争の書
+- [[文献/Making Things Hard on Yourself, But in a Good Way（Bjork & Bjork, 2011）]] — 本書が紹介する「望ましい困難」の提唱者自身による章
 
 ## この文献からの導線
 

@@ -209,6 +209,7 @@ Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited
 | 文献 | [[文献/ロイス・サドラーによる形成的アセスメント論の検討（石田智敬, 2021）]] | 後期サドラーが本論文を、測りやすい限られた学力を対象にしたものとして批判 |
 | 文献 | [[文献/Self-Determination Theory（Ryan & Deci, 2000）]] | 報酬が内発的動機づけを損なう条件と、外発的動機づけの連続体 |
 | 文献 | [[文献/A National Experiment Reveals Where a Growth Mindset Improves Achievement（Yeager et al., 2019）]] | 現実の教育の場の効果量の物差し（0.2で大きい）と、成長マインドセットの効果 |
+| パタン | [[パタン/成長マインドセット]] | 能力をほめると遂行志向になり失敗後に崩れる（Mueller & Dweck, 1998）を紹介 |
 
 ## 未パタン化の論点
 

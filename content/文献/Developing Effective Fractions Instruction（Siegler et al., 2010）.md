@@ -200,6 +200,7 @@ Siegler, R., Carpenter, T., Fennell, F., Geary, D., Lewis, J., Okamoto, Y., Thom
 | パタン | [[パタン/問題の系列が足場を担う（一変数変化の連鎖）]] | 補完——比例の解き方を、前の方法では手間がかかる問題の系列で移す（勧め4） |
 | 文献 | [[文献/Mathematical Mindsets（Boaler）]] | 対照——視覚的な数学を勧める点で重なり、本ガイドは根拠の強さを付ける |
 | 文献 | [[文献/認知心理学者が教える最適の学習法（Weinstein & Sumeracki）]] | 補完——意味のある情報のほうが覚えやすいという、勧め3の背後の知見 |
+| 文献 | [[文献/Organizing Instruction and Study to Improve Student Learning（Pashler et al., 2007）]] | 同じ IES の実践ガイド。抽象と具体をつなぐ（勧め4） |
 
 ## 未パタン化の論点
 

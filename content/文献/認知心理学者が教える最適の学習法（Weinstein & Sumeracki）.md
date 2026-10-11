@@ -116,6 +116,7 @@ reintegrated2: 2026-05-20
 - [[文献/Developing Effective Fractions Instruction（Siegler et al., 2010）]] — 意味のある情報のほうが覚えやすいという知見を、分数の計算手続きの指導に当てた実践ガイド
 - [[文献/Why Minimal Guidance During Instruction Does Not Work（Kirschner, Sweller & Clark, 2006）]] — 認知負荷理論から発見型の授業を批判した論争の書
 - [[文献/Making Things Hard on Yourself, But in a Good Way（Bjork & Bjork, 2011）]] — 本書が紹介する「望ましい困難」の提唱者自身による章
+- [[文献/Organizing Instruction and Study to Improve Student Learning（Pashler et al., 2007）]] — 同じ知見を根拠の強さつきでまとめた米国教育省の実践ガイド
 
 ## この文献からの導線
 

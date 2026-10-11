@@ -135,6 +135,7 @@ Bjork, E. L., & Bjork, R. A. (2011). Making things hard on yourself, but in a go
 | パタン | [[パタン/解説を先に渡さない（自得の設計）]] | 生成効果——自分で生み出せるものを教わると学習の機会を失う |
 | 文献 | [[文献/認知心理学者が教える最適の学習法（Weinstein & Sumeracki）]] | 望ましい困難を一般向けに紹介した本 |
 | 文献 | [[文献/Why Minimal Guidance During Instruction Does Not Work（Kirschner, Sweller & Clark, 2006）]] | 困難が望ましくなくなる条件（知識の土台がないとき）を別の側から論じる |
+| 文献 | [[文献/Organizing Instruction and Study to Improve Student Learning（Pashler et al., 2007）]] | 間隔とテストを、根拠の強さつきで教室の手順にした実践ガイド |
 
 ## 未パタン化の論点
 

@@ -207,6 +207,7 @@ Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited
 | 文献 | [[文献/Formative Assessment and the Design of Instructional Systems（Sadler）]] | ギャップを縮めることがフィードバックの力の源だという議論の出どころ |
 | 文献 | [[文献/Developing the Theory of Formative Assessment（Black & Wiliam, 2009）]] | 本論文の4類型を引き、学習志向への影響が欠けていると批判 |
 | 文献 | [[文献/ロイス・サドラーによる形成的アセスメント論の検討（石田智敬, 2021）]] | 後期サドラーが本論文を、測りやすい限られた学力を対象にしたものとして批判 |
+| 文献 | [[文献/Self-Determination Theory（Ryan & Deci, 2000）]] | 報酬が内発的動機づけを損なう条件と、外発的動機づけの連続体 |
 
 ## 未パタン化の論点
 

@@ -175,6 +175,7 @@ updated: 2026-05-31
 - [[パタン/可視化]] — 視覚的数学の土台
 - [[教科/算数]] — 数感覚・ナンバートーク・振り返り宿題の実装
 - [[文献/Developing Effective Fractions Instruction（Siegler et al., 2010）]] — 分数の指導の実践ガイド。視覚的な表し方を勧める点で重なり、勧めごとに根拠の強さを付けている
+- [[文献/A National Experiment Reveals Where a Growth Mindset Improves Achievement（Yeager et al., 2019）]] — 成長マインドセットの介入の効果を全米規模で確かめた実験（効果は控えめで、効く相手と場所がある）
 
 ---
 

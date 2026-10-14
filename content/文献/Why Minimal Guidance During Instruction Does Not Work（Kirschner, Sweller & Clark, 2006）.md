@@ -7,7 +7,7 @@ tags: [文献, 認知負荷, 直接指導, 発見学習, 探究, 作業例, 学�
 literature_status: integrated
 ingested: 2026-10-11
 source: "Kirschner, P. A., Sweller, J., & Clark, R. E.（2006）Why minimal guidance during instruction does not work. Educational Psychologist, 41(2), 75–86."
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Why Minimal Guidance During Instruction Does Not Work（Kirschner, Sweller & Clark, 2006）
@@ -18,7 +18,7 @@ Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance durin
 
 **このWikiでの位置**：このWikiは、ワークショップ・探究・発見・自得の側のパタンが厚い（[[パタン/発見を委ねる（自分で見つけたものこそ燃え上がる）]]・[[パタン/解説を先に渡さない（自得の設計）]]・[[パタン/段階的手放し]] など）。認知負荷理論のページ（[[概念/認知負荷理論]]）はあるが、授業の道具として紹介しているだけで、**発見型の授業に正面から反論する側の文献**は入っていなかった（「Kirschner」の語は0件）。本ページはその反対側の声を、原文を全頁読んで置く。
 
-**この論文を読むときの注意**：本論文は中立の総説ではなく、一つの立場からの**論争の書**である。異なる名前の方法を「本質的に教育学的に同じ」と一括りにしている点や、根拠の選び方には、のちに反論が出ている（Hmelo-Silver, Duncan & Chinn, 2007 など。wiki では未読）。本ページは、論文が何を主張し何を根拠にしているかを、評価を混ぜずに書くことを優先した。
+**この論文を読むときの注意**：本論文は中立の総説ではなく、一つの立場からの**論争の書**である。異なる名前の方法を「本質的に教育学的に同じ」と一括りにしている点や、根拠の選び方には、のちに反論が出ている（Hmelo-Silver, Duncan & Chinn, 2007。本文の論点と足場かけの例を確認済み）。本ページは、論文が何を主張し何を根拠にしているかを、評価を混ぜずに書くことを優先した。
 
 ---
 
@@ -192,3 +192,7 @@ Clark（1982）によれば、指導の多い版と少ない版を選べると�
 Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75–86. https://doi.org/10.1207/s15326985ep4102_1
 
 > ユトレヒト大学の機関リポジトリ（https://dspace.library.uu.nl/handle/1874/16899 ）の PDF で全頁を読んだ。英文の引用は原文テキストと機械照合した。頁数は雑誌の頁番号。
+
+## 応答論文への入口
+
+- [[文献/足場かけのある探究学習を捉える（HmeloSilverほか2007）]] — PBL・ILには足場かけが組み込まれているという応答。名称だけで一括せず、支援の実装と成果指標を対照する。論争の決着を宣言するものではない。

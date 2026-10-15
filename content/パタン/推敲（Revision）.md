@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 作文指導, ライティング・ワークショップ, 推敲, リビジョン, 評価]
 source: "Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Atwell, N.（1998）In the Middle. Heinemann. / Calkins, L.（1994）The Art of Teaching Writing. Heinemann."
 related: []
-updated: 2026-08-02
+updated: 2026-10-16
 ---
 
 # 推敲（Revision）
@@ -14,6 +14,11 @@ updated: 2026-08-02
 ---
 
 ## Pattern Connection
+
+
+**研究からの補足（2026-10-16）：作文指導の有効な要素を組み合わせる（Writing Next2007）**
+
+原典は推敲を含む方略指導を取り上げる（pp. 15–16）。Wiki側の適用案として、教師の短い文章で「具体例が足りない箇所を探して足す」を実演し、本人の文章で試す。既存の三原則や作業順序すべてがこの報告書で検証されたとはしない。 出典：[[文献/作文指導の有効な要素を組み合わせる（Writing Next2007）]]。
 
 **出典**: Muschla, G. R.（2006）*Writing Workshop Survival Kit* (2nd ed.). Jossey-Bass.（統合：2026-05-19）
 
@@ -210,6 +215,8 @@ Muschla（2006）が提示する推敲の3つの問い：
 - ただし推敲のスキルは一度教えれば身につくものではなく、作品を書くたびに繰り返し経験することで徐々に定着する
 
 ## 関連パタン
+- [[文献/作文指導の有効な要素を組み合わせる（Writing Next2007）]] — 見直すよう求めるだけでなく、方法を実演する。
+
 - [[パタン/多作多捨]]
 - [[実践/言葉をよりすぐって俳句を作ろう]]
 - [[実践/俳句と短歌を楽しもう]]

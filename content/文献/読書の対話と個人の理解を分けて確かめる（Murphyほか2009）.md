@@ -5,7 +5,7 @@ year: 2009
 tags: [文献, 国語, 読書指導, 対話]
 literature_status: integrated
 ingested: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-21
 source: "Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students’ comprehension of text: A meta-analysis. Journal of Educational Psychology, 101(3), 740–764. https://doi.org/10.1037/a0015576"
 ---
 
@@ -16,6 +16,8 @@ source: "Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & A
 Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students’ comprehension of text: A meta-analysis. Journal of Educational Psychology, 101(3), 740–764. https://doi.org/10.1037/a0015576
 
 原文PDFの検索ツールによるテキスト表示で、p. 740の要旨、pp. 744–745の選定基準と指標、pp. 759–761の考察・限界・示唆の該当段落を確認した初回統合。全25頁の精読・結果表の全件照合・各研究の原典検証は未実施。PDFのローカル取得は403となり未完了。引用は原文テキストで確認したが、画像による照合は未完了。書誌はPenn Stateの研究情報でも照合した。
+
+2026年10月21日追補：公開PDFのアーカイブから掲載版全25頁（pp. 740–764）を取得し、非公開領域に保存した。引用p. 760（PDF21頁）を画像照合した。初回統合の確認範囲を超える全頁精読・全結果表の照合・各研究の原典検証はしていない。
 
 ## 要約
 
@@ -58,3 +60,5 @@ Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander,
 ## 出典・原典への入口
 
 [原文PDFへの入口](https://scispace.com/pdf/examining-the-effects-of-classroom-discussion-on-students-fscydd5a5d.pdf)。頁番号は誌面の番号。資料の取得・読了の範囲は冒頭の記録を参照。
+
+[保存時に確認した公開PDF](https://web.archive.org/web/20250522195935id_/https://scispace.com/pdf/examining-the-effects-of-classroom-discussion-on-students-fscydd5a5d.pdf)。

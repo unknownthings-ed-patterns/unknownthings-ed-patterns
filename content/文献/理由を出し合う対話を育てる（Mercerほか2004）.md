@@ -5,7 +5,7 @@ year: 2004
 tags: [文献, 対話, 協同学習, 思考]
 literature_status: integrated
 ingested: 2026-10-18
-updated: 2026-10-18
+updated: 2026-10-21
 source: "Mercer, N., Dawes, L., Wegerif, R., & Sams, C. (2004). Reasoning as a scientist: Ways of helping children to use language to learn science. *British Educational Research Journal, 30*(3), 359–377. https://doi.org/10.1080/01411920410001689689"
 ---
 
@@ -16,6 +16,8 @@ source: "Mercer, N., Dawes, L., Wegerif, R., & Sams, C. (2004). Reasoning as a s
 Mercer, N., Dawes, L., Wegerif, R., & Sams, C. (2004). Reasoning as a scientist: Ways of helping children to use language to learn science. *British Educational Research Journal, 30*(3), 359–377. https://doi.org/10.1080/01411920410001689689
 
 公開PDFのWeb抽出本文pp. 359–375を確認した初回統合。引用はp. 362の抽出本文と照合した。PDFファイルの直接取得は403／404となり、手元への保存とページ画像での照合は未完了。表の数値は画像照合できていないため転載しない。引用文献各件の再検証は行っていない。
+
+2026年10月21日追補：Cambridge大学旧公開先のアーカイブから掲載版PDF全19頁（pp. 359–377）を取得し、非公開領域に保存した。引用p. 362（PDF4頁）を画像照合した。今回の追補は保存・書誌・引用の照合であり、結果表全件や引用文献各件の再検証はしていない。
 
 ## 要約
 
@@ -58,3 +60,5 @@ Mercer, N., Dawes, L., Wegerif, R., & Sams, C. (2004). Reasoning as a scientist:
 ## 出典・原典への入口
 
 [原文PDFへの入口](https://www.researchgate.net/profile/Rupert-Wegerif/publication/31870736_Reasoning_as_a_scientist_Ways_of_helping_children_to_use_language_to_learn_science/links/5b2fcc60a6fdcc8506cb7f2c/Reasoning-as-a-scientist-Ways-of-helping-children-to-use-language-to-learn-science.pdf)。頁番号は誌面の番号。資料の取得・確認範囲は冒頭の記録を参照。
+
+[保存時に確認した公開PDF](https://web.archive.org/web/20170808094942id_/http://thinkingtogether.educ.cam.ac.uk/publications/journals/Mercer_et_al_BERJ_04.pdf)。

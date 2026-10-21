@@ -5,7 +5,7 @@ year: 2004
 tags: [文献, 国語, 読書指導, 動機づけ]
 literature_status: integrated
 ingested: 2026-10-16
-updated: 2026-10-16
+updated: 2026-10-21
 source: "Guthrie, J. T., Wigfield, A., Barbosa, P., Perencevich, K. C., Taboada, A., Davis, M. H., Scafiddi, N. T., & Tonks, S. (2004). Increasing reading comprehension and engagement through concept-oriented reading instruction. Journal of Educational Psychology, 96(3), 403–423. https://doi.org/10.1037/0022-0663.96.3.403"
 ---
 
@@ -16,6 +16,8 @@ source: "Guthrie, J. T., Wigfield, A., Barbosa, P., Perencevich, K. C., Taboada,
 Guthrie, J. T., Wigfield, A., Barbosa, P., Perencevich, K. C., Taboada, A., Davis, M. H., Scafiddi, N. T., & Tonks, S. (2004). Increasing reading comprehension and engagement through concept-oriented reading instruction. Journal of Educational Psychology, 96(3), 403–423. https://doi.org/10.1037/0022-0663.96.3.403
 
 著者公開版PDFの検索ツールによるテキスト表示で、pp. 405–407の枠組み・研究1の方法、p. 415の表10、pp. 416–417の考察と限界を確認した初回統合。全21頁の精読、全結果表や付録の照合は未実施。ローカル保存は配布先の403で未完了。引用はp. 407のテキストで確認し、画像照合は未完了。
+
+2026年10月21日追補：大学旧公開先のアーカイブから掲載版PDF全21頁（pp. 403–423）を取得し、非公開領域に保存した。引用p. 407（PDF5頁）と表10のp. 415（PDF13頁）を画像照合し、既存要約の比較条件と有意差の記述を再確認した。全頁・全表・付録の精読を完了したという意味ではない。
 
 ## 要約
 
@@ -58,3 +60,5 @@ Guthrie, J. T., Wigfield, A., Barbosa, P., Perencevich, K. C., Taboada, A., Davi
 ## 出典・原典への入口
 
 [原文PDFへの入口](https://www.researchgate.net/profile/Stephen-Tonks/publication/232457014_Increasing_Reading_Comprehension_and_Engagement_Through_Concept-Oriented_Reading_Instruction/links/5a1372ed4585158aa3e62b8a/Increasing-Reading-Comprehension-and-Engagement-Through-Concept-Oriented-Reading-Instruction.pdf)。頁番号は誌面の番号。資料の取得・読了の範囲は冒頭の記録を参照。
+
+[保存時に確認した公開PDF](https://web.archive.org/web/20060525225834id_/http://www.cori.umd.edu/research/publications/2004-guthrie-wigfield-etal.pdf)。

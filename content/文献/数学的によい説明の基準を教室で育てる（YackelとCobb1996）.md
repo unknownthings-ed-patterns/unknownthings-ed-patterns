@@ -5,7 +5,7 @@ year: 1996
 tags: [文献, 数学, 算数, 規範, クラス文化, 思考]
 literature_status: integrated
 ingested: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-21
 source: "Yackel, E., & Cobb, P. (1996). Sociomathematical norms, argumentation, and autonomy in mathematics. Journal for Research in Mathematics Education, 27(4), 458–477. https://doi.org/10.2307/749877"
 ---
 
@@ -16,6 +16,8 @@ source: "Yackel, E., & Cobb, P. (1996). Sociomathematical norms, argumentation, 
 Yackel, E., & Cobb, P. (1996). Sociomathematical norms, argumentation, and autonomy in mathematics. Journal for Research in Mathematics Education, 27(4), 458–477. https://doi.org/10.2307/749877
 
 著者が公開した原典PDFのWeb抽出本文で pp. 458–475 の本文を確認した。引用は p. 461 の抽出本文と照合。PDFのローカル保存は著者公開先・出版社とも403で未完了。スクリーンショット取得は画像データが返らず、引用の画像照合も未完了。以下は要旨だけからの統合ではない。参考文献の個別再検証は行っていない。
+
+2026年10月21日追補：著者公開PDFのアーカイブから全21頁（配布表紙1頁＋誌面pp. 458–477）を取得し、非公開領域に保存した。引用p. 461（PDF5頁）を画像照合した。初回統合で確認した本文の範囲と、参考文献の個別未検証は上記のとおり。
 
 ## 要約
 
@@ -58,3 +60,5 @@ Wiki側の適用案：二つの解法を並べ、数の分け方がどこで違�
 ## 出典・原典への入口
 
 [原文PDFへの入口](https://www.researchgate.net/profile/Paul-Cobb-2/publication/272551756_Sociomathematical_Norms_Argumentation_and_Autonomy_in_Mathematics/links/553d64430cf29b5ee4bcc3f6/Sociomathematical-Norms-Argumentation-and-Autonomy-in-Mathematics.pdf)。頁番号は書籍・論文に記載された番号。資料の取得・確認範囲は冒頭の記録を参照。
+
+[保存時に確認した公開PDF](https://web.archive.org/web/20220608023240id_/https://www.researchgate.net/profile/Paul-Cobb-2/publication/272551756_Sociomathematical_Norms_Argumentation_and_Autonomy_in_Mathematics/links/553d64430cf29b5ee4bcc3f6/Sociomathematical-Norms-Argumentation-and-Autonomy-in-Mathematics.pdf)。

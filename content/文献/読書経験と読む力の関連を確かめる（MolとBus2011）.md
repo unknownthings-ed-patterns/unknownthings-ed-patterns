@@ -5,7 +5,7 @@ year: 2011
 tags: [文献, 読書指導, 読解, 語彙, 読書]
 literature_status: integrated
 ingested: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-21
 source: "Mol, S. E., & Bus, A. G. (2011). To read or not to read: A meta-analysis of print exposure from infancy to early adulthood. Psychological Bulletin, 137(2), 267–296. https://doi.org/10.1037/a0021890"
 ---
 
@@ -16,6 +16,8 @@ source: "Mol, S. E., & Bus, A. G. (2011). To read or not to read: A meta-analysi
 Mol, S. E., & Bus, A. G. (2011). To read or not to read: A meta-analysis of print exposure from infancy to early adulthood. Psychological Bulletin, 137(2), 267–296. https://doi.org/10.1037/a0021890
 
 2026年10月20日、著者公開の原典全文ページの抽出テキストで、要旨、検索・採択基準（pp. 272–273）、考察の主要部分と限界・結論（pp. 285–289）を確認して初回統合。統計手続き・全結果表・参考文献一覧は未精読。PDF保存は403・404で未達。引用は抽出本文と照合し、ページ画像との照合は未実施。効果量表は転記していない。
+
+2026年10月21日追補：著者公開PDFのアーカイブから2011年掲載版全30頁（pp. 267–296）を取得し、非公開領域に保存した。引用p. 286（PDF20頁）を画像照合した。別に取得したMolの2010年博士論文を掲載版の代わりには用いていない。統計手続き・全結果表・参考文献一覧の精読は引き続き未完了である。
 
 ## 要約
 
@@ -58,3 +60,5 @@ Wiki側の授業案として、読書の時間を確保するとともに、選�
 ## 出典・原典への入口
 
 [確認した公開原典本文](https://www.researchgate.net/publication/49740676_To_Read_or_Not_to_Read_A_Meta-Analysis_of_Print_Exposure_From_Infancy_to_Early_Adulthood)。版と頁番号は冒頭の確認記録を参照。
+
+[保存時に確認した公開PDF](https://web.archive.org/web/20250316075749id_/https://www.researchgate.net/profile/Suzanne-Mol/publication/49740676_To_Read_or_Not_to_Read_A_Meta-Analysis_of_Print_Exposure_From_Infancy_to_Early_Adulthood/links/574eb19208aefc38ba1119bc/To-Read-or-Not-to-Read-A-Meta-Analysis-of-Print-Exposure-From-Infancy-to-Early-Adulthood.pdf)。

@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 読書指導, 読解指導, BDA, フロントローディング, 授業設計, 理科, 社会, 語彙]
 source: "Buehl, D.（2017）Classroom Strategies for Interactive Learning. Stenhouse. / Vacca & Vacca（2005）Content Area Reading. / Allen, J.（1999）Words, Words, Words. Stenhouse."
 related: []
-updated: 2026-09-27
+updated: 2026-10-22
 ---
 
 # BDAフレームワーク
@@ -14,6 +14,11 @@ updated: 2026-09-27
 ---
 
 ## Pattern Connection
+
+**研究からの補足（2026-10-22）：背景知識と文章の記憶を確かめる（RechtとLeslie1988）**
+
+著者は読前の知識と方略指導の両方を考慮するよう提案する（p. 19）。Wiki側の適用案として、Beforeで必要な知識を確かめ、Afterでその知識を使った説明を聞く。BDA全体や読前指導の最適時間を実証した論文ではない。 出典：[[文献/背景知識と文章の記憶を確かめる（RechtとLeslie1988）]]。
+
 
 **Allen（1999）統合（2026-05-20）**：
 
@@ -202,6 +207,7 @@ KWL（K+W）        シンクアラウド         KWL（L）
 - [[実践/テキストコーディング]] — During フェーズの具体的実践
 
 ---
+- [[文献/背景知識と文章の記憶を確かめる（RechtとLeslie1988）]] — 読む前の知識確認と読後の内容説明を結ぶ。
 
 ## クラスター図
 

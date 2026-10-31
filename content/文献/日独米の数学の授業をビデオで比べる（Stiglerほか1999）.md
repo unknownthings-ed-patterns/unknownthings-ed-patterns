@@ -94,6 +94,7 @@ updated: 2026-10-31
 | パタン | [[パタン/問題の系列が足場を担う（一変数変化の連鎖）]] | 日本の授業は1つの場面で複数の課題を扱い、問題がだんだん複雑になる |
 | パタン | [[パタン/相関と因果の区別（教育評価の落とし穴）]] | 授業の記述から学力への因果は言えない例 |
 | 文献 | [[文献/Developing the Theory of Formative Assessment（Black & Wiliam, 2009）]] | 10年後に、日本の hatsumon と neriage を signature pedagogy と呼んだ論文 |
+| 文献 | [[文献/算数の問題解決を4〜8年生で育てる（Woodwardほか2012）]] | 複数の解き方を比べる勧め（moderate）の背景に Stigler & Hiebert（1999）を引く実践ガイド |
 | 文献 | [[文献/Mathematics Tasks for the Thinking Classroom（Liljedahl & Giroux）]] | 同じく「問題が先」の授業設計を、北米で実験を重ねて組み直したもの |
 | 教科 | [[教科/算数]] | 問題解決型授業の国際的な見え方 |
 

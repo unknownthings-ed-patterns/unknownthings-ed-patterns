@@ -7,7 +7,7 @@ tags: [文献, 学習科学, 間隔学習, テスト効果, 作業例, 具体か
 literature_status: integrated
 ingested: 2026-10-11
 source: "Pashler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, M., & Metcalfe, J.（2007）Organizing instruction and study to improve student learning（NCER 2007-2004）. Institute of Education Sciences, U.S. Department of Education."
-updated: 2026-10-11
+updated: 2026-10-31
 ---
 
 # Organizing Instruction and Study to Improve Student Learning（Pashler et al., 2007）
@@ -147,6 +147,7 @@ Pashler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, 
 
 | 種類 | ページ | 関係 |
 |---|---|---|
+| 文献 | [[文献/算数の問題解決を4〜8年生で育てる（Woodwardほか2012）]] | 同じシリーズ。作業例と問題を交互に置く勧め（本ガイド勧め2）を参照している |
 | パタン | [[パタン/間隔学習]] | 勧め1 |
 | パタン | [[パタン/作業例の提示]] | 勧め2 |
 | パタン | [[パタン/マルチモダール]] | 勧め3（図と言葉、音声の説明） |

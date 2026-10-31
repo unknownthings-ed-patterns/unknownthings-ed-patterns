@@ -7,7 +7,7 @@ tags: [文献, 算数, 分数, 数直線, 誤概念, 見積もり, 学習科学,
 literature_status: integrated
 ingested: 2026-10-11
 source: "Siegler, R., et al.（2010）Developing effective fractions instruction for kindergarten through 8th grade: A practice guide（NCEE #2010-4039）. Institute of Education Sciences, U.S. Department of Education."
-updated: 2026-10-11
+updated: 2026-10-31
 ---
 
 # Developing Effective Fractions Instruction（Siegler et al., 2010）
@@ -188,6 +188,7 @@ Siegler, R., Carpenter, T., Fennell, F., Geary, D., Lewis, J., Okamoto, Y., Thom
 
 | 種類 | ページ | 関係 |
 |---|---|---|
+| 文献 | [[文献/算数の問題解決を4〜8年生で育てる（Woodwardほか2012）]] | 同じシリーズの問題解決のガイド。例19が同値な分数の説明の妥当さを扱う |
 | パタン | [[パタン/表し方の形を計算の形に合わせる（表現が誤りを強めることがある）]] | 出典 |
 | パタン | [[パタン/先に見積もってから計算する（答えのあたりをつける）]] | 出典 |
 | パタン | [[パタン/誤概念の組み替え（素朴概念を資源にする）]] | 補強——分数の誤りの一覧と数直線 |

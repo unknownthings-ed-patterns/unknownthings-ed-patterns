@@ -7,41 +7,41 @@ title: 教育パタン・ランゲージ Wiki
 <div class="pl-diagram" style="position:relative;max-width:100%">
 <img src="./pattern-language-diagram.png" alt="一つの教育のパタン・ランゲージ 図解バージョン15" style="display:block;width:100%;height:auto;margin:0">
 <svg viewBox="0 0 2400 1350" preserveAspectRatio="none" style="position:absolute;top:0;left:0;width:100%;height:100%" role="group" aria-label="図解のパタンへのリンク"><style>.pl-diagram ellipse,.pl-diagram rect{fill:transparent;stroke:transparent;stroke-width:8;cursor:pointer}.pl-diagram a:hover ellipse,.pl-diagram a:hover rect,.pl-diagram a:focus ellipse,.pl-diagram a:focus rect{fill:rgba(40,110,200,.15);stroke:rgba(40,110,200,.9)}</style>
-<a href="./パタン/ソーシャル" aria-label="ソーシャル"><title>ソーシャル</title><ellipse cx="1070" cy="600" rx="180" ry="80"/></a>
-<a href="./パタン/個別化" aria-label="個別化"><title>個別化</title><ellipse cx="1416" cy="614" rx="180" ry="90"/></a>
-<a href="./パタン/制限化限定化" aria-label="制限化"><title>制限化</title><ellipse cx="1710" cy="648" rx="186" ry="96"/></a>
-<a href="./パタン/精緻化" aria-label="精緻化"><title>精緻化</title><ellipse cx="1980" cy="732" rx="204" ry="96"/></a>
-<a href="./パタン/自己調整" aria-label="自己調整"><title>自己調整</title><ellipse cx="424" cy="682" rx="180" ry="78"/></a>
-<a href="./パタン/想像力（感情）を触発する" aria-label="想像力を触発する"><title>想像力を触発する</title><ellipse cx="902" cy="720" rx="202" ry="84"/></a>
-<a href="./パタン/メタ意識" aria-label="メタ意識"><title>メタ意識</title><ellipse cx="606" cy="778" rx="142" ry="72"/></a>
-<a href="./パタン/文化をつくる" aria-label="文化をつくる"><title>文化をつくる</title><ellipse cx="264" cy="828" rx="190" ry="102"/></a>
-<a href="./パタン/フィードバック" aria-label="フィードバック"><title>フィードバック</title><ellipse cx="1294" cy="754" rx="194" ry="84"/></a>
-<a href="./パタン/可視化" aria-label="可視化"><title>可視化</title><ellipse cx="1660" cy="790" rx="180" ry="96"/></a>
-<a href="./パタン/作ることで学ぶ" aria-label="作ることで学ぶ"><title>作ることで学ぶ</title><ellipse cx="888" cy="894" rx="214" ry="96"/></a>
-<a href="./パタン/シグニファイア" aria-label="シグニファイア"><title>シグニファイア</title><ellipse cx="1588" cy="938" rx="202" ry="96"/></a>
-<a href="./パタン/熟慮的教材教具" aria-label="熟慮的教材教具"><title>熟慮的教材教具</title><ellipse cx="1938" cy="942" rx="186" ry="96"/></a>
-<a href="./パタン/アドベンチャー" aria-label="アドベンチャー"><title>アドベンチャー</title><ellipse cx="535" cy="971" rx="204" ry="109"/></a>
-<a href="./パタン/ゲーム" aria-label="ゲーム"><title>ゲーム</title><ellipse cx="228" cy="1033" rx="180" ry="107"/></a>
-<a href="./パタン/類推的学習①" aria-label="類推的学習"><title>類推的学習</title><ellipse cx="1232" cy="922" rx="180" ry="102"/></a>
-<a href="./パタン/イメージ" aria-label="イメージ"><title>イメージ</title><ellipse cx="892" cy="1062" rx="162" ry="84"/></a>
-<a href="./パタン/キーコンセプト（胚細胞的概念）" aria-label="胚細胞的概念"><title>胚細胞的概念</title><ellipse cx="1220" cy="1072" rx="190" ry="84"/></a>
-<a href="./パタン/熟慮的動機づけ" aria-label="熟慮的動機付け"><title>熟慮的動機付け</title><ellipse cx="1586" cy="1098" rx="190" ry="96"/></a>
-<a href="./パタン/熟慮的配列" aria-label="熟慮的配列"><title>熟慮的配列</title><ellipse cx="2218" cy="1056" rx="168" ry="102"/></a>
-<a href="./パタン/熟慮的問い" aria-label="熟慮的問い"><title>熟慮的問い</title><ellipse cx="2227" cy="860" rx="162" ry="90"/></a>
-<a href="./パタン/オンボーディング" aria-label="オンボーディング"><title>オンボーディング</title><ellipse cx="554" cy="1162" rx="228" ry="90"/></a>
-<a href="./パタン/能動的関与" aria-label="能動的関与"><title>能動的関与</title><ellipse cx="890" cy="1230" rx="170" ry="84"/></a>
-<a href="./パタン/熟慮的安全性" aria-label="熟慮的安全性"><title>熟慮的安全性</title><ellipse cx="1242" cy="1242" rx="194" ry="90"/></a>
-<a href="./パタン/熟慮的練習" aria-label="熟慮的練習"><title>熟慮的練習</title><ellipse cx="1594" cy="1258" rx="186" ry="84"/></a>
-<a href="./パタン/熟慮的インストラクション" aria-label="熟慮的インストラクション"><title>熟慮的インストラクション</title><ellipse cx="1946" cy="1158" rx="204" ry="114"/></a>
-<a href="./パタン/文化の人格" aria-label="文化の人格"><title>文化の人格</title><rect x="1098" y="466" width="216" height="54" rx="20"/></a>
-<a href="./パタン/環境調整" aria-label="環境調整"><title>環境調整</title><rect x="576" y="596" width="174" height="54" rx="20"/></a>
-<a href="./メタパタン/経済を原理とする" aria-label="解決（経済の道）"><title>解決（経済の道）</title><rect x="996" y="6" width="564" height="390" rx="20"/></a>
-<a href="./メタパタン/極限概念と極限クライテリア" aria-label="教育の極限概念（経験）"><title>教育の極限概念（経験）</title><rect x="48" y="150" width="690" height="258" rx="20"/></a>
-<a href="./メタパタン/経験から出発する" aria-label="経験から出発する"><title>経験から出発する</title><rect x="1704" y="102" width="384" height="54" rx="20"/></a>
-<a href="./メタパタン/価値を目標とする" aria-label="価値を目標とする"><title>価値を目標とする</title><rect x="1704" y="162" width="384" height="54" rx="20"/></a>
-<a href="./メタパタン/経済を原理とする" aria-label="経済を原理とする"><title>経済を原理とする</title><rect x="1704" y="222" width="384" height="54" rx="20"/></a>
-<a href="./メタパタン/アブダクション（仮説形成）" aria-label="アブダクション（仮説形成）"><title>アブダクション（仮説形成）</title><rect x="1704" y="282" width="576" height="54" rx="20"/></a>
-<a href="./メタパタン/反事実（因果推論）" aria-label="反事実（因果推論）"><title>反事実（因果推論）</title><rect x="1704" y="342" width="408" height="54" rx="20"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/ソーシャル" aria-label="ソーシャル"><title>ソーシャル</title><ellipse cx="1070" cy="600" rx="180" ry="80"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/個別化" aria-label="個別化"><title>個別化</title><ellipse cx="1416" cy="614" rx="180" ry="90"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/制限化限定化" aria-label="制限化"><title>制限化</title><ellipse cx="1710" cy="648" rx="186" ry="96"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/精緻化" aria-label="精緻化"><title>精緻化</title><ellipse cx="1980" cy="732" rx="204" ry="96"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/自己調整" aria-label="自己調整"><title>自己調整</title><ellipse cx="424" cy="682" rx="180" ry="78"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/想像力（感情）を触発する" aria-label="想像力を触発する"><title>想像力を触発する</title><ellipse cx="902" cy="720" rx="202" ry="84"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/メタ意識" aria-label="メタ意識"><title>メタ意識</title><ellipse cx="606" cy="778" rx="142" ry="72"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/文化をつくる" aria-label="文化をつくる"><title>文化をつくる</title><ellipse cx="264" cy="828" rx="190" ry="102"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/フィードバック" aria-label="フィードバック"><title>フィードバック</title><ellipse cx="1294" cy="754" rx="194" ry="84"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/可視化" aria-label="可視化"><title>可視化</title><ellipse cx="1660" cy="790" rx="180" ry="96"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/作ることで学ぶ" aria-label="作ることで学ぶ"><title>作ることで学ぶ</title><ellipse cx="888" cy="894" rx="214" ry="96"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/シグニファイア" aria-label="シグニファイア"><title>シグニファイア</title><ellipse cx="1588" cy="938" rx="202" ry="96"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/熟慮的教材教具" aria-label="熟慮的教材教具"><title>熟慮的教材教具</title><ellipse cx="1938" cy="942" rx="186" ry="96"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/アドベンチャー" aria-label="アドベンチャー"><title>アドベンチャー</title><ellipse cx="535" cy="971" rx="204" ry="109"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/ゲーム" aria-label="ゲーム"><title>ゲーム</title><ellipse cx="228" cy="1033" rx="180" ry="107"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/類推的学習①" aria-label="類推的学習"><title>類推的学習</title><ellipse cx="1232" cy="922" rx="180" ry="102"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/イメージ" aria-label="イメージ"><title>イメージ</title><ellipse cx="892" cy="1062" rx="162" ry="84"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/キーコンセプト（胚細胞的概念）" aria-label="胚細胞的概念"><title>胚細胞的概念</title><ellipse cx="1220" cy="1072" rx="190" ry="84"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/熟慮的動機づけ" aria-label="熟慮的動機付け"><title>熟慮的動機付け</title><ellipse cx="1586" cy="1098" rx="190" ry="96"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/熟慮的配列" aria-label="熟慮的配列"><title>熟慮的配列</title><ellipse cx="2218" cy="1056" rx="168" ry="102"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/熟慮的問い" aria-label="熟慮的問い"><title>熟慮的問い</title><ellipse cx="2227" cy="860" rx="162" ry="90"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/オンボーディング" aria-label="オンボーディング"><title>オンボーディング</title><ellipse cx="554" cy="1162" rx="228" ry="90"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/能動的関与" aria-label="能動的関与"><title>能動的関与</title><ellipse cx="890" cy="1230" rx="170" ry="84"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/熟慮的安全性" aria-label="熟慮的安全性"><title>熟慮的安全性</title><ellipse cx="1242" cy="1242" rx="194" ry="90"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/熟慮的練習" aria-label="熟慮的練習"><title>熟慮的練習</title><ellipse cx="1594" cy="1258" rx="186" ry="84"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/熟慮的インストラクション" aria-label="熟慮的インストラクション"><title>熟慮的インストラクション</title><ellipse cx="1946" cy="1158" rx="204" ry="114"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/文化の人格" aria-label="文化の人格"><title>文化の人格</title><rect x="1098" y="466" width="216" height="54" rx="20"/></a>
+<a data-no-popover="true" data-router-ignore href="./パタン/環境調整" aria-label="環境調整"><title>環境調整</title><rect x="576" y="596" width="174" height="54" rx="20"/></a>
+<a data-no-popover="true" data-router-ignore href="./メタパタン/経済を原理とする" aria-label="解決（経済の道）"><title>解決（経済の道）</title><rect x="996" y="6" width="564" height="390" rx="20"/></a>
+<a data-no-popover="true" data-router-ignore href="./メタパタン/極限概念と極限クライテリア" aria-label="教育の極限概念（経験）"><title>教育の極限概念（経験）</title><rect x="48" y="150" width="690" height="258" rx="20"/></a>
+<a data-no-popover="true" data-router-ignore href="./メタパタン/経験から出発する" aria-label="経験から出発する"><title>経験から出発する</title><rect x="1704" y="102" width="384" height="54" rx="20"/></a>
+<a data-no-popover="true" data-router-ignore href="./メタパタン/価値を目標とする" aria-label="価値を目標とする"><title>価値を目標とする</title><rect x="1704" y="162" width="384" height="54" rx="20"/></a>
+<a data-no-popover="true" data-router-ignore href="./メタパタン/経済を原理とする" aria-label="経済を原理とする"><title>経済を原理とする</title><rect x="1704" y="222" width="384" height="54" rx="20"/></a>
+<a data-no-popover="true" data-router-ignore href="./メタパタン/アブダクション（仮説形成）" aria-label="アブダクション（仮説形成）"><title>アブダクション（仮説形成）</title><rect x="1704" y="282" width="576" height="54" rx="20"/></a>
+<a data-no-popover="true" data-router-ignore href="./メタパタン/反事実（因果推論）" aria-label="反事実（因果推論）"><title>反事実（因果推論）</title><rect x="1704" y="342" width="408" height="54" rx="20"/></a>
 </svg>
 </div>
 

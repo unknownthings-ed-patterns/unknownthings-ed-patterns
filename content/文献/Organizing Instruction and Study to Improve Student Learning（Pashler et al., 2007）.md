@@ -155,6 +155,7 @@ Pashler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, 
 | パタン | [[パタン/テストを繰り返す]] | 勧め5b（strong） |
 | パタン | [[パタン/時間をおいてから、答えを見ずに「わかったか」を確かめる（遅延した学習判断）]] | 出典（勧め6a） |
 | パタン | [[パタン/メタ認知的モニタリング]] | 分かったつもり（勧め6） |
+| パタン | [[パタン/望ましい困難]] | 間隔・テストなどの望ましい困難の、教室での証拠の強さ（小テストは strong、間隔は moderate） |
 | パタン | [[パタン/深める問い]] | 勧め7（strong） |
 | 文献 | [[文献/Developing Effective Fractions Instruction（Siegler et al., 2010）]] | 同じ IES の実践ガイド |
 | 文献 | [[文献/認知心理学者が教える最適の学習法（Weinstein & Sumeracki）]] | 同じ知見を一般向けに紹介した本 |

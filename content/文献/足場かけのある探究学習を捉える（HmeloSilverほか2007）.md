@@ -49,6 +49,7 @@ Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achie
 - [[パタン/問いを大切にする]] — 問いを歓迎することに、調べ方への支援を重ねる。
 - [[パタン/専門家のやり方と初学者の学び方を分ける（研究の方法は学びの方法ではない）]] — 最小限の指導への批判と、支援付き探究への応答を並べて読む。
 - [[文献/Why Minimal Guidance During Instruction Does Not Work（Kirschner, Sweller & Clark, 2006）]] — 本論文が応答する論争の相手。指導の定義・実装・成果を対照して読む。
+- [[文献/十分な手引きのある教え方を主張する（ClarkKirschnerSweller2012）]] — Kirschner らが2012年に教師向けに主張をまとめ直した記事
 
 ## 展開したい問い
 

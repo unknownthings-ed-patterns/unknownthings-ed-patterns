@@ -136,6 +136,7 @@ Graham, S., Bollinger, A., Booth Olson, C., D'Aoust, C., MacArthur, C., McCutche
 | パタン | [[パタン/ピアフィードバック]] | 仲間の推敲・読み合い（勧め2a・4） |
 | 文献 | [[文献/Organizing Instruction and Study to Improve Student Learning（Pashler et al., 2007）]] | 同じ IES の実践ガイド |
 | 文献 | [[文献/読み書き教育における類推的学習の研究（第二版）]] | お手本をまねて書く指導を理論化した岩井の本 |
+| パタン | [[パタン/イメージ]] | よい文章の特徴をまねる手順 |
 
 ## 未パタン化の論点
 

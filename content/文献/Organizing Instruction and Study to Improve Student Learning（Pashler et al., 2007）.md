@@ -163,6 +163,7 @@ Pashler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, 
 | 文献 | [[文献/Making Things Hard on Yourself, But in a Good Way（Bjork & Bjork, 2011）]] | 間隔・テストを望ましい困難として論じる |
 | 文献 | [[文献/Teaching Elementary School Students to Be Effective Writers（Graham et al., 2012）]] | 同じ IES の実践ガイド（作文） |
 | パタン | [[パタン/熟慮的問い]] | 勧め7の問いの型を「まず手元に置く問い」に使った |
+| パタン | [[パタン/オンボーディング]] | 解き方の例と問題を交互に並べ、だんだん減らす |
 
 ## 未パタン化の論点
 

@@ -54,9 +54,9 @@ updated: 2026-10-31
 >
 > — ワークシートが、理解を深めるために頭の中で何を能動的にすればよいかを教えることはめったにない。
 
-> However, there is no strong causal evidence that strategy instruction that uses gradual release of responsibility to students improves comprehension any more than strategy instruction without gradual release. (p. 11)
+> ...there is no strong causal evidence that strategy instruction that uses gradual release of responsibility to students improves comprehension any more than strategy instruction without gradual release. (p. 11)
 >
-> — しかし、責任をだんだん子どもに移す方略指導が、そうしない方略指導より読解を伸ばすという強い因果の証拠はない。
+> — ……責任をだんだん子どもに移す方略指導が、そうしない方略指導より読解を伸ばすという強い因果の証拠はない。
 
 > Thus, the lack of evidence supporting this practice with younger students is because the claim has rarely been tested empirically and not because studies have failed to find discussion to be effective. (p. 24)
 >
@@ -76,7 +76,7 @@ updated: 2026-10-31
 
 - **方略は「頭の中ですること」として教える**。付箋やワークシートを埋めること自体を目的にしない。[[パタン/読解の7プロセス]] の結果節の注意（全ての読みに付箋を貼らせる過剰な指導は流れを壊す）とも合う
 - **低学年でも読解を待たない**。文字の読みを教えている時期でも、読み聞かせで聞いて理解する力を使い、予測・思い描く・再話を始める
-- **物語の構造は、よく知っている話から**。ガイドは「赤ずきん」で要素（登場人物・場面・目的・問題・出来事・解決・主題）を示す。日本の教室なら、子どもが知っている昔話から始める。片手の指に要素を一つずつ対応させる覚え方も例に挙がっている
+- **物語の構造は、よく知っている話から**。ガイドは「赤ずきん」で要素（登場人物・場面・目的・問題・出来事・解決・主題）を示す。日本の教室なら、子どもが知っている昔話から始める。片手の指に要素を一つずつ対応づける覚え方も例に挙がっている
 - **説明文では手がかり語に頼りきらない**。「だから」「しかし」などの語は、いつも書かれているとは限らない。慣れたら「作者はこの文章をどう組み立てた？」と手がかり語のない問いに移す
 - **話し合いの問い返しを数個用意する**：「どうしてそう思った？」「本のどこからそう考えた？」「〇〇さんの言ったことと、どうつながる？」。話し合いが根拠のある読みに向かうよう、本文に戻す問いにする
 

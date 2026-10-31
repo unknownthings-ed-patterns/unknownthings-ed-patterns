@@ -5,7 +5,7 @@ year: 1984
 tags: [文献, 読解方略, メタ認知, 段階的手放し]
 literature_status: integrated
 ingested: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-31
 source: "Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. Cognition and Instruction, 1(2), 117–175. https://doi.org/10.1207/s1532690xci0102_1"
 ---
 
@@ -42,6 +42,7 @@ PDF全59頁を保存。理論・介入手順（pp. 117–126, 130–135）、主
 
 ## 関連するWikiページ
 
+- [[文献/幼稚園〜3年生の読解指導を研究から組み立てる（Shanahanほか2010）]] — 複数方略の指導形式の例として相互教授法を挙げる実践ガイド
 - [[パタン/段階的手放し]] — 対話の進行役を渡しながら、必要な援助を調整する。
 - [[パタン/メタ認知的モニタリング]] — 要約や問いを理解修復の手がかりにする。
 - [[パタン/質問作成の手順を示す]] — 語幹の提示に、要点と問いの質への支援を加える。

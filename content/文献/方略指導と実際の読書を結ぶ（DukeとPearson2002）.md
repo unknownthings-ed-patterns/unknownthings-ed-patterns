@@ -5,7 +5,7 @@ year: 2002
 tags: [文献, 読解, 読書指導, 段階的手放し]
 literature_status: integrated
 ingested: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-31
 source: "Duke, N. K., & Pearson, P. D. (2002). Effective practices for developing reading comprehension. In A. E. Farstrup & S. J. Samuels (Eds.), What research has to say about reading instruction (3rd ed., pp. 205–242). International Reading Association. https://doi.org/10.1598/0872071774.10"
 ---
 
@@ -42,6 +42,7 @@ Duke, N. K., & Pearson, P. D. (2002). Effective practices for developing reading
 
 ## 関連するWikiページ
 
+- [[文献/幼稚園〜3年生の読解指導を研究から組み立てる（Shanahanほか2010）]] — 本論文の「だんだん任せる」図をもとにした米国の実践ガイド（Duke・Pearson も執筆者）
 - [[パタン/ミニレッスン・サイクル]] — 短い指導と実際の読み・書き・対話を接続する。
 - [[パタン/段階的手放し]] — 共同使用から独立使用への責任の移行を確認する。
 - [[パタン/シンクアラウド]] — 実演を共同使用と独立使用へつなぐ。

@@ -114,6 +114,7 @@ updated: 2026-10-31
 | 文献 | [[文献/Why Minimal Guidance During Instruction Does Not Work（Kirschner, Sweller & Clark, 2006）]] | 同上（もとの論文） |
 | 文献 | [[文献/発見学習の支援条件を見分ける（Alfieriほか2011）]] | 支えのある発見が有利、という同じ向きの結果 |
 | 文献 | [[文献/次の学びへの準備として転移を捉える（BransfordとSchwartz1999）]] | 「次の学びへの準備」という源流 |
+| 文献 | [[文献/見積もりの方法を比べると柔軟になる（StarとRittleJohnson2009）]] | 小学5・6年生で、例を見せたうえで比べる形の効果 |
 
 ## 展開したい問い
 

@@ -99,6 +99,7 @@ source: "Rohrer, D., Dedrick, R. F., & Stershic, S. (2015). Interleaved practice
 | 文献 | [[文献/Making Things Hard on Yourself, But in a Good Way（Bjork & Bjork, 2011）]] | 交互にまぜることを望ましい困難として扱う |
 | 文献 | [[文献/復習間隔と保持期間を合わせて考える（Cepedaほか2006）]] | 間隔をあける効果の総説（同じ著者を含む） |
 | 文献 | [[文献/その場のできと長く残る学習を分ける（SoderstromとBjork2015）]] | 練習中のできと長く残る学びの区別、間隔と交互の切り分けの課題 |
+| 文献 | [[文献/算数に困難のある子への介入を研究から組み立てる（Fuchsほか2021）]] | 困難のある子への介入でも、種類の違う問題をまぜる |
 
 ## 展開したい問い
 

@@ -5,7 +5,7 @@ author: "Paul Black & Dylan Wiliam"
 year: 2009
 tags: [文献, 形成的評価, フィードバック, 評価, 自己調整, 教室談話, 発問, 練り上げ, 特別支援]
 source: "Black, P. & Wiliam, D.（2009）Developing the theory of formative assessment"
-updated: 2026-08-03
+updated: 2026-10-31
 ---
 
 # Developing the Theory of Formative Assessment（Black & Wiliam, 2009）
@@ -211,6 +211,7 @@ Black, P., & Wiliam, D. (2009). Developing the theory of formative assessment. *
 - [[パタン/答えの出どころを推し量る（誤答の解釈）]] — ベティとビリー、7つの可能性
 - [[概念/認知加速とダイナミック・アセスメント（学習する力そのものを狙う）]] — 本稿 §5 前半
 - [[パタン/練り上げ（比較検討の全体交流）]] — hatsumon と neriage、集合的な生徒
+- [[文献/日独米の数学の授業をビデオで比べる（Stiglerほか1999）]] — 本稿の10年前に、日本の「問題が先」の授業の流れを日独米231学級のビデオで記述した報告書
 - [[パタン/予想される反応を先に書く（応答の幅を絞る）]] — Threlfall の偶発的評価計画
 - [[パタン/教科に対しても責任を負う（教えすぎと放任のあいだ）]] — 本稿 §5「教師の学習の統制」
 - [[パタン/理解のしるしを読む（fit と match）]] — von Glasersfeld の区別。本稿では教師のモデルの限界として再登場する

@@ -103,6 +103,7 @@ Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does disc
 - [[文献/Why Minimal Guidance During Instruction Does Not Work（Kirschner, Sweller & Clark, 2006）]] — 最小限の手引きへの批判。本論文は手助けのない発見について支え、支えのある発見については限定する。
 - [[文献/問題解決とスキーマ獲得を分けて捉える（Sweller1988）]] — 発見の探索が作業記憶に負担をかけるという、本論文が引く理論。
 - [[文献/認知的関与を捉えるICAP（ChiとWylie2014）]] — 活動的であることと構成的であることの区別（本論文は Chi 2009 を引く）。
+- [[文献/算数の土台を研究から絞り込む（全米数学諮問委員会2008）]] — 子ども中心か教師主導かの二択を退けた委員会の報告
 
 ## 展開したい問い
 

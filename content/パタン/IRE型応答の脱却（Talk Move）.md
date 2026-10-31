@@ -143,6 +143,7 @@ Talk Move は「発話できる子」を前提にすると、発話が苦手な�
 - [[パタン/発問のグラデーション]] — 発問（第1ターン）の設計。本パタンは応答後（第3ターン）の設計で、両者は相補的
 - [[パタン/形成的評価]] — 第3ターンを「評価」から「情報収集と調整」へ転換する点で同じ思想。子どもの応答は採点対象でなく指導調整の資源
 - [[文献/人の学び方の研究を授業の設計につなぐ（全米研究評議会2000）]] — 答えの分かっている問いへの慣れは家庭によって違う（Heath）
+- [[パタン/熟慮的問い]] — 問いの設計（第1ターン）の親パタン。本パタンは問いのあとの第3ターンを扱う
 
 - [[パタン/偶発の瞬間を活かす（コンティンジェンシー）]] — I-R-E の第3ターンを、評価から偶発の分岐点へ変えるための設計
 - [[パタン/練り上げ（比較検討の全体交流）]] — 「集める→要約する→違いを問う」という、日本の授業様式での実装
@@ -162,6 +163,7 @@ flowchart LR
     ne69687e5ada6e8a88ee8ab96e382b0e383abe383bce38397["文学討論グループ"]
     ne799bae5958fe381aee382b0e383a9e38387e383bce382b7e383a7e383b3["発問のグラデーション"]
     ne5bda2e68890e79a84e8a995e4bea1["形成的評価"]
+    ne7869fe685aee79a84e5958fe38184["熟慮的問い"]
     ne581b6e799bae381aee79eace99693e38292e6b4bbe3818be38199efbc88e382b3e383b3e38386e382a3e383b3e382b8e382a7e383b3e382b7e383bcefbc89["偶発の瞬間を活かす（コンティンジェンシー）"]
     ne7b7b4e3828ae4b88ae38192efbc88e6af94e8bc83e6a49ce8a88ee381aee585a8e4bd93e4baa4e6b581efbc89["練り上げ（比較検討の全体交流）"]
 
@@ -174,6 +176,7 @@ flowchart LR
     n495245e59e8be5bf9ce7ad94e381aee884b1e58db4efbc8854616c6b204d6f7665efbc89 --- ne69687e5ada6e8a88ee8ab96e382b0e383abe383bce38397
     n495245e59e8be5bf9ce7ad94e381aee884b1e58db4efbc8854616c6b204d6f7665efbc89 --- ne799bae5958fe381aee382b0e383a9e38387e383bce382b7e383a7e383b3
     n495245e59e8be5bf9ce7ad94e381aee884b1e58db4efbc8854616c6b204d6f7665efbc89 --- ne5bda2e68890e79a84e8a995e4bea1
+    n495245e59e8be5bf9ce7ad94e381aee884b1e58db4efbc8854616c6b204d6f7665efbc89 --- ne7869fe685aee79a84e5958fe38184
     n495245e59e8be5bf9ce7ad94e381aee884b1e58db4efbc8854616c6b204d6f7665efbc89 --- ne581b6e799bae381aee79eace99693e38292e6b4bbe3818be38199efbc88e382b3e383b3e38386e382a3e383b3e382b8e382a7e383b3e382b7e383bcefbc89
     n495245e59e8be5bf9ce7ad94e381aee884b1e58db4efbc8854616c6b204d6f7665efbc89 --- ne7b7b4e3828ae4b88ae38192efbc88e6af94e8bc83e6a49ce8a88ee381aee585a8e4bd93e4baa4e6b581efbc89
 

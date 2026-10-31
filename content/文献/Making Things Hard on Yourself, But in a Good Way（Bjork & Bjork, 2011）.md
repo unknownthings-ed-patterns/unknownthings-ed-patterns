@@ -125,7 +125,6 @@ Bjork, E. L., & Bjork, R. A. (2011). Making things hard on yourself, but in a go
 ## 関連するWikiページ
 
 | 種類 | ページ | 関係 |
-- [[文献/練習問題をまぜると算数の学びが残る（Rohrerほか2015）]] — 交互にまぜる練習を、中学の算数の教室で3か月かけて確かめた実験
 |---|---|---|
 | パタン | [[パタン/望ましい困難]] | 提唱者の原典 |
 | パタン | [[パタン/練習の条件を変える（いつも同じ形で練習しない）]] | 出典 |
@@ -137,6 +136,7 @@ Bjork, E. L., & Bjork, R. A. (2011). Making things hard on yourself, but in a go
 | 文献 | [[文献/認知心理学者が教える最適の学習法（Weinstein & Sumeracki）]] | 望ましい困難を一般向けに紹介した本 |
 | 文献 | [[文献/Why Minimal Guidance During Instruction Does Not Work（Kirschner, Sweller & Clark, 2006）]] | 困難が望ましくなくなる条件（知識の土台がないとき）を別の側から論じる |
 | 文献 | [[文献/Organizing Instruction and Study to Improve Student Learning（Pashler et al., 2007）]] | 間隔とテストを、根拠の強さつきで教室の手順にした実践ガイド |
+| 文献 | [[文献/練習問題をまぜると算数の学びが残る（Rohrerほか2015）]] | 交互にまぜる練習を、中学の算数の教室で3か月かけて確かめた実験 |
 
 ## 未パタン化の論点
 

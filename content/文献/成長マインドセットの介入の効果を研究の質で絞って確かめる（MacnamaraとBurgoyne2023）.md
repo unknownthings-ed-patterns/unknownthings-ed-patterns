@@ -1,0 +1,106 @@
+---
+type: literature
+tags: [文献, 成長マインドセット, メタ分析, 研究の質, 出版の偏り, 論争]
+source: "Macnamara, B. N., & Burgoyne, A. P. (2023). Do growth mindset interventions impact students' academic achievement? A systematic review and meta-analysis with recommendations for best practices. Psychological Bulletin, 149(3–4), 133–173. https://doi.org/10.1037/bul0000352"
+author: "Brooke N. Macnamara, Alexander P. Burgoyne"
+year: 2023
+ingested: 2026-10-31
+updated: 2026-10-31
+---
+
+# 成長マインドセットの介入の効果を研究の質で絞って確かめる（MacnamaraとBurgoyne2023）
+
+> 子どもに「能力は伸ばせる」と教える成長マインドセットの介入が学力を上げるかを、63研究・約9万7千人で調べた系統的レビューとメタ分析。全研究の効果は小さく（d = 0.05）、出版の偏りを補正すると有意でなくなった。介入で考え方が実際に変わった研究だけ（d = 0.04）、質の高い研究だけ（d = 0.02）に絞っても有意な効果はなかった。著者らは、見かけの効果は研究の設計・報告の欠陥と偏りによるものだろうと結論する。
+
+**原題**：Do Growth Mindset Interventions Impact Students' Academic Achievement? A Systematic Review and Meta-Analysis with Recommendations for Best Practices（*Psychological Bulletin*、2023年）
+
+**読んだもの**：著者が PsyArXiv（OSF）に公開している受理稿（2022年11月、134ページ。雑誌に載った版と文言が完全には同じでないと断り書きがある）。本文・考察・限界・勧めを読み、研究ごとの表と付録は必要な箇所だけ確かめた。以下のページは原稿のページで示す。OpenAlex の被引用は306件（2026-10-31）。
+
+第一著者と第二著者は、先行のメタ分析（Sisk ほか 2018）の共著者でもある（p. 40、図1）。
+
+## 要約
+
+**背景**（pp. 4–16）
+- 成長マインドセットの理論は、能力が伸びると信じる子は学ぶことを目標にし、努力し、挑戦し、失敗から立ち直り、その結果よく学ぶと主張する
+- 先行のメタ分析（Sisk ほか 2018、38標本）では、介入の学力への効果は d = 0.08 だった。考え方が実際に変わったことを確かめた研究では効果が有意でなく、確かめなかった研究や、変化が確かめられなかった研究で効果が有意だった（pp. 7–8）
+- 多くの介入は、「能力は伸びる」と教えるだけでなく、もっと努力するよう励ます、方略を教える、目標を立てる、励みになる話を紹介するなど、比較群にないものを含む。そのため、効いたとしても何が効いたかが分からない。「能力は伸びる」という部分だけを変え、ほかの励ましや方略は両群に与えた研究（Polley 2018）では、学力に差がなかった（pp. 13–16）
+
+**方法**（pp. 37–41、事前登録）
+- 能力などが伸びることを直接教える介入で、比較群があり、成績か標準テストで学力を測った研究（ほめ方だけを変える研究は除く）
+- 63研究・79標本・96の効果量・97,672人
+- 研究ごとに、介入の設計・報告の「最善の手順」（行動のある比較群、比較群との違いを伸びる考えだけにする、事前の検定力分析、個人単位の無作為割り当て、目隠し、考え方が変わったかの確認、事前登録、参加した人の結果の報告、すべての下位群の報告、金銭上の利害がないこと）をどれだけ満たすかをコード化した
+
+**結果**（pp. 63–92）
+- **メタ分析1（すべての研究）**：d = 0.05（95%信頼区間 0.02〜0.09）。出版の偏りを補正すると d = 0.03 または 0.01 で有意でない。理論から予想される調整要因（家庭の経済状況、学業上の困難など）は、どれも効果の差を生まなかった
+- **メタ分析2（介入で考え方が変わった研究だけ、13研究）**：d = 0.04（−0.01〜0.10）で有意でない
+- **メタ分析3（考え方が変わり、最善の手順を6割以上満たす研究、6研究）**：d = 0.02（−0.06〜0.10）で有意でない。最善の手順をすべて満たした研究は一つもなかった
+- 96の効果量のうち71は、考え方を測っても変化がなかった介入からだった（p. 73）
+- 子ども・実施者・教師を目隠ししていた介入は4分の1に満たない。学級担任が研究を計画し、介入を行い、成績をつけ、論文を書いた研究もあった（p. 89）
+- 金銭上の利害（自己啓発書・講演・介入を売る会社など）がある著者の研究は、そうでない研究より有意な効果を報告することが2.5倍以上多かった（p. 90）
+- 出版前の報告と出版された論文を比べると、7件中5件で出版前に参加者が除かれていた（最大6,222人、p. 90）
+
+**勧め**（pp. 99–102）
+- 研究者は利害を開示し、結果にかかわらず公開する。過大な宣伝を避ける
+- 教育者と政策担当者は、時間と資源の使い道として、ほかの学習機会と比べて判断する。誤用（努力をほめることへの偏り、苦手な子に教えない言い訳、子どもを責める）にも注意する
+
+## 適用範囲と限界
+
+- **成長マインドセットに懐疑的な研究者によるメタ分析**である。著者ら自身が先行のメタ分析の共著者で、理論の前提を問い直す研究を重ねてきた
+- 「最善の手順」の選び方とコード化は著者らが決めたもので、どの研究を「質が高い」とするかで結論が変わりうる。この点への反論として、Tipton ほか（2023、同じ号の論評。共著者に Yeager を含む）がある（本 Wiki では未読）
+- 成績で測った研究と標準テストで測った研究を合わせている
+- 考え方が変わったかの確認は、考え方の質問紙が妥当で信頼できるという前提に立つ。著者ら自身がその前提に疑問を示し、確認の有無にかかわらず、出版の偏りを補正すると有意な効果はなかったとする（pp. 97–98）
+- 検索は2019年8月まで。英語の論文だけ
+- 本ページは受理稿によるので、雑誌版と数値が違う箇所があるかもしれない
+
+## 重要な引用
+
+> We conclude that apparent effects of growth mindset interventions on academic achievement are likely attributable to inadequate study design, reporting flaws, and bias.
+
+— p. 2（要旨）。「成長マインドセットの介入が学力に及ぼす見かけの効果は、研究の設計の不十分さ、報告の欠陥、偏りによるものだろうと結論する。」（訳は本Wiki）
+
+> These results suggest that at least some of the observed differences between treatment and control groups found in the mindset intervention literature might be driven by encouraging students to work harder.
+
+— p. 14。「これらの結果は、マインドセットの介入の研究で見られた介入群と比較群の差の少なくとも一部は、もっと努力するよう励ましたことによるのかもしれないことを示唆する。」（訳は本Wiki）
+
+> Of the few studies that only allowed the key factor of teaching attribute malleability to vary between the groups, none produced evidence the treatment influenced students to have more of a growth mindset.
+
+— p. 89。「能力が伸びると教えるという要の部分だけを群の間で変えた数少ない研究では、介入が子どもの考え方を成長マインドセットに近づけた証拠を示したものは一つもなかった。」（訳は本Wiki）
+
+> Fewer than one in four interventions attempted to reduce expectancy bias by keeping students, study administrators, and teachers blind to condition.
+
+— p. 89。「子ども・実施者・教師をどの群か知らない状態にして期待による偏りを減らそうとした介入は、4分の1に満たなかった。」（訳は本Wiki）
+
+英文はすべて、PDFから取り出した本文と機械で照合した。
+
+## 原典で確かめたこと（wiki との照合）
+
+1. **[[文献/A National Experiment Reveals Where a Growth Mindset Improves Achievement（Yeager et al., 2019）]]** のページは、Sisk ほか（2018）を「効果がさらに小さいと報告したとされる（未読）」としていた。本論文によれば、Sisk の介入のメタ分析の効果は d = 0.08 で、考え方の変化を確かめた研究では有意でなかった（pp. 7–8）。また本論文は、Yeager らが成績の下位半分の生徒の結果だけを報告し、上位の生徒との効果の差を検定していないと批判する（pp. 28, 36）
+2. **[[文献/教育の介入の効果量を読む物差しを作り直す（Kraft2020）]]** の目安（0.05〜0.20 が中）で読むと、補正前の d = 0.05 は中の下限、補正後は小になる。Kraft も成長マインドセットを「効く相手が限られる」例に挙げていた
+3. **[[パタン/成長マインドセット]]** の研究の裏づけは、介入に効果を認める研究が中心だった。本論文はそれと反対の結論で、論争の片側である
+
+## 教育実践への示唆（Wiki側の適用案）
+
+以下はこの Wiki の適用案である。
+
+1. **「能力は伸びる」と話すだけで成績が上がると期待しない**：効いているように見えた介入の多くは、努力の励ましや方略の指導を一緒に含んでいた
+2. **伸ばしたいなら、方略と練習そのものを教える**：どう取り組めばよくなるかを具体的に示す
+3. **「努力をほめる」「できない子に教えない言い訳にする」などの誤用を避ける**
+
+## 関連Wikiページ
+
+| 種類 | ページ | 何がつながるか |
+| --- | --- | --- |
+| パタン | [[パタン/成長マインドセット]] | 介入の効果は研究の質で絞ると有意でない |
+| 文献 | [[文献/A National Experiment Reveals Where a Growth Mindset Improves Achievement（Yeager et al., 2019）]] | 本論文が報告の仕方を批判する大規模実験 |
+| 文献 | [[文献/教育の介入の効果量を読む物差しを作り直す（Kraft2020）]] | 効果量の目安で読む |
+
+## 展開したい問い
+
+1. 「能力は伸びる」と教える部分と、方略・努力の励ましの部分を分けたとき、教室で効いているのはどちらか
+2. 成長マインドセットを掲げる学校の取り組みは、どの誤用に陥りやすいか
+
+## 出典
+
+Macnamara, B. N., & Burgoyne, A. P. (2023). Do growth mindset interventions impact students' academic achievement? A systematic review and meta-analysis with recommendations for best practices. *Psychological Bulletin, 149*(3–4), 133–173. https://doi.org/10.1037/bul0000352
+
+[著者の受理稿（PsyArXiv/OSF）](https://osf.io/ba7pe/)。原本PDFは非公開の raw/ に保存。

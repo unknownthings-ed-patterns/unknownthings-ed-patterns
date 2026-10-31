@@ -20,7 +20,7 @@ source: "Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., J
 
 **何を比べたか**（pp. 8410, 8413–8414）
 - **講義だけの授業**：「教師が続けて説明する」授業。学生の活動はノートを取ることと、ときどき自分から質問することに限られる
-- **能動的な学び**：338人の大学教員に定義を書いてもらってまとめた定義では、「講義を受け身で聞くのではなく、授業中の活動や話し合いを通して学ぶ過程に学生を関わらせる。高次の思考を重視し、グループ活動を含むことが多い」
+- **能動的な学び**：338人の大学教員に定義を書いてもらってまとめた定義では、「講義を受け身で聞くのではなく、授業中の活動や話し合いを通して、学生が学ぶ過程に関わる。高次の思考を重視し、グループ活動を含むことが多い」
 - 能動的な学びの中身はまちまちで、ときどきのグループでの問題解決、授業中のワークシート、応答システム（クリッカー）、問題基盤学習、講義のないスタジオ形式などを含む。授業時間に占める割合は10%から100%まで
 - 対象は、大学の理系の正規の授業（生物・化学・物理・数学・工学・コンピュータ科学・心理学・統計など）。授業時間の差は週30分以内、変えたのは授業の進め方だけ
 
@@ -51,7 +51,7 @@ source: "Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., J
 
 > Active learning engages students in the process of learning through activities and/or discussion in class, as opposed to passively listening to an expert.
 
-— pp. 8413–8414。「能動的な学びは、専門家の話を受け身で聞くのではなく、授業中の活動や話し合いを通して、学生を学ぶ過程に関わらせる。」（訳は本Wiki）
+— pp. 8413–8414。「能動的な学びは、専門家の話を受け身で聞くのではなく、授業中の活動や話し合いを通して、学生が学ぶ過程に関わることである。」（訳は本Wiki）
 
 > students in traditional lecture courses are 1.5 times more likely to fail than students in courses with active learning.
 

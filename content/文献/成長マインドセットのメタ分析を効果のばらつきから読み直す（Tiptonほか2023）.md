@@ -103,6 +103,7 @@ updated: 2026-11-01
 | 文献 | [[文献/A National Experiment Reveals Where a Growth Mindset Improves Achievement（Yeager et al., 2019）]] | 効く相手と効かない相手を両方入れた全米の実験 |
 | 文献 | [[文献/教育の介入の効果量を読む物差しを作り直す（Kraft2020）]] | 効果量の目安 |
 | 文献 | [[文献/大規模な無作為化比較の多くが結論を出せないことを確かめる（LortieForguesとInglis2019）]] | 有意差なしを効かないと読まない |
+| パタン | [[パタン/熟慮的動機づけ]] | 動機づけの設計の論争の一つ |
 
 ## 展開したい問い
 

@@ -97,6 +97,7 @@ updated: 2026-10-31
 | 文献 | [[文献/Developing Effective Fractions Instruction（Siegler et al., 2010）]] | 同じシリーズの分数のガイド |
 | 文献 | [[文献/Organizing Instruction and Study to Improve Student Learning（Pashler et al., 2007）]] | 同じシリーズ。作業例と問題を交互に置く勧めを、このガイドが参照 |
 | 文献 | [[文献/日独米の数学の授業をビデオで比べる（Stiglerほか1999）]] | 複数の解き方を比べる勧めの背景として、このガイドが Stigler & Hiebert（1999）を引く |
+| 文献 | [[文献/7〜14歳の算数の指導を研究から整える（英国EEF2017）]] | 英国の指針が問題解決の勧めの根拠に本ガイドを挙げる |
 
 ## 展開したい問い
 

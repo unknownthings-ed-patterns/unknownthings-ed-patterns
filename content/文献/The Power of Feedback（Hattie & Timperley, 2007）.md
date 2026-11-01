@@ -7,7 +7,7 @@ tags: [文献, フィードバック, 形成的評価, 評価, メタ分析, 自
 literature_status: integrated
 ingested: 2026-10-11
 source: "Hattie, J., & Timperley, H.（2007）The power of feedback. Review of Educational Research, 77(1), 81–112."
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 # The Power of Feedback（Hattie & Timperley, 2007）
@@ -142,7 +142,7 @@ Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educationa
 
 ## 2020年の検証——0.79 は 0.48 になった
 
-Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited: A meta-analysis of educational feedback research. *Frontiers in Psychology, 10*, 3087.（CC BY 4.0・全15頁）
+Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited: A meta-analysis of educational feedback research. *Frontiers in Psychology, 10*, 3087.（CC BY 4.0・全14頁。原本 PDF は非公開の raw/ に保存）
 
 2007年の0.79は、メタ分析の平均をさらに平均する「メタ統合」で出した数字である。この方法には、①メタ分析の大小に関係なく同じ重みで平均する、②同じ一次研究が複数のメタ分析に入って**二重に数えられる**、という問題がある。2020年の研究は、ハッティの統合に使われたメタ分析から一次研究を一本ずつ取り出し直して、メタ分析をやり直した。
 
@@ -154,6 +154,8 @@ Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited
 | 種類別 | 強化・罰 0.24、訂正 0.46、**情報の多いフィードバック 0.99**（課題・過程・ときに自己調整の情報を含むもの） |
 | 結果の種類 | 認知 0.51、動機づけ 0.33、運動技能 0.63、行動 0.48（行動と運動技能は研究が少ない） |
 | 研究デザイン | 対照群あり 0.42、事前事後だけ 0.63 |
+| 出版の形 | 雑誌論文 0.49、学位論文 0.36。漏斗図の偏りは雑誌論文にだけ出た |
+| 伝え方 | 書く・話す・映像や音声やコンピューターの違いは、有意な差にならなかった |
 | 方向 | 教師→生徒 0.47、生徒→教師 0.35、生徒→生徒 0.85（8研究のみ・要注意） |
 
 0.79 と 0.48 の差について、著者らは主に、2007年の統合に入っていた研究の一部が**教育の文脈でない、または必要な統計情報がない**ために除かれたことによると見ている。統合に使われたメタ分析のうち三つ（Rummel & Feinberg, 1988; Standley, 1996; Miller, 2003）は、平均がやり直しの信頼区間の外にあった。とくに音楽を強化に使う研究のメタ分析（Standley, 1996）には、効果量10を超えるような「巨大な」値が含まれていた。
@@ -198,6 +200,7 @@ Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited
 ## 関連するWikiページ
 
 | 種類 | ページ | 関係 |
+| パタン | [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] | 情報の量でフィードバックの効き方が分かれる（2020年の検証） |
 - [[文献/学びを前に進める教師のフィードバックを整える（英国EEF2021）]] — 四つのレベルを「課題・教科・自己調整」と「人柄」に言い換えて使う英国の指針。
 - [[文献/教育の介入の効果量を読む物差しを作り直す（Kraft2020）]] — Hattie の総説が古い研究の大きな値を取り込み、過大な期待を広めていると批判する。効果量を読む新しい目安。
 |---|---|---|

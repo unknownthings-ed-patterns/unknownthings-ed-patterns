@@ -51,6 +51,7 @@ Ainsworth, S. (2006). DeFT: A conceptual framework for considering learning with
 - [[パタン/記号接地（Symbol Grounding）]] — 具体物を扱ったことと、記号の意味が結びついたことを分けて確認する。
 - [[パタン/可視化]] — 複数の表現
 - [[パタン/熟慮的配列]] — 表現の順序
+- [[文献/概念地図を作る・見ることの効き方を、比べた相手と学習者で確かめる（NesbitとAdesope2006）]] — 表現の一つ（概念地図）の効き方を確かめたメタ分析
 
 ## 展開したい問い
 

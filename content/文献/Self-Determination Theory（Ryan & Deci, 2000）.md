@@ -168,6 +168,7 @@ Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitatio
 | 概念 | [[概念/動機づけ]] | 外発的動機づけの四つの調整 |
 | 概念 | [[概念/自我関与と課題関与（フィードバックが向ける先）]] | 取り入れ的調整＝自我関与の動機づけ的な姿 |
 | 文献 | [[文献/The Power of Feedback（Hattie & Timperley, 2007）]] | Deci, Koestner & Ryan (1999) の報酬のメタ分析を引く |
+| パタン | [[パタン/熟慮的動機づけ]] | 動機づけの設計の土台 |
 
 ## 未パタン化の論点
 

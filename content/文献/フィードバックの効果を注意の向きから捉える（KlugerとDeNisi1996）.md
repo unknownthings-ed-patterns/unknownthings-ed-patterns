@@ -61,6 +61,8 @@ Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on per
 - [[概念/自我関与と課題関与（フィードバックが向ける先）]] — 注意の向きの仮説と、効果量の集計範囲を原典で照合する。
 - [[文献/Assessment and Classroom Learning（Black & Wiliam）]] — 二次資料の要約を残し、原典の607効果量と470効果量を区別する。
 - [[文献/The Power of Feedback（Hattie & Timperley, 2007）]] — 470効果量・0.38・32%の原典上の位置を確かめる。
+- [[パタン/フィードバック]] — フィードバックが逆効果になる条件
+- [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 研究の中の堪能者を読む（だれに・どんな条件で効いたかの収集表）
 
 ## 展開したい問い
 

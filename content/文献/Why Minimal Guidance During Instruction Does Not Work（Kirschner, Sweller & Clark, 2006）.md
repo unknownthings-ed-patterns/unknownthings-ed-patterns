@@ -7,7 +7,7 @@ tags: [文献, 認知負荷, 直接指導, 発見学習, 探究, 作業例, 学�
 literature_status: integrated
 ingested: 2026-10-11
 source: "Kirschner, P. A., Sweller, J., & Clark, R. E.（2006）Why minimal guidance during instruction does not work. Educational Psychologist, 41(2), 75–86."
-updated: 2026-10-15
+updated: 2026-11-02
 ---
 
 # Why Minimal Guidance During Instruction Does Not Work（Kirschner, Sweller & Clark, 2006）
@@ -158,6 +158,7 @@ Clark（1982）によれば、指導の多い版と少ない版を選べると�
 | 種類 | ページ | 関係 |
 | 文献 | [[文献/先に問題に取り組み、あとで教える授業を比べる（SinhaとKapur2021）]] | 本論文の主張への初めての統合的な反証だと著者らが位置づけるメタ分析 |
 | 文献 | [[文献/図と文の対応を示す手がかりが、だれに効き、だれの邪魔になるかを確かめる（Richter2016）]] | 手がかりが前の知識の多い学習者でかえって妨げになる（熟達化の逆転）を、学校で確かめた研究 |
+| 文献 | [[文献/初学者に効く手立てが、知っている学習者には効かなくなる「熟達化の逆転」を確かめる（Kalyuga2018）]] | 熟達化の逆転を、例とともに教員向けに解説した記事 |
 - [[文献/十分な手引きのある教え方を主張する（ClarkKirschnerSweller2012）]] — 本論文の主張を教師向けにまとめ直した記事（2012年）
 - [[文献/発見学習の支援条件を見分ける（Alfieriほか2011）]] — 手助けのない発見は不利（d = −0.38）、支えのある発見は有利（d = 0.30）。手引きの種類で分かれる
 |---|---|---|

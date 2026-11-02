@@ -5,7 +5,7 @@ year: 2016
 tags: [文献, ゲーム, 動機づけ, メタ分析, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-02
 source: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital games, design, and learning: A systematic review and meta-analysis. Review of Educational Research, 86(1), 79–122."
 ---
 
@@ -65,6 +65,7 @@ Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital games,
 - [[文献/報酬の条件と内発的動機づけを見分ける（Deciほか1999）]] — 点数やご褒美の与え方で、自発的な取り組みが減ることがあるとするメタ分析
 - [[パタン/ゲーム]] — ゲームの設計と効き方
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — ゲームの効き方
+- [[文献/面白いが関係のない絵や話が学びを下げるのはなぜか、どうすれば防げるかを確かめる（Kienitzほか2023）]] — 関係のない面白い絵や話が学びを下げる実験。見た目の凝りすぎとつながる
 
 ## 展開したい問い
 

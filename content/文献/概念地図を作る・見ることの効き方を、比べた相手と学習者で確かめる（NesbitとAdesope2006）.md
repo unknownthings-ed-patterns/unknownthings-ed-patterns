@@ -5,7 +5,7 @@ year: 2006
 tags: [文献, 可視化, 図解, 概念地図, メタ分析, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-04
 source: "Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. Review of Educational Research, 76(3), 413–448."
 ---
 
@@ -60,6 +60,7 @@ Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps
 - [[パタン/図解]] — 教師が作った地図は、言葉の力の低い学習者にとくに効く
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 概念地図の効き方
 - [[文献/概念地図のメタ分析を研究を増やして確かめ直す（Schroederほか2018）]] — 研究を増やして確かめ直した後継のメタ分析。学年・期間・協同の結果は再現されなかった
+- [[文献/思考を見える形にする学級で1年過ごすと、子どもの「考えること」のとらえ方が変わるかを確かめる（Ritchhartほか2009）]] — 概念地図を、子どもが「考えること」をどうとらえているかを知る道具として使った研究
 
 ## 展開したい問い
 

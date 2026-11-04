@@ -6,7 +6,7 @@ year: 2017
 tags: [文献, 自己調整, メタ認知, 動機づけ, 学習方略]
 literature_status: integrated
 ingested: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-05
 source: "Panadero, E. (2017). A review of self-regulated learning: Six models and four directions for research. Frontiers in Psychology, 8, Article 422. https://doi.org/10.3389/fpsyg.2017.00422"
 ---
 
@@ -82,6 +82,7 @@ Panadero, E. (2017). A review of self-regulated learning: Six models and four di
 - [[パタン/目標設定]] — 目標を固定せず遂行中の証拠で見直す。
 - [[パタン/援助要求スキル]] — 支援資源の利用を自己調整の一部として捉える。
 - [[パタン/グループ学習]] — 作業の分担と学習過程の共有された調整を区別する。
+- [[文献/ルーブリックを使うと、成績・自己調整・自己効力感はどのくらい変わるかを、23の研究から確かめる（Panaderoほか2023）]] — 同じ第一著者による、ルーブリックが成績・自己調整・自己効力感に及ぼす効果のメタ分析
 
 ## この文献から生まれたパタン
 

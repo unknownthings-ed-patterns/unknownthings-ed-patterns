@@ -5,7 +5,7 @@ source: "Harackiewicz, J. M., Canning, E. A., Tibbetts, Y., Priniski, S. J., & H
 author: "Judith M. Harackiewicz, Elizabeth A. Canning, Yoi Tibbetts, Stacy J. Priniski, Janet S. Hyde"
 year: 2016
 ingested: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-04
 ---
 
 # 学ぶ内容の役立ちを自分で書く課題が、だれに効いたかを確かめる（Harackiewiczほか2016）
@@ -89,6 +89,7 @@ updated: 2026-11-01
 | 文献 | [[文献/A National Experiment Reveals Where a Growth Mindset Improves Achievement（Yeager et al., 2019）]] | 短い介入の効果が集団で分かれる例 |
 | 文献 | [[文献/能動的な学びが、少数派と低所得の学生との差を縮めるかを確かめる（Theobaldほか2020）]] | 同じく少数派の学生との差を縮めた授業の中の手立て |
 | 文献 | [[文献/入学前に「つまずきはよくあり、乗り越えられる」と伝える短い介入が、だれに効いたかを確かめる（Yeagerほか2016）]] | 不利な立場の学生に効果が集まった短い介入 |
+| パタン | [[パタン/オンボーディング]] | 研究の裏づけ：価値を先に見つける |
 
 ## 展開したい問い
 

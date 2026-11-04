@@ -5,7 +5,7 @@ year: 1979
 tags: [文献, オンボーディング, 学級経営, 手順, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-04
 source: "Emmer, E. T., Evertson, C. M., & Anderson, L. M. (1979). Effective classroom management at the beginning of the school year (ERIC ED178542). ／Evertson, C. M. (1988). Improving elementary classroom management: A school-based training program for beginning the year (ERIC ED302528)."
 ---
 
@@ -73,6 +73,7 @@ source: "Emmer, E. T., Evertson, C. M., & Anderson, L. M. (1979). Effective clas
 - [[パタン/手順]] — 手順を、伝えるだけでなく練習して教える
 - [[パタン/オンボーディング]] — 学級開き
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 学級開きの研究
+- [[文献/学級経営の方略とプログラムは、学力・行動・情緒・意欲をどのくらい変えるかを54の取り組みから確かめる（Korpershoekほか2016）]] — 学級経営の取り組みのメタ分析（2003〜2013年の54の取り組み）
 
 ## 展開したい問い
 

@@ -7,7 +7,7 @@ tags: [文献, 類推, アナロジー, 構造写像理論, 比較, 認知科学
 literature_status: integrated
 ingested: 2026-10-11
 source: "Gentner, D.（1983）Structure-mapping: A theoretical framework for analogy. Cognitive Science, 7(2), 155–170."
-updated: 2026-10-11
+updated: 2026-11-05
 ---
 
 # Structure-Mapping（Gentner, 1983）
@@ -155,8 +155,9 @@ Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cog
 ## 関連するWikiページ
 
 | 種類 | ページ | 関係 |
-| 文献 | [[文献/何と何を比べると学びが伸びるかを確かめる（RittleJohnsonとStar2009）]] | 構造の対応づけを土台に、何を比べるかを数学の教室で確かめた実験 |
 |---|---|---|
+| 文献 | [[文献/何と何を比べると学びが伸びるかを確かめる（RittleJohnsonとStar2009）]] | 構造の対応づけを土台に、何を比べるかを数学の教室で確かめた実験 |
+| 文献 | [[文献/二つの事例を一つずつ読むのではなく比べると、共通の原理がつかめて新しい場面で使えるかを、三つの実験で確かめる（Gentnerほか2003）]] | 同じ著者が、構造写像の考えを「二つの事例を比べる」学び方として実験で確かめたもの |
 | パタン | [[パタン/類推（アナロジー）]] | 構造写像理論を核心に置く |
 | パタン | [[パタン/つながった関係ほど写る（体系性で類推を選ぶ）]] | 出典 |
 | パタン | [[パタン/類推的学習①]] | ゲントナーの学習モード（2010）を経由して接続 |

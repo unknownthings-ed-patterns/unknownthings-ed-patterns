@@ -5,7 +5,7 @@ source: "Yeager, D. S., Walton, G. M., Brady, S. T., Akcinar, E. N., Paunesku, D
 author: "David S. Yeager, Gregory M. Walton, Shannon T. Brady, ほか10名, Carol S. Dweck"
 year: 2016
 ingested: 2026-11-01
-updated: 2026-11-04
+updated: 2026-11-05
 ---
 
 # 入学前に「つまずきはよくあり、乗り越えられる」と伝える短い介入が、だれに効いたかを確かめる（Yeagerほか2016）
@@ -102,6 +102,7 @@ updated: 2026-11-04
 | パタン | [[パタン/帰属志向性]] | つまずきを変えられるものと読む見方 |
 | パタン | [[パタン/成長マインドセット]] | 同じ教材が、場と示し方で効いたり効かなかったりした例 |
 | パタン | [[パタン/心理的安全性（コンフォートゾーン）]] | 所属の不安と、よくあるつまずき |
+| パタン | [[パタン/オンボーディング]] | 新しい段階の入り口で、つまずく前に見方を渡す |
 | パタン | [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] | 不利な立場の学生にだけ効いた短い介入 |
 | 文献 | [[文献/A National Experiment Reveals Where a Growth Mindset Improves Achievement（Yeager et al., 2019）]] | 成長マインドセットが効く場の条件 |
 | 文献 | [[文献/価値を書く短い作文の効果が、同じ学区の翌年に消えたことを確かめる（Hanselmanほか2017）]] | 短い介入が再現しなかった例 |

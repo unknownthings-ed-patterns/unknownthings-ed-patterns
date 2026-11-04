@@ -132,6 +132,7 @@ Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2
 - [[パタン/自己調整]] — 学習方法の選択
 - [[文献/Organizing Instruction and Study to Improve Student Learning（Pashler et al., 2007）]] — 著者が併読を勧める、同じ時期の米国教育科学研究所の実践の手引き（注1）
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 精緻化の質問・自己説明／交互練習
+- [[文献/学んだことを自分で作り変える八つの学び方は、だれに・どんな条件で効くかを整理する（FiorellaとMayer2016）]] — 同じ時期の学習方略の総説。要約と頭に思い描く方法の評価が違う（選んだ研究と測った結果の違い）
 
 ## 展開したい問い
 

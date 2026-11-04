@@ -5,7 +5,7 @@ year: 2008
 tags: [文献, 自己調整, メタ認知, 学習方略]
 literature_status: integrated
 ingested: 2026-10-16
-updated: 2026-10-16
+updated: 2026-11-04
 source: "Dignath, C., Buettner, G., & Langfeldt, H.-P. (2008). How can primary school students learn self-regulated learning strategies most effectively? A meta-analysis on self-regulation training programmes. Educational Research Review, 3, 101–129. https://doi.org/10.1016/j.edurev.2008.02.003"
 ---
 
@@ -47,6 +47,7 @@ Dignath, C., Buettner, G., & Langfeldt, H.-P. (2008). How can primary school stu
 - [[パタン/焦点を絞った目標設定]] — 計画した方法が使われた場面に観察を絞る。
 - [[パタン/省察的評価]] — 振り返りの言葉と学習の証拠を並べる。
 - [[パタン/グループ学習]] — 協同の方法も教える対象にする。
+- [[文献/学び方の方略を教えた効果は、教え終えたあとも残るかを48の取り組みから確かめる（deBoerほか2018）]] — 方略を教えた効果が、教え終えたあとも残るかのメタ分析
 
 ## 展開したい問い
 

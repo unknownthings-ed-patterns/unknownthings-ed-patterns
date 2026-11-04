@@ -5,7 +5,7 @@ year: 1988
 tags: [文献, 認知負荷, 授業設計, 教材研究]
 literature_status: integrated
 ingested: 2026-10-17
-updated: 2026-10-17
+updated: 2026-11-04
 source: "Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12, 257–285. https://doi.org/10.1207/s15516709cog1202_4"
 ---
 
@@ -49,6 +49,7 @@ Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. 
 - [[パタン/スモールステップ]] — 手順の細かさだけでなく、同時に扱う条件を点検する。
 - [[パタン/専門家のやり方と初学者の学び方を分ける（研究の方法は学びの方法ではない）]] — 問題を解くための活動と、構造を学ぶための活動を区別する。
 - [[文献/発見学習の支援条件を見分ける（Alfieriほか2011）]] — 発見の探索が作業記憶に負担をかけるという議論を、発見学習のメタ分析が引く
+- [[文献/例題の各段階に「何のための段階か」を書き添えると、つまずきやすい学生がやめずに続けられるかを確かめる（Margulieuxほか2020）]] — 例題の段階に目的の見出しを添えて、構造に目を向けやすくする
 
 ## 展開したい問い
 

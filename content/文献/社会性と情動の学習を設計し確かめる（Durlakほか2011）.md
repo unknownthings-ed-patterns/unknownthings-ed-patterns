@@ -5,7 +5,7 @@ year: 2011
 tags: [文献, 自己調整, 授業設計, 学級経営]
 literature_status: integrated
 ingested: 2026-10-15
-updated: 2026-10-15
+updated: 2026-11-04
 source: "Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students’ social and emotional learning: A meta-analysis of school-based universal interventions. Child Development, 82(1), 405–432. https://doi.org/10.1111/j.1467-8624.2010.01564.x"
 ---
 
@@ -50,6 +50,8 @@ Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, 
 - [[パタン/聴き合う文化]] — 練習で示した技能と日常の聴き方の変化を分けて見る。
 - [[パタン/コミュニティをつくる]] — 技能育成と、技能を使える環境・実施条件を結ぶ。
 - [[文献/点を上げる教師と、欠席・停学・成績・進級をよくする教師は同じかを確かめる（Jackson2018）]] — ふだんの授業の教師ごとに、点以外の行動への効果が違った研究
+- [[パタン/文化の人格]] — 感情の理性化と個人の社会化を、教え練習する対象として扱う
+- [[文献/学校で全員に行う社会性と情動の学習は、何をどのくらい伸ばすかを424の研究から確かめる（Ciprianoほか2023）]] — 2008〜2020年の研究をまとめた続きのメタ分析
 
 ## 展開したい問い
 

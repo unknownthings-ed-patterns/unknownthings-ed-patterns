@@ -5,7 +5,7 @@ year: 2018
 tags: [文献, 熟達化の逆転, 認知負荷, 段階的手放し, 個別化, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-06
 source: "Kalyuga, S. (2018). Expertise reversal effect and its instructional implications. Impact (Chartered College of Teaching). Edited version of Lee, C. H., & Kalyuga, S. (2014). In V. A. Benassi, C. E. Overson, & C. M. Hakala (Eds.), Applying science of learning in education (pp. 31–44). Society for the Teaching of Psychology."
 ---
 
@@ -65,6 +65,7 @@ Lee, C. H., & Kalyuga, S. (2014). Expertise reversal effect and its instructiona
 - [[パタン/段階的手放し]] — 熟達化の逆転
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 熟達化の逆転
 - [[パタン/個別化]] — 熟達化の逆転
+- [[文献/頭の中で一度に扱える量の限界から教え方を組み立てる認知負荷理論の20年を、理論をつくった3人が整理する（Swellerほか2019）]] — 熟達化の逆転を、認知負荷理論の20年の中に位置づけた見直し
 
 ## 展開したい問い
 

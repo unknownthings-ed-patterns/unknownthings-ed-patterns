@@ -5,7 +5,7 @@ year: 2010
 tags: [文献, 足場かけ, 授業設計, 形成的評価]
 literature_status: integrated
 ingested: 2026-10-18
-updated: 2026-10-18
+updated: 2026-11-06
 source: "van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–student interaction: A decade of research. *Educational Psychology Review, 22*, 271–296. https://doi.org/10.1007/s10648-010-9127-6"
 ---
 
@@ -55,6 +55,7 @@ van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–st
 - [[パタン/作業例の提示]] — モデリングの目的を明確にし、応答を見て例の支え方を変える。
 - [[パタン/形成的評価]] — 見取り・支援調整・その後の応答を一つの相互作用として記録する。
 - [[パタン/熟慮的インストラクション]] — 調整・漸減・責任の移行
+- [[文献/頭の中で一度に扱える量の限界から教え方を組み立てる認知負荷理論の20年を、理論をつくった3人が整理する（Swellerほか2019）]] — 手引きをだんだん減らす（解き方の例 → 完成問題 → ふつうの問題）
 
 ## 展開したい問い
 

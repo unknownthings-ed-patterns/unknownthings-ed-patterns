@@ -4,7 +4,7 @@ author: "Richard E. Clark, Paul A. Kirschner, John Sweller"
 year: 2012
 tags: [文献, 直接指導, 発見学習, 作業例, 認知負荷, 論争]
 ingested: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-06
 source: "Clark, R. E., Kirschner, P. A., & Sweller, J. (2012). Putting students on the path to learning: The case for fully guided instruction. American Educator, 36(1), 6–11."
 ---
 
@@ -92,6 +92,7 @@ source: "Clark, R. E., Kirschner, P. A., & Sweller, J. (2012). Putting students 
 | パタン | [[パタン/熟慮的問い]] | 説明を先にする立場 |
 | パタン | [[パタン/オンボーディング]] | 初学者への作業例と熟達化反転 |
 | パタン | [[パタン/熟慮的インストラクション]] | 説明を先にする立場と熟達化反転 |
+| 文献 | [[文献/頭の中で一度に扱える量の限界から教え方を組み立てる認知負荷理論の20年を、理論をつくった3人が整理する（Swellerほか2019）]] | 十分な手引きを求める主張の土台になる、認知負荷理論の20年の見直し |
 
 ## 展開したい問い
 

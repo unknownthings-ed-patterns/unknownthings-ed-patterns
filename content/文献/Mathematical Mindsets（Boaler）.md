@@ -7,7 +7,7 @@ tags: [文献, 算数, 数学的マインドセット, 成長マインドセッ�
 literature_status: integrated
 ingested: 2026-05-08
 reintegrated: 2026-05-17
-updated: 2026-05-31
+updated: 2026-11-05
 ---
 
 # Mathematical Mindsets（Boaler, 2016）
@@ -176,6 +176,7 @@ updated: 2026-05-31
 - [[教科/算数]] — 数感覚・ナンバートーク・振り返り宿題の実装
 - [[文献/Developing Effective Fractions Instruction（Siegler et al., 2010）]] — 分数の指導の実践ガイド。視覚的な表し方を勧める点で重なり、勧めごとに根拠の強さを付けている
 - [[文献/A National Experiment Reveals Where a Growth Mindset Improves Achievement（Yeager et al., 2019）]] — 成長マインドセットの介入の効果を全米規模で確かめた実験（効果は控えめで、効く相手と場所がある）
+- [[文献/能力で分けない数学の学級で、学科全体が一つの教え方を続けると、生徒の学びと格差はどう変わるかを、三つの高校を追って確かめる（BoalerとStaples2008）]] — 第7章のもとになった論文（原典）
 
 ---
 

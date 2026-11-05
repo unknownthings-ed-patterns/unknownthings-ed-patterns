@@ -5,7 +5,7 @@ year: 2019
 tags: [文献, 具体から抽象へ, 半具体物, 実物を見せる, 具体性の漸減, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-05
 source: "Fyfe, E. R., & Nathan, M. J. (2019). Making “concreteness fading” more concrete as a theory of instruction for promoting transfer. Educational Review, 71(4), 403–422."
 ---
 
@@ -67,6 +67,7 @@ Fyfe, E. R., & Nathan, M. J. (2019). Making “concreteness fading” more concr
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 具体性の漸減
 - [[文献/初学者に効く手立てが、知っている学習者には効かなくなる「熟達化の逆転」を確かめる（Kalyuga2018）]] — 知識が増えると支えが邪魔になる熟達化の逆転の解説
 - [[文献/本物そっくりのお金を使うと、算数の文章題の成績はどう変わるかを確かめる（McNeilほか2009）]] — 本物らしい具体物は意味を助けるが手続きを妨げるという4〜6年生の実験
+- [[文献/算数の具体物は、どう使えば効くのかを、認知科学の四つの原則とモンテッソーリ教育の教具から考える（Laskiほか2015）]] — 具体から抽象へ薄めることを、具体物の四つの原則の一つとして扱う
 
 ## 展開したい問い
 

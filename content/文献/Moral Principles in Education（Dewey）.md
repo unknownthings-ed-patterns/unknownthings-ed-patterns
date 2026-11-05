@@ -12,6 +12,8 @@ ingested: 2026-05-31
 Dewey, J. (1909). *Moral Principles in Education*. Houghton Mifflin.  
 著者：John Dewey（1859–1952）。本書は1897年刊の *Ethical Principles Underlying Education* を改訂した小著。*Democracy and Education*（1916）・*Experience and Education*（1938）の原型的な論点を1909年時点で提示している。
 
+> **原文との照合（2026-11-05）**：このページの英文の引用を、原典（Project Gutenberg #25172 の全文）に照らしたところ、第3章の一つ（上の照合で差し替え済み）を含め、**8つの引用のどれも、原典の中に同じ文が見つからなかった**。要約の内容が原典の趣旨とどこまで合っているかも、まだ確かめていない。このページの引用と要約は、原典で確かめ直すまで、そのまま引き写さないこと。
+
 ---
 
 ## 要約（5テーマ）
@@ -46,7 +48,9 @@ Deweyの最も根本的な命題：「学校は社会生活への準備でなく
 
 「与えること・外に出すこと（giving out）は受け取ること・吸収すること（taking in）より重要」という原則。受動的な吸収は独立した判断力と主体性を阻む。「作ることで学ぶ」の1909年時点での定式化。
 
-> "The child who has a variety of materials and facts wants to do something with them, and if he is permitted and encouraged to make things, the very act of production introduces real motive and purpose."（Ch.3）
+> "The emphasis then falls upon construction and giving out, rather than upon absorption and mere learning."（Ch.III）
+
+> **原文との照合（2026-11-05）**：以前ここにあった英文の引用（"The child who has a variety of materials and facts wants to do something with them, ..."）は、原典（Project Gutenberg #25172）の全文に見当たらなかったので、原典にある文に差し替えた。
 
 また**競争の弊害**を明確に論じた：外部報酬のための競争は嫉妬・ライバル意識・分断を生む。「恐怖と競争心（fear and emulation）」は道徳的観点から最も有害な動機。「遠い将来への動機（大人になって役立つ）」は子どもに届かない。
 

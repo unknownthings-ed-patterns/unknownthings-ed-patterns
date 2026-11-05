@@ -4,7 +4,7 @@ author: "Scott Freeman, Sarah L. Eddy, Miles McDonough, Michelle K. Smith, Nnado
 year: 2014
 tags: [文献, 能動的学習, 講義, メタ分析, 大学, 理系]
 ingested: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-06
 source: "Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. Proceedings of the National Academy of Sciences, 111(23), 8410–8415. https://doi.org/10.1073/pnas.1319030111"
 ---
 
@@ -89,6 +89,7 @@ source: "Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., J
 | パタン | [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] | 研究の中の堪能者を読む（だれに・どんな条件で効いたかの収集表） |
 | 文献 | [[文献/能動的な学びが、少数派と低所得の学生との差を縮めるかを確かめる（Theobaldほか2020）]] | 同じ能動的な学びが、少数派と低所得の学生との差を縮めるか（後継のメタ分析） |
 | 文献 | [[文献/概念地図のメタ分析を研究を増やして確かめ直す（Schroederほか2018）]] | 概念地図を作る効果が講義と比べて大きいことを、能動的な学びの効果と結びつけたメタ分析 |
+| 文献 | [[文献/能動的な授業では、学生は多く学んでいるのに、学んだ実感は小さくなるかを、同じ教材で無作為に分けて確かめる（Deslauriersほか2019）]] | 教材を同じにして能動だけを切り替えると、学びは増えるが、学んだ実感は下がった |
 
 ## 展開したい問い
 

@@ -5,7 +5,7 @@ year: 2017
 tags: [文献, 変化の理論, 比較, 例の選び方, 算数, 数学, 授業研究, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-06
 source: "Kullberg, A., Runesson Kempe, U., & Marton, F. (2017). What is made possible to learn when using the variation theory of learning in teaching mathematics? ZDM Mathematics Education, 49(4), 559–569."
 ---
 
@@ -69,6 +69,7 @@ Kullberg, A., Runesson Kempe, U., & Marton, F. (2017). What is made possible to 
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 変化の理論による例の設計
 - [[パタン/同等点と差異点の均衡設計（学習の駆動エンジン）]] — 研究の裏づけ：変化の理論
 - [[パタン/変化オペレータの系列設計（喜びのグレードアップ）]] — 研究の裏づけ：変化の理論
+- [[文献/学び方の方略は、学びのどの段階で使うかで効き方が変わるかを、228のメタ分析から整理する（HattieとDonoghue2016）]] — Marton の変化の理論を、転移の方略（似たところと違うところ）として引く
 
 ## 展開したい問い
 

@@ -7,7 +7,7 @@ tags: [文献, フィードバック, 形成的評価, 評価, メタ分析, 自
 literature_status: integrated
 ingested: 2026-10-11
 source: "Hattie, J., & Timperley, H.（2007）The power of feedback. Review of Educational Research, 77(1), 81–112."
-updated: 2026-11-01
+updated: 2026-11-06
 ---
 
 # The Power of Feedback（Hattie & Timperley, 2007）
@@ -201,6 +201,7 @@ Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited
 
 | 種類 | ページ | 関係 |
 | パタン | [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] | 情報の量でフィードバックの効き方が分かれる（2020年の検証） |
+| 文献 | [[文献/学び方の方略は、学びのどの段階で使うかで効き方が変わるかを、228のメタ分析から整理する（HattieとDonoghue2016）]] | 同じメタ統合の方法で、学び方の方略を学びの段階ごとに整理した |
 - [[文献/学びを前に進める教師のフィードバックを整える（英国EEF2021）]] — 四つのレベルを「課題・教科・自己調整」と「人柄」に言い換えて使う英国の指針。
 - [[文献/教育の介入の効果量を読む物差しを作り直す（Kraft2020）]] — Hattie の総説が古い研究の大きな値を取り込み、過大な期待を広めていると批判する。効果量を読む新しい目安。
 |---|---|---|

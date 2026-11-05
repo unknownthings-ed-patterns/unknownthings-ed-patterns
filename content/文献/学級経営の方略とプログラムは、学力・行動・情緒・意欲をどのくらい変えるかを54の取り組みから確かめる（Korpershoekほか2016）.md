@@ -5,7 +5,7 @@ year: 2016
 tags: [文献, 学級経営, 学級の規範, 社会性と情動の学習, 小学校, メタ分析, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-06
 source: "Korpershoek, H., Harms, T., de Boer, H., van Kuijk, M., & Doolaard, S. (2016). A meta-analysis of the effects of classroom management strategies and classroom management programs on students' academic, behavioral, emotional, and motivational outcomes. Review of Educational Research, 86(3), 643–680."
 ---
 
@@ -106,6 +106,7 @@ Korpershoek, H., Harms, T., de Boer, H., van Kuijk, M., & Doolaard, S. (2016). A
 - [[文献/学校で全員に行う社会性と情動の学習は、何をどのくらい伸ばすかを424の研究から確かめる（Ciprianoほか2023）]] — 社会性と情動の学習の新しいメタ分析
 - [[文献/社会性と情動の学習を設計し確かめる（Durlakほか2011）]] — 考察で比べている前のメタ分析
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 学級経営の方略とプログラム
+- [[文献/罰ではなく、生徒の気持ちを理解し関係を保つ生徒指導の考え方を教師に伝えると、停学は減るかを確かめる（Okonofuaほか2016）]] — 教師の考え方だけに働きかける、短い学級経営の取り組み
 
 ## 展開したい問い
 

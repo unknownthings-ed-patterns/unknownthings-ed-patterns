@@ -5,7 +5,7 @@ year: 2017
 tags: [文献, 関係性, 動機づけ, 学習改善]
 literature_status: integrated
 ingested: 2026-10-17
-updated: 2026-11-04
+updated: 2026-11-06
 source: "Roorda, D. L., Jak, S., Zee, M., Oort, F. J., & Koomen, H. M. Y. (2017). Affective teacher–student relationships and students’ engagement and achievement: A meta-analytic update and test of the mediating role of engagement. School Psychology Review, 46(3), 239–261. https://doi.org/10.17105/SPR-2017-0035.V46-3"
 ---
 
@@ -48,6 +48,7 @@ Roorda, D. L., Jak, S., Zee, M., Oort, F. J., & Koomen, H. M. Y. (2017). Affecti
 - [[パタン/能動的関与]] — 参加の様子と学業の成果を別々に確かめる。
 - [[パタン/相関と因果の区別（教育評価の落とし穴）]] — 媒介経路が見つかっても、介入の因果効果と断定しない。
 - [[文献/学校への所属感が、意欲・自己像・行動・学力とどのくらい結びつくかを82の研究から確かめる（Korpershoekほか2020）]] — 学校への所属感と、関与・学力の相関のメタ分析
+- [[文献/罰ではなく、生徒の気持ちを理解し関係を保つ生徒指導の考え方を教師に伝えると、停学は減るかを確かめる（Okonofuaほか2016）]] — 教師の考え方への働きかけで、関係と規律が変わった無作為の比較
 
 ## 展開したい問い
 

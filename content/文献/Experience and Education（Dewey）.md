@@ -5,12 +5,15 @@ author: John Dewey
 year: 1938
 tags: [文献, デューイ, 経験, 連続性, 相互作用, 非教育的経験, 副次的学習, 目的形成, 社会的統制, 自由]
 ingested: 2026-05-22
+updated: 2026-11-06
 ---
 
 # Experience and Education（Dewey, 1938）
 
 Dewey, J. (1938). *Experience and Education*. Kappa Delta Pi.  
-著者：John Dewey（1859–1952）。本書は *Democracy and Education*（1916）の22年後に書かれた小著（約90頁）。進歩主義教育運動への哲学的な整理と修正として書かれた。「新しい教育か旧来の教育か、ではなく、教育そのものとは何かを問え」というメッセージが核心。
+著者：John Dewey（1859–1952）。本書は *Democracy and Education*（1916）の22年後に書かれた、8章の小著。進歩主義教育運動への哲学的な整理と修正として書かれた。「新しい教育か旧来の教育か、ではなく、教育そのものとは何かを問え」というメッセージが核心。
+
+> **原文との照合（2026-11-06）**：イリノイ大学図書館が Internet Archive で公開しているスキャン（Collier Books 版、1963年刷）の全文で、このページの英文引用16個と章の番号を確かめた。章の番号はすべて合っていた。言い回しのずれ5つを原文どおりに直し、2つの文をつないで作られていた1つ（"Not all experiences are genuinely educative. ..."）を、原文の文に差し替えた。
 
 ---
 
@@ -55,6 +58,8 @@ Dewey, J. (1938). *Experience and Education*. Kappa Delta Pi.
 
 > "An experience is always what it is because of a transaction taking place between an individual and what, at the time, constitutes his environment."（Ch.3）
 
+（次の表は本Wikiの整理）
+
 | 軸 | 伝統的教育の偏り | 進歩主義教育の偏り |
 |---|---|---|
 | 相互作用 | 客観的条件（教科書・規律）を絶対視。内的条件を無視 | 内的条件（子どもの衝動・欲求）に従属。客観的条件を軽視 |
@@ -89,7 +94,7 @@ Dewey, J. (1938). *Experience and Education*. Kappa Delta Pi.
 
 伝統的学校教育の最大の損害は内容の誤りではなく、この「学び続けたい」という態度を破壊することにある：
 
-> "If impetus to go on learning is weakened instead of being intensified, something much more than mere lack of preparation takes place. The pupil is actually robbed of native capacities which otherwise would enable him to cope with the circumstances that he meets in the course of his life."（Ch.3）
+> "The most important attitude that can be formed is that of desire to go on learning. If impetus in this direction is weakened instead of being intensified, something much more than mere lack of preparation takes place. The pupil is actually robbed of native capacities which otherwise would enable him to cope with the circumstances that he meets in the course of his life."（Ch.3）
 
 ---
 
@@ -127,7 +132,7 @@ Dewey, J. (1938). *Experience and Education*. Kappa Delta Pi.
 
 真の自由は物理的移動の自由（外的・身体的自由）ではなく、知性の自由・自己制御の力：
 
-> "The only freedom that is of enduring importance is freedom of intelligence, that is, freedom of observation and of judgment exercised in behalf of purposes that are intrinsically worth while."（Ch.5）
+> "The only freedom that is of enduring importance is freedom of intelligence, that is to say, freedom of observation and of judgment exercised in behalf of purposes that are intrinsically worth while."（Ch.5）
 
 制限からの自由（Freedom from）は、目的を立て・判断し・選んだ目標を実行する力（Freedom to）への手段にすぎない。外的統制から解放されても、衝動の奴隷になれば実質的な自由はない。
 
@@ -135,15 +140,15 @@ Dewey, J. (1938). *Experience and Education*. Kappa Delta Pi.
 
 ## 重要引用
 
-> "Not all experiences are genuinely educative. Experience and education cannot be directly equated."（Ch.2）
+> "Experience and education cannot be directly equated to each other. For some experiences are mis-educative."（Ch.2）
 
 > "The central problem of an education based upon experience is to select the kind of present experiences that live fruitfully and creatively in subsequent experiences."（Ch.2）
 
 > "There is no discipline in the world so severe as the discipline of experience subjected to the tests of intelligent development and direction."（Ch.8）
 
-> "The teacher loses the position of external boss or dictator but takes on that of leader of group activities."（Ch.4）
+> "The teacher loses the position of external boss or dictator but takes on that of leader of group activity."（Ch.4）
 
-> "Natural impulses and desires constitute in any case the starting point. But there is no intellectual growth without some reconstruction, some remaking, of impulses and desires."（Ch.5）
+> "Natural impulses and desires constitute in any case the starting point. But there is no intellectual growth without some reconstruction, some remaking, of impulses and desires in the form in which they first show themselves."（Ch.5）
 
 > "What avail is it to win prescribed amounts of information about geography and history, to win ability to read and write, if in the process the individual loses his own soul: loses his appreciation of things worth while, of the values to which these things are relative; if he loses desire to apply what he has learned and, above all, loses the ability to extract meaning from his future experiences as they occur?"（Ch.3）
 
@@ -173,3 +178,8 @@ Dewey, J. (1938). *Experience and Education*. Kappa Delta Pi.
 - 「経験の連続性」から見て、日本の学校年度の区切り（クラス替え・担任交代）は何を失っているか
 - 目的の形成（衝動→欲望→目的）のプロセスを、授業設計の中で意識的にどう設けるか
 - 社会的統制（ゲームのルールモデル）は、算数・国語の授業にどう実装できるか
+
+## 出典
+
+Dewey, J. (1938). *Experience and Education*. Kappa Delta Pi.
+照合に使った版：Collier Books, 1963年刷（イリノイ大学図書館のスキャン：https://archive.org/details/experienceeducat00dewe_0 ）。

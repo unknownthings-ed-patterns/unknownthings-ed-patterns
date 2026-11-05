@@ -6,21 +6,23 @@ year: 1910
 tags: [文献, デューイ, 反省的思考, 探究, 好奇心, 帰納, 演繹, 教育哲学]
 literature_status: integrated
 ingested: 2026-05-31
-updated: 2026-05-31
+updated: 2026-11-06
 ---
 
 # How We Think（Dewey, 1910）
 
 Dewey, J. (1910). *How We Think*. D. C. Heath & Co.  
-著者：John Dewey（1859–1952）。シカゴ大学・コロンビア大学教授。プラグマティズム哲学、経験主義教育学の創始者。本書は *Democracy and Education*（1916）に先立ち書かれた、反省的思考の5段階の**一次資料**。
+著者：John Dewey（1859–1952）。シカゴ大学・コロンビア大学教授。プラグマティズム哲学、経験主義教育学の創始者。本書は *Democracy and Education*（1916）より6年早く、反省的思考を5つの段階に分けて示した本。
+
+> **原文との照合（2026-11-06）**：Project Gutenberg の全文（#37423）で、このページの英文引用・章の番号・段階の名前を確かめた。直したのは次のとおり。(1) 反省的思考の定義の引用の後半が原文とちがっていた（原文は "the further conclusions to which it tends"）。(2) 「正しい答えではなく思考の質が教育的成長の尺度」という一文は本書になく、*Democracy and Education*（1916）第13章の文だった（以前は本書第6章としていた）。(3) 5段階の名前（intellectualization・hypothesis・elaboration・testing）は本書の言葉ではなかったので、第6章の原文の言い方に直した。(4) 遊びと仕事の節は第10章ではなく第12章にある。
 
 ---
 
 ## 3行要約
 
 - 子どもの好奇心・想像力・実験的探究は科学的精神の直接の前身であり、教育の出発点はこの三位一体を壊さないことにある
-- 反省的思考とは「信念またはその根拠を注意深く・持続的・能動的に考察すること」——困惑から始まり検証で終わる5段階のプロセスとして定式化される（*Democracy and Education* 1916年版の原典）
-- 「思考の質こそが教育的成長の尺度——正しい答えの産出ではない」という命題が1910年時点で既に確立されていた
+- 反省的思考とは「信念や、知識とされるものを、それを支える根拠と、そこから導かれる結論に照らして、能動的に・粘り強く・注意深く考えること」である（第1章）。第6章で、困難を感じることから始まり、さらに観察と実験をして確かめることで終わる、5つの段階に分けられる
+- 第3部では、活動・ことば・観察と情報・授業の問答（recitation）が、考える力をどう育てるかを論じる。なお「正しい答えではなく思考の質が教育的成長の尺度」という有名な一文は、本書ではなく *Democracy and Education*（1916）第13章にある
 
 ---
 
@@ -42,11 +44,11 @@ Dewey, J. (1910). *How We Think*. D. C. Heath & Co.
 
 | パタン | 関係 | メモ |
 |---|---|---|
-| [[パタン/反省的思考の5段階]] | 出典（一次資料） | 本書Ch.6が5段階の原典。1916年版の前身 |
+| [[パタン/反省的思考の5段階]] | 出典（一次資料） | 本書Ch.6が5段階の原典。1916年の *Democracy and Education* は Ch.11 の終わりで言い換えて示す |
 | [[パタン/タウマゼイン（驚きから始まる探究）]] | 補強 | felt difficultyはタウマゼインの教育学的翻訳 |
 | [[パタン/帰納的推論と演繹的推論]] | 補強 | Ch.7の双方向運動・泥棒の例・Darwin習慣 |
 | [[パタン/既知から未知へ]] | 補強 | apperception principle（Ch.14）の明示化 |
-| [[パタン/作ることで学ぶ]] | 補強 | Play→Work attitude の発達的連続性（Ch.10） |
+| [[パタン/作ることで学ぶ]] | 補強 | Play→Work attitude の発達的連続性（Ch.12） |
 | [[パタン/好奇心から多方興味へ]] | 補強 | 好奇心三位一体がPreface全体の主張 |
 | [[パタン/自分の頭で考える（Selbstdenken）]] | 補強 | Ch.14「考えることは定義上自分で考えること」 |
 
@@ -56,9 +58,9 @@ Dewey, J. (1910). *How We Think*. D. C. Heath & Co.
 
 *How We Think*（1910）は Dewey の教育哲学の中で**最も実践的な「思考の設計書」**として位置づけられる。序文でDeweyは「子どもの未教化の態度——熱烈な好奇心・豊かな想像力・実験的探究への愛——は、科学的精神の態度と非常に近い」と宣言し、この接続を断ち切ってはならないという確信が全書を貫く。
 
-本書の最大の貢献は**反省的思考の5段階の定式化**（Ch.6）であり、後に *Democracy and Education*（1916）Ch.12で再提示される5段階の**一次資料**である。
+本書の最大の貢献は**反省的思考の5段階の定式化**（Ch.6）である。*Democracy and Education*（1916）は、Ch.11 の終わりで同じ考えを別の言葉で5つの特徴として示し、Ch.12 で教え方の要点に移している（二つの本で、2番目と3番目の順がちがう）。
 
-教授法への直接的示唆も豊富で、暗唱（recitation）の再定義（Ch.15）、観察と情報提供の原則（Ch.14）、遊び→仕事という発達の連続性（Ch.10）は、現代の授業設計に直接接続できる知見である。
+教授法への直接的示唆も豊富で、暗唱（recitation）の再定義（Ch.15）、観察と情報提供の原則（Ch.14）、遊び→仕事という発達の連続性（Ch.12）は、現代の授業設計に直接接続できる知見である。
 
 ---
 
@@ -66,21 +68,23 @@ Dewey, J. (1910). *How We Think*. D. C. Heath & Co.
 
 | 概念 | 内容 | Wikiでの接続 |
 |---|---|---|
-| 反省的思考の5段階 | ①felt difficulty → ②intellectualization → ③hypothesis → ④elaboration → ⑤testing | [[パタン/反省的思考の5段階]] |
+| 反省的思考の5段階 | ①a felt difficulty（困難を感じる）→ ②its location and definition（困難の場所を突きとめ、定める）→ ③suggestion of possible solution（解決の示唆）→ ④development by reasoning of the bearings of the suggestion（示唆の意味を推論で展開する）→ ⑤further observation and experiment leading to its acceptance or rejection（さらに観察・実験して、受け入れるか退ける）（Ch.6） | [[パタン/反省的思考の5段階]] |
 | felt difficulty（困惑） | 思考の起点としての「困難を感じること」——タウマゼインの教育学的翻訳 | [[パタン/タウマゼイン（驚きから始まる探究）]] |
 | 好奇心三位一体 | curiosity（好奇心）・imagination（想像力）・love of experimental inquiry（実験的探究）は科学的精神の前身 | [[パタン/好奇心から多方興味へ]] |
 | Play → Work attitude | 遊び態度から仕事態度への発達的連続性——幼稚園と小学校の断絶への批判 | [[パタン/作ることで学ぶ]] |
 | apperception principle | 新しい情報は先有経験に接続されなければ「学校知識と学校外経験の断絶」を生む | [[パタン/既知から未知へ]] |
 | 帰納・演繹の双方向運動 | Induction（particulars→general）+ Deduction（general→particulars）の往復——泥棒の例 | [[パタン/帰納的推論と演繹的推論]] |
-| "A question well put is half answered" | 問いをうまく設定することが答えの半分——質問の質が思考の質を決める | [[パタン/熟慮的問い]] |
+| "A question well put is half answered"（Ch.7） | 問いをうまく設定することが答えの半分——困難がはっきりとらえられると、困難そのものが解決を示しやすい | [[パタン/熟慮的問い]] |
 
 ---
 
 ## 重要な引用
 
-> "Active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further consequences to which it leads."（Ch.1 — 反省的思考の定義）
+> "Active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends, constitutes reflective thought."（Ch.1 — 反省的思考の定義）
 
-> "Were all instructors to realize that the quality of mental process, not the production of correct answers, is the measure of educative growth something hardly less than a revolution in teaching would be worked."（Ch.6）
+> "Upon examination, each instance reveals, more or less clearly, five logically distinct steps: (i) a felt difficulty; (ii) its location and definition; (iii) suggestion of possible solution; (iv) development by reasoning of the bearings of the suggestion; (v) further observation and experiment leading to its acceptance or rejection; that is, the conclusion of belief or disbelief."（Ch.6 — 5つの段階）
+
+> "A question well put is half answered; i.e. a difficulty clearly apprehended is likely to suggest its own solution."（Ch.7）
 
 > "Literally, the phrase 'Think for yourself' is tautological; any thinking is thinking for one's self."（Ch.14）
 
@@ -102,7 +106,7 @@ Dewey, J. (1910). *How We Think*. D. C. Heath & Co.
 
 | 種類 | ページ | 関係 |
 |---|---|---|
-| パタン | [[パタン/反省的思考の5段階]] | 一次資料（1910年版） |
+| パタン | [[パタン/反省的思考の5段階]] | 5段階の一次資料（Ch.6） |
 | パタン | [[パタン/タウマゼイン（驚きから始まる探究）]] | felt difficulty との対応 |
 | パタン | [[パタン/帰納的推論と演繹的推論]] | Ch.7 の具体的実例提供 |
 | パタン | [[パタン/既知から未知へ]] | apperception principle の補強 |
@@ -111,9 +115,9 @@ Dewey, J. (1910). *How We Think*. D. C. Heath & Co.
 | パタン | [[パタン/自分の頭で考える（Selbstdenken）]] | 思索の自律性の哲学的補強 |
 | パタン | [[パタン/熟慮的問い]] | "A question well put is half answered" |
 | パタン | [[パタン/認知的コンフリクト]] | felt difficulty の設計論的実装 |
-| 文献 | [[文献/Democracy and Education（Dewey）]] | 1916年版（本書の後継） |
-| 文献 | [[文献/Moral Principles in Education（Dewey）]] | 1909年版（本書の前身） |
-| 文献 | [[文献/Experience and Education（Dewey）]] | 1938年版（思想の発展） |
+| 文献 | [[文献/Democracy and Education（Dewey）]] | 1916年の主著。5段階を Ch.11 で言い換える。「思考の質」の一文は Ch.13 |
+| 文献 | [[文献/Moral Principles in Education（Dewey）]] | 1909年の道徳教育の小著 |
+| 文献 | [[文献/Experience and Education（Dewey）]] | 1938年の小著 |
 
 ---
 
@@ -128,5 +132,4 @@ Dewey, J. (1910). *How We Think*. D. C. Heath & Co.
 ## 出典
 
 Dewey, J. (1910). *How We Think*. D. C. Heath & Co.
-
-> "Were all instructors to realize that the quality of mental process, not the production of correct answers, is the measure of educative growth something hardly less than a revolution in teaching would be worked."——Dewey, 1910, Ch.6
+（パブリックドメイン。Project Gutenberg #37423 で全文公開：https://www.gutenberg.org/ebooks/37423 ）

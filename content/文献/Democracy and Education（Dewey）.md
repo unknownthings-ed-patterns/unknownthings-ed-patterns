@@ -5,12 +5,15 @@ author: John Dewey
 year: 1916
 tags: [文献, デューイ, 経験, 成長, 反省的思考, 民主主義, 教育哲学, 関心, 遊びと仕事]
 ingested: 2026-05-21
+updated: 2026-11-06
 ---
 
 # Democracy and Education（Dewey, 1916）
 
 Dewey, J. (1916). *Democracy and Education: An introduction to the philosophy of education*. Macmillan.  
 著者：John Dewey（1859–1952）。シカゴ大学・コロンビア大学教授。プラグマティズム哲学、経験主義教育学の創始者。本書は教育哲学の最も重要な古典のひとつ。
+
+> **原文との照合（2026-11-06）**：Project Gutenberg の全文（#852）で、このページの英文引用16個と章の番号を確かめた。15個は原文どおり。関心の定義の引用（Ch.10）は、原文が "Interest, concern, mean that ..." だったので直した。また、原文にない語「divided mind」「縮小された民主的コミュニティ」を、原文の言い方（Ch.13 の divided attention、Ch.26 の a miniature social group）に直した。
 
 ---
 
@@ -41,7 +44,7 @@ Deweyは3つの主要な教育観を批判する：
 | Ch.8 | Aims in Education | 目的は内側から育つ見通し。外から押し付けられた目的は知性を制限する |
 | Ch.10 | Interest and Discipline | 関心と規律は目的をもつ活動の両面。外発的な刺激との本質的な違い |
 | **Ch.11** | **Experience and Thinking** | **経験＝やること（trying）＋被ること（undergoing）の結合。これが思考の条件** |
-| **Ch.12** | **Thinking in Education** | **反省的思考の5段階：困惑→問題化→仮説→推論→検証** |
+| **Ch.12** | **Thinking in Education** | **方法の要点は、反省の要点と同じ**（反省的経験の5つの特徴そのものは Ch.11 の終わり：当惑→仮の予想→注意深い吟味→仮説の練り上げ→行動による検証） |
 | Ch.13 | The Nature of Method | 「思考の質、正しい答えでなく、が教育的成長の尺度」 |
 | **Ch.14** | **The Nature of Subject Matter** | **教師と学習者の教科内容は根本的に異なる。学習者には知識の3段階がある** |
 | **Ch.15** | **Play and Work in the Curriculum** | **遊びと仕事は対立しない。遊びの態度を保った仕事＝芸術（art）** |
@@ -91,13 +94,13 @@ Deweyは「関心（interest）」を3つの意味で分析する：
 2. **物事が個人に触れる点**：自分と素材が交わっている場所
 3. **没頭・吸収される状態**：自分と活動が同一化している状態
 
-> "Interest signifies that self and world are engaged with each other in a developing situation."（Ch.10）
+> "Interest, concern, mean that self and world are engaged with each other in a developing situation."（Ch.10）
 
 **真の関心 vs. 偽の関心**：
 - 真の関心：素材と学習者の現在の力・目的に自然な連結がある
 - 偽の関心：外から面白さを付加したもの（糖衣付き）、外発的報酬・罰
 
-偽の関心は「分割された心（divided mind）」を育てる——建前で関与しながら内側は離脱している状態。
+外から課された課題に取り組むとき、注意は名目の課題と、本当に望んでいることとに分かれる。Dewey は Ch.13 で、これを「分かれた注意（divided attention）」「二心（double-mindedness）」と呼び、思考の力をそぐと書く。
 
 ---
 
@@ -125,7 +128,7 @@ Deweyは「関心（interest）」を3つの意味で分析する：
 1. 共有される関心の数と多様性が大きい
 2. 社会集団間の相互作用が自由で十全
 
-学校の民主主義的機能：「縮小された（miniature）民主的コミュニティ」として、多様な関心をもつ人々が共同生活の中で相互に学ぶ場。
+学校の民主主義的機能：多様な関心をもつ人々が共同生活の中で相互に学ぶ場（本Wikiの整理）。Dewey は最終章（Ch.26）で、生活から切り離された「勉強の場」としての学校の代わりに、学びと成長がいまの共有された経験の一部になる「小さな社会集団（a miniature social group）」を求めている。
 
 ---
 
@@ -169,7 +172,7 @@ Deweyは「関心（interest）」を3つの意味で分析する：
 - [[パタン/能動的関与]] — 「すること（doing）の産物でない知識はない」で補強
 - [[パタン/アドベンチャー]] — 遊びと仕事の連続性概念で補強
 - [[パタン/熟慮的動機づけ]] — 関心（interest）の構造分析で補強
-- [[パタン/社会的環境]] — 学校を「縮小された民主的コミュニティ」として設計するDeweの根拠
+- [[パタン/社会的環境]] — 学校を「小さな社会集団（a miniature social group, Ch.26）」として設計するDeweyの根拠
 - [[パタン/コミュニティをつくる]] — 民主主義を「共同生活の様式（mode of associated living）」と定義する哲学的根拠
 - [[パタン/作ることで学ぶ]] — 「すること（doing）なしに本物の知識はない」（Ch.20）——制作学習の根拠
 - [[パタン/切実性（必要感）]] — 「真の関心は素材と学習者の現在の力・目的に自然な連結がある」——Deweyの内発的関心論
@@ -183,3 +186,8 @@ Deweyは「関心（interest）」を3つの意味で分析する：
 - 「遊びの態度を保った仕事＝芸術」という定式を、算数や国語の通常の授業に具体的に落とすにはどうするか
 - 知識の3段階（やり方→情報→科学的知識）は、Vygotsky の「生活的概念→科学的概念」とどう接続するか
 - 民主主義的教育と一斉授業は矛盾するか——Dewey的学校観を日本の公教育でどう実現するか
+
+## 出典
+
+Dewey, J. (1916). *Democracy and Education: An introduction to the philosophy of education*. Macmillan.
+（パブリックドメイン。Project Gutenberg #852 で全文公開：https://www.gutenberg.org/ebooks/852 ）

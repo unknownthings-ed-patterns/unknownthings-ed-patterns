@@ -5,7 +5,7 @@ year: 2020
 tags: [文献, 胚細胞, 抽象から具体への上向, 拡張的学習, 活動理論, ダヴィドフ, 理論, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-04
-updated: 2026-11-05
+updated: 2026-11-06
 source: "Engeström, Y. (2020). Ascending from the abstract to the concrete as a principle of expansive learning. Psychological Science and Education, 25(5), 31–43."
 ---
 
@@ -98,6 +98,7 @@ Engeström, Y. (2020). Ascending from the abstract to the concrete as a principl
 - [[パタン/胚細胞モデル]] — 研究の裏づけ：胚細胞・学習行為・三つの研究の胚細胞
 - [[文献/共通点を集めるのではなく、既に知っていることをつなぎ直して抽象をつくる過程を、二人の生徒の対話から描く（OzmantarとMonaghan2007）]] — 同じダヴィドフの原理を、二人の高校生の抽象の形成で描いた質的研究
 - [[文献/胚細胞のモデルで小学校の生物・地理・歴史をつなぎ、子どもの関心と教科の概念のあいだを行き来して教える（Hedegaard2020）]] — 同じ号の論文。胚細胞を小学校の教室で使った設計実験（Engeström の活動の三角形のもとになったモデル）
+- [[文献/通ると見え方が一変する「閾値概念」と、その手前で子どもが立ち往生するところを、教える人のための枠組みに整理する（MeyerとLand2005）]] — 閾値概念の原典の一つ（性質・境界の状態・見せかけの理解）
 
 ## 展開したい問い
 

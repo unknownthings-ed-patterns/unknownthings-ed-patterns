@@ -5,7 +5,7 @@ year: 2015
 tags: [文献, 環境調整, 可視化, 教室環境, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-05
 source: "Barrett, P., Davies, F., Zhang, Y., & Barrett, L. (2015). The impact of classroom design on pupils' learning: Final results of a holistic, multi-level analysis. Building and Environment, 89, 118–133."
 ---
 
@@ -64,6 +64,7 @@ Barrett, P., Davies, F., Zhang, Y., & Barrett, L. (2015). The impact of classroo
 - [[パタン/可視化]] — ほどよい刺激
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 教室環境の効き方
 - [[文献/面白いが関係のない絵や話が学びを下げるのはなぜか、どうすれば防げるかを確かめる（Kienitzほか2023）]] — 教材に足した関係のない絵や話が学びを下げる実験
+- [[文献/小学生が授業から離れるのは、どんな形態の授業で、どのくらいの長さの活動のときかを、52の学級で観察して確かめる（Godwinほか2016）]] — 教室の掲示に気が散るのは学級全体の活動のとき（52学級の観察）
 
 ## 展開したい問い
 

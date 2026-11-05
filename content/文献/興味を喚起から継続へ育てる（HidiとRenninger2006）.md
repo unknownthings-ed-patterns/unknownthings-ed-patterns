@@ -5,7 +5,7 @@ year: 2006
 tags: [文献, 興味, 状況的興味, 動機づけ]
 literature_status: integrated
 ingested: 2026-10-17
-updated: 2026-11-05
+updated: 2026-11-06
 source: "Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest development. Educational Psychologist, 41(2), 111–127. https://doi.org/10.1207/s15326985ep4102_4"
 ---
 
@@ -49,6 +49,7 @@ Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest developmen
 - [[パタン/問いを大切にする]] — 本人の問いが育つまで、問いと資料を提供する。
 - [[パタン/自己選択自己決定]] — 選択の機会に、関わり続けられる資源を添える。
 - [[パタン/想像力（感情）を触発する]] — 感情が動く入口は、四つの局面の最初の「喚起」にあたる。続くかどうかは別に見る
+- [[文献/感情は、学ぶことと覚えることにどう効くのかを、脳の研究から整理する（Tyngほか2017）]] — 感情が注意と記憶に効く仕組みを、脳の研究から整理した見直し
 
 ## 展開したい問い
 

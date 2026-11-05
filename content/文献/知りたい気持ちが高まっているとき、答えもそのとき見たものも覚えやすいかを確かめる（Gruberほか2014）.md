@@ -5,7 +5,7 @@ year: 2014
 tags: [文献, 好奇心, 記憶, 動機づけ, 脳科学, 想像力, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-06
 source: "Gruber, M. J., Gelman, B. D., & Ranganath, C. (2014). States of curiosity modulate hippocampus-dependent learning via the dopaminergic circuit. Neuron, 84(2), 486–496."
 ---
 
@@ -63,6 +63,7 @@ Gruber, M. J., Gelman, B. D., & Ranganath, C. (2014). States of curiosity modula
 - [[パタン/好奇心から多方興味へ]] — 好奇心と記憶の実験
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 好奇心と記憶
 - [[文献/物語の形で読むと、説明の形より覚えやすく分かりやすいかを、37の研究から確かめる（Marほか2021）]] — 物語の形が記憶と理解を助けるかのメタ分析
+- [[文献/感情は、学ぶことと覚えることにどう効くのかを、脳の研究から整理する（Tyngほか2017）]] — 好奇心・驚き・感情と記憶を、脳の研究から整理した見直し
 
 ## 展開したい問い
 

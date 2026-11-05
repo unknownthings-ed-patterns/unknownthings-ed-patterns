@@ -7,7 +7,7 @@ tags: [文献, 学習科学, 間隔学習, テスト効果, 作業例, 具体か
 literature_status: integrated
 ingested: 2026-10-11
 source: "Pashler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, M., & Metcalfe, J.（2007）Organizing instruction and study to improve student learning（NCER 2007-2004）. Institute of Education Sciences, U.S. Department of Education."
-updated: 2026-10-31
+updated: 2026-11-05
 ---
 
 # Organizing Instruction and Study to Improve Student Learning（Pashler et al., 2007）
@@ -168,6 +168,7 @@ Pashler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, 
 | パタン | [[パタン/熟慮的練習]] | 復習の間隔 |
 | パタン | [[パタン/可視化]] | 図と言葉の組み合わせ |
 | パタン | [[パタン/図解]] | 図と言葉、図式的な絵 |
+| パタン | [[パタン/熟慮的配列]] | 勧め1・2：間隔をあけた復習と、解き方の例と問題の交互の配置 |
 
 ## 未パタン化の論点
 

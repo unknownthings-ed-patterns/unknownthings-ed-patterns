@@ -6,7 +6,7 @@ year: 2014
 tags: [文献, 学習科学, 能動的学習, 協同学習, 自己説明]
 literature_status: integrated
 ingested: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-05
 source: "Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. Educational Psychologist, 49(4), 219–243. https://doi.org/10.1080/00461520.2014.965823"
 ---
 
@@ -80,6 +80,7 @@ Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagem
 - [[パタン/足場組みの自己説明]] — 選択・再現と理由の生成の違いを明確にする。
 - [[文献/発見学習の支援条件を見分ける（Alfieriほか2011）]] — 活動的な教え方が能動的な学びになるとは限らない（Chi 2009 を引く）
 - [[文献/講義だけの授業と能動的な学びを比べる（Freemanほか2014）]] — 講義だけの授業と、何らかの活動や話し合いのある授業の比較（活動の種類は区別していない）
+- [[パタン/作ることで学ぶ]] — 「つくり出す」関わり方：手を動かすだけでは「操作する」にとどまる
 
 ## この文献から生まれたパタン
 

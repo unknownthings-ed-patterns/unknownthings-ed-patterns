@@ -4,122 +4,114 @@ title: "Moral Principles in Education"
 author: John Dewey
 year: 1909
 tags: [文献, デューイ, 道徳教育, 社会的学習, コミュニティ, 副次的学習, 内発的動機づけ]
+literature_status: integrated
 ingested: 2026-05-31
+updated: 2026-11-05
+source: "Dewey, J. (1909). Moral Principles in Education. Houghton Mifflin."
 ---
 
 # Moral Principles in Education（Dewey, 1909）
 
-Dewey, J. (1909). *Moral Principles in Education*. Houghton Mifflin.  
-著者：John Dewey（1859–1952）。本書は1897年刊の *Ethical Principles Underlying Education* を改訂した小著。*Democracy and Education*（1916）・*Experience and Education*（1938）の原型的な論点を1909年時点で提示している。
+## 書誌・確認した範囲
 
-> **原文との照合（2026-11-05）**：このページの英文の引用を、原典（Project Gutenberg #25172 の全文）に照らしたところ、第3章の一つ（上の照合で差し替え済み）を含め、**8つの引用のどれも、原典の中に同じ文が見つからなかった**。要約の内容が原典の趣旨とどこまで合っているかも、まだ確かめていない。このページの引用と要約は、原典で確かめ直すまで、そのまま引き写さないこと。
+Dewey, J. (1909). *Moral Principles in Education*. Houghton Mifflin.
 
----
+Project Gutenberg の全文（#25172。パブリックドメイン）を、編者の序論から5つの章と巻末の要旨（OUTLINE）まで全部読んで、2026-11-05 にこのページを書き直した。原典の本文は短い（5章）。ページ番号のない電子版なので、場所は章で示す。
 
-## 要約（5テーマ）
+著者は前書きで、この本は自分の論文 *Ethical Principles Underlying Education*（全米ヘルバルト協会の第3年報）を自由に下敷きにしたと書いている。
 
-### 1. 道徳的観念 vs 道徳についての観念（Chapter I）
+> **書き直しの経緯（2026-11-05）**：以前のこのページ（2026-05-31 作成）には英文の引用が8つあったが、原典の全文に照らすと、**8つのどれも原典に同じ文がなかった**。そのうち1つ（"When the school introduces and trains each child of society into membership within such a little community, ..."）は、Dewey の別の本 *The School and Society*（1899）の文とみられる。また、関連するパタンのページにあった「共に生活する過程そのものが教育する（The very process of living together educates.）」は、この本ではなく *Democracy and Education*（1916）第1章の文だった。いまのページの引用は、すべて原典の全文で機械照合した。
 
-Deweyは「道徳的観念（moral ideas）」と「道徳についての観念（ideas about morality）」を鋭く区別した。
+## 要約
 
-| 区分 | 意味 | 教育への含意 |
-|---|---|---|
-| **道徳的観念（moral ideas）** | 実際に行為を改善・変革する観念 | 学習者の行為に直接影響する |
-| **道徳についての観念（ideas about morality）** | 道徳に関する情報・知識 | 行為に影響しない可能性がある |
+- **編者の序論**：教育は「公の仕事」であると同時に「専門家の仕事」でもある。目的と結果は市民が判断してよいが、方法・教育課程・教科書などの細部は、教師の専門的判断にゆだねるべきだ、と編者（Henry Suzzallo）は書く。道徳教育はその例で、世間は「直接の道徳の授業」を求めがちだが、正しいことを知っていても正しく行うとは限らない、とする。
+- **第1章 学校の道徳的目的**：
+  - 「道徳的観念（moral ideas）」と「道徳についての観念（ideas about morality）」を分ける。道徳的観念とは、どんな種類の観念であれ、行いに効いて行いをよくするものである。算数や地理の観念でも、行いをよくすれば道徳的観念であり、正直さについての知識でも、行いに効かなければ道徳的観念ではない。
+  - 教師の仕事は、子どもが身につける観念ができるだけ多く「動かす観念（moving ideas）」、行いを導く力になるように身につけられるようにすることで、そのために道徳的目的は、どの教科の授業にも行きわたる。
+  - 直接の道徳の授業（道徳についての授業）の影響は、教育による道徳的成長の全体から見れば、どんなによくても比較的小さい。だから本書は、学校生活のすべてを通した間接的な道徳教育を扱う。
+- **第2章 学校共同体が与える道徳的訓練**：
+  - 学校の中と外で、二つの倫理があるわけではない。学校は社会が特定の仕事のために作った制度で、その道徳的責任は社会に対してある。
+  - 社会的な役割を「選挙で賢く投票し、法に従う」市民に狭めてはならない。子どもは家族の一員・働く人・地域の一員にもなる。民主的で変わり続ける社会では、従うことだけでなく、自分を導き他人を導く力（リーダーシップ）も要る。
+  - 水に入らずに泳ぎの動きだけを教える水泳学校の話（水に入ったら「沈んだ」）を挙げ、学校は、社会生活の典型的な条件を自分の中に再現しない限り、社会生活への準備にはなれないとする。「社会生活に備える唯一の方法は、社会生活に参加することである」。
+  - 学校が「胚の段階の典型的な共同体生活（embryonic typical community life）」でない限り、学校の道徳的訓練は、一部は病理的に（悪いことを正すことに重きを置き、よい奉仕の習慣を育てない）、一部は形式的に（学校の仕組みを保つためだけの習慣を教える）なる。
+- **第3章 教授の方法から受ける道徳的訓練**：
+  - 方法の全体の精神としては、吸収とただ覚えることよりも、つくること（construction）と外に出すこと（giving out）に重きを置くべきだとする。
+  - 40人が同じ本を読み、同じことを暗唱するやり方では、子どもが自分だけのものを作って皆に持ち寄る機会がなく、社会的な精神が育たない。音読がうまくならない理由の一つも、皆が同じことを知っていて、だれにも何も「与えて」いないからだとする。
+  - 恐れ（人からの評価を失う恐れ、失敗への恐れ）と、張り合い・競争（emulation and rivalry）が動機に入りこむ。皆が同じ課題を同じ基準で比べられるので、弱い子は力の感覚を失い、強い子は自分の強さではなく「他人より強いこと」を誇るようになる。
+  - 遠い将来への準備（試験・進級・進学）を動機にすることは、先延ばしの習慣と、誤った判断の基準を生む。
+  - 子どもの能動的な力、つくる・生み出す・創り出す力に訴える方法は、利己的な吸収から社会的な奉仕へ、倫理の重心を移す機会になる。
+- **第4章 教科の社会的性質**：
+  - 教科は、子どもに社会の場面を実感させる手段として考えるべきだとする。教養・情報・鍛錬という三つの価値は、社会的な解釈の三つの面にすぎない。
+  - 地理は人間の生活と自然のかかわりを扱い、社会地理から、政治地理・自然地理・数理地理へと、段階的に抽象化していく。歴史は、過去を現在の社会を理解する手段として扱うとき生きる。算数は、社会の道具として示されないと、知的な面でも抽象的になりすぎる。商業算術を、商売の現実と切り離して教えるのは、水に入らずに泳ぐ練習と同じだとする。
+  - 章の終わりで「学校の道徳の三位一体」をまとめる。求められるのは、社会的知性・社会的力・社会的関心である。そのための資源は、(1) 社会的制度としての学校生活、(2) 学び方と仕事の仕方、(3) 教科（カリキュラム）である。
+- **第5章 道徳教育の心理的側面**：
+  - すべての行いは、生まれつきの本能と衝動から出てくる。子どもが自分から行うことは、教師が従うべき道徳の型ではなく、読みとって応えるべき「しるし」である。
+  - 性格（character）を、結果ではなく働く力の仕組みとしてとらえ、三つの要素を挙げる。(1) 力（force）：よい意図を実行し通す力、主体性・粘り・勇気・勤勉。(2) 判断（good judgment）：場面のどこが大事かを見分け、目的に向けて知識を使う力。(3) 感情の応答性：他人の目的や関心に対する、こまやかな感じとり。
+  - 学校の点検の基準として、(a) 子どもの自発的な本能と衝動を十分に生かしているか、(b) よい判断を形づくる条件があるか、(c) 感じとりと応答性を育てる機会（自由な交わり、文学・歴史・芸術との出会い）があるか、を挙げる。
+  - 最後に、道徳の原則を、空中にある特別な領域のものではなく、共同体の生活と個人の衝動・習慣の中の現実の力として信じることを求める。
 
-「道徳の時間に美徳を教える」ことは後者を与えるにすぎない。行為を変える「道徳的観念」は、教室の雰囲気・活動・教師の姿勢から副次的に形成される。これは1938年の「副次的学習（Collateral Learning）」概念の先取りである。
+## 重要な引用
 
-> "Moral instruction must be part and parcel of the whole school work. The influence of school is not exhausted by direct moral instruction... it is the indirect moral training—the way in which the pupil is made to feel the value of what he does in reference to his associations with others—which is the more important."（Ch.1）
+> "Moral ideas" are ideas of any sort whatsoever which take effect in conduct and improve it, make it better than it otherwise would be.
 
-### 2. 胚細胞的コミュニティとしての学校（Chapter II）
+— 第1章。「『道徳的観念』とは、行いに効いて行いをよくする、つまり、そうでなかった場合より行いをよくする、どんな種類の観念でもある。」（訳は本Wiki）
 
-Deweyの最も根本的な命題：「学校は社会生活への準備でなく、社会生活そのもの（embryonic typical community）である」。
+> There is nothing in the nature of ideas _about_ morality, of information _about_ honesty or purity or kindness which automatically transmutes such ideas into good character or good conduct.
 
-> "When the school introduces and trains each child of society into membership within such a little community, saturating him with the spirit of service, and providing him with the instruments of effective self-direction, we shall have the deepest and best guarantee of a larger society which is worthy, lovely, and harmonious."（Ch.2）
+— 第1章。「道徳についての観念、正直さや清らかさや親切についての情報の性質の中には、そうした観念をおのずからよい性格やよい行いに変えるものは何もない。」（訳は本Wiki）
 
-「水なしに泳ぐことを教える」という比喩——社会生活なしに社会的徳を育てることはできない。「共に生活するプロセスそのものが教育する（The very process of living together educates）」。
+> The only way to prepare for social life is to engage in social life.
 
-**道徳の三位一体（Moral Trinity of the School）**：
-1. **Social intelligence**（社会的知性）：他者との関係の中で判断する力
-2. **Social power**（社会的力）：社会的目標に向けて行動する力
-3. **Social interests**（社会的関心）：他者と共同体への関心
+— 第2章。「社会生活に備える唯一の方法は、社会生活に参加することである。」（訳は本Wiki）
 
-### 3. 構成 > 吸収（Chapter III）
+> The emphasis then falls upon construction and giving out, rather than upon absorption and mere learning.
 
-「与えること・外に出すこと（giving out）は受け取ること・吸収すること（taking in）より重要」という原則。受動的な吸収は独立した判断力と主体性を阻む。「作ることで学ぶ」の1909年時点での定式化。
+— 第3章。「そうすると重きは、吸収とただ覚えることよりも、つくることと外に出すことに置かれる。」（訳は本Wiki）
 
-> "The emphasis then falls upon construction and giving out, rather than upon absorption and mere learning."（Ch.III）
+> Acquiring information can never develop the power of judgment.
 
-> **原文との照合（2026-11-05）**：以前ここにあった英文の引用（"The child who has a variety of materials and facts wants to do something with them, ..."）は、原典（Project Gutenberg #25172）の全文に見当たらなかったので、原典にある文に差し替えた。
+— 第5章。「情報を得ることは、決して判断する力を育てない。」（訳は本Wiki）
 
-また**競争の弊害**を明確に論じた：外部報酬のための競争は嫉妬・ライバル意識・分断を生む。「恐怖と競争心（fear and emulation）」は道徳的観点から最も有害な動機。「遠い将来への動機（大人になって役立つ）」は子どもに届かない。
+> The teacher who operates in this faith will find every subject, every method of instruction, every incident of school life pregnant with moral possibility.
 
-### 4. 教科の社会的性質（Chapter IV）
+— 第5章の結び。「この信念のもとで働く教師は、あらゆる教科、あらゆる教え方、学校生活のあらゆる出来事が、道徳的な可能性をはらんでいることに気づくだろう。」（訳は本Wiki）
 
-地理・歴史・数学はすべて「社会生活を理解するための手段」——それ自体が目的ではない。算数の社会学的性質：商業算術は経済社会的活動の道具として理解される。
+## 根拠の範囲と注意
 
-> "The natural and social sciences are but the systematized and organized forms of social life and experience."（Ch.4）
+- 1909年の教育哲学の小著で、実証の研究ではない。主張の根拠は、著者の考察と、水泳学校の話のような例である（著者は「この話はたまたま本当だ」と書く）。
+- 当時の米国の学校（同じ本を読み暗唱させる授業、商業算術など）を念頭に置いている。
+- 「直接の道徳の授業の影響は比較的小さい」という主張は、考察によるもので、効果を測ったものではない。
 
-### 5. 性格の三構成要素（Chapter V）
+## 教育実践への示唆（Wiki側の適用案）
 
-性格（character）には三つの要素がある：
+- **道徳の時間だけでなく、教科の授業のやり方そのものを点検する**：どの教科でも、身につけたことが行いを導く「動かす観念」になっているかを問う。
+- **一人ひとりが違うものを持ち寄る場をつくる**：全員が同じものを読み同じ答えを言う時間だけでなく、それぞれが調べたこと・作ったものを、皆に「与える」場面を置く。相手が知らないことを伝える場面では、話すことや読むことの動機が生まれる。
+- **比べて順位をつける動機に頼らない**：同じ課題を同じ基準で比べ続けると、力の弱い子は自信を失い、強い子は「人より上」を誇るようになる。それぞれの貢献に目を向ける。
+- **「将来のため」だけで学ばせない**：試験や進学のためという遠い目的ではなく、いまの必要と責任に結びつけて学ぶ理由を示す。
+- **悪いことを正すことより、よい奉仕の習慣を育てることに重きを置く**：規則違反への注意ばかりにならないようにし、子どもが自分の仕事との関係で自分の行いを判断できるようにする。
 
-| 要素 | 英語 | 内容 |
-|---|---|---|
-| **力・主体性** | Force / initiative | 行動に必要なエネルギーと積極性 |
-| **判断** | Good judgment | 目的に向けて知識を方向づける力——道徳的無知は道徳的悪意と同様に危険 |
-| **感情的反応性・共感** | Emotional responsiveness / sympathy | 他者の喜び・苦しみに反応する能力 |
-
-「性格は社会的である」：個人の徳は社会的文脈の中でのみ意味を持つ。
-
----
-
-## 重要な引用（4件）
-
-> "The child should not only do certain things, but he should also know why he does them."（Ch.1）
-
-> "It is not enough to expect character: we must know what we want, and take effective means to bring it about."（Ch.5）
-
-> "Sympathy as a form of action means entering into the interests of others and finding satisfaction in their satisfaction."（Ch.5）
-
-> "The moral and the intellectual are fundamentally the same—the moral is the ideal, the intellectual is the actual."（Ch.1）
-
----
-
-## 教育実践への示唆
-
-- 道徳的態度は「道徳の時間」より、日常の活動・教室の雰囲気・教師の姿勢から副次的に形成される
-- 学校を「将来の準備」として設計するとき、今この瞬間の社会的経験が犠牲になる
-- 「恐怖と競争心」をやめ、現在の社会的共同活動への関心を動機の基盤にする
-- 「大人になって役立つ」という動機より、今ここの問題への関与が学習者に届く
-- 教科は社会的意味の文脈で理解させると学習が深くなる
-
----
+これらはWiki側の適用案で、原典が勧める具体的な手立てではない。
 
 ## 関連するWikiページ
 
-- [[パタン/胚細胞的コミュニティとしての学校]] — 本書Ch.2の核心命題をパタン化（本統合で新規作成）
-- [[パタン/副次的学習]] — 「道徳的観念 vs 道徳についての観念」の区別が副次的学習（1938）の先駆け
-- [[パタン/内発的動機づけ]] — 「恐怖と競争心」批判・現在の社会的関心が内発的動機の源泉
-- [[パタン/作ることで学ぶ]] — 「構成 > 吸収」原則の1909年版定式化
-- [[パタン/道徳的交渉]] — 「行為を改善する観念（moral ideas）」の授受として道徳的交渉を再定義
-- [[パタン/民主的教育]] — 「学校＝胚細胞的コミュニティ」はDeweyの民主的教育論の根本
-- [[パタン/コミュニティをつくる]] — 道徳の三位一体（社会的知性・社会的力・社会的関心）
+- [[パタン/胚細胞的コミュニティとしての学校]] — 第2章「胚の段階の典型的な共同体生活」としての学校
+- [[パタン/副次的学習]] — 第1章の「道徳的観念」と「道徳についての観念」の区別は、1938年の副次的学習の考えの先駆け
+- [[パタン/内発的動機づけ]] — 第3章の、恐れと張り合い（emulation and rivalry）、遠い将来の目標を動機にすることへの批判
+- [[パタン/作ることで学ぶ]] — 第3章の「つくることと外に出すこと」を「吸収」より重んじる考え
+- [[パタン/道徳的交渉]] — 第1章の「行いをよくする観念」と、第5章の判断の力
+- [[パタン/民主的教育]] — 第2章：民主的で変わり続ける社会のための、自己指導とリーダーシップの教育
+- [[パタン/コミュニティをつくる]] — 第4章の道徳の三位一体（社会的知性・社会的力・社会的関心）
 - [[パタン/教育＝成長]] — 本書と *Democracy and Education*（1916）の連続性
-- [[文献/Democracy and Education（Dewey）]] — 1916年の大著の原型的論点が本書に含まれる
-- [[文献/Experience and Education（Dewey）]] — 副次的学習概念（1938）の前身が本書Ch.1に存在
-
----
+- [[文献/Democracy and Education（Dewey）]] — 1916年の大著。「共に生活する過程そのものが教育する」はこちらの第1章
+- [[文献/Experience and Education（Dewey）]] — 副次的学習（1938）の考えの前身が本書の第1章にある
 
 ## 展開したい問い
 
-- 1909年と1938年のDeweyの間で「副次的学習」の概念はどう発展したか
-- 「道徳的観念」を届ける授業設計と「道徳についての観念」を届ける授業設計を、具体的にどう区別するか
-- 「胚細胞的コミュニティ」として機能している学校と、機能していない学校の違いは何か
-
----
+- 教科の授業で身につけた観念が、子どもの行いを導く「動かす観念」になったかどうかは、何を見れば分かるか。
+- 一人ひとりが違うものを持ち寄る授業と、全員が同じことを確かめる授業を、一つの単元の中でどう組み合わせるか。
+- 「悪いことを正す」学級経営から、「よい奉仕の習慣を育てる」学級経営へ移るには、何から変えればよいか。
 
 ## 出典
 
-Dewey, J. (1909). *Moral Principles in Education*. Houghton Mifflin.  
-（パブリックドメイン。Project Gutenberg ほかで全文公開）
+Dewey, J. (1909). *Moral Principles in Education*. Houghton Mifflin.
+（パブリックドメイン。Project Gutenberg #25172 で全文公開：https://www.gutenberg.org/ebooks/25172 ）

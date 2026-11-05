@@ -5,7 +5,7 @@ year: 2006
 tags: [文献, 授業設計, 表現, 認知負荷]
 literature_status: integrated
 ingested: 2026-10-18
-updated: 2026-10-18
+updated: 2026-11-05
 source: "Ainsworth, S. (2006). DeFT: A conceptual framework for considering learning with multiple representations. Learning and Instruction, 16(3), 183–198. https://doi.org/10.1016/j.learninstruc.2006.03.001"
 ---
 
@@ -54,6 +54,7 @@ Ainsworth, S. (2006). DeFT: A conceptual framework for considering learning with
 - [[文献/概念地図を作る・見ることの効き方を、比べた相手と学習者で確かめる（NesbitとAdesope2006）]] — 表現の一つ（概念地図）の効き方を確かめたメタ分析
 - [[文献/教室の光・空気・掲示・色が、子どもの伸びとどう関わるかを確かめる（Barrettほか2015）]] — 教室の掲示の刺激は多すぎても少なすぎてもよくないとする研究
 - [[文献/図と文の対応を示す手がかりが、だれに効き、だれの邪魔になるかを確かめる（Richter2016）]] — 図と文の対応を示す手がかりの効果を、前の知識で分けて確かめた研究
+- [[文献/子どもが自分で描くことを、読む・書く・話すと並ぶ理科の学び方にすべき五つの理由を示す（Ainsworthほか2011）]] — 同じ第一著者が、子どもが自分で描くことを理科の学び方の柱にすべきだと論じた論説
 
 ## 展開したい問い
 

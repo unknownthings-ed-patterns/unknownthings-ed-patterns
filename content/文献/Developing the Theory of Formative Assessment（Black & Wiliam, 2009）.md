@@ -5,7 +5,7 @@ author: "Paul Black & Dylan Wiliam"
 year: 2009
 tags: [文献, 形成的評価, フィードバック, 評価, 自己調整, 教室談話, 発問, 練り上げ, 特別支援]
 source: "Black, P. & Wiliam, D.（2009）Developing the theory of formative assessment"
-updated: 2026-10-31
+updated: 2026-11-07
 ---
 
 # Developing the Theory of Formative Assessment（Black & Wiliam, 2009）
@@ -298,7 +298,7 @@ Leung, C. (2007). Dynamic assessment: Assessment for and as teaching? *Language 
 
 Shulman, L. S. (2005). Signature pedagogies in the professions. *Daedalus, 134*(3), 52–59.
 
-Takahashi, A. (2008). Beyond show and tell: Neriage for teaching through problem-solving. *ICME 11*.（neriage の定義）
+Takahashi, A. (2008). Neriage: An essential piece of a problem-based lesson. In *Teaching through problem solving: A Japanese approach*. Paper presented at the Annual Conference of the National Council of Teachers of Mathematics.（neriage の定義。本論文の文献表による）
 
 Bromme, R., & Steinbring, H. (1994). Interactive development of subject matter in the mathematics classroom. *Educational Studies in Mathematics, 27*(3), 217–248.（熟達者と「集合的な生徒」）
 

@@ -5,16 +5,19 @@ author: "Linda J. Dorn, Carla Soffos"
 year: 2005
 tags: [文献, 国語, 読書指導, 読解, 深い理解, リーディング・ワークショップ, テキスト・セット, 文学討論, ミニレッスン, 共有読書, ストラテジー, スケール・オブ・ヘルプ]
 ingested: 2026-05-15
-updated: 2026-09-27
+updated: 2026-11-07
 ---
 
 # Teaching for Deep Comprehension（Dorn & Soffos, 2005）
 
-Dorn, L. J., & Soffos, C. (2005). *Teaching for Deep Comprehension: A Reading Workshop Approach*. Stenhouse Publishers. ISBN 1-57110-403-8 (Foreword by Carol A. Lyons; 付属DVD：85分の授業映像——1年生・4年生のリーディング・ワークショップと文学討論グループ)
+Dorn, L. J., & Soffos, C. (2005). *Teaching for Deep Comprehension: A Reading Workshop Approach*. Stenhouse Publishers. ISBN 1-57110-403-8 (Foreword by Carol A. Lyons; 付属DVD：共有読書・著者研究・ミニレッスン・1対1のカンファレンス・文学討論グループ・教師の読書会の授業例)
 
-Linda J. Dorn はアーカンソー大学リトルロック校リテラシー・センター所長。Reading Recovery の理論的基盤を持つ「包括的リテラシー（Comprehensive Literacy）」モデルの主要開発者。Carla Soffos はリテラシー・コーチ。本書はリーディング・ワークショップの理論と「深い理解（Deep Comprehension）」の実践を接続する。
+Linda J. Dorn はアーカンソー大学リトルロック校の「包括的リテラシー」の取り組みにかかわる（肩書は本書の本文では確かめられない）。Reading Recovery の理論的基盤を持つ「包括的リテラシー（Comprehensive Literacy）」モデルの主要開発者。Carla Soffos はリテラシー・コーチ。本書はリーディング・ワークショップの理論と「深い理解（Deep Comprehension）」の実践を接続する。
 
 ---
+
+
+> **原文との照合（2026-11-07）**：Kindle 版の原本（OCR）で、このページの引用・章・数字を確かめ、DVD の中身、著者の肩書、「社会認知的プロセス」の語、「言語のダンス」の出どころを直した。
 
 ## 要約
 
@@ -66,7 +69,7 @@ Dorn & Soffos のいう「深い読み（deep reading）」は、私たちの考
 
 ### 社会認知的観点
 
-Dorn & Soffos は理解を「社会認知的プロセス（Socio-Cognitive Process）」として捉える：
+Dorn & Soffos は理解の「認知的側面と社会的側面」の両方を見る（社会的な文脈での構成主義。「社会認知的プロセス」は本Wikiの言い換え）：
 
 - 理解は個人の認知の中だけで完結しない——対話・共有・他者の視点との衝突の中で深まる
 - リーディング・ワークショップの「社会的文脈」（ミニレッスン・カンファリング・文学討論グループ）が、まさに深い理解を生む場になる
@@ -107,7 +110,7 @@ Dorn & Soffos はワークショップを5つの相互補完的なコンポー�
 
 ### 共有読書の5ステップ・フレームワーク（Ch.3）
 
-共有読書（Shared Reading）は「教師と子どもの言語的ダンス」。5つの予測可能なステップで構成される：
+共有読書（Shared Reading）は、5つの予測可能なステップで構成される（「言語のダンス」は、著者が会話一般について Rogoff 1990 から引いた比喩で、共有読書の説明の語ではない）：
 
 | ステップ | 内容 |
 |---|---|

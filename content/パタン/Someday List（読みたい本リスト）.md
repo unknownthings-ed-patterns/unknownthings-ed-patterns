@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 読書指導, 選書, リーディング・ワークショップ, 自己選択自己決定]
 source: "Atwell, N., & Atwell Merkel, A. (2016). The Reading Zone (2nd ed.). Scholastic."
 related: [リーディング・ゾーン, ブック・トーク, Books-We-Love（本の展示コーナー）, チェックイン（Checking In）]
-updated: 2026-09-27
+updated: 2026-11-07
 ---
 
 # Someday List（読みたい本リスト）
@@ -26,7 +26,7 @@ updated: 2026-09-27
 
 ## 背景（Context）
 
-Atwell が CTL（Center for Teaching and Learning）で実践する読書の10ルールの一つに「Someday List（読みたい本リスト）を常に育てる」がある。
+Atwell が生徒に配る「今年の読書で期待すること」の一つに、Someday List に読んでみたい本と作家を書きつづけること（とくにブックトークや推薦を聞いて）がある。
 
 読書家にとって「次に何を読むか」は常に決まっている。書店で目に入った本、友人に薦められた本、ブック・トークで心に残った本——これらをリストに記録しておくことで、「読み終わったら次が決まっている」状態を常に保てる。
 

@@ -6,7 +6,7 @@ year: 2016
 tags: [文献, リーディング・ワークショップ, 読書指導, 国語, 没入読書, リーディング・ゾーン]
 ingested: 2026-05-13
 reintegrated: 2026-05-17
-updated: 2026-09-27
+updated: 2026-11-07
 ---
 
 # The Reading Zone（Atwell & Atwell Merkel, 2016）
@@ -17,17 +17,20 @@ Atwell, N., & Atwell Merkel, A. (2016). *The Reading Zone: How to Help Kids Beco
 
 ---
 
+
+> **原文との照合（2026-11-07）**：Kindle 版の原本（OCR）でこのページ全体を確かめ、Jed の語源、生徒調査のトップ10、Simone の事例、Fair ほかと soak/dip の出どころ、Mangen の2研究、報酬の研究の書き方、レターエッセイ（3段落→3ページ）、家庭読書（30〜60分→少なくとも30分）、文献表の5件を直した。「4つの条件」は本Wikiの整理と明記し、「10のルール」は原本の「今年の読書で期待すること」に差し替えた。原本に見当たらない日本語の引用3つを外した。
+
 ## 要約
 
 - **本書のテーゼ**：読書の力は教えられるものではなく、条件を整えることで育まれる。その核心が「ゾーン（Reading Zone）」体験を保証することである
-- **Reading Zone の語源**：生徒 Jed が授業中、本に没入して教室の音が消えた体験を語る中で自然に "zone" という語を使った。Atwell は Newkirk（2000）の "reading state" を踏まえてこの語を採用し本書の中心概念とした
-- **4つの条件**：①時間（Time）、②選択（Choice）、③反応（Response）、④共同体（Community）——この4条件が整うとき、読者はゾーンに入り読書家として育つ
+- **Reading Zone の語源**：7年生の Jed がつくった言い方。Newkirk（2000）が「読む状態（the reading state）」と呼んだものを、Jed が自分なりに言いかえた。Atwell は Newkirk の論文を生徒に配り、その状態がどんな感じか、どんな条件で入れるかを尋ねた
+- **ゾーンに入る条件**：生徒への調査では、ブックトークとミニレッスン（88%）、大きく多様な学級文庫（74%）、毎日の静かな読書時間（73%）、本の自由な選択（56%）が上位だった（下の表）
 - **CTLの実績**：Atwell が設立した CTL（Center for Teaching and Learning）の7〜8年生は年間平均40冊を読む
 - **Mike の事例**：読書評価が第15百分位のADHDを持つ生徒が、リーディング・ワークショップ導入後の1年間で36冊を読んだ
-- **Simone の事例**：就学以来読書を拒否してきた生徒が、1年間で44冊読み、自分を「読書家」と呼ぶようになった
-- **ゾーンの神経科学**：Fair et al.（2009）の研究——子どもはゾーンに入ると近接した脳領域が「浸透（soak）」し、大人は遠隔ネットワークで「潜る（dip）」。子どもの脳は読書に固有の反応をする
-- **紙 vs eBook**：Mangan et al.（2013, 2014）——紙の本はeBookより物語構造の読解成績が有意に高い。空間的感覚（spatial orientation）の喪失がeBookの弱点
-- **報酬の害**：Kassin & Lepper（1984）、McQuillan（1997）、Marinak（2003）——読書へのご褒美は内発的動機を低下させ、プログラム終了後の読書量を減らす
+- **Simone の事例**：「読書はつまらない」と言っていた7年生の転入生が、毎日のチェックインと、自分で立てた学期ごとの目標を通して、7年生で30冊、8年生で44冊を読み、読む人としての自己像をもった（評価の章の事例）
+- **子どもと大人の読み方のちがい**：Fair ほか（2009）によれば、子どもの脳では、はたらく領域が主に近くの領域とやりとりし、大人になると広く離れた回路がはたらく。Atwell はこれを、大人のほうが読みながら連想や比較に気をとられ、子どもほど深く没入しにくい理由と読む。「浸る（soak）」と「ひたす（dip）」の比喩は Prose（2016）が引く神経学者の言葉
+- **紙 vs eBook**：Mangen ほか（2013）では、紙で読んだ10年生が画面で読んだ10年生より読解テストの成績が有意に高かった。Mangen ほか（2014）では、Kindle で読んだ大人が、短いミステリーの出来事を正しい順に並べるのが紙の読者より有意に下手だった。生徒たちは、見開きの「2ページと8つの角」が頭の中の地図をつくると話した
+- **報酬について**：読むことへの報酬（書店のギフト券など）が長い目で効くという研究はなく、逆を示す研究がいくつかある（McQuillan, 1997; Marinak, 2003）。もともと好きな活動に報酬を出すと、報酬がなくなったあとその活動をしにくくなる（Kassin & Lepper, 1984）、と Atwell は書く
 - **ハイスクールの読書危機**：Common Sense Media（2014）——17歳の約半数が1〜2回/年しか読書しない
 - **ブック・トーク**：年間250〜300回（1〜2分の口頭推薦）。生徒調査でゾーン条件の第1位（88%）
 
@@ -37,15 +40,15 @@ Atwell, N., & Atwell Merkel, A. (2016). *The Reading Zone: How to Help Kids Beco
 
 ### Reading Zone とは何か
 
-「Reading Zone」という語は生徒 Jed が授業中に自分の体験を語る中で生まれた。「本の外の世界が消える」「時間が止まる」——そのような没入の感覚を Jed は "zone" と呼んだ。Atwell は Newkirk（2000）の "reading state" を踏まえてこの語を採用し本書の中心概念として位置づけた。
+「Reading Zone」という語は7年生の Jed がつくった。Newkirk（2000）が「読む状態（the reading state）」と呼んだ没入を、Jed はゾーンと言いかえた。Atwell は、11月までには一人ひとりの生徒が本に没入してゾーンに入るようになる、と書く。
 
-ゾーンはチクセントミハイのフロー（Flow）概念と構造的に重なる——課題と能力が適切にマッチし、外部への注意が消え、内側から動き続ける状態。「読書家になる」とはゾーン体験を繰り返すことで育まれるアイデンティティである。
+ゾーンは、本Wikiの読みでは、チクセントミハイのフロー（Flow）概念と構造的に重なる（本書はフローに触れない）——課題と能力が適切にマッチし、外部への注意が消え、内側から動き続ける状態。「読書家になる」とはゾーン体験を繰り返すことで育まれるアイデンティティである。
 
-> 「読書ゾーンにいる子どもたちは、本の外の世界が存在しないかのように読む。時間の経過に気づかない。何かの始まりにいるような感覚がある。」——Atwell & Atwell Merkel（2016）
+### 時間・選択・反応・共同体（本Wikiの整理）
 
-### 4つの条件
+本書にこの4つの枠組みはない。本書の内容を、本Wikiが4つに分けて整理したもの。
 
-| 条件 | 内容 | 教室での実現 |
+| 観点 | 内容 | 教室での実現 |
 |------|------|--------------|
 | 時間（Time） | まとまった連続した読書時間 | 毎日最低30分の読む時間を死守する |
 | 選択（Choice） | 自分で本を選ぶ自由 | 豊かな学級文庫・選書の指導・Books-We-Love |
@@ -54,60 +57,56 @@ Atwell, N., & Atwell Merkel, A. (2016). *The Reading Zone: How to Help Kids Beco
 
 ### 夜の読書と読書量
 
-ATウェルは毎晩30〜60分の家庭読書を宿題にする。学校での読書時間と家庭読書の両輪が CTL 7〜8年生の年間平均40冊を支える。「読むことが日常になっている生活」を学校と家庭の両側から設計する。
+Atwell は毎晩少なくとも30分の家庭読書を、毎日、週7日の宿題にする。学校での読書時間と家庭読書の両輪が CTL 7〜8年生の年間平均40冊を支える。「読むことが日常になっている生活」を学校と家庭の両側から設計する。
 
 ### 生徒調査：ゾーンに入るための条件（トップ10）
 
-Atwell は生徒に「ゾーンに入るために役立つものは何か」を調査した。回答のトップ（複数回答可）：
+Atwell は7・8年生に、ゾーンに入るのを助けるものは何かを尋ねた。回答のトップ10（複数回答）：
 
 | 条件 | 割合 |
 |-----|-----|
-| Book talks（ブック・トーク） | **88%** |
-| Library（図書室・図書館） | **74%** |
-| Quiet time（静かな時間） | **73%** |
-| Free choice（自由な選択） | **56%** |
-| Teacher reads（先生が読む姿） | — |
-| Wide genre exposure（多ジャンル体験） | — |
-| Series books（シリーズ本） | — |
-| Best-friend's recommendations（親友の推薦） | — |
-| Holiday books（お休み本・軽い本） | — |
-| At-home reading（家庭読書） | — |
+| ブックトークとミニレッスン | **88%** |
+| 大きく多様な学級文庫 | **74%** |
+| 毎日の静かな読書時間 | **73%** |
+| 本・作家・ジャンルを自由に選べること | **56%** |
+| 友だちや先生の推薦と、好きな本の棚 | 54% |
+| 読むときの心地よさ | 53% |
+| レターエッセイ | 53% |
+| 先生との一対一の会話 | 31% |
+| Someday List | 30% |
+| 毎晩30分以上の家での読書 | 30% |
 
 このデータの核心：ブック・トーク（88%）が最も高い——「次に何を読むか」を知ることが、ゾーン体験の前提になっている。
 
 ### 神経科学：子どもの脳と読書
 
-Fair et al.（2009）の神経科学的研究：
+Fair ほか（2009）の研究を、Atwell は次のように紹介する：
 
-- **子どもの脳（soak）**：ゾーンに入ると**近接した脳領域**が活性化する——物語の世界に「浸る（soak）」感覚に対応
-- **大人の脳（dip）**：同じ状態でも**遠隔ネットワーク**が活性化する——経験と知識を使って「潜る（dip）」感覚
+- **子どもの脳**：読むときにはたらく領域は、主に近くの領域とやりとりする。それでも情報を処理する効率は大人と変わらない
+- **大人の脳**：広く離れた回路が育ち、長い距離のやりとりが増える。読みながら連想や比較が勝手にはたらくので、子どもほど深く没入しにくい
+- 「大人の読書は、子どもの『浸る（soak）』に比べて『ひたす（dip）』程度かもしれない」は、Prose（2016）が引く神経学者の言葉
 
-子どもの読書体験は大人のそれとは神経学的に異なる。だからこそ子ども期のゾーン体験が「読書家を育てる」一生に一度の窓になる可能性がある。
+子ども期のゾーン体験が読書家を育てる大事な時期だ、という読みは本Wikiのもの。
 
 ### 紙 vs eBook：読解への影響
 
-Mangan et al.（2013, 2014）の研究：
+- **Mangen ほか（2013）**：紙で読んだ10年生は、同じ文章を画面で読んだ10年生より、読解テストの成績が有意に高かった
+- **Mangen ほか（2014）**：Kindle で読んだ大人は、短いミステリーの出来事を正しい順に並べるのが、紙の読者より有意に下手だった
+- 生徒たちの声：開いた本の「2ページと8つの角」が頭の中の地図をつくる、右手の指で残りのページがわかる、前後をめくり返しやすい。端末を試した生徒は、みな紙の本に戻った
 
-- **物語構造の理解**（プロットの展開・登場人物の位置）において、紙の本はeBookより有意に高い読解成績を示す
-- eBook読者は「今どこを読んでいるか」の**空間的感覚（spatial orientation）**が失われやすい
-- 「めくる」「重さを感じる」という物理的体験が物語の構造を身体で記憶させる
+### 今年の読書で期待すること（Expectations for Reading This Year）
 
-> Atwell は「1対1のデバイスが行き渡ったとき、私たちは子どもたちに何を失わせたのか」と問う。
+Atwell が生徒に配る「期待」の一覧から（抜粋）：
 
-### 読書ルール（Reading Rules）
+- できるだけたくさん、できるだけ楽しく読む
+- 家で毎日、週7日、少なくとも30分読む
+- いまの自分・かつての自分・これからの自分にとって大事な本・作家・テーマを見つけ、新しいものも試す
+- Someday List に、読んでみたい本と作家を書きつづける（とくにブックトークや推薦を聞いて）
+- 3週ごとに、読み終えた本について、何に気づき何を味わったかをレターエッセイに書く
+- 本を選ぶ規準と、やめる規準を自分でつくり、言えるようにする
+- 学期ごとに、読み手としての目標を立てて取り組む
 
-Atwell が CTL で定める読書の10ルール：
-
-1. 毎日読む（学校で・家で）
-2. 本を選ぶのは自分
-3. ゾーンに入れない本はやめていい
-4. 本の評価を1〜10でつける
-5. 読み終わったら次の本をすぐに決める
-6. Someday List（読みたい本リスト）を常に育てる
-7. ブック・トークをする（推薦できる本を年1冊以上）
-8. レターエッセイを3週ごとに書く
-9. チェックインで「今の状態」を教師に伝える
-10. 読書時間中は書き物・会話・音楽を控える
+（以前ここにあった「10のルール」は本書にないので、原本の一覧に差し替えた）
 
 ### 3種類の本（Funkhouser）
 
@@ -125,34 +124,35 @@ Atwell は Funkhouser の3分類を選書支援に使う：
 
 「読んだ冊数でシールを貼る」「読書量で賞品を出す」——善意の動機づけ実践が内発的動機を破壊する。
 
-- **Kassin & Lepper（1984）**：外部報酬は活動への内発的動機を低下させる（過正当化効果）
-- **McQuillan（1997）**：報酬プログラムを使った読書指導は、プログラム終了後の読書量を有意に減らす
-- **Marinak（2003）**：本を報酬にすることすら内発的動機に負の影響を与える可能性がある——本が「働いて得るもの」になると「楽しんで読むもの」という連合が壊れる
+Atwell の書いていることは次の二点（各研究の中身は本Wikiでは確かめていない）：
 
-報酬を使った読書プログラム（AR = Accelerated Reader 等）への批判は、これらの実証研究を根拠とする。
+- 読むことへの報酬（書店のギフト券など）が長い目で効くという研究はなく、むしろ逆を示す研究がいくつかある（McQuillan, 1997; Marinak, 2003）
+- もともと楽しんでいた活動に報酬を出すと、報酬がなくなったあと、その活動をしにくくなる（Kassin & Lepper, 1984）
+
+なお Marinak の博士論文（2004）では、本を報酬にした組と報酬なしの組は、トークンを報酬にした組より読み続けた（[[パタン/アリテラシー（読む意志）]] を参照）。
 
 ### Mike と Simone の事例
 
 **Mike の事例**：
-読書評価が第15百分位のADHDを持つ生徒。リーディング・ワークショップ導入前は本を手に取ることすら難しかった。ワークショップ導入後の1年間で36冊を読んだ。「Mikeのようなかつて読まなかった生徒のほうが、優れた読み手よりも大きく伸びることがある」——アトウェルの観察。
+読書評価が第15百分位のADHDを持つ生徒。それまでは読んだふりをしていた。ワークショップの1年間で36冊を読んだ。
 
 **Simone の事例**：
-就学以来読書を拒否してきた生徒。「本が嫌い」と公言し、選書すら難しかった。Atwell は外部評価・報酬・強制を一切使わず、選択・チェックイン・ブック・トークで接し続けた。1年後、Simone は44冊を読み「私は読書家です」と自分を語った。
+CTL に入ったばかりの7年生。自分を読み手だと思っておらず、「つまらない」が口ぐせで、毎晩30分の読書と聞いて落ちこんだ。共著者の Anne が毎日のチェックインで話を聞き、最初の学期は8冊（ほとんど同じシリーズ）。次の学期には、毎晩30分読む・やめる本は1冊だけにする・友だちのブックトークを聞く・自分の関心に合う本を試す、という目標を自分で立て、母親との三者面談で確かめた。7年生で30冊、8年生で44冊を読み、「わたしは本を選ぶのがうまい、速い読み手だ」と書くようになった。評価（目標と成績）の章の事例である。
 
-この2事例は「読む意志（WILL）を環境で育てる」ことの実証であり、[[パタン/アリテラシー（読む意志）]] の核的エビデンスになる。
+この2事例は「読む意志（WILL）を環境で育てる」ことの実践例であり、[[パタン/アリテラシー（読む意志）]] の核的エビデンスになる。
 
 ### ブック・トーク（Book Talks）
 
-Atwell と生徒たちは年間250〜300回のブック・トークを行う（1〜2分の熱烈な口頭推薦）。
+Atwell は、教えていたころ、学級の生徒と合わせて毎年250〜300回のブック・トークをしていた（1〜2分の熱烈な口頭推薦）。
 
-ルール：**評価9以上でなければブック・トークしない・Books-We-Loveに置かない。** 7〜8点の本でブック・トークをすると「まあまあ」の印象が伝播し、選書意欲が下がる。
+ルール：**9か10をつけた本だけをブック・トークする。** 7でも致命的だ、と Atwell は書く。
 
 ### チェックイン（Checking In）
 
 個別の対話を「カンファランス（conference）」ではなく「チェックイン（checking in）」と呼ぶ。この章は、はじめ「Conferences」という題で書かれていたが、執筆の途中で呼び名が変えられた。
 
 - **変更の理由**：教師の集まりで、「一人ひとりと十分な頻度で会えない」「週に一度全員と話すのがやっと」という不安を聞いた。「カンファランス」という語は、重大な話題についての長い面談を思わせ、教師をとまどわせ、ひるませる
-- **実践**：独立読書中、毎日全員に2〜3分・7カテゴリの質問で声をかける
+- **実践**：独立読書中、毎日、一人ひとりに基本的なことを尋ねる（時間と質問の数は本Wikiでは確かめていない）
 - **主目的**：「ゾーンにいるか確認する」——評価ではなくゾーン確認
 
 → [[パタン/チェックイン（Checking In）]] 参照
@@ -161,7 +161,7 @@ Atwell と生徒たちは年間250〜300回のブック・トークを行う（1
 
 読んでいる（または読み終えた）本について、3週ごとに1通・教師または友人宛の手紙を書く。
 
-- 形式：「○○先生へ」で始まる最低3段落の手紙
+- 形式：「○○先生へ」で始まる、少なくとも3ページの手紙
 - ツール：批評ジャーナル（marble composition notebook）——往復書簡が1冊に積み重なる
 - 書き前：Writing-off-the-page（3〜5分の走り書き）で書き出しの恐怖を下げる
 - 段落スターター："I noticed..." / "I wonder..." / "I was confused when..." など
@@ -181,19 +181,22 @@ Atwell と生徒たちは年間250〜300回のブック・トークを行う（1
 Common Sense Media（2014）の調査：
 
 - 17歳の約半数が「1〜2回/年しか読書しない」
-- 2010〜2014年の4年間で8歳以上の全年齢層で読書頻度が低下した
 
-Atwell はこれを「中学校での読書体験の失敗が高校・成人後の読書を殺す」と解釈する。中学期こそ読書アイデンティティが固定する臨界期であり、この時期に「読書家としての自分」を育てることが生涯の読み手を作る。
+中学期に「読書家としての自分」を育てることが生涯の読み手をつくる、という読みは本Wikiのもの。
 
 ---
 
 ## 重要な引用
 
-> 「子どもたちに本を愛するように勧める唯一の絶対確実の方法は、自分自身で本を選ぶように招くことだ。」——Nancie Atwell
+> "the only surefire way to induce a love of books is to invite students to choose their own"
 
-> 「私たちの目標は、子どもたちが本の中に入り込んで生きることを学ぶよう助けることだ。」——Nancie Atwell
+「本を愛するようにする唯一の確実な方法は、生徒に自分で本を選ぶよう招くことだ」（訳は本Wiki）
 
-> 「読書ゾーンとは、読者が物語や情報を何よりも優先する心の状態である。」——Nancie Atwell
+> "Jed, a seventh grader, coined the phrase. It's his interpretation of a condition Thomas Newkirk characterized as 'the reading state' (2000)."
+
+「7年生の Jed がこの言い方をつくった。Thomas Newkirk が『読む状態』と呼んだ状態を、彼なりに言いかえたものだ」（訳は本Wiki）
+
+（以前ここにあった日本語の引用2つは、原本に対応する文が見つからないので外した）
 
 ---
 
@@ -203,7 +206,7 @@ Atwell はこれを「中学校での読書体験の失敗が高校・成人後�
 - **教師も読む**：読む時間に教師自身が本を読む場面を意図的につくる——何を読んでいるかを子どもに話す
 - **レターエッセイを手紙形式に**：読書記録を評価用紙にせず「先生への手紙」として書かせ、手紙を返す往復を仕組みにする
 - **「ゾーンに入れない本はやめていい」を宣言する**：読書ルールとして明示することで、合わない本を続ける苦痛から解放する
-- **報酬プログラムの再考**：シール・ポイント・冊数競争が読書の内発的動機を壊す可能性——Kassin, McQuillan, Marinak の研究を知る
+- **報酬プログラムの再考**：シール・ポイント・冊数競争が、読むことから離れた報酬になっていないかを見る
 - **eBookより紙の本を守る**：特に物語の読解においては、紙の本の空間的・身体的体験を大切にする
 
 ---
@@ -226,19 +229,19 @@ Atwell, N., & Atwell Merkel, A. (2016). *The Reading Zone: How to Help Kids Beco
 
 Fair, D. A., Cohen, A. L., Power, J. D., et al. (2009). Functional brain networks develop from a "local to distributed" organization. *PLOS Computational Biology, 5*(5), e1000381.
 
-Mangan, A., Walgermo, B. R., & Brønnick, K. (2013). Reading linear texts on paper versus computer screen: Effects on reading comprehension. *International Journal of Educational Research, 58*, 61–68.
+Mangen, A., Walgermo, B. R., & Brønnick, K. (2013). Reading linear texts on paper versus computer screen: Effects on reading comprehension. *International Journal of Educational Research, 58*, 61–68.
 
-Mangan, A., Walgermo, B. R., & Brønnick, K. (2014). Students' preference for reading on paper. *Nordic Journal of Digital Literacy, 9*(1), 22–34.
+Mangen, A., Robinet, P., Olivier, G., & Velay, J.-L. (2014). Mystery story reading in pocket print book and on Kindle: Possible impact on chronological events memory. Paper presented at the IGEL Conference.
 
-Kassin, S. M., & Lepper, M. R. (1984). Overjustification and insufficient justification effects: Cognitive and behavioral development. In J. Nicholls (Ed.), *The development of achievement motivation* (pp. 73–106). JAI Press.
+Kassin, S. M., & Lepper, M. R. (1984). Oversufficient and insufficient justification effects: Cognitive and behavioral development. In J. Nicholls (Ed.), *The development of achievement motivation* (pp. 73–106). JAI Press.
 
-McQuillan, J. (1997). The effects of incentive programs on practice: A critical look at Accelerated Reader. *California School Library Association Journal, 20*(2), 34–37.
+McQuillan, J. (1997). The effects of incentives on reading. *Reading Research and Instruction, 36*, 111–125.
 
-Marinak, B. A., & Gambrell, L. B. (2008). Intrinsic motivation and rewards: What sustains young children's engagement with text? *Literacy Research and Instruction, 47*(1), 9–26.
+Marinak, B. (2003). What sustains engagement in reading? Presentation at the National Reading Conference, Phoenix, AZ.
 
-Common Sense Media. (2014). *Children, Teens, and Reading: A Common Sense Media Research Brief.* Common Sense Media.
+Common Sense Media. (2014). *Children, teens, and reading*. Common Sense Media.
 
-Newkirk, T. (2000). *Misreading Masculinity: Boys, Literacy, and Popular Culture.* Heinemann.
+Newkirk, T. (2000). Literacy and loneliness. *Ohio Journal of the English Language Arts*, Fall 2000, 18–21.
 
 ---
 

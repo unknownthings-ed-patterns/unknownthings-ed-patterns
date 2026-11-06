@@ -5,7 +5,7 @@ year: 2009
 tags: [文献, ジェスチャー学習, 身体化認知, 算数, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-06
 source: "Goldin-Meadow, S., Cook, S. W., & Mitchell, Z. A. (2009). Gesturing gives children new ideas about math. Psychological Science, 20(3), 267–272. ／Novack, M., & Goldin-Meadow, S. (2015). Learning from gesture: How our hands change our minds. Educational Psychology Review, 27(3), 405–412."
 ---
 
@@ -86,6 +86,7 @@ source: "Goldin-Meadow, S., Cook, S. W., & Mitchell, Z. A. (2009). Gesturing giv
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 身振りの効き方
 - [[文献/実物から図、図から記号へと薄めていく教え方を、確かめるべき仮説に整理する（FyfeとNathan2019）]] — 実物から図、図から記号へと薄めていく教え方の総説
 - [[文献/身振りをしながら学ぶと、学んだことが4週間後も残るかを確かめる（Cookほか2008）]] — 同じ研究室の、身振りで学んだことが4週間後も残った実験
+- [[パタン/身体性に沿う]] — 手と体を使うことが、考えを生む
 
 ## 展開したい問い
 

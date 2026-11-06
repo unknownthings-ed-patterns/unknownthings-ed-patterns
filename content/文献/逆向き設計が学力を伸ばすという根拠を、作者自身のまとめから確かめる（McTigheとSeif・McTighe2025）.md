@@ -5,7 +5,7 @@ year: 2011
 tags: [文献, 逆向き設計, Understanding by Design, 大きな考え, 本質的な問い, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-06
 source: "McTighe, J., & Seif, E. (n.d.; posted 2011). A summary of underlying theory and research base for Understanding by Design. / McTighe, J. (2025). Research studies on Understanding by Design (UbD)."
 ---
 
@@ -85,6 +85,7 @@ source: "McTighe, J., & Seif, E. (n.d.; posted 2011). A summary of underlying th
 
 - [[パタン/キーコンセプト（胚細胞的概念）]] — 研究の裏づけ：大きな考えを先に決める設計の根拠は、作者自身も「直接の因果の証拠はまだない」と書く
 - [[文献/人の学び方の研究を授業の設計につなぐ（全米研究評議会2000）]] — 2011年の資料が根拠として挙げる『How People Learn』
+- [[文献/考えを組み立て、詳しく書き、生活とつながる課題を出す教室では、基礎学力のテストの伸びも大きいかを、シカゴの3・6・8年生で確かめる（Newmannほか2001）]] — 逆向き設計の根拠として引かれているシカゴの研究の原典
 
 ## 展開したい問い
 

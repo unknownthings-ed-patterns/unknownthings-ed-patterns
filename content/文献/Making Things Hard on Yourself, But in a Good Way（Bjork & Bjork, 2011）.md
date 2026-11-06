@@ -7,7 +7,7 @@ tags: [文献, 望ましい困難, 学習科学, 記憶, 間隔学習, インタ
 literature_status: integrated
 ingested: 2026-10-11
 source: "Bjork, E. L., & Bjork, R. A.（2011）Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher et al.（Eds.）, Psychology and the real world（pp. 56–64）. Worth Publishers."
-updated: 2026-10-11
+updated: 2026-11-06
 ---
 
 # Making Things Hard on Yourself, But in a Good Way（Bjork & Bjork, 2011）
@@ -137,6 +137,7 @@ Bjork, E. L., & Bjork, R. A. (2011). Making things hard on yourself, but in a go
 | 文献 | [[文献/Why Minimal Guidance During Instruction Does Not Work（Kirschner, Sweller & Clark, 2006）]] | 困難が望ましくなくなる条件（知識の土台がないとき）を別の側から論じる |
 | 文献 | [[文献/Organizing Instruction and Study to Improve Student Learning（Pashler et al., 2007）]] | 間隔とテストを、根拠の強さつきで教室の手順にした実践ガイド |
 | 文献 | [[文献/練習問題をまぜると算数の学びが残る（Rohrerほか2015）]] | 交互にまぜる練習を、中学の算数の教室で3か月かけて確かめた実験 |
+| パタン | [[パタン/発見を委ねる（自分で見つけたものこそ燃え上がる）]] | 自分で生み出すこと（生成効果） |
 
 ## 未パタン化の論点
 

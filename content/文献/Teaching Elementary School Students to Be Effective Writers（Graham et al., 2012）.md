@@ -7,7 +7,7 @@ tags: [文献, 作文, ライティング・ワークショップ, 書くこと�
 literature_status: integrated
 ingested: 2026-10-11
 source: "Graham, S., Bollinger, A., Booth Olson, C., D'Aoust, C., MacArthur, C., McCutchen, D., & Olinghouse, N.（2012）Teaching elementary school students to be effective writers: A practice guide（NCEE 2012-4058）. Institute of Education Sciences, U.S. Department of Education."
-updated: 2026-10-11
+updated: 2026-11-06
 ---
 
 # Teaching Elementary School Students to Be Effective Writers（Graham et al., 2012）
@@ -137,6 +137,7 @@ Graham, S., Bollinger, A., Booth Olson, C., D'Aoust, C., MacArthur, C., McCutche
 | 文献 | [[文献/Organizing Instruction and Study to Improve Student Learning（Pashler et al., 2007）]] | 同じ IES の実践ガイド |
 | 文献 | [[文献/読み書き教育における類推的学習の研究（第二版）]] | お手本をまねて書く指導を理論化した岩井の本 |
 | パタン | [[パタン/イメージ]] | よい文章の特徴をまねる手順 |
+| パタン | [[パタン/作家のクラフト]] | お手本の文章の語・文・構成から書き方を学ぶ |
 
 ## 未パタン化の論点
 

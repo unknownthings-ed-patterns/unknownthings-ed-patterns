@@ -5,7 +5,7 @@ year: 2011
 tags: [文献, 読書指導, 読解, 語彙, 読書]
 literature_status: integrated
 ingested: 2026-10-20
-updated: 2026-10-21
+updated: 2026-11-06
 source: "Mol, S. E., & Bus, A. G. (2011). To read or not to read: A meta-analysis of print exposure from infancy to early adulthood. Psychological Bulletin, 137(2), 267–296. https://doi.org/10.1037/a0021890"
 ---
 

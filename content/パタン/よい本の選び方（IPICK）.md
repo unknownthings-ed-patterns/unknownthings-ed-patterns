@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 読書指導, 選書, 自律性, メタ認知, 自己選択自己決定, K-6]
 source: "Boushey, G., & Moser, J.（2014）The Daily 5: Fostering Literacy Independence in the Elementary Grades（2nd ed.）. Stenhouse."
 related: []
-updated: 2026-09-27
+updated: 2026-11-06
 ---
 
 # よい本の選び方（IPICK）
@@ -50,7 +50,7 @@ updated: 2026-09-27
 
 *Summer Reading: Closing the Rich/Poor Reading Achievement Gap* は、自己選択の効果量を実証し、「選び方を間違えると効果がゼロになる」という失敗パターンも明示する。
 
-- **補強された点（自己選択の効果量）**：Lindsay（2013）のメタ分析。選択あり d=.766 vs. 選択なし d=.402——選択があると効果量がほぼ2倍になる。IPICK が「選び方を教える」ことを重視する根拠が実証的に裏付けられた。さらに Guthrie & Humenick（2004）は、興味ある本へのアクセス×自己選択の組み合わせが、フォニックス直接指導の**10倍**の読解力効果をもたらすと示す
+- **補強された点（自己選択の効果量）**：Lindsay（2010）のメタ分析では、本に触れる機会を増やす介入の読みの成績への効果量が、子どもが本を選べたとき d=.766、選べなかったとき d=.402 で、ほぼ2倍だった（Allington と McGill-Franzen 編『Summer Reading』2013 での紹介による）。IPICK が「選び方を教える」ことを重視する根拠の一つになる。さらに Guthrie & Humenick（2004）は、興味の持てる多様な本に触れられることが、読解と読む意欲の両方に大きく効くとする（Atwell『The Reading Zone』での紹介による。原典は未確認）
 - **拡張された点（社会的バイアスの問題）**：Kim & Guryan（2010）の介入研究で介入群の**3分の2が読めないレベルの本を選択**し効果がゼロになった事例は、「自由に選ばせる」だけでは機能しないことを示す。苦手な読者は上手な友達と同じ難しい本を選んでしまう「社会的バイアス（social bias）」がある——この問題への処方箋がIPICKの明示的指導だ
 - **拡張された点（3ステップ法の追加）**：Allington らが推奨する選書の3ステップが、IPICK の C（Comprehend）の実践的手続きとして機能する：① 裏表紙を読む → ② ランダムな1ページを試し読みする → ③ 1〜2語以上わからなければ別の本を探す。IPICKの「Check Comprehension」に手順レベルの具体性を加える
 - **修正された点（独立読書レベルの定義）**：Allington は「独立読書レベル（Independent Reading Level）＝正確率99%以上・理解90%以上」を自発的読書の必要条件とし、「指導読書レベル（95〜98%）」と明確に区別する。CollinsのJust-Right Books定義（90〜95%）より高い基準——夏休みや自由読書では「ちょっと難しい」ではなく「確実に読める」本が必要

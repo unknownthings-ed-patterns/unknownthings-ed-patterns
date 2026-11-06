@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 算数, 数学, 公平性, グループ編成, 脱追跡, 能力別]
 source: "Boaler, J. (2016) Mathematical Mindsets. Jossey-Bass."
 related: []
-updated: 2026-11-05
+updated: 2026-11-06
 ---
 
 # 脱トラッキング（De-tracking）
@@ -23,7 +23,7 @@ Boaler（2016）Ch.7「From Tracking to Growth Mindset Grouping」が一次資�
 
 ## 背景（Context）
 
-「追跡（Tracking）」= 学力別・習熟度別のグループ分け。算数・数学教育で最も広く使われる慣行の一つだが、800人の教師リーダーが「最も害のある教育慣行」として1位に選んだ（Jo Boaler 調査）。
+「追跡（Tracking）」= 学力別・習熟度別のグループ分け。算数・数学教育で最も広く使われる慣行の一つだが、Boaler が800人を超える数学の教師リーダーに「固定マインドセットのメッセージを子どもに伝えている、いまの学校の慣行は何か」と尋ねたところ、はっきりした1位は能力別のグループ分けだった（Boaler, 2016, Ch.7）。
 
 追跡の前提は「同じレベルの子を集めた方が教えやすく、学べる」というものだが、研究はその前提を否定している。最高成績国（韓国・フィンランド・中国）は能力別グループ分けが最少である。
 
@@ -168,6 +168,6 @@ Burris, C. C., Heubert, J. P., & Levin, H. M. (2006). Accelerating mathematics a
 
 Dixon, A. (2002). Editorial. *FORUM*, 44(1).
 
-> "Tracking is the most single most damaging practice in American schools." — 800人の教師リーダーによる調査（Boaler, 2016）
+> "Which current schooling practices deliver fixed mindset messages to students?" — Boaler（2016, Ch.7）が800人を超える数学の教師リーダーに尋ねた問い。いちばん多かった答えは能力別のグループ分けだった（以前ここにあった英文の引用は原典に見当たらないので外した）
 
 [[文献/Mathematical Mindsets（Boaler）]]

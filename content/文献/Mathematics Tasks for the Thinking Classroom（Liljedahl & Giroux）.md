@@ -10,10 +10,13 @@ tags: [文献, 算数, 数学, 問題解決, シンキング・タスク, BTCフ
 literature_status: integrated
 ingested: 2026-05-14
 reintegrated: 2026-05-17
-updated: 2026-10-31
+updated: 2026-11-07
 ---
 
 # Mathematics Tasks for the Thinking Classroom, Grades K-5（Liljedahl & Giroux）
+
+
+> **原文との照合（2026-11-07）**：Kindle 版の原本（OCR）で、このページの引用・章・数字を確かめた。原書にない英語引用6本・『5段階スクリプト』『3部構成』『収束の5ステップ』などを原書の記述に直し、タスク表の内容欄とSeedingの定義を原書に合わせた。
 
 ## 3行要約
 
@@ -50,43 +53,51 @@ updated: 2026-10-31
   2. **高い天井（High Ceiling）**：どこまでも深く探究できる——早く終わった子が退屈せずに続けられる
   3. **新しさ（Novelty）**：教科書や宿題で似た問題を見たことがない——既視感のある問題は「手順を思い出す作業」になり、思考は生まれない
 - **各タスクの構成要素**：
-  - **Launch Script（導入スクリプト）**：タスクをどう口頭で渡すかの具体的な言葉。「渡しすぎない」が最重要——ヒントや手順を先に言うと子どもが考えなくなる
+  - **Launch Script（導入スクリプト）**：タスクをどう口頭で渡すかの台本（言うことと見せることを書いたもの）。本書は全50タスクに付けている。著者は「どう渡すかがタスクの届き方を決める」と述べる
   - **Mild / Medium / Spicy（三段階の足場）**：同じタスクの易・中・難バリアント。「終わったら次の段階」または「入る難しさを自分で選ぶ」どちらの使い方もできる
-  - **Consolidation（収束）**：探究の後、クラス全体を集めて数学的な学びを明確にする時間。最も重要で最もよく省略される段階
+  - **Consolidation（収束）**：探究の後に、教師が主導して授業を閉じる活動の一つ。探究中の生まれたばかりの考えを、整理し・構造化し・形式化する（第5章）。授業の終わりには、収束・意味あるノート・CYU問題のうち少なくとも一つを行うよう著者は強く勧める
   - **Example Student Work（生徒解答例）**：実際の子どもがどんな解き方をするかの見本。教師が「どんな解が出てくるか」を事前に予測して準備できる
-- **Consolidationが最重要**：BTC理論の中核。「探究して終わり」では断片的な発見が残るだけ。収束のフェーズで教師が「みんなの発見を数学の言語でまとめる」ことで、学びが固まる。収束の方法：①生徒の解法を順序よく提示する（simpleから complexへ）②「なぜこれが成り立つのか」を問う③共通する数学的構造を名づける
-- **Banner（バナー）**：本書で新しく提案された実践。ホワイトボードの上部6〜8インチに「バナーゾーン」を設け、3つのルールを守る：①現在取り組んでいるタスクをそこに書く、②早く終わったらバナーから次のタスクを「盗む」（コピーして取り組む）、③自分でタスクを作らない。これにより教師がグループをまわらなくても自律的な探究が続く
+- **Consolidationの位置づけ**：探究中の子どもの考えは「力強いが、生まれたばかりで移ろいやすい」。整理・構造化・形式化する機会がないまま教室を出ると、次の授業までに薄れてしまう、と著者は書く（第5章冒頭）。収束のやり方は三つ：①Conversation（教師が全体の話し合いを導くが、何も書き留めない）②Teacher-scribe（同じく話し合うが、教師が出された考えを黒板に記録する）③Guided gallery walk（黒板に出た子どもの作品を使って、解の層をたどる）。どの方法でも、いちばん単純な考え方から複雑なものへ、具体から抽象へ、ありふれたものから珍しいものへの順（consolidation from the bottom）で進める。著者は「収束は教えることではなく、問うことだ」とも述べる
+- **Banner（バナー）**：本書で新しく提案された実践。ホワイトボードの上部6〜8インチに「バナーゾーン」を設け、3つのルールを守る：①現在取り組んでいるタスクをそこに書く、②早く終わったらバナーから次のタスクを「盗む」（コピーして取り組む）、③自分でタスクを作らない。教師が次のタスクを渡す唯一の人にならず、グループどうしが互いの知識の持ち主になるための仕組みである（第3章）
 - **2種類のヒント**（本書の重要な新概念）：
   - **チャレンジ軽減型（Decrease the challenge）**：部分的な答えや追加情報を与えて入口を下げる。「まずこれだけ考えてみて」「こっちの場合だったらどうなる？」
   - **能力向上型（Increase ability）**：新しい戦略・ツール・表現方法を教えて子どもの力を引き上げる。「表にしてみると？」「図にかくとどうなる？」
-- **Seeding（情報の種まき）**：教師がグループをまわる際、「それは後で全体で話し合おう」と言って、収束（Consolidation）での全体共有に向けて特定の解法・発見を「選んで置いておく」行為。Gallery walkのための事前準備でもある
-- **Thin-Slicing と Variation Theory**（変異理論）：Thin-Slicing（薄切り）は、同じ数学的構造を保ちながら数値や文脈を少しずつ変えた問題系列。Marton & Tsui の変異理論（Variation Theory）に基づき、「何かが変わる（vary）ことで、変わらないもの（invariant）が際立って見えるようになる」という認知原理を使う。Type 1（不変の背景・変化する要素）→ Type 2（変化する要素と目標の関係を対照）→ Type 3（複数要素の変異）と段階がある
+- **Seeding（情報の種まき）**：Gallery walkで見せたい考え方がクラスの作品の中に出ていないとき、教師が「種」をまく行為。子どもから見れば種はヒントと変わらないが、ヒントは「そのグループのため」、種は「クラスのため」である。種が根づいたら、囲む（boxing）か枠を埋める（fill-the-box）で選び、消さないよう頼む
+- **Thin-Slicing と Variation Theory**（変異理論）：Thin-Slicing（薄切り）は、同じ数学的構造を保ちながら数値や文脈を少しずつ変えた問題系列。Marton & Tsui の変異理論（Variation Theory）に基づき、「何かが変わる（vary）ことで、変わらないもの（invariant）が際立って見えるようになる」という認知原理を使う。Type 1・2・3はそれぞれ固有の「変わらない性質」を持ち、次のTypeに進むところでそれが変わる。例：2桁の加法で、Type 1＝一の位の和が10未満、Type 2＝一の位の和が10以上（繰り上がりあり）、Type 3＝十の位の和が100以上
 - **4象限ノートテンプレート（Meaningful Notes）**：探究後に書く「意味あるノート」の新提案。4つのゾーン：A（穴埋め式・Type 1タスク対応）、B（ワーク例・Type 2タスク対応）、C（生徒が選ぶ記述・Type 3タスク対応）、D（Things to Remember＝自分の言葉での総括）。K-1年はA+Bのみ。VNPSで協働ノート作成→個人記入の順で100%参加率が証明済み（70以上の教室で検証）
 - **CYU Questions（Check Your Understanding）**：Mild/Medium/Spicyのラベルを使ったセルフアセスメント問題。「どれをやる？」でなく「どこから始める？（WHERE are you going to start?）」と問う——「WHERE-ing」であり「WHO-ing」ではない。採点しない。「一人でいっしょに（on their own, together）」が原則
 - **Consolidationの発散・収束の区別**：Gallery walkは**発散型タスク**（多様な解が出る非カリキュラムタスク等）に適し、Teacher-scribe（教師が板書しながらまとめる）は**収束型タスク**（正解に向かうカリキュラムタスク）に適す。Thin-slicedタスクでは「noticing and naming variation（変異に気づいて名づける）」が収束のコアになる。常に「底から上へ（consolidation from the bottom）」——最もシンプルな解法→より複雑へ、具体的→抽象的、ありふれた解法→珍しい解法の順
 - **14のBTC実践との接続**：タスク選びだけで思考する教室は作れない。垂直な非永続面（ホワイトボード等）への立って書く探究・ランダムグループ・「正解を教えない」などの環境設計と組み合わせることで機能する
 - **Mild/Medium/Spicy の使い方**：Mild→Medium→Spicyは単純な難易度ではなく、**考える深さの段階**。Mildで全員が「できた」を経験し、Spicyで「なぜ？」「いつも？」という数学的一般化に向かう。評価的な言語（「難しい問題」「簡単な問題」）を使わないことが重要——Mild/Medium/Spicyは問題の属性であり、子どもの能力の評価ではない
-- **授業の時間配分**：Launch（最初の5分） → 探究フェーズ（授業の2/3） → Closing（残りの1/3：Consolidation + ノート + CYU Questions）
+- **授業の時間配分**：授業は Launch・Body（探究）・Closing の三つの局面からなる。LaunchとBodyを合わせて授業時間の約2/3、Closingは最大で最後の1/3（収束・意味あるノート・CYU問題のうち少なくとも一つを、この順で）。どちらも目安で、教室の様子で調整する。タスクを口頭で渡すのは、授業開始を宣言してから5分以内
 
 ## 重要な引用
 
-> "The goal of a thinking classroom is not to get students to think about mathematics. It's to get students to think."
+以下は原書の英文。出典は章と節で示す（OCR由来のため頁番号は付けない）。
 
-> "A low floor means every student can get into the task. A high ceiling means every student can be challenged."
+> "One of the key things to getting students to think is to get out of their way. To stop assuming that they can't and start assuming that they can."
+> — 第2章 When to Give a Thinking Task
 
-> "The launch of the task is the most critical moment. Say too much and students stop thinking. Say too little and they can't get started."
+> "a good task has a low floor (Papert, 1980)—a way for every student to be able to start." ／ "everyone needs to meet some level of challenge at some point in the task."
+> — 第1章 Hallmarks of a Good Thinking Task
 
-> "Consolidation is the most important moment in the thinking classroom—and the most often skipped."
+> "How you launch the task will determine how well it lands."
+> — Part 3 Launch Script
 
-> "If students are doing thinking tasks but not experiencing consolidation, they are experiencing activity without learning."
+> "Consolidation is not about telling; it is about asking."
+> — 第5章 FAQ
 
-> "Novelty is essential. A task that looks like last night's homework is not a thinking task."
+> "Closing out the lesson through consolidation, meaningful notes, or check-your-understanding questions helps transfer that collective knowing and doing into individual knowing and doing."
+> — 第5章 FAQ
+
+> "thinking is what we do when we don't know what to do. If we know what to do, we just do it—we mimic. Novelty ensures that the students can't mimic."
+> — 第1章 Hallmarks of a Good Thinking Task
 
 ## 教育実践への示唆
 
 - **年度初めの1〜2週間は非カリキュラムタスクだけ使う**——「算数は考える教科だ」という文化を作ってからカリキュラムに進む。最初から教科書の問題を使うと、「手順を覚える教科」の文化が先に固まる
-- **収束（Consolidation）の時間を必ず設計する**——探究の後、「みんなが見つけたことを整理する5〜10分」を授業に組み込む。「どんな方法が出た？」「なぜそれが成り立つの？」を問う。この時間がないとタスクは単なる遊びで終わる
-- **Launch scriptを守る**——導入では問いだけを渡す。「ヒントがある？」「どうやるの？」と聞かれても、「まずやってみて」と返す。最初の5分間は教師が答えない、のがBTCの原則
+- **収束（Consolidation）の時間を必ず設計する**——探究の後に、「みんなが見つけたことを整理する時間」を授業に組み込む（長さの目安は本Wikiの案で、5〜10分）。「どんな方法が出た？」「なぜそれが成り立つの？」を問う。この時間がないとタスクは単なる遊びで終わる
+- **Launch scriptを使う**——導入では口頭で、場面を語りながらタスクを渡す（本書の台本は短い物語と問いかけで進む）。授業が始まってから5分以内に、子どもが考え始めているようにする。全員が指示を理解するのを待たず、口頭で伝えたあとは教室を回って、困っているところに応じる（著者のいう firefighter approach）
 - **Mild/Medium/Spicyで「全員がどこかに着く」設計にする**——どの子も「入れる」（Mild）と「続けられる」（Medium/Spicy）の両方を保証する。特別支援の子もMildから確実に参加できる
 - **非カリキュラムタスクは週1回使う**——単元の中でも「単元に関係ない面白い問題」を週1回入れることで、「算数を楽しむ・考え続ける」文化が続く
 
@@ -95,8 +106,8 @@ updated: 2026-10-31
 
 - [[パタン/算数シンキング・タスク]] — 本書のタスク設計原理をパタン化（LFHC・3段階の授業構造）
 - [[パタン/非カリキュラムタスク（考える文化をつくる問い）]] — 年度初めに考える文化をつくる問いの設計
-- [[パタン/Launch Script（タスクの渡し方）]] — タスクを口頭で渡す5段階スクリプト
-- [[パタン/Consolidation（収束の時間）]] — 探究後の収束フェーズ。最も重要で最もよく省略される段階
+- [[パタン/Launch Script（タスクの渡し方）]] — タスクを口頭で渡すための台本の考え方
+- [[パタン/Consolidation（収束の時間）]] — 探究後の収束フェーズ。三つのやり方と「底から上へ」の順序
 - [[パタン/Thin-Slicing設計（薄切り問題の作り方）]] — 変異理論に基づく問題系列の設計原理
 - [[文献/日独米の数学の授業をビデオで比べる（Stiglerほか1999）]] — 日本の「問題が先」の授業の記述。具体物やグループという表面の特徴だけでは台本が変わらないという警告
 - [[パタン/同一文脈・複数概念の展開]] — 同じ文脈で複数の数学的概念を連続展開する設計
@@ -112,9 +123,9 @@ updated: 2026-10-31
 
 ### Part 1：思考する教室のレッスンとはどういうものか
 
-- BTCの14実践の復習と本書での位置づけ
-- 3段階のレッスン形式（Launch → 探究 → Consolidation）の詳細
-- タスクを「渡す」ことの技法（Launch Scriptの作り方）
+- タスクの使い方に最も関係する8つのBTC実践の復習と、本書で新しくなった点
+- 3つの局面からなるレッスン（Launch → Body → Closing）の詳細
+- タスクを「渡す」ことの技法（口頭で渡す・授業開始から5分以内・どこから渡すか）
 - Consolidation（収束）の設計原則
 
 ### Part 2：非カリキュラム思考タスク（Task 1〜20）
@@ -123,26 +134,26 @@ updated: 2026-10-31
 
 | # | タスク名（原題） | 数学的な探究の核心 |
 |---|-----------------|-------------------|
-| 1 | Hexagon Havoc（六角形の大騒ぎ） | 形の分割と再構成・空間的思考 |
+| 1 | Hexagon Havoc（六角形の大騒ぎ） | 1,1,2,2,3,3を六つの六角形に、同じ数が接しないように入れる（パターン・数えること・数を書くこと） |
 | 2 | Next Door Numbers（隣の数） | 数のパターン・連続数の性質 |
 | 3 | Letters in a Name（名前の文字数） | 数え方・グラフ化・統計的思考 |
-| 4 | Shape Race（形のレース） | 分類・特徴の体系化 |
-| 5 | Ice Cream Scoops（アイスのスクープ） | 組み合わせ・体系的な列挙 |
-| 6 | At the Fair（お祭りで） | 組み合わせ・順列の入口 |
+| 4 | Shape Race（形のレース） | 3つの図形がゴールする順番を全部見つける（並べ方の列挙・パターン） |
+| 5 | Ice Cream Scoops（アイスのスクープ） | 全部のスクープ数と、みんなが同じ数ずつ食べることから一人分を求める（等分・2倍・偶数と奇数） |
+| 6 | At the Fair（お祭りで） | 3枚のチケットで10分のあいだに乗れる乗り物を考える（加法・数えること・10をつくる） |
 | 7 | Katha the Caterpillar（毛虫のカタ） | パターンの発見と延長 |
-| 8 | Carnival Conundrum（カーニバルの謎） | 戦略・論理的思考 |
+| 8 | Carnival Conundrum（カーニバルの謎） | V字に1〜5を入れ、両腕の合計をそろえる（数えること・加法・パターン） |
 | 9 | Colored Boxes（色のついた箱） | 空間認識・論理 |
 | 10 | There's How Many Legs?（足は何本？） | 数え方の工夫・倍数的思考 |
 | 11 | Ways to Make 10（10をつくる方法） | 数の合成・分解・ボンドの全探索 |
-| 12 | Tables at a Party（パーティーのテーブル） | 数のパターン・規則の発見 |
+| 12 | Tables at a Party（パーティーのテーブル） | 12人を同じ大きさのテーブルに空席なく座らせる大きさを探す（跳び数え・くり返しの加法・かけ算とわり算・交換法則） |
 | 13 | Squares on a Checkerboard（チェス盤の正方形） | 体系的な数え方・二乗数の出現 |
 | 14 | Prisms Prisms Prisms（プリズムプリズムプリズム） | 立体の特徴・体系的な分類 |
-| 15 | Brianna the Birdy（小鳥のブリアナ） | パターンの一般化 |
-| 16 | When is a Triangle a Square?（三角形がいつ正方形？） | 図形の変換・概念の境界 |
+| 15 | Brianna the Birdy（小鳥のブリアナ） | 余りの条件から卵の数を探す（かけ算・約数と倍数・値の表） |
+| 16 | When is a Triangle a Square?（三角形がいつ正方形？） | 三角数でも四角数でもある数を探す（かけ算・加法・パターン） |
 | 17 | Outfit Choices（服の組み合わせ） | 順列・組み合わせの本格的探究 |
 | 18 | How Many High Fives?（ハイタッチは何回？） | 組み合わせ・三角数との接続 |
 | 19 | Folding Paper（紙を折る） | 指数的成長・2の累乗 |
-| 20 | Twin Test（双子のテスト） | 論理・真偽の判定 |
+| 20 | Twin Test（双子のテスト） | 50/70 と 40/56 のどちらが成績がよいか（約数・わり算・分数・小数・割合） |
 
 ### Part 3：カリキュラム思考タスク（Task 21〜50）
 
@@ -186,6 +197,7 @@ updated: 2026-10-31
 - タスクをさらに探す方法（Where to Find More Tasks）
 - ゼロからシン・スライスする方法（How to Thin-Slice From Scratch）
 - 既存のカリキュラムからシン・スライスする方法（How to Thin-Slice Existing Curriculum Resources）
+- 文章題をシン・スライスする方法（How to Thin-Slice Word Problems）
 - シック・スライスの方法（How to Thick-Slice）
 
 > **Thin-Slice（薄切り）**：同じ数学的構造を保ちながら、数値や文脈を少しずつ変えた問題系列を設計する方法。Consolidationで「なぜそれが成り立つか」を引き出しやすくなる。
@@ -195,34 +207,33 @@ updated: 2026-10-31
 
 ## Launch Scriptの設計原則
 
-本書が最も詳しく扱う実践知の一つがLaunch Script（タスクの渡し方）の設計。
+本書は50タスクすべてにLaunch Script（口頭で渡すための台本）を付けている。以下は第2章とPart 3冒頭の記述にもとづく。
 
-**基本原則：**
-1. **3文以内**——問いの核心だけを渡す。背景説明・ヒント・手順を先に言わない
-2. **口頭のみ**——紙に書いてしまうと、子どもが「読んで理解する」モードになる
-3. **全員が聞いているか確認してから始める**——「みんな聞こえる？ よし」
-4. **最初の5分は答えない**——「まずやってみて」「どんなことに気づいた？」と返す
-5. **行き詰まりは質問で突破する**——「もっと簡単な場合は？」「別の例を試してみた？」
+**本書が述べていること：**
+1. **口頭で渡す**——BTCの研究では、どの学年・どの場面でも、口頭で渡したときが最も思考が引き出された（多言語の子が多い教室でも）。ただし口頭だけではない。表のデータは紙で、パターンは板書で渡し、それをどうするかを口頭で言う。最初の3〜4週間は口頭を保ち、規範ができてから文章で渡す練習を少しずつ入れてよい
+2. **授業開始から5分以内に**——「算数の時間を始める」と宣言した時点から数えて、5分以内に子どもが考え始めているようにする
+3. **全員の理解を待たない**——十分な数の子が分かればよく、残りはグループの協働が補う。口頭で渡したあとで困っているところに応じる（firefighter approach）
+4. **台本は場面を語り、条件を少しずつ明かす**——課題を最も単純な数学の言葉で読み上げるだけでは足りない。台本は自分のことばで語り、本から読み上げない
+5. **入口と延長を用意する**——台本のあとに、入りにくい子への調整（Creating Access）と、終えたグループへの延長の台本（Extension Scripts）が付く。「易しく始めすぎることはない」（you can never go too easy）
 
-**Launch Script の構造（3部構成）：**
-- **状況の設定**（Context）：どんな場面か、何があるかを一文で示す
-- **問いの提示**（The Task）：「〜はいくつですか？」「〜を全部見つけてください」
-- **始めの一手を促す**（The Nudge）：「まずこれを試してみて」（Mildの最初の問い）
+**参考：台本の場面の進み方（本Wikiの整理）**：「状況を見せる → 問いを出す → 条件を足す」。本書の用語ではなく、台本を読んで本Wikiが整理した型である。
 
 ---
 
 ## Consolidationの具体的手順
 
-本書はConsolidation（収束）をBTC実践の中で最も詳しく扱う。
+本書は第5章でConsolidation（収束）を扱い、各タスクに「その収束で何を引き出すか」を述べた節を付けている。
 
-**収束の5ステップ：**
-1. **全員を集める**——探究を止め、全体に注目させる（板書・ホワイトボードを囲む）
-2. **最もシンプルな解法から提示する**——「まずこの方法を見てください」
-3. **「なぜ？」を問う**——「なぜこれが成り立つの？」「いつもそうなる？」
-4. **共通する数学的構造を名づける**——「これを○○と言います」（概念の命名）
-5. **Spicyの発見を位置づける**——「この子が見つけたことは、実は…という数学の大事な考えです」
+**収束の三つのやり方（第5章）：**
+1. **Conversation**——教師が課題と解について全体の話し合いを導く。何も書き留めない。大きな考えや一般的な戦略を話すときに向く
+2. **Teacher-scribe**——教師が焦点を絞った問いで話し合いを導き、出された考えを黒板に記録する。細部が必要なときに向く
+3. **Guided gallery walk**——黒板に出ている子どもの作品を使って、解の層をたどりながら話し合う
 
-**収束での教師の語り口の例：**
+方法にかかわらず、順序は「底から上へ」（consolidation from the bottom）。いちばん単純な考え方から複雑なものへ、具体から抽象へ、ありふれたものから珍しいものへ進む。どの子も、自分の作業が行き着いたところから会話に入れる。
+
+Guided gallery walkの準備は、探究（Body）の間に Selecting（選ぶ）・Seeding（種をまく）・Sequencing（並べる）として進める。
+
+**収束での教師の語り口の例（本Wikiの例。本書の台本ではない）：**
 > 「グループAの方法を見てください。なぜこれで求まるの？　…そうですね。では、グループBはどうやった？　同じ答えが出た？　どこが違う？　…この二つの方法、実は同じことをしているんだ。それが○○という考え方です。」
 
 ---

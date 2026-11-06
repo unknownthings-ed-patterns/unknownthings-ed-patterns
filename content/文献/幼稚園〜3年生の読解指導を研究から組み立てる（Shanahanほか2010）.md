@@ -5,7 +5,7 @@ source: "Shanahan, T., et al. (2010). Improving reading comprehension in kinderg
 author: "Timothy Shanahan, Kim Callison, Christine Carriere, Nell K. Duke, P. David Pearson, Christopher Schatschneider, Joseph Torgesen"
 year: 2010
 ingested: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-06
 ---
 
 # 幼稚園〜3年生の読解指導を研究から組み立てる（Shanahanほか2010）
@@ -99,6 +99,7 @@ updated: 2026-10-31
 | パタン | [[パタン/熟慮的インストラクション]] | だんだん任せる流れの根拠の強さ |
 | パタン | [[パタン/自己調整]] | だんだん任せる流れの根拠の強さ |
 | 文献 | [[文献/5〜7歳の読み書きの指導を研究から整える（英国EEF2020）]] | このガイドを参照する英国の5〜7歳の読み書きの指針 |
+| パタン | [[パタン/リーディング・ワークショップ]] | 選書・方略・話し合いを一つの授業構造にまとめる。勧めの根拠の強さは要素ごとに違う |
 
 ## 展開したい問い
 

@@ -5,7 +5,7 @@ year: 2023
 tags: [文献, ルーブリック, 評価規準, 形成的評価, 自己評価, 相互評価, 自己調整, 自己効力感, メタ分析, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-05
-updated: 2026-11-05
+updated: 2026-11-06
 source: "Panadero, E., Jonsson, A., Pinedo, L., & Fernández-Castilla, B. (2023). Effects of rubrics on academic performance, self-regulated learning, and self-efficacy: A meta-analytic review. Educational Psychology Review, 35, Article 113."
 ---
 
@@ -88,6 +88,7 @@ Springer の公開版（CC BY 4.0）の PDF（38ページ）を、要旨から�
 - [[文献/自己調整学習の六モデル（Panadero2017）]] — 同じ第一著者による、自己調整学習のモデルの整理
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — ルーブリック
 - [[文献/意見文へのフィードバックを、書き込みのコメントにするか、ルーブリックとお手本にするかで、書く力の伸びは変わるかを、無作為に分けて確かめる（Peltzerほか2024）]] — 要素ごとのルーブリック＋お手本の無作為化比較（意見文）
+- [[文献/自己評価を、点をつけることではなく、直すための手がかりを自分でつくることとして使うと効くかを、76の研究から見直す（Andrade2019）]] — 自己評価の研究の見直し（直すための自己評価）
 
 ## 展開したい問い
 

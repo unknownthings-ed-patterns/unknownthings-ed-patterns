@@ -5,7 +5,7 @@ year: 2004
 tags: [文献, 対話, 協同学習, 思考]
 literature_status: integrated
 ingested: 2026-10-18
-updated: 2026-10-21
+updated: 2026-11-06
 source: "Mercer, N., Dawes, L., Wegerif, R., & Sams, C. (2004). Reasoning as a scientist: Ways of helping children to use language to learn science. *British Educational Research Journal, 30*(3), 359–377. https://doi.org/10.1080/01411920410001689689"
 ---
 
@@ -50,6 +50,7 @@ Mercer, N., Dawes, L., Wegerif, R., & Sams, C. (2004). Reasoning as a scientist:
 - [[パタン/考える文化]] — 対話の記録と、個人の考えの変化を見比べる。
 - [[パタン/ソーシャル]] — 理由を出し合う対話
 - [[文献/教室の話し合いを変える研修で、子どもの学力が伸びるかを確かめる（EEFの対話的な授業の評価2017）]] — 考え合う話し合いを、76校の無作為化比較で確かめた評価
+- [[文献/教師と子どものやりとりで、考えを広げることと問い返すことが、多くの子どもが参加する中で起きると、学力は高いかを、72学級の授業で確かめる（Howeほか2019）]] — 教師と子どものやりとりでは、理由を言い求めることは学力と結びつかなかった
 
 ## 展開したい問い
 

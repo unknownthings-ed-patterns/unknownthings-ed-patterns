@@ -5,7 +5,7 @@ year: 1977
 tags: [文献, 動機づけ, 自己効力感, 学習科学]
 literature_status: integrated
 ingested: 2026-10-18
-updated: 2026-10-18
+updated: 2026-11-06
 source: "Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*(2), 191–215. https://doi.org/10.1037/0033-295X.84.2.191"
 ---
 
@@ -53,6 +53,7 @@ Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change
 - [[パタン/ミメーシス（模倣による学び）]] — 他者の取り組みから、自分が試す見通しがどう生まれるかを見る。
 - [[パタン/目標設定]] — 到達したい目標に、遂行できる部分と必要な援助の見通しを添える。
 - [[パタン/熟慮的動機づけ]] — 自己効力
+- [[文献/苦手な引き算を、その日に届く小さな目標で進めると、できる見通しと力と興味がそろって育つかを確かめる（BanduraとSchunk1981）]] — 近い小さな目標の達成が、できるという見通しと興味を育てた実験（小学生40人）
 
 ## 展開したい問い
 

@@ -5,7 +5,7 @@ year: 2008
 tags: [文献, 数学, 高校, 能力で分けない学級, 複雑指導, 公平さ, 縦断の事例研究, 質的研究, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-05
-updated: 2026-11-05
+updated: 2026-11-06
 source: "Boaler, J., & Staples, M. (2008). Creating mathematical futures through an equitable teaching approach: The case of Railside School. Teachers College Record, 110(3), 608–645."
 ---
 
@@ -111,6 +111,7 @@ Boaler の研究組織（youcubed）のサイトで公開されている PDF（�
 - [[パタン/数学のクラス規範]] — Railside で規範を丁寧に育てた時間のとり方（入門の代数を2倍の時間に）
 - [[文献/Mathematical Mindsets（Boaler）]] — この研究をもとにした本（第7章）
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 能力で分けない数学の学級
+- [[パタン/豊かな課題]] — 研究の裏づけ（仮説）：だれにも同じ高い水準の、長めの概念的な問題
 
 ## 展開したい問い
 

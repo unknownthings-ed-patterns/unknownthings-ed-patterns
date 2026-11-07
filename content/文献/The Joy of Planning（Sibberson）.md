@@ -5,10 +5,13 @@ author: "Franki Sibberson"
 year: 2012
 tags: [文献, 国語, 読書指導, ミニレッスン, リーディング・ワークショップ, 授業設計, サイクル計画]
 ingested: 2026-05-13
-updated: 2026-05-18
+updated: 2026-11-07
 ---
 
 # The Joy of Planning: Designing Minilesson Cycles in Grades 3-6（Sibberson）
+
+
+> **原文との照合（2026-11-07）**：Kindle 版の原本（OCR）で、このページの引用・章・数字を確かめた。読書行動を9から10に直し、Donalyn Miller の引用の訳と書名の扱い、Johnston 引用の帰属を原文に合わせた。
 
 ## 書誌情報
 
@@ -36,7 +39,7 @@ Sibberson, F. (2012). *The Joy of Planning: Designing Minilesson Cycles in Grade
 **核心**：ミニレッスンを「個々の授業」としてではなく、**サイクル（Minilesson Cycle）** として計画することで、教師は「カリキュラムを教える」から「読者を育てる」への転換ができる。
 
 - **ミニレッスンについての10の信念（Beliefs）**：
-  1. 独立した読者になるためのスキル・ストラテジー・行動を育てるために設計する（teach the reader, not the book）
+  1. 独立した読者になるためのスキル・ストラテジー・行動を育てるために設計する
   2. 概念の理解を深めるために時間をかけてスキャフォールドされる（孤立した活動ではない）
   3. 読書生活についての継続する会話の一部である
   4. 生徒が考える側であるべき——対話的（Interactive）である
@@ -72,7 +75,7 @@ Sibberson, F. (2012). *The Joy of Planning: Designing Minilesson Cycles in Grade
 
 ## Chapter 1 詳細：サイクル計画のフレームワーク
 
-**年度初めに育てたい9つの読書行動（Figure 2 より）：**
+**年度初めに育てたい10の読書行動（第1章の箇条書きより）：**
 1. テキストについて他者と話す（Talking to others about text）
 2. 他者の思考を土台にして積み上げる（Building on someone else's thinking）
 3. 読むにつれて考えを変える（Changing your thinking as you read）
@@ -82,6 +85,7 @@ Sibberson, F. (2012). *The Joy of Planning: Designing Minilesson Cycles in Grade
 7. 根拠でもって思考を支える（Supporting thinking with evidence in the text）
 8. 混乱に気づく（Noticing confusion）
 9. 多様なツールで注釈をつける（Using a variety of tools for annotating text）
+10. 本を選ぶ（Choosing books）
 
 **サイクルの3種類のバランス（年間設計）：**
 Sibberson は年間を通じて以下の3種類のサイクルをバランスよく設計することを重視する：
@@ -180,8 +184,8 @@ Nicholas Carr（*The Shallows*, 2010, p.8）の言葉：「情報を速く見つ
 - 毎回同じ順序で問いに答えるわけではない。子どもから出発することも、リソースから出発することも、基準文書から出発することもある
 - 「残り続けているのは信念と問いであり、順序ではない」
 
-**Donalyn Miller（*The Book Whisperer*）の言葉：**
-「企業製の scripted programs、comprehension worksheets、computer-based incentive packages、test practice curriculum は企業の bottom line を確保し、学校が資源を使っている証拠になるかもしれないが、これらは多くの子どもを失敗させる運命にある——なぜなら最も重要な要素を置き去りにしているから。プログラムをフォークリフトで積み上げても、その下には本を読む一人の子どもがいるだけだ」
+**Donalyn Miller の言葉（本書は第5章冒頭にエピグラフとして置き、書名は記していない）：**
+「企業製の scripted programs、comprehension worksheets、computer-based incentive packages、test practice curriculum は企業の bottom line を確保し、学校が資源を使っている証拠になるかもしれないが、これらは多くの子どもを失敗させる運命にある——なぜなら最も重要な要素を置き去りにしているから。フォークリフトとシャベルでプログラムを取り除いてみれば、その下にあるのは本を読む一人の子どもだ」
 
 ## 重要な引用
 
@@ -197,7 +201,7 @@ Nicholas Carr（*The Shallows*, 2010, p.8）の言葉：「情報を速く見つ
 
 > "Finding the smallest number of high-leverage, easy to understand actions that unleash stunningly powerful consequences." —Michael Fullan, *Motion Leadership*（2009, p.16）
 
-> "Minilessons should empower students and help them develop strong identities as readers." （Peter Johnston, *Choice Words*, 2004, p.23 を援用して）
+> "Minilessons should empower students and help them develop strong identities as readers." —Sibberson（2012）（この直後に Peter Johnston, *Choice Words*, 2004, p.23 を引用している）
 
 > "Intentional teachers are thoughtful, reflective people who are conscious of the decisions they make and the actions they take; they live and teach by the principles and practices they value and believe in." —Debbie Miller（2008, p.4）
 
@@ -257,4 +261,4 @@ Jago, C. (2004). *Classics in the Classroom: Designing Accessible Literature Les
 
 Miller, D. (2008). *Teaching with Intention: Defining Beliefs, Aligning Practice, Taking Action, K-5*. Stenhouse Publishers.
 
-Miller, D. (2009). *The Book Whisperer: Awakening the Inner Reader in Every Child*. Jossey-Bass.
+Miller, D. (2009). *The Book Whisperer: Awakening the Inner Reader in Every Child*. Jossey-Bass.（本書の参考文献には載っていない。上の引用の出典として本Wikiが補った）

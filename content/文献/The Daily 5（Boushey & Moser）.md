@@ -5,7 +5,7 @@ author: "Gail Boushey, Joan Moser"
 year: 2014
 tags: [文献, 国語, 読書指導, 独立学習, スタミナ, 選択, 小グループ指導, K-6, 算数]
 ingested: 2026-05-15
-updated: 2026-09-27
+updated: 2026-11-07
 ---
 
 # The Daily 5（Boushey & Moser, 2014）
@@ -15,9 +15,12 @@ Boushey, G., & Moser, J. (2014). *The Daily 5: Fostering Literacy Independence i
 ISBN: 978-1-57110-974-3（pbk）/ 978-1-62531-002-6（ebook）
 献辞：「For our parents, our first and forever teachers」
 
-Gail Boushey と Joan Moser（通称「The 2 Sisters」）はアイダホ州の小学校教師。Daily 5 は2006年初版、2014年第2版。姉妹書『The CAFE Book』（2009）はCAFE（Comprehension・Accuracy・Fluency・Expand vocabulary）の4カテゴリで個別指導の意思決定を支える。
+Gail Boushey と Joan Moser（通称「The 2 Sisters」）は小学校教師（本書の著者紹介では、二人合わせて50年以上の教職経験をもつ）。Daily 5 は2006年初版、2014年第2版。姉妹書『The CAFE Book』（2009）はCAFE（Comprehension・Accuracy・Fluency・Expand vocabulary）の4カテゴリで個別指導の意思決定を支える。
 
 ---
+
+
+> **原文との照合（2026-11-07）**：Kindle 版の原本（OCR）で、このページの引用・章・数字を確かめた。著者の所在（アイダホ州）、第2版の新章の記述、スタミナの数字、Samuels & Farstrup の訳、Ben の引用の継ぎ、パートナーの選び方などを本書に合わせて直した。
 
 ## 本の構成
 
@@ -41,7 +44,7 @@ Gail Boushey と Joan Moser（通称「The 2 Sisters」）はアイダホ州の�
 - **起動順序の変更**：第2番目は Read to Someone ではなく **Work on Writing** になった
 - **ラウンド数の縮減**：5ラウンド全部を毎日行う必要はない——スタミナに応じて **2〜3ラウンド** に落ち着く
 - **I-チャートの作り方変更**：生徒がブレインストームするのではなく、教師が5つの望ましい行動をチャートに書き込み、簡潔に説明する（脳研究に基づき、授業時間短縮のため）
-- **バロメーター児童への4段階支援**が新章として整備
+- **バロメーター児童への4段階支援**を第9章で図示（Figure 9.1）。第2版で新設された章として本書が挙げるのは「年齢とスタミナによる指導の差別化」と「Math Daily 3」
 - **Math Daily 3** の新章追加
 - **脳研究**に基づく焦点レッスンの長さ（年齢 = 集中分数）が全体設計に明示化
 
@@ -75,7 +78,7 @@ Daily 5 の位置づけ：シートワーク → センター → ワークシ�
 
 ---
 
-### 7つのコア・ビリーフ（Ch.2）
+### 7つのコア・ビリーフ（Ch.2。7つ目の「10 Steps to Independence」は Ch.3）
 
 Daily 5 を支える核心的な信念。
 
@@ -115,7 +118,7 @@ Michael（転校生）とAmandaのエピソード：Amandaが毎日Michaelをパ
 | 50 パーセンタイル | 4.6分 | 282,000語 | +217% |
 | 20 パーセンタイル | 0.7分 | 21,000語 | **+1,429%** |
 
-低学力層の生徒に1日10分の読書を追加するだけで語彙遭遇量が14倍になる——これが Daily 5 の存在理由。
+対象は中流家庭の5年生。20パーセンタイルの生徒が1日10分読書を足すと、遭遇する語数が1,429%増える（約15倍）。著者たちはこの数字を、毎日の読む時間を増やす根拠として挙げている。
 
 **6. Transitions as Brain and Body Breaks（移行が脳と体の休憩になる）**
 
@@ -249,7 +252,9 @@ Neil Gaiman（1997）「私はアイデアを作り出す。頭の中から。�
 
 1. 口を閉じて、手を上げる（パートナー募集のサイレントサイン）
 2. 静かに近くの手を上げているクラスメートのところへ歩く
-3. 小声で「パートナーになりますか？」
+3. 目を合わせる
+4. 感じよく「Will you be my partner?」と頼む
+5. 相手は笑顔で「Yes, thank you」と答える
 
 ---
 
@@ -270,13 +275,12 @@ Neil Gaiman（1997）「私はアイデアを作り出す。頭の中から。�
 ### スタミナと脳休憩の構造
 
 Ben（幼稚園修了時の振り返り）のエピソード：
-> 「Daily 5 が一番、読み手になるのを助けてくれた。Read to Self をするとき、もっとうまくなれるから。学校に来たとき、言葉を正しく読めなかった。でも Daily 5 のたびに練習して、今は読める。」——Ben
+> 「Daily 5 が一番、読み手になるのを助けてくれた。Read to Self をするとき、もっとうまくなれるから。」（理由を聞かれて）「Read to Self では正確さに取り組めるから。学校に来たとき、言葉を正しく読めなかった。でも Daily 5 のたびに練習して、今は読める。」——Ben
 
 スタミナの積み上げ例：
-- 初日：1〜3分（7年生でも夏休み明けは4〜5分程度）
-- 2〜3週間後：15〜20分
-- 安定期（8〜12週後）：20〜30分以上
-- 目安に達したら：ラウンド数を減らし（5→4→3→2）、各ラウンドをより長い独立練習にする
+- 初日：2〜3分程度から（本書は、幼稚園では30秒、4年生でも5分で切れることがある、7年生の担任の例でも最初の数回は4〜5分だった、と述べる）
+- 次の Daily 5 を導入する目安（Read to Self のスタミナ）：幼稚園7〜8分／低学年10〜12分／中高学年12〜14分
+- 安定期（開始から8〜12週後）：スタミナ切れでなく時間切れで集めるようになったら、ラウンドを5→4→3（→2）と減らし、各ラウンドを長くする
 
 ---
 
@@ -297,7 +301,7 @@ Ben（幼稚園修了時の振り返り）のエピソード：
 
 **日常チェックインでの自由選択の導入（Day 9）**：
 
-「Read to Self と Work on Writing の両方を独立してできるようになった今日、あなたたちは完全に自分で順番を決める。Read to Self を先にする人もいれば、Work on Writing を先にする人もいる。私はあなたたちを信頼しています。」
+（Day 9 の語りかけの要約）Read to Self と Work on Writing の両方を独立してできるようになったので、今日は二つをやる順番を完全に自分たちで決める。Read to Self を先にする人もいれば、Work on Writing を先にする人もいる。学んで練習してきたとおり独立して取り組めると信頼している。
 
 クラスメートが歓声で応え、当日は前の日よりスタミナが伸びることが多い。「選択の自由が動機を高める」は毎年繰り返された観察。
 
@@ -337,7 +341,7 @@ Daily 5 と同じ構造と 10 Steps で「算数の独立練習時間」を作�
 
 > 「子どもたちを信頼することが Daily 5 の根底にある。信頼とは、行動や態度が不一致に見えても、その人の最善を信じることだ。」——Boushey & Moser
 
-> 「学習の最も正確な予測指標はおそらく能力ではなく、読む機会だ。」——Samuels & Farstrup（2011）より
+> 「読みの達成は、能力というよりも、読む機会の問題なのかもしれない。」——Samuels & Farstrup（2011, p.155）より（"It just may be that reading achievement is less about ability than it is about the opportunity to read"）
 
 > 「Daily 5, cause when I do Read to Self I get more better at reading. When I came to school, I couldn't read the words right, but I practiced every day during Daily 5 and now I can read.」——Ben（幼稚園修了時）
 

@@ -18,6 +18,9 @@ Buehl, D. (2014). *Classroom strategies for interactive learning* (4th ed.). New
 
 ---
 
+
+> **原文との照合（2026-11-07）**：Kindle 版の原本（OCR）で、このページの引用・章・数字を確かめた。Quick-Writes の時間と Text Coding の記号を原書に合わせた。
+
 ## 要約
 
 ### 核心の哲学
@@ -110,7 +113,7 @@ Jones, Palincsar, Ogle & Carr（1987）が整理した6つの文章構造をBueh
 
 | 戦略 | 概要 |
 |---|---|
-| **Text Coding** | 記号（✓知ってた・？わからない・！驚き）を使って読みながら考えを追跡する |
+| **Text Coding** | 記号（R＝つながり・V＝イメージ・E＝感情・Q＝問い・I＝推論・？＝わからない・！＝おもしろい）を使って読みながら考えを追跡する |
 | **B/D/A Questioning Charts** | Before/During/After の問いを記録し、読みの変化を追う |
 | **Double-Entry Diaries** | ページを半分に割り、左：テキスト引用、右：自分の反応・疑問・つながりを記録 |
 | **Interactive Reading Guides** | 読みを構造化するガイド付き質問シートを使いながら読む |
@@ -121,7 +124,7 @@ Jones, Palincsar, Ogle & Carr（1987）が整理した6つの文章構造をBueh
 
 | 戦略 | 概要 |
 |---|---|
-| **Quick-Writes** | 5〜10分の自由書きで理解を整理・残す |
+| **Quick-Writes** | 1〜3分ほどの短い自由書きで考えを書き留める（形式より流暢さを重んじる） |
 | **Magnet Summaries** | キーワード（磁石語）を選び、周辺情報を付けて一文要約を書く |
 | **RAFT** | 役割（Role）・読者（Audience）・形式（Format）・トピック（Topic）を設定して書く |
 | **Discussion Web** | 賛否両論の証拠を整理して、議論・批判的思考を深める |

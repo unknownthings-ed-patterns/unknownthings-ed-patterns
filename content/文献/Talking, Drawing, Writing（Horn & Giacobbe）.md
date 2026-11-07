@@ -5,16 +5,19 @@ author: "Martha Horn, Mary Ellen Giacobbe"
 year: 2007
 tags: [文献, 国語, 作文指導, ライティング・ワークショップ, 低学年, 幼児, マルチモーダル, 書く文化]
 ingested: 2026-05-14
-updated: 2026-06-13
+updated: 2026-11-07
 ---
 
 # Talking, Drawing, Writing: Lessons for Our Youngest Writers（Horn & Giacobbe）
+
+
+> **原文との照合（2026-11-07）**：Kindle 版の原本（OCR）で、このページの引用・章・数字を確かめた。章題・付録・ISBN・引用を原書（版権ページ・目次・本文）に合わせ、本書に無い語（Author's Chair／Writing Continuum／Teach the writer 等）を除くか本Wikiの読みと明示した。
 
 ## 書誌情報
 
 Horn, M., & Giacobbe, M. E. (2007). *Talking, Drawing, Writing: Lessons for Our Youngest Writers*. Stenhouse Publishers.
 
-- ISBN: 978-1-57110-426-7（確認要）
+- ISBN-13: 978-1-57110-456-4（原書の版権ページ。ISBN-10: 1-57110-456-9）
 - 献辞：「To the kindergarten teachers and children of the Boston Public Schools」
 - Foreword: なし
 - 著者：Martha Horn（幼稚園教師・リテラシーコンサルタント）、Mary Ellen Giacobbe（ライティング・ワークショップの専門家、Graves の Atkinson 研究にも関わる）
@@ -23,28 +26,29 @@ Horn, M., & Giacobbe, M. E. (2007). *Talking, Drawing, Writing: Lessons for Our 
 
 | 章 | タイトル |
 |----|---------|
-| Chapter 1 | Why Start with Storytelling? |
-| Chapter 2 | The Drawing and Writing Book |
-| Chapter 3 | The Importance of Drawing |
+| Chapter 1 | Storytelling（節見出し：Why It's Important for Children to Tell Their Stories） |
+| Chapter 2 | The Drawing & Writing Book |
+| Chapter 3 | Drawing（節見出し：Why Drawing Is Important for Young Writers） |
 | Chapter 4 | The Craft of Drawing |
 | Chapter 5 | Writing Words |
 | Chapter 6 | Assessment |
 | Chapter 7 | Introducing Booklets |
 | Chapter 8 | Moving Writers Forward |
 | Chapter 9 | One Teacher, One Classroom |
-| Appendix A | Storytelling Mini-Lessons |
-| Appendix B | Drawing Mini-Lessons |
-| Appendix C | Writing Mini-Lessons |
-| Appendix D | Blank Booklet Templates |
-| Appendix E | Writing Continuum |
-| Appendix F | Cumulative Writing Record Form |
-| Appendix G | Small-Group Writing Record Form |
+| Closing Thoughts | |
+| Appendix A | Bibliography of Children's Books |
+| Appendix B | Sample Teacher Plans: Introducing the Drawing & Writing Book |
+| Appendix C | Some Materials for Young Writers |
+| Appendix D | Cumulative Writing Record Form |
+| Appendix E | Small-Group Writing Record Form |
+| Appendix F | My Finished Writing Form |
+| Appendix G | Writing Folder Inserts |
 
 ## プロジェクトの起源
 
 本書の実践は **"Writing in Kindergarten" プロジェクト**（2001年1月開始）に基づく。Massachusetts Department of Education の Quality Full-Day Kindergarten Grant の支援を受け、Boston Public Schools の幼稚園教師たちと Horn・Giacobbe が協働して発展させた。
 
-**理論的基盤**：Donald Graves、Lucy Calkins、Susan Sowers が 1978〜1980 年に実施した Atkinson Study（ニューハンプシャー州 Atkinson 校での書くことの発達研究）。本書の著者の一人 Giacobbe は Atkinson Study に直接関わっており、「この29年間で私たちがしてきたことのすべては、Graves のオリジナルの研究に立っている」と序文で述べる。
+**理論的基盤**：Donald Graves、Lucy Calkins、Susan Sowers が 1978〜1980 年に実施した Atkinson Study（ニューハンプシャー州 Atkinson 校での書くことの発達研究）。序文は、本書の着想のルーツが Atkinson Study（1978–1980）にあると述べ、その研究に参加するか、研究者と教師の仕事を間近で見る幸運に恵まれた者が、あの研究を「教育史における転機であり、教師としての自分たちの形成期」として振り返る、と書く。
 
 ## ミニレッスンの形式
 
@@ -69,30 +73,30 @@ Horn, M., & Giacobbe, M. E. (2007). *Talking, Drawing, Writing: Lessons for Our 
 
 **核心**：幼い書き手にとって、「話す→描く→書く」は段階的に卒業していくものではなく、3つが相互に支え合いながら意味を作る方法である。ライティング・ワークショップの3部構造（ミニレッスン・独立書き・共有）を最年少の書き手（幼稚園〜2年生）に実践する最良の入門書。
 
-- **全ての子どもはストーリーを持っている（All children have stories to tell）**：書くことが苦手な子はいない。「書く内容がない」と言う子は、話す機会がなかった子である
-- **「話すこと」がリハーサルである**：子どもは描いたり書いたりする前に声に出して話すことで、自分のストーリーを発見・整理する。「これはどんな話ですか」と聞いて話させることが書く前の最大の支援になる
-- **描くことはイラストレーションではなく作曲（Composing）である**：絵が文章の「挿絵」なのではなく、絵によってストーリーが構成される。低学年の子どもにとって描くことと書くことは同等の意味構成行為である
-- **白紙の冊子（Blank Booklets）**：罫線のない折り畳まれた白紙の本が書く場所になる。「ページ」があることで子どもは「作家が本を作っている」という感覚を持てる。線のある原稿用紙では「書く量」が強制されるが、白紙では「描くことも書くことも同じ場所でできる」
-- **ライティング・ワークショップの3部構造**：ミニレッスン（5〜10分）→ 独立書き（20〜30分）→ 共有（5〜10分）。この予測できる枠組みが子どもを作家にする
-- **作家の椅子（Author's Chair）**：完成した本を全クラスに読み聞かせるための特別な椅子。書く目的（オーディエンスとセレブレーション）を具体化する。「書いたものを誰かに読んでもらう」ことが動機になる
-- **カンファリングの原則「作品ではなく作家を教える（Teach the writer, not the writing）」**：「この文章の何を直すか」ではなく「この子が作家として次に何を試せるか」を考える。会議はReview（今読んでいる・書いている内容を聞く）→ Instruction（一つの教示）→ Plan（次の一歩）で進む
+- **私たちにはみな語るべき話がある（we all have stories to tell）**：Ch.1 で教師 Danita が子どもたちに伝えること。口頭のお話を入口にして、どの子も参加できるようにする
+- **「話すこと」がリハーサルである**：子どもは描いたり書いたりする前に声に出して話すことで、自分のストーリーを発見・整理する。先に話してみると、紙に何を書きたいかの見通しが持ちやすくなる、と著者らは述べる（序文・Ch.1）
+- **描くことは書くことのリハーサルではなく、描くことは書くことである**（序文）：絵が文章の「挿絵」なのではなく、絵によってストーリーが構成される（本Wikiの言い換え）。低学年の子どもにとって描くことと書くことは同等の意味構成行為である
+- **綴じた本の形（Drawing & Writing Book と Booklets）**：最初は白紙ページのスパイラル綴じの Drawing & Writing Book（Ch.2）、のちにコピー用紙をホチキスで綴じた表紙つきの冊子（Booklets、Ch.7）に書く。絵本に似て親しみやすく、遊び心を誘い、ストーリーが部分を重ねて積み上がることを示す、と著者らは述べる（Ch.7）。原稿用紙との対比は本Wikiの読み
+- **ライティング・ワークショップの3部構造**：短いレッスン→独立書き→共有。著者らが目指す約1時間のワークショップでは独立書きは30〜40分だが、年度初めはその形から始めず、まず口頭のお話と全体での活動から入る（Ch.1）
+- **Storytelling Chair（語りの椅子）**：口頭ストーリーテリングの時間に、子どもが座って全員に向かって話す椅子（Ch.1）。完成した本を読み聞かせる「作家の椅子（Author's Chair）」は、本書の本文テキストでは確認できなかった（本Wikiの別パタンの語）
+- **カンファレンス（1対1の対話）から授業が生まれる**：ミニレッスンの多くは、子どもとのカンファレンスで見つけたことから作られる（例：Alena の Safe Drawing、Janaya の音の聞き取り）。「作品ではなく作家を教える」は本書の言葉ではなく、Review→Instruction→Plan は Allen『Conferring』のRIPモデルの語である
 - **ミニレッスンの典型的な教授内容**：①作家は自分が知っていること・関心があることについて書く（トピック選択）②作家は書く前に声に出して話す（リハーサル）③作家は読み返して付け加える（リビジョン）④作家は友達の書いたものを読む（コミュニティ）
-- **発達的な書きの連続体（Writing Continuum）**：絵だけ→ランダムな文字列→ラベリング（絵に名前を書く）→キャプション（絵に文を書く）→文章という発達段階がある。この連続体は「できていない」を見るのではなく「今どこにいるか」を見るためのもの
-- **教師の問い「今日何を書きますか（What will you write about today?）」と「これはどんな話ですか（Tell me about your story）」**：これ2つが書く時間の前・中に最も重要な問いかけ
+- **書きの発達を見る記録**：本書に「Writing Continuum」という名の資料は確認できない。付録D・Eの記録用紙（Cumulative / Small-Group Writing Record Form）で、書きの様子を継続的に記録する。「絵だけ→ラベル→キャプション→文章」という段階の並べ方は本Wikiの整理
+- **教師の問い**：本書の対話例では、「Tell me about this.」「What will your story be about?」のように、描いた部分やこれから書く話について尋ねる問いが使われる
 
 ## なぜ最初に「口頭のお話」から始めるか——4つの理由（Ch.1）
 
 Horn & Giacobbe は口頭ストーリーテリングから書くことを始める理由を4つ挙げる：
 
 1. **子どもを「ありのまま」で招く**：素晴らしい出来事も、絵を描く技術も、文字を書く知識も必要ない。「話してください」と言うだけで、すべての子どもが参加できる
-2. **クラスの仲間をお互いに知らせる**：「自転車の乗り方を知っている子」「フィラデルフィアへの電車に乗った子」という具体的な個性でクラスの人間関係が生まれる
-3. **話すことが書くことの核心にある**：Vygotsky（1978）——話し言葉は最初に習得される記号システムであり、あらゆる学習の基盤。Dyson（1986）——子どもは「記号の織り手（Symbol Weavers）」であり、話す・描く・書くが相互に支え合う
+2. **クラスの仲間をお互いに知らせる**：「自転車とスクーターに乗れる子（Carlos）」「Game Boy が得意な子（John）」という具体的な個性で、クラスの人間関係が生まれる
+3. **話すことが書くことの核心にある**：Vygotsky（1978）を引いて、話すことは身振りや描くことと並ぶ、子どもが文字を書く前から使う基本的な記号システムの一つだとする。Dyson の語を借りて、幼い「記号の織り手（symbol weavers）」はそれらの間を行き来しながら意味を作る（Dyson 1986, p.381）
 4. **紙に書く前に書き手の技（Craft）を学べる**：口頭のストーリーテリングで「どの詳細を加えると話が豊かになるか」を体験できる。紙に書く前にクラフトを練習できる
 
 **Storytelling Chair の手順**：
 - 子ども（ストーリーテラー）が特別な椅子に座り、クラス全体を向く
-- 教師はやや低い位置に座り（権威を下げる）、子どもを見上げる姿勢をとる
-- 洗濯バサミバスケット（clothespin basket）に全員の名前を入れ、ランダムに引いて発表者を選ぶ
+- 教師は子どもの話を聞き、質問して先を促す（座る位置についての記述は確認できなかった）
+- 縁に子どもの名前を付けた洗濯バサミを留めたバスケットを使い、まだ話していない子の名前を呼んで発表者を選ぶ。選ばれた子は自分の名前を見つけてバスケットに入れる
 - Marina Miranda の事例：11分間の口頭ストーリーテリングで、教師が引き出し役になりながら話が展開した
 
 **重要な原則**：読み聞かせの後に子どもたちに話させるとき、教師は「その本とは違う自分のエピソード」を話してみせる（Danita Kelley-Brewster の事例）。こうすることで「本について話す」のではなく「自分のことを話す」というモデルになる。
@@ -102,14 +106,14 @@ Horn & Giacobbe は口頭ストーリーテリングから書くことを始め�
 1. **意味を表現・理解する原初的な方法**：文字より先に絵を通して始める書き手にとって、描くことは最初の完全な意味表現手段である
 2. **子どもの声を届ける手段**：フィラデルフィア行きの電車に乗った Jordan が絵で「乗った経験」を伝えた——その絵がなければ伝わらなかった
 3. **言語を発達させる媒体**：Vygotsky の内的言語（inner dialogue / private speech）——描きながら子どもは自分自身に語りかけ、言語そのものが発達する
-4. **ストーリーをより深く掘り下げる**：Joshua の Six Flags ウォータースライドの事例——描くプロセスで「どの場面が一番大事か」を自分で発見した
+4. **ストーリーをより深く掘り下げる**：Joshua の Six Flags ウォータースライドの事例——文は短いが、絵には滑り降りる姿など文にない深さがあり、描くことで文章より深く込み入った話を語れた
 5. **書くことのクラフトを学ぶ**：Dyson（1986）の "Symbol Weaving"——一つのモードでやっていることが別のモードの力を支える。描くことで学んだ「詳細・構成・視点」が書くことに転用される
 
 ### "Drawing IS Writing"（描くことは書くことである）
 
 本書の序文にある核心的な主張：**「描くことは書くことのリハーサルではない——描くことは書くことである（Drawing is not rehearsal for writing: drawing IS writing）」**
 
-これは Vygotsky（1978）の「絵は第一次象徴システムであり、書き言葉の前段階である」という認識に根ざす。低学年の子どもにとって、絵と文字は等価の意味構成手段であり、どちらが「より高い」ということはない。
+本書は Vygotsky（1978）を引いて、話すこと・身振り・描くことを、子どもが紙に文字を書く前から使っている基本的な記号システムとして位置づける（Ch.1）。低学年の子どもにとって、絵と文字は等価の意味構成手段であり、どちらが「より高い」ということはない。
 
 ## Safe Drawing（安全な絵）と描くことのクラフト（Ch.4）
 
@@ -123,7 +127,7 @@ Alena の事例：キャンディストアに行った話を書きたかった�
 
 文字の書き方の指導で Horn & Giacobbe が使う主な方略：
 
-- **"Go Back and Touch" ストラテジー**（Jonathan のミニレッスン）：書き終えた単語の最後の文字に指をあて、「次の音は？」と確認しながら次の文字を書く。音を最後まで聞き切る習慣をつける
+- **"Going Back and Touching"**（Ch.5 のレッスン「Listening for Sounds: Going Back and Touching」。例は Janaya の文「My dad picked me up」）：ここまでに書いた文字を鉛筆の端で一つずつ触れながら読み返し、「次は何？」と続きの音を聞き取って書く
 - **聞こえる音を書く**：すべての音を書けなくても、聞こえた音を全部書くことで書き手としての参加が保証される
 
 **Interactive Writing**（McCarrier, Pinnell, & Fountas, 2000）はライティングワークショップとは別活動として位置づけられている。ペンを共有しながら教師と子どもが共同でテキストを作るこの活動は、書くことの「公的な練習」であり、ライティングワークショップの「個人的な作家活動」とは区別される。
@@ -132,14 +136,14 @@ Alena の事例：キャンディストアに行った話を書きたかった�
 
 形成的評価ツール：
 
-- **Cumulative Writing Record Form**（Appendix F）：個々の子どもの書きの発達を継続的に記録するシート。Writing Continuum 上のどの段階にいるかを追跡する
-- **Small-Group Writing Record Form**（Appendix G）：小グループでのカンファリング記録シート
+- **Cumulative Writing Record Form**（Appendix D）：個々の子どもの書きの発達を継続的に記録するシート
+- **Small-Group Writing Record Form**（Appendix E）：小グループでの書きの様子の記録シート
 
 ## 主要な理論的根拠
 
 | 研究者 | 年 | 概念 | 本書での使われ方 |
 |--------|----|----|----------------|
-| Vygotsky | 1978 | 話し言葉が第一次記号システム | 口頭ストーリーテリングから始める根拠 |
+| Vygotsky | 1978 | 話すことは身振り・描くことと並ぶ基本的な記号システムの一つ | 口頭ストーリーテリングから始める根拠 |
 | Dyson | 1986 | Symbol Weaving（記号の織り） | 話す・描く・書くの相互支援の根拠 |
 | Brookes | 1996 | 象徴的描画 vs 表現的描画 | Safe Drawing からの移行の説明 |
 | Berthoff | 1982, p.46 | "You can't know what you mean until you hear what you say" | 話してから書く原理の根拠 |
@@ -148,23 +152,15 @@ Alena の事例：キャンディストアに行った話を書きたかった�
 
 ## 重要な引用
 
-> "All children have stories to tell."
+> "Human beings are natural storytellers," Peter Johnston tells us. "We constantly tell stories about ourselves to others and to ourselves, and the stories shape who we think we are" (2004, 30).（Ch.1）
 
-> "Drawing and writing are both symbol systems children use to make meaning."
+> "Only the rare child learns how to draw representationally or realistically on his own. It is just like learning to play piano, learning ballet, or learning to write stories. Children need information about the subject and guided instruction." —Mona Brookes（1996, 47）。Ch.4 で引用
 
-> "We teach the writer, not the writing."
+> "When children become capable of thinking as they talk, speech actually becomes a tool for understanding, clarifying, and focusing what is in one's mind." —Bodrova & Leong（1996, 98）。Ch.1 で引用
 
-> "Writers write about what they know and care about."
+> "The graphic challenges of inclusiveness and specificity have clear counterparts in expository writing." —Newkirk（1989, 55）。Ch.3 で引用
 
-> "Talk is the foundation of writing. Before children draw and write, they need opportunities to say their stories out loud."
-
-> "The blank booklet gives children permission to compose in the way that makes the most sense to them—through drawing, through writing, or through both."
-
-> "The Author's Chair celebrates writing as communication. It gives young writers a real audience and a real purpose."
-
-> "When a child says 'I don't know what to write,' what they really mean is 'I haven't had a chance to talk yet.'"
-
-> "Drawing is not rehearsal for writing: drawing IS writing." —Horn & Giacobbe（Introduction）
+> "Drawing is not rehearsal for writing: drawing is writing." —Horn & Giacobbe（Introduction）
 
 > "You can't know what you mean until you hear what you say." —Berthoff（1982, p.46）
 
@@ -174,7 +170,7 @@ Alena の事例：キャンディストアに行った話を書きたかった�
 
 - **書く前に必ず「声に出して話す」時間を置く**——「これはどんな話ですか」と聞いて子どもに1〜2文で話させてから描かせる。話すことでストーリーが決まる。「書けない」子の多くは「話していない」子である
 - **白紙の冊子を使う**——A4用紙を4枚折り畳んで「自分の本」を作る。罫線のない紙が描く・書くの自由を保証する。「絵を描いてもいい、文字を書いてもいい、両方でもいい」という自由が幼い書き手のエントリーポイントを広げる
-- **作家の椅子を設置する**——授業の最後5分、1〜2人が自分の本を読み聞かせる特別な椅子を用意する。「聞いてくれる人がいる」ことが書く動機になる
+- **作家の椅子を設置する**（本Wikiの提案。本書にあるのは口頭ストーリーテリング用の storytelling chair）——授業の最後5分、1〜2人が自分の本を読み聞かせる特別な椅子を用意する。「聞いてくれる人がいる」ことが書く動機になる
 - **カンファリングでは「この作品を直す」ではなく「この作家に一つ渡す」**——「一番言いたいことはどの絵ですか」「もっと知りたいのはどんなことですか」と聞いて、子ども自身が次の一歩を見つける
 - **描くことを「文章の挿絵」として扱わない**——描くことそのものが意味構成行為だと認識する。文章を書く前に絵が完成していることが「正しい順序」と伝える
 

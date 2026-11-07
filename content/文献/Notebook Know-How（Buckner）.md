@@ -7,7 +7,7 @@ tags: [文献, ライティング・ワークショップ, ライターズノー
 literature_status: integrated
 ingested: 2026-05-14
 reintegrated: 2026-05-31
-updated: 2026-06-13
+updated: 2026-11-07
 ---
 
 # Notebook Know-How（Buckner, 2005）
@@ -17,6 +17,9 @@ Buckner, A. (2005). *Notebook Know-How: Strategies for the Writer's Notebook*. S
 **献辞**：For Judith Eggemeier and Nina Mackellar — "A small tribute to your grand influence"
 
 ---
+
+
+> **原文との照合（2026-11-07）**：Kindle 版の原本（OCR）で、このページの引用・章・数字を確かめた。章ごとのストラテジー数、Lester のエピソード、Grabber Leads・Genre Switch の説明を原典に合わせて直した。
 
 ## 3行要約
 
@@ -47,10 +50,10 @@ Buckner, A. (2005). *Notebook Know-How: Strategies for the Writer's Notebook*. S
 | 章 | タイトル | 主要ストラテジー数 |
 |---|---|---|
 | Ch.1 | Why Notebooks? | — |
-| Ch.2 | Launching the Notebook | 11ストラテジー |
+| Ch.2 | Launching the Notebook | 9ストラテジー（起動3＋流暢さ6）。ほか Considerations・What's In? What's Out?・Notebook Expectations の図表 |
 | Ch.3 | Kneading Notebooks: Expanding Topics and Building Collections | 6ストラテジー |
 | Ch.4 | When Writers Read | 5ストラテジー |
-| Ch.5 | Using Notebooks to Understand Genre | 5ストラテジー |
+| Ch.5 | Using Notebooks to Understand Genre | 4ストラテジー（5-3, 5-4, 5-5, 5-7） |
 | Ch.6 | Writing Wrongs: Editing, Spelling, and Punctuation | 6ストラテジー |
 | Ch.7 | Assessing the Notebook | ルーブリック＋自己評価2形式 |
 | Appendix | Considerations for Notebooks / Charting Author Style / Midyear / End-of-Year | フォーム4種 |
@@ -89,11 +92,11 @@ Bucknerはライターズ・ノートを「作家が持つ貯蔵庫」として�
 
 Bucknerは「書く流暢さ（writing fluency）」を核心概念として導入する。読書に流暢さ（reading fluency）があるように、書き手も「考えながら同時に書く」という流暢さを育てる必要がある——これがノートを毎日使う根拠。
 
-> 「Vicki Vinton says, 'It is an illusion that writers live more significant lives than nonwriters; the truth is, writers are just more in the habit of finding the significance that there is in their lives.'」—Calkins（1988, p.4）を引用して Buckner が述べる
+> 「It is an illusion that writers live more significant lives than nonwriters; the truth is, writers are just more in the habit of finding the significance that there is in their lives.」—Vicki Vinton の言葉。Buckner は Calkins（1988, p.4）の引用に続けて紹介し、出典欄も同じ（Calkins 1988, p.4）
 
 > 「significance cannot be found, it must be grown」—Lucy Calkins（1988, p.4）
 
-**Chance のエピソード（Ch.1 冒頭）**：新学期、ある生徒 Chance がポケットサイズの小さなスパイラルノートを出した。「Ms. B. は大きさを指定しなかった。小さい方が1ページ書くのが早くてラク。」→ この経験から Buckner は「何を書くか」を見つけることの指導が必要だと気づく。
+**Chance のエピソード（Ch.1 冒頭）**：新学期、ある生徒 Chance がポケットサイズの小さなスパイラルノートを出した。「Ms. B. は大きさを指定しなかった。小さい方が1ページ書くのが早くてラク。」→ この経験のあと、Buckner は翌年から全員分のノートとフォルダーを自分で用意することにした。
 
 ---
 
@@ -211,8 +214,8 @@ Katie Wood Ray *Wondrous Words*（1996）の「書き手として読む」概念
 > 「シームストレス（裁縫師）はショッピングモールに行くとき、縫い目やステッチを見る——同じものを買うのではなく、作り方を学ぶために。」—Katie Wood Ray（1996, p.13）
 
 **Strategy 4-1: Grabber Leads（つかみの書き出しを集める）**
-- 好きな本10冊の第一文を集めてリスト化
-- アンカーチャートに：問いで始まる・謎で始まる・驚くべき事実、など
+- 生徒が自分の本や教室の資料から、つかみになる書き出し（lead）を探し、ペア、次にクラスで共有する
+- 共有した例を Fiction / Nonfiction に分けてアンカーチャートにする
 - 例：*Charlotte's Web* "Where's Papa going with that ax?"・*Hoot* / *Harvesting Hope* など
 
 **Strategy 4-3: Try Ten（10通りに書き直す）**
@@ -238,7 +241,7 @@ Katie Wood Ray *Wondrous Words*（1996）の「書き手として読む」概念
 - 例：Julius Lester = oxymorons / e.e. cummings = similes that are oxymorons / Ralph Fletcher = "writing small" / Elizabeth Friedrich = repetition
 
 **Julius Lester との出会いのエピソード**（Buckner の実体験）:
-「John Henry の署名会でサインを待ちながら前の女性に本について話し続けていたら、その女性が Julius Lester だった。"I hadn't noticed that before ... let's try it in our notebooks."」
+「学会で Julius Lester のサインを待つ列で、前にいた女性（彼を次のセッションで紹介する人）に John Henry の魅力を熱く語っていたら、すぐ前に立っていた Lester 本人が笑い、'I didn't know I did all that. I just write the books.' と言った。」
 → 作家も自分のしていることの全てを意識的に行っているわけではない。読み手が発見する。
 
 ---
@@ -252,7 +255,7 @@ Katie Wood Ray *Wondrous Words*（1996）の「書き手として読む」概念
 - ノンフィクション・フェーブルで実例あり
 
 **Strategy 5-5: Genre Switch（ジャンルスイッチ）**
-- 同じトピックを数分ごとに異なるジャンルで書く（リアリスティック・フィクション→メルヘン→ニュース記事→詩→百科事典……）
+- 自分で選んだトピックで書きながら、教師が1〜2分ごとにジャンル名を呼び、そのジャンルの文体に切り替える（1回に4〜8回）
 - Buckner 自身が「雪の中の記憶」を詩として9冊試みたが書けず、短編小説として書いた経験から
 
 **Plot Structure Chart（Figure 5-6）**
@@ -354,7 +357,7 @@ Joanne Hindley *In the Company of Children*（1996）から採用。
 
 > 「Because my friend is a seamstress, she goes to the mall differently than the rest of us...she wants to know how what she sees was made.」—Katie Wood Ray（1996, p.13）
 
-> 「I hadn't noticed that before ... let's try it in our notebooks.」—Buckner（Julius Lester エピソードで）
+> 「I hadn't noticed that before ... let's try it in our notebooks.」—Buckner（作家のスタイルを調べる授業で、生徒と一緒に気づく教師の言葉として。Ch.4 Strategy 4-7 の末尾）
 
 > 「You only have to write a little bit better than your students to 'know' more about writing than your students.」—Buckner
 

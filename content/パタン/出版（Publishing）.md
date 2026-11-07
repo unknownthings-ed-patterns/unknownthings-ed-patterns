@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 作文指導, ライティング・ワークショップ, 出版, 公開, 動機づけ]
 source: "Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Atwell, N.（1998）In the Middle. Heinemann."
 related: []
-updated: 2026-10-11
+updated: 2026-11-07
 ---
 
 # 出版（Publishing）
@@ -198,7 +198,5 @@ flowchart LR
 
 Muschla, G. R. (2006). *Writing Workshop Survival Kit* (2nd ed.). Jossey-Bass.
 Atwell, N. (1998). *In the Middle: New Understandings About Writing, Reading, and Learning* (2nd ed.). Heinemann.
-
-> "The best way to learn to write is to write, and to write with a purpose and an audience in mind." —Muschla
 
 > "Publishing is not the end of the writing process. It is the reason for it." —Nancie Atwell

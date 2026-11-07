@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 作文指導, ライティング・ワークショップ, 推敲, リビジョン, 評価]
 source: "Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Atwell, N.（1998）In the Middle. Heinemann. / Calkins, L.（1994）The Art of Teaching Writing. Heinemann."
 related: []
-updated: 2026-11-01
+updated: 2026-11-07
 ---
 
 # 推敲（Revision）
@@ -292,6 +292,6 @@ Muschla, G. R. (2006). *Writing Workshop Survival Kit* (2nd ed.). Jossey-Bass.
 Atwell, N. (1998). *In the Middle: New Understandings About Writing, Reading, and Learning* (2nd ed.). Heinemann.
 Calkins, L. (1994). *The Art of Teaching Writing* (2nd ed.). Heinemann.
 
-> "Revision is not editing. Revision means 're-seeing' your work—stepping back and asking: Does this say what I mean? Is it organized? Does it flow?"
+> "Revision is the stage of the writing process in which writers “re-see” their work."（Muschla, Section 5 冒頭）
 
 > "Revision is where writers become writers." —Nancie Atwell

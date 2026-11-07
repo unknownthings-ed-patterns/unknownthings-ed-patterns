@@ -10,13 +10,16 @@ reintegrated: 2026-05-19
 
 # Pedagogical Patterns: Advice For Educators（Berginほか）
 
+
+> **原文との照合（2026-11-07）**：Kindle 版の原本（OCR）で、このページの引用・章・数字を確かめた。Berginページ：ChiliPLoP（原書に無い）を会議名に直し、パタンの分類（Honor Questions・Invisible Teacher は能動的学習、Reduce Risk・Set The Stage は追加パタン）と星印（Built-In Failure は *）を原書に合わせた。引用は全件原文と一致。
+
 ## 要約
 
-- 本書は「教えることのパタン・ランゲージ」を85以上のパタンとして体系化したもの。ChiliPLoP・EuroPLoP等のカンファレンスで長年にわたり実践的に磨かれた知見の集積。
+- 本書は「教えることのパタン・ランゲージ」を85以上のパタンとして体系化したもの。PLoP 2001・2002、EuroPLoP 2002・2003 などのパターン会議に出された論文を元にした集積。
 - 5つの核論文（Active Learning / Feedback / Experiential Learning / Gaining Different Perspectives / Teaching From Different Perspectives）を軸に構成されており、各パタンはその論文のどれに属するかが示されている。
 - 中心的哲学は「**学習者が何をするかだけが重要で、教師が何をするかは関係ない**（Joe Bergin）」という能動的学習観。
 - **抽象より先に解決策**（Solution Before Abstraction）：まず学習者が具体的問題を解き、そこから抽象概念を引き出す順序を推奨する。
-- **経験してから聞く**（See Before Hear）：講義の前に体験させ、講義を体験の言語化として機能させる。
+- **経験してから聞く**（See Before Hear）：新しい概念は、聞く前に見て体験できるようにし、体験したことを記録して振り返ることを促す。
 - **失敗を組み込む**（Built-In Failure）：失敗を恐れる文化ではなく、失敗が学習プロセスの一部として設計されている環境が深い学びを生む。
 - **スパイラル**（Spiral）：全トピックを線形に網羅するのではなく、少量ずつ繰り返し深化させる配列が、早期から意味ある問題解決を可能にする。
 - **多様な演習レベル**（Different Exercise Levels）：同一課題ではなく難易度・種類の異なる課題を提供し、全学習者が成功体験を得られるようにする。
@@ -25,7 +28,7 @@ reintegrated: 2026-05-19
 
 ## パタン全体マップ（2026-05-19 全文照合完了）
 
-本書の86パタンを「真の不変項（\*\*）」と「方向性正しい（\*）」に区別。以下は**Wikiに統合済みの** \*\* パタン一覧。
+本書の86パタンには、Alexander にならって星印がついている（原書の説明：\*\* は「真の不変項を述べられたと考える」、\* は「方向性は正しいが、解決はまだ改善できると考える」）。以下は**Wikiに統合済みの**パタン一覧で、ほとんどが \*\*（Built-In Failure・Solution Before Abstraction・Different Exercise Levels は \*）。
 
 | 原書パタン名 | Wikiパタン | カテゴリ |
 |---|---|---|
@@ -34,8 +37,8 @@ reintegrated: 2026-05-19
 | Solution Before Abstraction | [[パタン/解決から抽象へ]] | 経験学習 |
 | Spiral | [[パタン/スパイラル学習]] | 多様な視点 |
 | Groups Work | [[パタン/グループ学習]] | 能動的学習 |
-| Honor Questions | [[パタン/問いを大切にする]] | フィードバック |
-| Invisible Teacher | [[パタン/非可視の教師]] | フィードバック |
+| Honor Questions | [[パタン/問いを大切にする]] | 能動的学習 |
+| Invisible Teacher | [[パタン/非可視の教師]] | 能動的学習 |
 | Reflection | [[パタン/省察]] | 多様な視点 |
 | Gold Star | [[パタン/ゴールドスター]] | フィードバック |
 | Early Warning | [[パタン/早期警告]] | フィードバック |
@@ -50,10 +53,10 @@ reintegrated: 2026-05-19
 | Different Exercise Levels | [[パタン/多様な演習レベル]] | 能動的学習 |
 | Nobody Is Perfect | [[パタン/誰も完璧ではない]] | 多様な視点・教師の姿勢 |
 | Try It Yourself | [[パタン/まずやってみる]] | 能動的学習 |
-| Reduce Risk | [[パタン/リスクを減らす]] | フィードバック・評価 |
+| Reduce Risk | [[パタン/リスクを減らす]] | 追加パタン（五つの核論文以外） |
 | Self Test | [[パタン/自己テスト]] | フィードバック・経験学習 |
 | Round Robin | [[パタン/ラウンドロビン]] | 経験学習・能動的学習 |
-| Set The Stage | [[パタン/場を設定する]] | 多様な視点・教授法 |
+| Set The Stage | [[パタン/場を設定する]] | 追加パタン（五つの核論文以外） |
 
 ## 重要な引用
 
@@ -85,7 +88,7 @@ reintegrated: 2026-05-19
 **初回統合（2026-05-09）:**
 - [[パタン/能動的関与]] — Active Student の日本語実装（Pattern Connection追加済み）
 - [[パタン/見てから聞く]] — See Before Hear **
-- [[パタン/失敗を組み込む]] — Built-In Failure **
+- [[パタン/失敗を組み込む]] — Built-In Failure *
 - [[パタン/解決から抽象へ]] — Solution Before Abstraction *
 - [[パタン/スパイラル学習]] — Spiral **
 - [[パタン/多様な演習レベル]] — Different Exercise Levels *

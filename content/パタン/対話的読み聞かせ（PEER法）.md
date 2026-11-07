@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 読書指導, 読み聞かせ, 語彙, 背景知識, 就学前, K-2, 対話]
 source: "Arnold, D. S., & Whitehurst, G. J.（1994）Accelerating Language Development through Picture Book Reading. / Willingham, D. T.（2015）Raising Kids Who Read. Jossey-Bass."
 related: []
-updated: 2026-11-01
+updated: 2026-11-07
 ---
 
 # 対話的読み聞かせ（PEER法）
@@ -63,9 +63,9 @@ Whitehurst ら（1988）は「誰が話しているか」に注目した：通�
 | ステップ | 意味 | 例（絵本を読みながら） |
 |---|---|---|
 | **P** Prompt（促す） | 本の内容について子どもに問いを投げる | 「この次に何が起きると思う？」「この子の気持ちはどうかな？」 |
-| **E** Evaluate（受け止める） | 子どもの答えを肯定的に受け止める | 「そうかもしれないね！」「面白い考えだ」 |
+| **E** Evaluate（応答を評価する） | 子どもの答えを評価して返す（Willingham の例：「そう、トラックの一種だね」） | 「そうかもしれないね！」「面白い考えだ」 |
 | **E** Expand（広げる） | 子どもの答えをモデルとして広げる | 「クマが来たから、みんなが怖がって逃げたね」 |
-| **R** Repeat（繰り返させる） | 拡張した内容を子どもに繰り返させる | 「クマが来たら、みんなはどうした？言えるかな」 |
+| **R** Repeat（くり返す） | 最初の問い（促し）をもう一度くり返す（Willingham の例：「Can you say tractor?」） | 「クマが来たら、みんなはどうした？言えるかな」 |
 
 1回の読み聞かせに2〜3箇所入れるのが適切。多すぎると流れが壊れる。
 

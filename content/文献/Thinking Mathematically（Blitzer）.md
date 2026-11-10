@@ -9,6 +9,9 @@ ingested: 2026-05-24
 
 # Thinking Mathematically（Blitzer, 2014）
 
+
+> **原文との照合（2026-11-11）**：Kindle 版の原本（OCR）で、このページの引用・章・数字を確かめた。本書に無いDewey引用・Study Tip・5チェックを除き、英語引用を原文に合わせて直した。
+
 ## 書誌情報
 
 - **著者**: Robert F. Blitzer
@@ -41,30 +44,28 @@ ingested: 2026-05-24
 
 ## 要約（主要な主張・知見）
 
-1. **数学は「答えを出す技術」ではなく「世界を秩序立てて見るための思考の枠組み」である** — 全14章を通じて一貫するメッセージ。数学教育の目的を「計算の正確さ」から「思考の質」へと再定義する
+1. **数学は、宇宙に隠れたパターンを認識し、分類し、探究する科学である** — 本書は第1章の冒頭（「Mathematics and Your World」）でこう述べる。「全14章を通じて一貫するメッセージ」「数学教育の目的を計算の正確さから思考の質へ再定義する」という読みは本Wikiのもので、本書の記述ではない
 2. **Polya（1945）の4段階問題解決法**（Understand → Devise a Plan → Carry out → Look Back）を問題解決の基礎フレームとして提示。いくつもの問題解決の方法（図を描く・表を作る・パターンを探す・条件に照らして逆にたどる・似た問題を考える等）を挙げる（「8つ」は原本にないので 2026-11-06 に訂正）
 3. **帰納的推論と演繹的推論の対比**（Chapter 1）— 具体例から一般化する帰納と、一般命題から特定結論を導く演繹の違いを明確化。「反例（counterexample）」によって帰納的推論を反証できることを強調
-4. **論理（Chapter 3）は自己防衛のツール**——命題・否定・条件文・量化文の形式化は「他者の主張を批判的に評価する力」の基盤。"Logic is a kind of self defense."
+4. **論理（Chapter 3）は自己防衛のツール**——命題・否定・条件文・量化文の形式化は「他者の主張を批判的に評価する力」の基盤、という読みは本Wikiのもの。本書は "Logic is a kind of self-defense to avoid being suckered in by the Barnums of the world." と述べる。
 5. **集合論（Chapter 2）は「情報を組織化する科学」** — 日常的な分類・分析の思考を数学的に形式化。ベン図は重複・包含関係を視覚的に整理するツール
 6. **数学的モデル（Mathematical Models）**（Chapter 1, Section 2）— 変数間の関係を等式として表す公式が「現実を記述するモデル」であるという視点。数学と現実世界の橋渡し
-7. **統計リテラシー（Chapter 12）**——記述統計と推測統計の区別、グラフの誤読5チェック（目盛りの不均一・誇張表現等）。「統計家はデータを記録するだけでなく私たちの行動に影響を与える」
+7. **統計リテラシー（Chapter 12）**——記述統計と推測統計の区別（descriptive / inferential statistics）、視覚的データ提示で気をつけること（縦軸の目盛り・時間間隔・標本と母集団・出典など約10の問い。「5チェック」は本Wikiの整理）。"statisticians both record and influence our behavior"（統計家はデータを記録し、私たちの行動にも影響を与える）
 8. **確率（Chapter 11）**——理論的確率と経験的確率の区別、大数の法則（繰り返すほど経験的確率が理論値に近づく）、順列・組み合わせの計数
 9. **投票の数学（Chapter 14）**——多数決・ボルダ計算・逐次消去・一対一比較の4方式。「同じ選挙で方式が異なると異なる候補者が勝者になりうる」という民主主義の数学的複雑性
-10. **学習者への Study Tip**——各節の欄外に「問題を自分の言葉で言い換えられれば理解できている証拠」「帰納と演繹を意識しながら数学を読もう」等のメタ認知的声かけを配置
+10. **読み物コラム**——本文中に「Blitzer Bonus」と題したコラムを置き、数学を日常の話題とつなぐ。（旧稿の「Study Tip」欄の声かけは、本書のOCR全文（約163万字）に見当たらないため削除）
 
 ## 重要な引用
 
-> "Mathematics is a science that helps us recognize, classify, and capture the hidden patterns of our universe. Mathematics is the most powerful tool available for revealing the underlying structure of our world." ——Blitzer（2014, Ch.1）
+> "Mathematics is a science that helps us recognize, classify, and explore the hidden patterns of our universe. … mathematics is the most powerful tool available for revealing the underlying structure of our world." ——Blitzer（2014, Ch.1, Mathematics and Your World）
 
 > "Inductive reasoning is the process of arriving at a general conclusion based on observations of specific examples." ——Blitzer（2014, p.3）
 
 > "Deductive reasoning is the process of proving a specific conclusion from one or more general statements. A conclusion that is proved to be true by deductive reasoning is called a theorem." ——Blitzer（2014, p.7）
 
-> "Logic is a kind of self defense. It enables you to apply deductive reasoning to arrive at valid conclusions in complicated situations and to avoid being fooled into believing things for which insufficient reasons are available." ——Blitzer（2014, Ch.3）
+> "Logic is a kind of self-defense to avoid being suckered in by the Barnums of the world. It will enable you to apply deductive reasoning to arrive at valid conclusions in complicated situations and to avoid being fooled into believing things for which insufficient reasons are available." ——Blitzer（2014, Ch.3）
 
-> "Because statisticians both record data and influence our behavior, it is important to distinguish between good and bad methods for collecting, presenting, and interpreting data." ——Blitzer（2014, Ch.12）
-
-> "Were all instructors to realize that the quality of mental process, not the production of correct answers, is the measure of educative growth something hardly less than a revolution in teaching would be worked." ——Dewey（1916, Ch.13）（本書が引用）
+> "Because statisticians both record and influence our behavior, it is important to distinguish between good and bad methods for collecting, presenting, and interpreting data." ——Blitzer（2014, Ch.12）
 
 ## 教育実践への示唆
 

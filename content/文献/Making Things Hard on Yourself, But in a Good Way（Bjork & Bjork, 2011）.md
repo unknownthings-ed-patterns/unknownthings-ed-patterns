@@ -137,7 +137,7 @@ Bjork, E. L., & Bjork, R. A. (2011). Making things hard on yourself, but in a go
 | 文献 | [[文献/Why Minimal Guidance During Instruction Does Not Work（Kirschner, Sweller & Clark, 2006）]] | 困難が望ましくなくなる条件（知識の土台がないとき）を別の側から論じる |
 | 文献 | [[文献/Organizing Instruction and Study to Improve Student Learning（Pashler et al., 2007）]] | 間隔とテストを、根拠の強さつきで教室の手順にした実践ガイド |
 | 文献 | [[文献/練習問題をまぜると算数の学びが残る（Rohrerほか2015）]] | 交互にまぜる練習を、中学の算数の教室で3か月かけて確かめた実験 |
-| パタン | [[パタン/発見を委ねる（自分で見つけたものこそ燃え上がる）]] | 自分で生み出すこと（生成効果） |
+| パタン | [[パタン/発見を委ねる（自分で見つけたものこそ盛り上がる）]] | 自分で生み出すこと（生成効果） |
 
 ## 未パタン化の論点
 

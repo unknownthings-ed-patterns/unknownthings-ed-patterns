@@ -5,7 +5,7 @@ author: "Layne, Steven L."
 year: 2009
 tags: [文献, 読書指導, 動機づけ, アリテラシー, 読み聞かせ, 読書アイデンティティ, ブック・チャット, 読書ラウンジ, WILL, SKILL]
 ingested: 2026-05-15
-updated: 2026-09-27
+updated: 2026-11-11
 ---
 
 # Igniting a Passion for Reading（Layne, 2009）
@@ -14,6 +14,9 @@ Layne, S. L. (2009). *Igniting a Passion for Reading: Successful Strategies for 
 （Foreword by Gail Boushey and Joan Moser, "The 2 Sisters"）
 
 ---
+
+
+> **原文との照合（2026-11-11）**：Kindle 版の原本（OCR）で、このページの引用・章・数字を確かめた。章タイトル（第3・6章）、統計表（Gallup・NEA・Weeks）、Marie・Billy・Jackson・Guam・Miss Huff・Number the Stars・読書ラウンジの障壁と事例・Golden Shelf・Club Read・Café・Newspaper Dayなど、原本と違っていた記述を原本どおりに直した。
 
 ## 概要
 
@@ -31,10 +34,10 @@ Steven L. Layne（ジャドソン大学リテラシー教育学教授・受賞�
 |---|---|---|---|
 | 1 | The Missing Objective | Mem Fox | アリテラシーの定義・SKILL/WILL フレーム |
 | 2 | Coaches Who Know Their Players | Margaret Peterson Haddix | 興味調査・自己評価・読書目標 |
-| 3 | The Book Chat | Neal Shusterman | Book Chat Binder・ブック・チャット実践 |
+| 3 | I Didn't Know They Still Wrote Books for Adults（Igniting a Passion Through Book Chats） | Neal Shusterman | Book Chat Binder・ブック・チャット実践 |
 | 4 | Don't Bother Me, I'm Busy Changing Lives | Steven Kellogg | 読み聞かせ・ジャンル探索・Reader Continuum |
 | 5 | My Modeling Career | Sharon M. Draper | Hot Read Sign・Reading Log・Previewing・Someday Book List |
-| 6 | Can We Talk? / Buzz About Books! | Jordan Sonnenblick | Buzz About Books・Status of the Class |
+| 6 | Can We Talk?（Igniting a Passion Through Book Discussions） | Jordan Sonnenblick | Buzz About Books・Status of the Class |
 | 7 | Nothing's More Dangerous Than a Teacher with a Good Idea | Karen Beaumont | Reading Lounge（読書ラウンジ） |
 | 8 | There's a Party Goin' on Right Here | Candace Fleming | 本を祝う諸実践 |
 | 9 | Oh, Author, Where Art Thou? | Eric Rohmann | 著者訪問 |
@@ -52,23 +55,23 @@ Steven L. Layne（ジャドソン大学リテラシー教育学教授・受賞�
 
 | 出典 | データ |
 |---|---|
-| Mikulecky（1979） | アリテラシーという概念の初出——「読む技術はあるが選択的に読まない」 |
+| Mikulecky（1979） | Layne が引く aliterates の出典——能力はあるが読む意志のない人を指す語（「アリテラシーという概念の初出」とは書かれていない） |
 | Boorstin（1984） | Library of Congress 館長が非識字・アリテラシーを「双子の脅威（twin menaces）」と命名 |
-| Gallup（1999） | 米国人の過半数が年1冊以下の本しか読まない |
-| NEA（2007）*To Read or Not to Read* | 17歳の読書時間が1984年比で急減。高度な読書能力を持つ成人の45%が年1冊以下しか読まない |
-| Weeks（2001）Washington Post | 成人の57%が新聞を週1冊以下、32%が本を年1冊以下しか読まない |
+| Gallup（1999） | 1999年の世論調査は、まったく本を読まない米国人の数が過去20年増え続けていると認めた |
+| NEA（2007）*To Read or Not to Read* | 18〜24歳の52%が2002年に楽しみのための本を1冊も読まなかった（1992年の調査から12%の減少）。25〜34歳・35〜44歳でも、読む人はそれぞれ8%・11%減。毎日読む13歳は3分の1に満たない |
+| Weeks（2001）Washington Post | 記事は「アリテラシーはあちこちにある」と主張した（Layne は数字を挙げていない）。Layne はこの記事から、アリテラシーを「文化にしみ出す見えない液体」と呼ぶ表現を引く |
 
 アリテラシー率は今や非識字率を上回る。「読める・しかし読まない」という現象は、学校教育が SKILL のみを育て WILL を育てていない証拠である。
 
-**Marie Boone のエピソード**：Layne の元生徒 Marie は今は10代の娘を持つ親。娘が読書を嫌いと知ったとき、Layne に連絡してきた——「あなたが作った読書への情熱は今でも私の中に生きている。娘にも同じものを作ってあげたい」。Layne はこれを「reading hero（読書の英雄）」の最高の事例として紹介する。
+**Marie Boone のエピソード**：Layne が小学校で作家講演をしたあと、5年生の Marie が「本を書きたい5年生は何をすればいいか」「本が好きで書きたい人にはどの大学がいいか」と尋ねてきた。Layne は帰宅後、励ましの手紙と「ベストブック」リスト、サイン入りの自著を送り、「これは贈り物ではなく交換です。いつかあなたが書いた本の箱が届くのを待っています」と書き添えた。Layne はこれを、本への愛と希望が一人の子どもの中でつながっている例として語る。
 
 ### 2. SKILL vs. WILL のフレームワーク
 
 ```
-SKILL（技術）：デコーディング・流暢性・読解ストラテジー・語彙・構文・意味論
-WILL（意志）：関心（Interest）・態度（Attitude）・動機（Motivation）・関与（Engagement）
+SKILL（技術）：Phonetics（音）・Fluency（流暢性）・Comprehension（理解）・Semantics（意味）・Syntax（構文）——図1.1の円の左半分
+WILL（意志）：関心（Interest）・態度（Attitude）・動機（Motivation）・関与（Engagement）——円の右半分
 
-完全な読み手（Complete Reader）= SKILL × WILL
+完全な読み手（A Complete Reader）= 円の左半分（SKILL）と右半分（WILL）の両方を持つ者（掛け算の式は原本に無い）
 ```
 
 WILLのない読み手は、学校を出た瞬間に読書をやめる。WILLはSKILLとは独立した変数——SKILLを教えてもWILLは自動的には育たない。
@@ -84,7 +87,7 @@ WILLのない読み手は、学校を出た瞬間に読書をやめる。WILLは
 
 **オートバイの男の子のエピソード**：前の担任から「何にも興味がない」「読むことが大嫌い」と引き継がれた男の子が、実はオートバイに興味を持っていた（興味調査で分かった）。Layne はオートバイの雑誌・ノンフィクション・*The Mouse and the Motorcycle* を持っていき、"I thought of you." と差し出した。その子は束ごと受け取って読みはじめ、図書館から二冊を借り、雑誌を何週間も「借りて」いった。Layne は、子どもが聞く必要のある四語としてこの "I thought of you." を挙げる。興味調査のあと、本からいちばん遠ざかっている子を数週間かけて見つけ、司書と一緒にその子の興味に合う読みものを集めて手渡す（四半期ごとに少なくとも二人）。→ [[パタン/一冊を手渡す（本のマッチング）]]
 
-**Jackson Miller のエピソード**：海軍特殊部隊（Navy SEALs）志望の生徒 Jackson は、Layne が持ってきた SEALs のトレーニング本を手に取り、初めて自主的に読み始めた。1冊が連鎖して1年後には複数の関連書を読んでいた。
+**Jackson Miller のエピソード**：海軍特殊部隊（Navy SEALs）が好きな生徒 Jackson。保護者面談で親が子を罵る場に居合わせた夜、Layne は書店で Navy SEAL の本を買い込み、翌日 Jackson にそっと渡して "It was Navy SEAL night at the bookstore last night—and of course I thought of you." と言った。Jackson は「全部読みます」と言い、実際に読んだ。数週間後、読む気がなかったのは「自分の興味に合う読みものがあると思わなかったから」と打ち明け、Layne は、本を読まない子は自分の興味の本を探しに行くとは限らないと気づく。翌年の初日、Jackson は早朝の教室で Layne を待ち、「あの Navy SEAL の本、けっこうよかったです」と言った。
 
 **初期自己評価と最終自己評価**：
 - 年度初めに**緑の紙**で「今の自分の読書習慣・好み・読書観」を自己評価（Initial Self-Assessment）
@@ -122,7 +125,7 @@ WILLのない読み手は、学校を出た瞬間に読書をやめる。WILLは
 
 ### 5. 読み聞かせ（Chapter 4）
 
-**Anderson et al.（1985）**：読み聞かせを「読書促進活動の中で最も重要なもの（single most important activity）」と命名。
+**Anderson et al.（1985）**：*Becoming a Nation of Readers* が、読み聞かせを「the single most important activity for building the knowledge required for eventual success in reading」と位置づけた（Layne の引用）。
 
 **Hoffman, Roser, Battle（1993）**：4年生以降、読み聞かせが急に減る——本来4年生以降こそ複雑なストーリー・語彙への入口として必要。
 
@@ -138,15 +141,15 @@ Disengaged（無関与）→ Engaged（関与）→ Insatiable（飽くなき読
 Dr. Constance L. Marks による円形ジャンルチャートを含む。Fiction・Non-Fiction から多様なサブジャンルへ広がる「地図」——生徒が「まだ読んでいないジャンル」を発見するために使う。
 
 **読み聞かせの事例**：
-- *Number the Stars*（Lois Lowry）——クラスが静まり返り「なぜこんなことが起きたんですか」という問いが生まれた
-- *A Wrinkle in Time*（Madeleine L'Engle）——ある5年生で「5年生の一番の思い出」として語り継がれた
+- *Number the Stars*（Lois Lowry）——駆け出しの教師だった Layne は、背景知識がなく誰も発言できないブレインストーミングに失敗したあと、2か月かけて読み聞かせた。「デンマークだけが侵略された国か」という子どもの問いから、占領された他の国や枢軸国を調べる自主的な研究が広がり、読み聞かせが背景知識をつくると気づいた
+- *A Wrinkle in Time*（Madeleine L'Engle）——ある5年生のクラスは、Layne の読み聞かせを、遠足やピザパーティーよりも「5年生で最高の瞬間」に全員一致で選んだ
 
-**Layne の4つのクラスルール**：最後のルールが「読み聞かせ中は決して邪魔しない」——これを「一番大事なルール」として提示することで、読み聞かせの価値を制度として保護する。
+**Layne の「トラブルになる4つのこと」**：初日に Layne は「この先生とトラブルになる方法は4つだけ」と告げる——①ずる（cheating）②うそ（lying）③いじめ（bullying）④読み聞かせ中に邪魔をすること。④は軽く見えて危ない項目として、つつく・ささやく・紙をくしゃくしゃにする・咳をするなど具体的に挙げ、「読み聞かせは真剣な仕事だ」と伝える。
 
 ### 6. 教師のモデリング（Chapter 5）
 
 **Hot Read Sign と Book Stand**：
-教師の机に「今読んでいる本のサイン」と本を立てかけるスタンドを常設。「今日の先生の読んでいる本」がいつも見える——毎日のさりげないモデリング。Layne の夢：すべての学校の大人（校長・司書・養護教諭・調理師）が Hot Read Sign を持っている。
+教師の机に「今読んでいる本のサイン」と本を立てかけるスタンドを常設。「今日の先生の読んでいる本」がいつも見える——毎日のさりげないモデリング。Layne の「夢の学校」：建物で働くすべての大人（養護教諭・事務職員・用務員・教師・補助員など）が、子ども向けの本を読み、それぞれの名前の Hot Read のサインと本立てを持っている。
 
 **Reading Log（Figure 5.2）**：
 書式：四半期（Qtr）・タイトル・著者・ジャンル・1〜5段階の評価（星の数）。教師も自分の Reading Log を生徒と共有する——「先生が今学期読んだ本リスト」を教室に貼ることで物理的なモデリングになる。
@@ -174,17 +177,17 @@ Dr. Constance L. Marks による円形ジャンルチャートを含む。Fictio
 **Status of the Class**：
 独立読書の冒頭に「稲妻のように速く」全員から：タイトル・著者名・ページ・1〜5の評価を集める。教師はクラス名簿に略記形式で記録。「公開/非公開の会話」が読書の進捗を可視化する。
 
-**Billy のエピソード**：11年生の名誉英語でAを取った卒業生が感謝を伝えてきた——「Buzz About Booksがあったから、今でも本の話ができる」。
+**Billy のエピソード**（第6章）：保護者が Layne に電話してきた。11年生の名誉英語（honors English）で Billy だけが最高の評価を受け、母親が理由を尋ねると、Billy は「6年生のとき Dr. Layne が教えたことを全部やっただけ」と言い、保存していた book chat のルーブリックを見せたという。Buzz About Books ではなく、生徒によるブック・チャットの指導の話。
 
 ### 8. 読書ラウンジ（Chapter 7）
 
 詳細は [[パタン/読書ラウンジ]] を参照。
 
-教室の一角（または廊下の一隅）に、ソファ・クッション・照明・本棚を組み合わせた専用の読書空間を設ける。「読書は特別な体験だ」を物理的に制度化する。
+ビーンバッグや大きなクッション、ランプ、本棚などを組み合わせた、居間のような専用の読書空間を設ける。「読書は特別な体験だ」を物理的に制度化する。
 
-**3つの障壁**：管理職の理解・予算・防炎加工（flame-retardant）の家具確認
+**3つの障壁**：場所（使える空き教室がない）・お金・防炎加工（flame-retardant）の家具の確認。「昔やったがうまくいかなかった」と言う同僚への対処も書かれる
 
-**Butler Junior High（Oak Brook, Illinois）の事例**：廊下の一角の小さな読書空間が、生徒の放課後の「居場所」になっていた。
+**Butler Junior High（Oak Brook, Illinois）の事例**：最初のラウンジはビーンバッグ・大きなクッション・ビデオロッカーを PTA の数百ドルで揃えて始めた。3年後に約9,000ドルで居間のような家具に入れ替えた（1994年に買った家具は本の出版時も使われている）。
 
 **Ryan McNamara のエピソード**：「読書がそれほど重要なら、学校は読書ラウンジのための場所を見つけるだろう」——この言葉がラウンジ設置の最後の後押しになった。
 
@@ -194,13 +197,13 @@ Dr. Constance L. Marks による円形ジャンルチャートを含む。Fictio
 
 | 実践名 | 概要 |
 |---|---|
-| **Golden Recommendation Shelf** | 読んで「最高」と思った本だけを置く特別な棚。"Highly Recommended" ステッカーを貼る。8つの設置・運用ヒント |
-| **First Read Club** | 新着本の裏に "This book was First Read by: ___" のステッカー（Figure 8.3）を貼り、最初に読んだ人の名前を記録 |
-| **Read Arounds** | 教室中の本を1冊1.5分で順に回し読み。ハードカバーのみ。最大3回まで同じ本をホールドできる |
-| **Elementary Café / YA Café** | 月1回の朝の会。ホットチョコレート＋ドーナツ。教職員1名または生徒が本を紹介 |
+| **Golden Recommendation Shelf** | 教師のお気に入りの本やサイン入りの本を置く金色の棚（安い棚を何日か空のまま見せてから本を置いた）。図8.2に8つの工夫（本に個人的なメモを入れる、ハードカバーを使う、貸出記録をつける等） |
+| **First Read Club** | 図書館の新着本（または教室に出した新しい本）を先に選んで読む会。読み終えて感想を話した人の名前を、本に貼る "This book was First Read by: ___" のステッカー（Figure 8.3）に書く |
+| **Read Arounds** | 各自の机にハードカバーを1冊ずつ置き、合図で隣へ回しながら下見（preview）する。時間は1分30秒・3分・40秒などと変える。同じ本を最大3回まで「ホールド」できる |
+| **Elementary Café / YA Café** | 月1回、始業前の40〜60分。PTAがホットチョコレートとドーナツを用意し、教職員が1人、好きな本を紹介して抜粋を読み、質問に答える |
 | **Poetry Break / Comic Break / Magazine Break** | 突然「今日はジャンル探索デー」として詩集・漫画・雑誌を授業に持ち込む |
-| **Newspaper Day** | 生徒が書いた新聞（Writer Publications）を使った読書デー |
-| **Club Read** | テーマ別の袋に本を入れ、グループで同じテーマの本を並行して読む |
+| **Newspaper Day** | 全国の子どもが書いた新聞（Writer Publications 発行の *The Elementary School Writer* 等）を年6回、お菓子を食べながら読む日 |
+| **Club Read** | 単元（例：独立戦争）に関する本を入れた袋を、順番に家に持ち帰る。読まなくてよく、評価もしない（ALAの Club Read の袋にヒントを得た） |
 | **Picture Book of Month** | 月1冊の絵本を教師の机に置き、月末にクラス全員で読み聞かせ |
 
 ### 10. 著者訪問（Chapter 9）
@@ -209,9 +212,9 @@ Dr. Constance L. Marks による円形ジャンルチャートを含む。Fictio
 
 **準備の要点**：著者の作品を読んでおく・質問を準備・本の注文と署名計画・当日のタイムテーブル（前日/当日/翌日）
 
-**Guam のエピソード**：ある訪問先では、到着前に学校の合唱団が空港でサプライズで歌った——著者にとって「生涯忘れられない瞬間」。
+**Guam のエピソード**：2004年にグアムの学校を約2週間訪れた Layne は、St. Francis 校で発表の前に合唱団の歌を聴き、涙が止まらず席を立てなくなった。アンコールを頼み、「今この瞬間ほど、自分の話に興味がないことはない」と聴衆に言った。与えるはずの自分が、返しきれないものを受け取る側だったと振り返る。
 
-**Miss Huff / Joan Bauer のエピソード**：ある学校司書（Miss Huff）が Joan Bauer の読書メッセージを1年間クラスで共有し続けた。翌年 Bauer が訪問したとき、生徒は Bauer の言葉を一言一句覚えていた。
+**Miss Huff のエピソード**（第10章の導入文）：作家 Joan Bauer の8年生の英語教師 Miss Huff は、海賊の格好で Long John Silver の役を読み、*To Kill a Mockingbird* を手渡して「読み終えたら話しにいらっしゃい」と言った。Bauer は「彼女は本を私に焼きつけた」と書く。
 
 ### 11. 9週間の四半期計画（Chapter 10）
 
@@ -235,7 +238,7 @@ Dr. Constance L. Marks による円形ジャンルチャートを含む。Fictio
 
 ## 重要な引用
 
-> "A good book read well will do more for the woes of the disenfranchised readers than all the leveled books our publishers can crank out."
+> "A good book read well will do more for the woes of our disenfranchised readers than all the leveled books the publishers can crank out."
 > —Layne（2009）
 
 > "I thought of you."
@@ -251,7 +254,7 @@ Dr. Constance L. Marks による円形ジャンルチャートを含む。Fictio
 4. **Status of the Class を独立読書の冒頭に使う**——全員の読書状況を稲妻のように確認し、読書の進捗を「みんなが見ている」状態にする
 5. **Reader Continuum を意識する**——Disengaged の子を特定し、Reading Lounge・Book Chat・Buzz About Books を組み合わせて Engaged への一歩を作る
 6. **年度初め（緑の紙）と年度末（ピンクの紙）の自己評価を使う**——2枚の比較が子どもの成長を証拠として見せる
-7. **9週間の四半期計画を年間に4回繰り返す**——WILLを育てる実践を「なんとなく」ではなく計画的に配置する
+7. **最初の9週間の計画を土台に組み替える**——Layne の計画は学年最初の9週間分で、興味調査などは次の9週間では繰り返さない。WILLを育てる実践を「なんとなく」ではなく計画的に配置する（本Wikiの読み）
 8. **本を「祝う」実践を月1回以上入れる**——Golden Rec Shelf・YA Café・Read Aroundsのどれか1つから始める
 
 ---

@@ -9,15 +9,18 @@ ingested: 2026-06-02
 
 # A Writer's Notebook: Unlocking the Writer Within You（Fletcher）
 
+
+> **原文との照合（2026-11-11）**：Kindle 版の原本（OCR）で、このページの引用・章・数字を確かめた。別の本（Notebook Know-How）の生徒Meredithの引用を外し、逐語でない引用を要約・訳に直した。
+
 ## 要約
 
-ラルフ・フレッチャー（1996）は、ライターズ・ノートを「自分のビジーな生活の中に掘る空き溝——いなくなった生き物たちがそこに入り込んでくる空間」と表現する。ノートは日記でも読書記録でもない。作家として生きるための道具——時間と場所を問わず、見た・聞いた・感じたことを書き留める貯蔵庫である。
+ラルフ・フレッチャー（1996）は、ライターズ・ノートを「自分のビジーな生活の中に掘る空き溝——おもしろい小さな生き物たちでいっぱいになる空間」と表現する。ノートは日記でも読書記録でもない。作家として生きるための道具——時間と場所を問わず、見た・聞いた・感じたことを書き留める貯蔵庫である。
 
 本書は12章構成で、ノートに書くべき素材の種類を具体的に示す。
 
 - **溝の比喩**：「あなたが溝を掘れば、生き物はやってくる」——ノートは能動的に作る空間であり、受動的に待つ日記ではない
 - **Unforgettable Stories（忘れられない物語）**：自分を動かす出来事・ニュース・目撃談をそのまま書く。「何があなたを動かすか？」が作家の核心的な問い
-- **Fierce Wonderings（激しい問い）**：自分を悩ませ続ける問い・謎・不安を書く。大きな哲学的問いから小さな日常の謎まで。「答えのない問いをこそ書く」
+- **Fierce Wonderings（激しい問い）**：自分を悩ませ続ける問い・謎・不安を書く。大きな哲学的問いから小さな日常の謎まで。簡単な答えのない、大きく開かれた問いを自分に投げかける（要約）
 - **Writing Small（小さく書く）**：最も重要なレッスン。一般的な言葉（「楽しかった」「すごい人だ」）を「割る（crack open）」——その下にある具体的な細部を書く
 - **Seed Ideas（種のアイデア）**：インキュベーターとしてのノート。アイデアが「逃げる前に」書き留める。種は何年もかけて芽吹く（Fleischmanの例：12年後に本になった一行）
 - **Mind Pictures（心の写真）**：5感を使って世界を観察する。見る・聴く・触れる・嗅ぐ・味わう。「作家の目標はスポンジになること」
@@ -25,7 +28,7 @@ ingested: 2026-06-02
 - **Lists（リスト）**：好きな言葉・書きたいもの・事実・記録——あらゆるリストがノートに
 - **Memories（記憶）**：記憶は作家にとって最も重要な財産。「自分のユニークな歴史を自分のものとして主張する」。場所・物・写真が記憶を呼び覚ます
 - **Writing that Scrapes the Heart（心を削る書き）**：プライバシーの部屋のように書く——正直に、勇気を持って。書かなければ心が弾けそうなときの書き
-- **Writing that Inspires（触発する書き）**：「書き手として生きるには、他者の美しい書きで自分の書きを囲む必要がある」——感動した一節を書き写す。「writing off the text」（手本から書く）
+- **Writing that Inspires（触発する書き）**：「よく書こうとするなら、自分の言葉を他の人たちの美しい書きで囲む必要がある」（訳）——感動した一節を書き写す。「writing off the text」（手本から書く）
 - **Rereading: Digging Out the Crystals（再読——結晶を掘り出す）**：ノートは岩の中の結晶と同じ。ほとんどはただの石。でも掘り続けると宝石が出てくる。「カエデの樹液40ガロンから1ガロンのシロップ」の原理
 
 ## 重要な引用
@@ -37,8 +40,6 @@ ingested: 2026-06-02
 > "Maybe the single most important lesson you can learn as a writer is to write small."——Fletcher（1996）
 
 > "It's important to pay attention to what haunts you, what images or memories keep running around in your mind even when you try not to think about them."——Fletcher（1996）
-
-> "Some people would not pay attention if someone they knew said this. I did, because I'm a writer."——Meredith（Fletcher 1996 所収、第12章）
 
 > "Remember: It takes forty gallons of maple sap to make one gallon of maple syrup."——Don Murray（Fletcher 1996 引用）
 
@@ -65,7 +66,7 @@ ingested: 2026-06-02
 
 ## 展開したい問い
 
-- 「什么が自分を動かすか」を子どもが発見するには、どんな授業設計が有効か
+- 「何が自分を動かすか」を子どもが発見するには、どんな授業設計が有効か
 - 「Writing Small」はどの教科・どの文脈でも使えるか（算数の振り返りでも？）
 - ノートの「再読・結晶掘り」を授業に組み込むタイミングと方法は？
 - 教師自身がライターズ・ノートを持つことが教室文化をどう変えるか

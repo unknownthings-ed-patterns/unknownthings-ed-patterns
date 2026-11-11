@@ -5,7 +5,7 @@ year: 1988
 tags: [文献, フィードバック, 動機づけ]
 literature_status: integrated
 ingested: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-11
 source: "Butler, R. (1988). Enhancing and undermining intrinsic motivation: The effects of task-involving and ego-involving evaluation on interest and performance. *British Journal of Educational Psychology, 58*(1), 1–14. https://doi.org/10.1111/j.2044-8279.1988.tb00874.x"
 ---
 
@@ -44,7 +44,7 @@ Butler, R. (1988). Enhancing and undermining intrinsic motivation: The effects o
 ## 関連するWikiページ
 
 - [[パタン/記述式フィードバック]] — コメントの形式だけでなく、比較条件と使用の実態を確かめる。
-- [[パタン/自己レベルのフィードバックとパフォーマンスレベルのフィードバックを混ぜない]] — 課題への情報が、他者との比較に埋もれないか確認する。
+- [[パタン/自己レベルのフィードバック]] — 課題への情報が、他者との比較に埋もれないか確認する。
 - [[パタン/被教育者にフィードバックを提供し理解できるようにする]] — 返却した情報と、記憶され使用された情報を分ける。
 - [[パタン/内発的価値]] — 評価がある場面と、その後の興味を分けて見取る。
 - [[パタン/評点なしで返す（コメントだけの一巡）]] — 相対的評点の実験と、返却順序の実践案を区別する。

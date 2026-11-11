@@ -5,7 +5,7 @@ author: "Paul Black & Dylan Wiliam"
 year: 1998
 tags: [文献, 形成的評価, フィードバック, 評価, 自己評価, 動機づけ, 目標志向, 特別支援]
 source: "Black, P. & Wiliam, D.（1998）Assessment and classroom learning"
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 # Assessment and Classroom Learning（Black & Wiliam, 1998）
@@ -200,7 +200,7 @@ Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment i
 - [[パタン/評定（成績評価）]] — 成績が形成的目的を損なう経路
 - [[パタン/記述式フィードバック]] — コメントのみが効くという実証的裏づけ
 - [[パタン/ポジティブフィードバック]] — 称賛の落とし穴という反対証拠
-- [[パタン/自己レベルのフィードバックとパフォーマンスレベルのフィードバックを混ぜない]] — 注意の三水準と同型の区別
+- [[パタン/自己レベルのフィードバック]] — 注意の三水準と同型の区別
 - [[パタン/援助要求スキル]] — 援助希求の低さと自我関与の関係
 - [[パタン/ピアフィードバック]] — 相互評価の効果と信頼性の数値
 - [[パタン/自己内フィードバック]] — 自己評価は sine qua non

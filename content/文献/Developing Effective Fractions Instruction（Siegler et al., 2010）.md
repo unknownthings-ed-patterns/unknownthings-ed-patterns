@@ -7,7 +7,7 @@ tags: [文献, 算数, 分数, 数直線, 誤概念, 見積もり, 学習科学,
 literature_status: integrated
 ingested: 2026-10-11
 source: "Siegler, R., et al.（2010）Developing effective fractions instruction for kindergarten through 8th grade: A practice guide（NCEE #2010-4039）. Institute of Education Sciences, U.S. Department of Education."
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 # Developing Effective Fractions Instruction（Siegler et al., 2010）
@@ -186,6 +186,7 @@ Siegler, R., Carpenter, T., Fennell, F., Geary, D., Lewis, J., Okamoto, Y., Thom
 
 ## 関連するWikiページ
 
+- [[実践/分数のたし算とひき算を、既知の段から最後の一段へ並べて学ぶ（5年）]] — 本Wikiの実践（5年・分数）
 | 種類 | ページ | 関係 |
 | 文献 | [[文献/人の学び方の研究を授業の設計につなぐ（全米研究評議会2000）]] | 補完——数えることに根ざした数の考えが分数の壁になる（p. 71） |
 | 文献 | [[文献/算数の土台を研究から絞り込む（全米数学諮問委員会2008）]] | 先行——分数の大きさと数直線を、代数への土台として重視した報告 |

@@ -5,7 +5,7 @@ source: "Woodward, J., et al. (2012). Improving mathematical problem solving in 
 author: "John Woodward, Sybilla Beckmann, Mark Driscoll, Megan Franke, Patricia Herzig, Asha Jitendra, Kenneth R. Koedinger, Philip Ogbuehi"
 year: 2012
 ingested: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 # 算数の問題解決を4〜8年生で育てる（Woodwardほか2012）
@@ -83,6 +83,7 @@ updated: 2026-10-31
 
 ## 関連Wikiページ
 
+- [[実践/分数のたし算とひき算を、既知の段から最後の一段へ並べて学ぶ（5年）]] — 本Wikiの実践（5年・分数）
 | 種類 | ページ | 何がつながるか |
 | --- | --- | --- |
 | 文献 | [[文献/小学校の教室での行動上の問題を減らす（Epsteinほか2008）]] | 同じシリーズの行動支援のガイド |

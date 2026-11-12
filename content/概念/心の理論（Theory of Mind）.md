@@ -3,7 +3,7 @@ type: concept
 status: complete
 tags: [概念, 心の理論, 社会的認知, 言語発達, 発達心理学, 特別支援]
 source: "Brandt, S.（2026）Theory of Mind and Language Development. Cambridge University Press."
-updated: 2026-06-24
+updated: 2026-11-13
 ---
 
 # 心の理論（Theory of Mind）
@@ -93,7 +93,7 @@ ToMが高い子どもは：
 - [[パタン/心の状態言語の意図的使用（メンタル・ステート・トーク）]] — ToM発達を支援する教室実践パタン
 - [[パタン/対話的読み聞かせ（PEER法）]] — 読み聞かせ文脈での心の状態言語の活性化
 - [[パタン/哲学対話（P4C）]] — 「信じる/知る/疑う」を言語化する場としての哲学対話
-- [[パタン/仮定法（視点変更）]] — 他者の信念・知識状態を想像させる仮定法
+- [[パタン/仮定（もし〜だったら）]] — 他者の信念・知識状態を想像させる仮定法
 - [[概念/読書と人格形成]] — 文学読書によるToM発達の機序
 - [[文献/Theory of Mind and Language Development（Brandt）]] — 本概念の主要出典
 

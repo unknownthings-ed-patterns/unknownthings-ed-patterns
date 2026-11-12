@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 算数, 数学, 設計, Thin-Slicing, 変異理論, BTC, 問題設計, カリキュラム]
 source: "Liljedahl, P. & Giroux, M.（2024）Mathematics Tasks for the Thinking Classroom, Grades K-5. Corwin. / Marton, F. & Tsui, A. B. M.（2004）Classroom Discourse and the Space of Learning. Erlbaum."
 related: []
-updated: 2026-05-17
+updated: 2026-11-13
 ---
 
 # Thin-Slicing設計（薄切り問題の作り方）
@@ -106,6 +106,8 @@ Liljedahl & Giroux（2024）は、この考え方をK-5の全50タスクの設�
 - 問いが自然に流れないと（段差が大きいと）、子どもが「次は別の問題だ」と切り替えてしまい、系列の中にある構造が見えなくなる
 
 ## 解決（Solution）
+
+**近いパタンとの見分け**：算数・数学の表では、本パタンの見分けの問いは「数学的な構造を保ったまま、一度に一つだけ変えた問題の列になっているか（Liljedahl）」。全体の表は [[教科/算数・数学で使うパタン#近いパタンとの見分け|算数・数学で使うパタン]] にある。
 
 **数学的構造を保ったまま、一度に一要素だけを変えた問題列を設計する。**
 

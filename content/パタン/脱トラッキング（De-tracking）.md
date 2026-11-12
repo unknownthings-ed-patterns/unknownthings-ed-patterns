@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 算数, 数学, 公平性, グループ編成, 脱追跡, 能力別]
 source: "Boaler, J. (2016) Mathematical Mindsets. Jossey-Bass."
 related: []
-updated: 2026-11-06
+updated: 2026-11-13
 ---
 
 # 脱トラッキング（De-tracking）
@@ -39,6 +39,8 @@ Boaler（2016）Ch.7「From Tracking to Growth Mindset Grouping」が一次資�
 - Low Floor High Ceiling タスクがあれば、混合グループでも全員が参加できる——追跡の必要がない
 
 ## 解決（Solution）
+
+**近いパタンとの見分け**：算数・数学の表では、本パタンの見分けの問いは「能力別のグループ分けをやめ、同じ課題に全員で取り組んでいるか」。全体の表は [[教科/算数・数学で使うパタン#近いパタンとの見分け|算数・数学で使うパタン]] にある。
 
 **能力別グループを廃止し、豊かな課題と複雑指導を使って混合グループで全員が参加できる設計にする。**
 

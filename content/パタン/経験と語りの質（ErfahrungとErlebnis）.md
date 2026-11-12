@@ -137,6 +137,7 @@ Erfahrungは「伝わる」ことで完成する。聴き手・読み手・受�
 - [[パタン/産婆役としての教師]] — 語れる経験を「産み出す」過程を助ける教師の役割
 - [[パタン/注意を向ける]] — 語り得ない子の経験に注意深く向き合う（Aufmerksamkeit）
 - [[文献/闇を歩く批評（ベンヤミン・柿木伸之）]] — 本パタンの主要出典
+- [[パタン/ミメーシス（模倣による学び）]] — 身体的ミメーシスは Erfahrung の身体的起点
 
 ## クラスター図
 
@@ -151,6 +152,7 @@ flowchart LR
     ne382bfe382a6e3839ee382bce382a4e383b3efbc88e9a99ae3818de3818be38289e5a78be381bee3828be68ea2e7a9b6efbc89["タウマゼイン（驚きから始まる探究）"]
     ne794a3e5a986e5bdb9e381a8e38197e381a6e381aee69599e5b8ab["産婆役としての教師"]
     ne6b3a8e6848fe38292e59091e38191e3828b["注意を向ける"]
+    ne3839fe383a1e383bce382b7e382b9efbc88e6a8a1e580a3e381abe38288e3828be5ada6e381b3efbc89["ミメーシス（模倣による学び）"]
 
     ne7b58ce9a893e381a8e8aa9ee3828ae381aee8b3aaefbc88457266616872756e67e381a845726c65626e6973efbc89 --- ne3838ae383a9e38386e382a3e38396efbc88e789a9e8aa9eefbc89
     ne7b58ce9a893e381a8e8aa9ee3828ae381aee8b3aaefbc88457266616872756e67e381a845726c65626e6973efbc89 --- ne7b58ce9a893e381aee8b3aae38292e5958fe38186
@@ -160,6 +162,7 @@ flowchart LR
     ne7b58ce9a893e381a8e8aa9ee3828ae381aee8b3aaefbc88457266616872756e67e381a845726c65626e6973efbc89 --- ne382bfe382a6e3839ee382bce382a4e383b3efbc88e9a99ae3818de3818be38289e5a78be381bee3828be68ea2e7a9b6efbc89
     ne7b58ce9a893e381a8e8aa9ee3828ae381aee8b3aaefbc88457266616872756e67e381a845726c65626e6973efbc89 --- ne794a3e5a986e5bdb9e381a8e38197e381a6e381aee69599e5b8ab
     ne7b58ce9a893e381a8e8aa9ee3828ae381aee8b3aaefbc88457266616872756e67e381a845726c65626e6973efbc89 --- ne6b3a8e6848fe38292e59091e38191e3828b
+    ne7b58ce9a893e381a8e8aa9ee3828ae381aee8b3aaefbc88457266616872756e67e381a845726c65626e6973efbc89 --- ne3839fe383a1e383bce382b7e382b9efbc88e6a8a1e580a3e381abe38288e3828be5ada6e381b3efbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne7b58ce9a893e381a8e8aa9ee3828ae381aee8b3aaefbc88457266616872756e67e381a845726c65626e6973efbc89 hub

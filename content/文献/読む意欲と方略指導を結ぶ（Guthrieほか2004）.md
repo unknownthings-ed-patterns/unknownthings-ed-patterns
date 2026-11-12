@@ -5,7 +5,7 @@ year: 2004
 tags: [文献, 国語, 読書指導, 動機づけ]
 literature_status: integrated
 ingested: 2026-10-16
-updated: 2026-10-21
+updated: 2026-11-12
 source: "Guthrie, J. T., Wigfield, A., Barbosa, P., Perencevich, K. C., Taboada, A., Davis, M. H., Scafiddi, N. T., & Tonks, S. (2004). Increasing reading comprehension and engagement through concept-oriented reading instruction. Journal of Educational Psychology, 96(3), 403–423. https://doi.org/10.1037/0022-0663.96.3.403"
 ---
 
@@ -44,7 +44,7 @@ Guthrie, J. T., Wigfield, A., Barbosa, P., Perencevich, K. C., Taboada, A., Davi
 ## 関連するWikiページ
 
 - [[パタン/リーディング・ワークショップ]] — 選書と方略指導を一つの読む目的へ結ぶ。
-- [[パタン/自己選択自己決定の機会]] — 読書場面で選択肢と支援を一緒に整える。
+- [[パタン/自己選択自己決定]] — 読書場面で選択肢と支援を一緒に整える。
 - [[パタン/ミニレッスン・サイクル]] — 方略を使って知りたい内容に近づく設計にする。
 - [[パタン/グループ学習]] — 読書の協同を、問いと情報の共有へ具体化する。
 - [[パタン/焦点を絞った目標設定]] — 教師の観察目標を、読む目的と方略のつながりに置く。

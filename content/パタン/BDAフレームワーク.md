@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 読書指導, 読解指導, BDA, フロントローディング, 授業設計, 理科, 社会, 語彙]
 source: "Buehl, D.（2017）Classroom Strategies for Interactive Learning. Stenhouse. / Vacca & Vacca（2005）Content Area Reading. / Allen, J.（1999）Words, Words, Words. Stenhouse."
 related: []
-updated: 2026-11-07
+updated: 2026-11-13
 ---
 
 # BDAフレームワーク
@@ -87,6 +87,8 @@ BDA の核心：**読むことは「前・中・後」のプロセスであり�
 - 方略が多すぎると教師は選べず、少なすぎると対応できない——BDAという分類が選択を助ける
 
 ## 解決（Solution）
+
+**近いパタンとの見分け**：読むの表では、本パタンの見分けの問いは「読む前・読む間・読んだ後の三つの段階それぞれに、テキストとの関わり方を設計しているか（Buehl）」。全体の表は [[パタン/リーディング・ワークショップ#近いパタンとの見分け|リーディング・ワークショップ]] にある。
 
 **テキストを扱う授業を「読む前（Before）・読む間（During）・読んだ後（After）」の3フェーズで設計し、各フェーズに対応する方略を意図的に選んで組み合わせる。**
 

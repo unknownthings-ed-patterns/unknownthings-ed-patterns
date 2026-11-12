@@ -5,7 +5,7 @@ year: 2016
 tags: [文献, 透明な課題設計, TILT, 課題の目的, 評価の規準, 大学教育, 所属感, 学業への自信, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-12
 source: "Winkelmes, M.-A., Bernacki, M., Butler, J., Zochowski, M., Golanics, J., & Harriss Weavil, K. (2016). A teaching intervention that increases underserved college students' success. Peer Review, 18(1/2), 31–36."
 ---
 
@@ -77,7 +77,7 @@ Winkelmes, M.-A., Bernacki, M., Butler, J., Zochowski, M., Golanics, J., & Harri
 ## 関連するWikiページ
 
 - [[パタン/シグニファイア]] — 研究の裏づけ（仮説）：課題の目的・やること・規準を、取りかかる前に見える形で示す
-- [[パタン/使命（目的）説明の原則]] — 何のための課題かを最初に伝える
+- [[パタン/趣意説明の原則]] — 何のための課題かを最初に伝える
 - [[パタン/達成規準の共同構築]] — 評価の規準を、取りかかる前に学ぶ人と共有する
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 透明な課題設計
 

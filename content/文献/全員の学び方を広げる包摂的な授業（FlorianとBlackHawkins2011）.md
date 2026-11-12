@@ -5,7 +5,7 @@ year: 2011
 tags: [文献, 個別化, 特別支援, 環境調整, 参加]
 literature_status: integrated
 ingested: 2026-10-18
-updated: 2026-10-18
+updated: 2026-11-12
 source: "Florian, L., & Black-Hawkins, K. (2011). Exploring inclusive pedagogy. *British Educational Research Journal, 37*(5), 813–828. https://doi.org/10.1080/01411926.2010.501096"
 ---
 
@@ -47,7 +47,7 @@ Florian, L., & Black-Hawkins, K. (2011). Exploring inclusive pedagogy. *British 
 - [[パタン/環境調整]] — 教材の配置だけでなく、誰が利用できるかを点検する。
 - [[パタン/さまざまなレベルの参加を奨励する]] — 参加の選択肢を、固定的な周辺化につなげない。
 - [[パタン/書きかえまねっこ（段階的足場の選択制）]] — モデルの利用を全員に開き、途中の選び直しを認める。
-- [[パタン/被教育者からフィードバックを得る]] — 選択と参加の実態を、次の支援の調整に使う。
+- [[パタン/被教育者からのフィードバックを利用して教育改善をする]] — 選択と参加の実態を、次の支援の調整に使う。
 
 ## 展開したい問い
 

@@ -5,7 +5,7 @@ year: 2009
 tags: [文献, 特別支援, フィードバック]
 literature_status: integrated
 ingested: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-12
 source: "Gersten, R., Chard, D., Jayanthi, M., Baker, S., Morphy, P., & Flojo, J. (2009). *A meta-analysis of mathematics instructional interventions for students with learning disabilities: A technical report*. Instructional Research Group."
 ---
 
@@ -47,7 +47,7 @@ ERIC公開PDF（94ページ）を非公開のraw/教育研究原典2026年10月/
 - [[パタン/例示]] — 例の順序と幅を、初期の成功と転移の両方から考える。
 - [[パタン/足場がけへの誘発]] — 図や道具を指し示すだけでなく、その使い方を確かめる。
 - [[パタン/理解確認]] — 正答だけでなく、手順を選んだ理由を聞く。
-- [[パタン/被教育者からフィードバックを得る]] — つまずきの情報を、次に教え直す内容へつなぐ。
+- [[パタン/被教育者からのフィードバックを利用して教育改善をする]] — つまずきの情報を、次に教え直す内容へつなぐ。
 - [[文献/算数の土台を研究から絞り込む（全米数学諮問委員会2008）]] — 困難のある子への明示的で体系的な指導の効果（前年の委員会報告）
 - [[文献/算数に困難のある子への介入を研究から組み立てる（Fuchsほか2021）]] — 同じ研究者のグループによる、小学生への介入の実践ガイド（2021年）
 - [[パタン/個別化]] — 困難に応じた指導

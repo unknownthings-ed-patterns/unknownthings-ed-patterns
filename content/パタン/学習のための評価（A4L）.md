@@ -3,7 +3,7 @@ type: pattern
 status: complete
 tags: [パタン, 評価, 形成的評価, 算数, フィードバック, 自己評価, A4L, 学習する学校]
 source: "Boaler, J. (2016) Mathematical Mindsets / Butler (1988) / Cohen & Garcia (2014) / Kallick & Stiggins（in Senge et al., 2000/2012）/ Black, P. & Wiliam, D.（1998）Assessment and classroom learning"
-updated: 2026-11-11
+updated: 2026-11-12
 ---
 
 # 学習のための評価（A4L）
@@ -60,6 +60,8 @@ BoalerがAssessment FOR Learning（学習のためのフィードバック構造
 - 保護者・管理職は「成績のない評価」に不安を持つことがある
 
 ## 解決（Solution）
+
+**近いパタンとの見分け**：子ども自身が「何を学んでいるか・今どこか・どう埋めるか」に答えられるよう評価を設計するのが本パタン。教師が理解をつかんで指導を直す側は [[パタン/形成的評価]]、子どもが成長を語る記録と対話の側は [[パタン/省察的評価]]。評価の系列の全体の表は [[パタン/形成的評価#近いパタンとの見分け|形成的評価]] にある。
 
 **評価を「学習証明ツール」から「学習ナビゲーションツール」に設計し直す。**
 

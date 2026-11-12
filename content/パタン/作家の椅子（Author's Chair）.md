@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 作文指導, ライティング・ワークショップ, 出版, 共有]
 source: "Atwell, N.（1998）In the Middle. Heinemann. / Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Horn, M. & Giacobbe, M.E.（2007）Talking, Drawing, Writing. Stenhouse."
 related: []
-updated: 2026-10-11
+updated: 2026-11-12
 ---
 
 # 作家の椅子（Author's Chair）
@@ -20,6 +20,8 @@ updated: 2026-10-11
 書く活動が個人作業のまま終わると、書き手は「伝わった」「反応が返ってきた」という経験を持ちにくい。推敲や表現の選択も、読者との関係ではなく、教師の評価に合わせる作業になりやすい。
 
 ## 解決（Solution）
+
+**近いパタンとの見分け**：教室で短く自作を読み、聴き手が読者として応答する形が本パタン。届けること全体は [[パタン/出版（Publishing）]]。系列の全体の表は [[パタン/ライティング・ワークショップ#近いパタンとの見分け|ライティング・ワークショップ]] にある。
 
 **授業の終わりや週末に、1〜2人が椅子に座って作品を読み、聴き手が短く応答する時間を設ける。**
 

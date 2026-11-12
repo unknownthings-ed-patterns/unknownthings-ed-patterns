@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 作文指導, ライティング・ワークショップ, 推敲, リビジョン, 評価]
 source: "Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Atwell, N.（1998）In the Middle. Heinemann. / Calkins, L.（1994）The Art of Teaching Writing. Heinemann."
 related: []
-updated: 2026-11-07
+updated: 2026-11-12
 ---
 
 # 推敲（Revision）
@@ -108,6 +108,8 @@ Nancie Atwell（1998）は「推敲は作家が作家になる場所だ」と言
 - 推敲と編集を分けることで、それぞれに集中できる
 
 ## 解決（Solution）
+
+**近いパタンとの見分け**：書き手自身が見直す作業が本パタン。教師が書き手に一つ渡す会議は [[パタン/ライティング・カンファリング]]。系列の全体の表は [[パタン/ライティング・ワークショップ#近いパタンとの見分け|ライティング・ワークショップ]] にある。
 
 **Unity・Order・Conciseness の3原則で推敲する観点を与え、推敲（内容・構成・声の改善）と編集（表記・文法の修正）を別の作業として順序を守って行う。推敲には自己評価・ピア推敲・カンファリングという3つの形態を使い分ける。**
 

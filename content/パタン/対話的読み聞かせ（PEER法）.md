@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 読書指導, 読み聞かせ, 語彙, 背景知識, 就学前, K-2, 対話]
 source: "Arnold, D. S., & Whitehurst, G. J.（1994）Accelerating Language Development through Picture Book Reading. / Willingham, D. T.（2015）Raising Kids Who Read. Jossey-Bass."
 related: []
-updated: 2026-11-07
+updated: 2026-11-12
 ---
 
 # 対話的読み聞かせ（PEER法）
@@ -53,6 +53,8 @@ Whitehurst ら（1988）は「誰が話しているか」に注目した：通�
 - 2〜5歳は週400〜1200問の質問をするほど知識欲がある時期——読み聞かせを対話として設計することは発達的に自然
 
 ## 解決（Solution）
+
+**近いパタンとの見分け**：読み聞かせの途中で問い、子どもが語り手になるのが本パタン。教師が読んで子どもが聴く形は [[パタン/読み聞かせ]]、一緒に声に出して読むのは [[パタン/共有読書（Shared Reading）]]。系列の全体の表は [[パタン/リーディング・ワークショップ#近いパタンとの見分け|リーディング・ワークショップ]] にある。
 
 **PEER法の4ステップを使って、読み聞かせの中に子どもが話す機会を設計する。**
 

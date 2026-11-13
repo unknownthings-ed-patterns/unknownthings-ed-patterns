@@ -113,3 +113,9 @@ updated: 2026-11-11
 ## 出典
 
 Woodward, J., Beckmann, S., Driscoll, M., Franke, M., Herzig, P., Jitendra, A., Koedinger, K. R., & Ogbuehi, P. (2012). *Improving mathematical problem solving in grades 4 through 8: A practice guide* (NCEE 2012-4055). National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education.（2018年10月改訂版を参照）
+
+## 関連するWikiページ
+
+- [[パタン/解決をためすことができるか]]
+- [[パタン/似た問題に解決を応用できるか]]
+- [[パタン/似ているものを知らないか（問い）]]

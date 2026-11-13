@@ -4,10 +4,12 @@ status: complete
 tags: [パタン, 国語, 読書指導, 読解指導, BDA, フロントローディング, 授業設計, 理科, 社会, 語彙]
 source: "Buehl, D.（2017）Classroom Strategies for Interactive Learning. Stenhouse. / Vacca & Vacca（2005）Content Area Reading. / Allen, J.（1999）Words, Words, Words. Stenhouse."
 related: []
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 # BDAフレームワーク
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/リーディング・ワークショップ]]
 
 > 読む前（Before）・読む間（During）・読んだ後（After）——この3段階でテキストとの関わりを設計することで、どんな読解方略も「いつ使うか」が決まり、授業全体が一本の線でつながる。
 

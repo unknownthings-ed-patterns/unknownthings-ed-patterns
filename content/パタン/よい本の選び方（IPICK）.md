@@ -4,10 +4,12 @@ status: complete
 tags: [パタン, 国語, 読書指導, 選書, 自律性, メタ認知, 自己選択自己決定, K-6]
 source: "Boushey, G., & Moser, J.（2014）The Daily 5: Fostering Literacy Independence in the Elementary Grades（2nd ed.）. Stenhouse."
 related: []
-updated: 2026-11-12
+updated: 2026-11-14
 ---
 
 # よい本の選び方（IPICK）
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/リーディング・ワークショップ]]
 
 > 「自分に合う本」は教師が選ぶものではなく、選び方を学んだ読者自身が選ぶもの——IPICK は選書を「スキル」として教える5段階の問いだ。
 

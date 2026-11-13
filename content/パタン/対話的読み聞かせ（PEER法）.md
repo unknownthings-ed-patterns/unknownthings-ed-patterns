@@ -4,10 +4,12 @@ status: complete
 tags: [パタン, 国語, 読書指導, 読み聞かせ, 語彙, 背景知識, 就学前, K-2, 対話]
 source: "Arnold, D. S., & Whitehurst, G. J.（1994）Accelerating Language Development through Picture Book Reading. / Willingham, D. T.（2015）Raising Kids Who Read. Jossey-Bass."
 related: []
-updated: 2026-11-12
+updated: 2026-11-14
 ---
 
 # 対話的読み聞かせ（PEER法）
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/リーディング・ワークショップ]]
 
 > 通常の読み聞かせが「先生が読む・子が聴く」であるとすれば、対話的読み聞かせは「先生と子が一緒に本を作る」——子どもを受動的な聴衆から積極的な語り手へ変える技法だ。
 

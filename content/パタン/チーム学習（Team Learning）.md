@@ -4,10 +4,12 @@ status: complete
 tags: [パタン, 学習する学校, チーム学習, 対話, 学校改革, 専門的学習共同体, 教師の成長]
 source: "Senge et al.（2000/2012）Schools That Learn. Part IV: Team and Professional Learning."
 related: []
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 # チーム学習（Team Learning）
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/文化をつくる]]
 
 > 優秀な個人を集めただけでは、賢いチームにならない。チームが一緒に考える能力そのものを育てることが、学習する学校の基盤になる。
 

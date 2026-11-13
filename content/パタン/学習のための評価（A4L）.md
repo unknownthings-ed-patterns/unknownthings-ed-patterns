@@ -3,10 +3,12 @@ type: pattern
 status: complete
 tags: [パタン, 評価, 形成的評価, 算数, フィードバック, 自己評価, A4L, 学習する学校]
 source: "Boaler, J. (2016) Mathematical Mindsets / Butler (1988) / Cohen & Garcia (2014) / Kallick & Stiggins（in Senge et al., 2000/2012）/ Black, P. & Wiliam, D.（1998）Assessment and classroom learning"
-updated: 2026-11-12
+updated: 2026-11-14
 ---
 
 # 学習のための評価（A4L）
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/フィードバック]]
 
 > 成績は学習を証明するが、学習を育てない。「今どこにいるか」と「どうすればギャップを埋められるか」を学習者自身が知ることが、評価の本来の仕事だ。
 

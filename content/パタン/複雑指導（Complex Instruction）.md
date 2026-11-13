@@ -4,10 +4,12 @@ status: complete
 tags: [パタン, グループ学習, 公平性, 算数, 協同学習, 複雑指導, ステータス]
 source: "Boaler, J. (2016) Mathematical Mindsets / Boaler & Staples (2008)"
 related: []
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 # 複雑指導（Complex Instruction）
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/数学ワークショップ]]
 
 > 「誰もがすべての方法が得意なわけではないが、誰もが何かが得意だ」——教室の中の能力を多次元に広げることで、すべての子がグループの知的貢献者になる。
 

@@ -4,10 +4,12 @@ status: complete
 tags: [パタン, 国語, 作文指導, ライティング・ワークショップ, 出版, 共有]
 source: "Atwell, N.（1998）In the Middle. Heinemann. / Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Horn, M. & Giacobbe, M.E.（2007）Talking, Drawing, Writing. Stenhouse."
 related: []
-updated: 2026-11-12
+updated: 2026-11-14
 ---
 
 # 作家の椅子（Author's Chair）
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/ライティング・ワークショップ]]
 
 > 書いたものを本物の声で読み、仲間がそれに応答する。小さな共有の場が、書き手としてのアイデンティティを育てる。
 

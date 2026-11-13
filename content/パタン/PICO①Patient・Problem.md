@@ -2,11 +2,13 @@
 type: pattern
 status: complete
 tags: [パタン, 熟慮的問い]
-updated: 2026-11-13
+updated: 2026-11-14
 source: "熟慮的問いのパターンリスト（動画記録）"
 ---
 
 # PICO①Patient・Problem
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/熟慮的問い]]
 
 > 「誰にとって・何の問題か」を明確にする
 

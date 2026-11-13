@@ -4,10 +4,12 @@ status: complete
 tags: [パタン, 国語, 読書指導, 選書, リーディング・ワークショップ, 自己選択自己決定]
 source: "Atwell, N., & Atwell Merkel, A. (2016). The Reading Zone (2nd ed.). Scholastic."
 related: [リーディング・ゾーン, ブック・トーク, Books-We-Love（本の展示コーナー）, チェックイン（Checking In）]
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 # Someday List（読みたい本リスト）
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/リーディング・ワークショップ]]
 
 > 「次に何を読もう」と迷う時間をなくす——いつでも更新し続けるリストが、本を読み終えた瞬間に次の本への橋をかける。
 

@@ -4,10 +4,12 @@ status: complete
 tags: [パタン, 算数, 数学, 設計, Thin-Slicing, 変異理論, BTC, 問題設計, カリキュラム]
 source: "Liljedahl, P. & Giroux, M.（2024）Mathematics Tasks for the Thinking Classroom, Grades K-5. Corwin. / Marton, F. & Tsui, A. B. M.（2004）Classroom Discourse and the Space of Learning. Erlbaum."
 related: []
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 # Thin-Slicing設計（薄切り問題の作り方）
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/数学ワークショップ]]
 
 > 一度に一つだけ変える。変わらないものが、変わるものを通して見えてくる。
 

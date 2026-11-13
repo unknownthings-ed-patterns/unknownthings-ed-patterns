@@ -4,10 +4,12 @@ status: complete
 tags: [パタン, 国語, 読書指導, カンファリング, 構造化, リーディング・ワークショップ]
 source: "Allen, P. A.（2009）Conferring: The Keystone of Reader's Workshop. Stenhouse."
 related: []
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 # RIPモデル
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/リーディング・ワークショップ]]
 
 > 「予測可能な構造は、会議をより充実したものにする——教師にとっても、子どもにとっても。」
 

@@ -3,10 +3,12 @@ type: pattern
 status: complete
 tags: [パタン, 対話, 発話技術, 話し合い, 教室談話, 発問]
 source: "Chapin, O'Connor & Anderson (2009), Mehan (1979), Cazden (2001)"
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 # IRE型応答の脱却（Talk Move）
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/熟慮的問い]]
 
 > 対話を殺しているのは「悪い発問」ではなく、教師の第3ターンが「評価」であることだ。評価のかわりに思考を教室に返す手——それがTalk Move。
 

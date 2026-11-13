@@ -4,10 +4,12 @@ status: complete
 tags: [パタン, 算数, 数学, 公平性, グループ編成, 脱追跡, 能力別]
 source: "Boaler, J. (2016) Mathematical Mindsets. Jossey-Bass."
 related: []
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 # 脱トラッキング（De-tracking）
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/数学ワークショップ]]
 
 > 能力別グループ分けは、「あなたはここまで」という最強の固定マインドセットメッセージである。
 

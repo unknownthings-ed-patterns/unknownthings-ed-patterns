@@ -4,10 +4,12 @@ status: complete
 tags: [パタン, 国語, 作文指導, ライティング・ワークショップ, 推敲, リビジョン, 評価]
 source: "Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Atwell, N.（1998）In the Middle. Heinemann. / Calkins, L.（1994）The Art of Teaching Writing. Heinemann."
 related: []
-updated: 2026-11-12
+updated: 2026-11-14
 ---
 
 # 推敲（Revision）
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/ライティング・ワークショップ]]
 
 > 推敲は「誤字を直すこと」ではない。推敲は「もう一度見ること（Re-vision）」——一歩下がって「これは言いたいことを言えているか？組み立てはよいか？流れているか？」を問う行為である。
 

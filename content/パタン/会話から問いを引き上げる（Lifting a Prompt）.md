@@ -2,11 +2,13 @@
 type: pattern
 status: complete
 tags: [パタン, 国語, 読書指導, リーダーズノート, 対話, 問い, 読解ストラテジー]
-updated: 2026-11-13
+updated: 2026-11-14
 source: "Notebook Connections（Buckner, 2009）Chapter 5"
 ---
 
 # 会話から問いを引き上げる（Lifting a Prompt）
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/ライティング・ワークショップ]]
 
 > 「事前に計画されたプロンプトは、子どもたちが何を言っても起きる。会話から引き上げたプロンプトは、子どもたちが言ったことによって起きる。」——Aimee Buckner（2009）
 

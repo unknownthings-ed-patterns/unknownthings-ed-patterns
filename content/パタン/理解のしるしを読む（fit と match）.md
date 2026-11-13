@@ -3,10 +3,12 @@ type: pattern
 status: complete
 tags: [パタン, 形成的評価, 評価, 発問, メタ認知, 授業設計, 算数, 国語, 特別支援]
 source: "Black, P. & Wiliam, D.（1998）Assessment and classroom learning"
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 # 理解のしるしを読む（fit と match）
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/フィードバック]]
 
 > 全問正解は理解の証拠ではない。子どもの答えは、教師の理解と一致（match）しているのではなく、教科書が繰り返してきた慣習にたまたま適合（fit）しているだけかもしれない。
 

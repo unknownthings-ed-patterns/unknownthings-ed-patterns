@@ -4,10 +4,12 @@ status: complete
 tags: [パタン, 算数, 数学, シンキング・タスク, BTC, Launch, 導入, 問題解決]
 source: "Liljedahl, P. & Giroux, M.（2024）Mathematics Tasks for the Thinking Classroom, Grades K-5. Corwin."
 related: [算数シンキング・タスク, 数学ワークショップ, 簡明の原則（端的に具体的に出す）, 空白禁止の原則]
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 # Launch Script（タスクの渡し方）
+
+**このパタンが完成を助ける大きなパタン**：[[パタン/ソーシャル]]
 
 > 問いを渡す最初の30秒が、子どもが「自分で考える」か「手順を待つ」かを分ける。渡しすぎないことが最重要である。
 

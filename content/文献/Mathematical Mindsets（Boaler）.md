@@ -77,7 +77,7 @@ updated: 2026-11-14
 - **数学的関与の5C**: 好奇心（Curiosity）・つながり（Connections）・挑戦（Challenge）・創造性（Creativity）・協力（Collaboration）
 - **Low Floor High Ceiling（LFHC）**: 誰でも入れるが探究に上限がない課題設計
 - **Growing Shapes課題**: 視覚的見え方を先に問う → 形が $(n+1)^2$ として育つ理由を「わかる」
-- **「先に問いを与えてから方法を教える」**（本書の節見出し「A Time to Tell?」。論文は Schwartz & Bransford, 1998, "A Time for Telling"）: 問題を先に探索させると、脳が新しい手法を受け入れる準備ができる。「問いを与えてから教える」が「教えてから問いを与える」より学習効果が大きい
+- **「先に問いを与えてから方法を教える」**（本書の節見出し「A Time to Tell?」。論文は Schwartz & Bransford, 1998, "A Time for Telling"）: 子どもが先に問題を探索すると、脳が新しい手法を受け入れる準備ができる。「問いを与えてから教える」が「教えてから問いを与える」より学習効果が大きい
 - **色分け（Color Coding）**: 角度の関係・代数式・分数で色鉛筆を使い、概念の構造を視覚化する
 - **視覚的割り算（Division Quilts）など**: 具体的な視覚的実践が概念理解を深める（Division Quilts は Ch.9 で紹介。Lupton, Pratt, & Richardson, 2014）
 

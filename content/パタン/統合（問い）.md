@@ -1,6 +1,6 @@
 ---
 type: pattern
-status: complete
+status: developing
 tags: [パタン, 熟慮的問い]
 updated: 2026-11-14
 source: "熟慮的問いのパターンリスト（動画記録）"

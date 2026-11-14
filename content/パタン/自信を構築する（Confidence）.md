@@ -1,6 +1,6 @@
 ---
 type: pattern
-status: complete
+status: developing
 tags: [パタン, 熟慮的動機づけ, ARCSモデル, 自信]
 updated: 2026-11-14
 source: "一つの教育のパタン・ランゲージ（岩井輝久）"

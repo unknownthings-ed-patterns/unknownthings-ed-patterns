@@ -112,7 +112,7 @@ Elizabeth Cohen（スタンフォード大学）が開発した複雑指導（Co
 
 ### Participation Quiz（参加評価シート）
 
-複雑指導の規範がグループ内で機能しているかを観察・評価するツール（Boaler, 2016, Ch.8）。
+複雑指導の規範がグループ内で機能しているかを観察・評価するツール。複雑指導を考案した Cohen & Lotan（2014）の方法で、Boaler（2016）は Ch.9 で紹介する。Cohen & Lotan はグループの行動に成績を付けることを勧めるが、Boaler は成績で終わらなくてもよく、生徒に「どう関わるかが大事で、先生は見ている」と強く伝われば足りるという。
 
 **進め方：**
 1. グループ活動中、教師が教室を巡回しながら各グループの「参加の質」を観察する
@@ -130,7 +130,7 @@ Elizabeth Cohen（スタンフォード大学）が開発した複雑指導（Co
 - グループ全体への評価として返す（個人の批判にならない）
 - 「今日Aグループはここが特によかった」「Bグループは全員が話せていたか？」と具体的なフィードバックを返す
 
-**A4Lとの接続：** Participation Quiz はグループの参加を診断的に評価する [[パタン/学習のための評価（A4L）]] の実践であり、成績評価のためでなくグループ規範の改善に使う。Boaler は「Participation Quiz の結果がよいグループほど、数学的達成も上がる」と記録している。
+**A4Lとの接続：** Participation Quiz はグループの参加を診断的に評価する [[パタン/学習のための評価（A4L）]] の実践であり、成績評価のためでなくグループ規範の改善に使う。Boaler は、グループ活動がなかなかうまくいかなかったクラスでこの方法を使った教師たちが、生徒の前向きな変化に驚いた（stunned）と書く。ほとんど一晩で、生徒どうしがよい問いを出し合い、メンバーの等しい参加を考えるようになったという（参加クイズの結果と数学の成績との関係を記録しているわけではない）。
 
 ---
 
@@ -205,6 +205,6 @@ Boaler, J., & Staples, M. (2008). Creating mathematical futures through an equit
 
 Cohen, E. G., & Lotan, R. A. (2014). *Designing Groupwork: Strategies for the Heterogeneous Classroom* (3rd ed.). Teachers College Press.
 
-> 「誰もがすべての方法が得意なわけではないが、誰もが何かが得意だ」——Jo Boaler, *Mathematical Mindsets* (2016), p.176
+> 「これらの取り組み方のすべてが得意な人はいない。けれども、だれもがそのうちのいくつかは得意だ」（"No one is good at all of these ways of working, but everyone is good at some of them."）——Railside の教室の壁に貼られていた複雑指導の標語。Jo Boaler, *Mathematical Mindsets* (2016), Ch.7 より（紙の本のページ番号は未確認）
 
 > 「前の学校では、自分の数学力だけを磨いていた。ここでは社会的にも成長し、人を助けたり助けられたりすることを学んだ」——Railside School の生徒（Boaler & Staples 2008, p. 630 では Janet、Boaler 2016 では Rico という仮名）

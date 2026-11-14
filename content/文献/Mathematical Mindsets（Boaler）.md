@@ -217,4 +217,4 @@ Boaler, J. (2016). *Mathematical Mindsets: Unleashing Students' Potential Throug
 
 youcubed.org（Stanford University）— 関連資料・ビデオ・タスク集・7規範ポスター
 
-> "Everyone Can Learn Math to the Highest Levels. Encourage students to believe in themselves. There is no such thing as a 'math person.'"（Ch.9 の正の規範1。原文の引用符は二重引用符）
+> "Everyone Can Learn Math to the Highest Levels. Encourage students to believe in themselves. There is no such thing as a “math person.”"（Ch.9 の「数学の授業で育てたい正の規範」の1つめ）

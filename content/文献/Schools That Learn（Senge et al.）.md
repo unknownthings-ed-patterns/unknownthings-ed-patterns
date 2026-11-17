@@ -297,6 +297,7 @@ Monte del Sol charter school（Santa Fe）：10年生全員が「地域社会の
 - [[パタン/学習のための評価（A4L）]] — Assessment as Learning との接続
 
 ---
+- [[概念/教育実践知のコモンズ（構想）]] — 学校をコモンズとして見る構想
 
 ## 展開したい問い
 

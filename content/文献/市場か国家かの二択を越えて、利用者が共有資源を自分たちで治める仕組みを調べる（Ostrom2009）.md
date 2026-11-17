@@ -12,11 +12,11 @@ source: "Ostrom, E. (2009). Beyond markets and states: Polycentric governance of
 
 ## 書誌・確認した範囲
 
-Ostrom, E. (2009). Beyond Markets and States: Polycentric Governance of Complex Economic Systems. ノーベル経済学賞の受賞講演（2009年12月8日）。ノーベル財団の公式サイトが公開している PDF（誌面 pp. 408–444）を全文読んだ（文献表は見出しのみ）。PDF は vault の raw/教育研究原典2026年11月/ に保存。頁は誌面の番号。
+Ostrom, E. (2009). Beyond Markets and States: Polycentric Governance of Complex Economic Systems. ノーベル経済学賞の受賞講演（2009年12月8日）。ノーベル財団の公式サイトが公開している PDF（誌面 pp. 407–444）を全文読んだ（文献表は見出しのみ）。PDF は vault の raw/教育研究原典2026年11月/ に保存。頁は誌面の番号。
 
 ## 要約
 
-- 半世紀前の経済学は「最適な組織は市場か国家か」「財は私的財か公共財か」「人は利己的に合理的」という単純な見方に立っていた。オストロムは、カリフォルニアの地下水、都市の警察、灌漑、森林などの現地調査と実験から、この二択では説明できない多様な制度を記録した（pp. 408–410）
+- 半世紀前の経済学は「最適な組織は市場か国家か」「財は私的財か公共財か」「人は利己的に合理的」という単純な見方に立っていた。オストロムは、カリフォルニアの地下水、都市の警察、灌漑、森林などの現地調査と実験から、この二択では説明できない多様な制度を記録した（pp. 407–410）
 - **財の4分類**（p. 412・図1）：「使うと減る度合い（subtractability of use）」と「受益者を排除する難しさ」の二軸で、私的財・共有資源（common-pool resources）・公共財・料金財に分ける。共有資源は、使うと減る点で私的財に、排除が難しい点で公共財に似る（地下水・湖・灌漑・漁場・森林）。**この図では「知識」は公共財の例に置かれている**（平和と安全・国防・消防・天気予報と並ぶ）
 - **多中心性**（p. 410）：形式上は互いに独立した、多くの意思決定の中心がある状態。それらが互いを考慮し、契約や協力を結び、争いを解く仕組みを持つかぎり、一つの「システム」として働きうる（V. Ostrom, Tiebout & Warren 1961 の定義を引く）
 - 囚人のジレンマのモデルは、当事者を「状況に閉じ込められ、自分では構造を変えられない」存在として描く。オストロムはこれを「後退」と呼び、当事者が状況を変えられるかどうかは場合ごとに違う経験的な問題だとする。外の専門家や役人が最適なルールを押しつけるという前提を退ける（pp. 415–416）
@@ -41,7 +41,7 @@ Ostrom, E. (2009). Beyond Markets and States: Polycentric Governance of Complex 
 
 ## 重要な引用
 
-> "Extensive empirical research leads me to argue that instead, a core goal of public policy should be to facilitate the development of institutions that bring out the best in humans."（p. 435）
+> "Extensive empirical research leads me to argue that instead, a core goal of public policy should be to facilitate the development of institutions that bring out the best in humans."（pp. 434–435）
 
 （訳・本Wiki）膨大な実証研究から、私はむしろ、公共政策の中心の目標は、人の最もよいところを引き出す制度が育つのを助けることであるべきだと主張したい。——直前で、完全に利己的な個人を「強制する（あるいはナッジする）」制度の設計が半世紀の政策分析の主な目標だった、と書いている。
 
@@ -76,4 +76,4 @@ Ostrom, E. (2009). Beyond Markets and States: Polycentric Governance of Complex 
 
 ## 出典
 
-- Ostrom, E. (2009). Beyond markets and states: Polycentric governance of complex economic systems. Prize Lecture, December 8, 2009. Nobel Foundation. https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf — 2026-11-17 に全文を読んだ（誌面 pp. 408–444）。同じ内容は American Economic Review 100(3), 641–672（2010）にも載っている（本 Wiki は未照合）
+- Ostrom, E. (2009). Beyond markets and states: Polycentric governance of complex economic systems. Prize Lecture, December 8, 2009. Nobel Foundation. https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf — 2026-11-17 に全文を読んだ（誌面 pp. 407–444）。同じ内容は American Economic Review 100(3), 641–672（2010）にも載っている（本 Wiki は未照合）

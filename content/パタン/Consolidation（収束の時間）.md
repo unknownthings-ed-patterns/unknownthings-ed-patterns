@@ -258,3 +258,10 @@ Liljedahl, P.（2021）. *Building Thinking Classrooms in Mathematics*. Corwin.
 
 > "if students walk out of the room without an opportunity to organize, structure, and formalize their thinking, their ideas are apt to drift away before their next math lesson."
 > — Liljedahl & Giroux（2024）
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/日独米の数学の授業をビデオで比べる（Stiglerほか1999）|Stiglerほか1999]]・[[文献/Mathematics Tasks for the Thinking Classroom（Liljedahl & Giroux）|Liljedahl & Giroux]]

@@ -208,3 +208,10 @@ Cohen, E. G., & Lotan, R. A. (2014). *Designing Groupwork: Strategies for the He
 > 「これらの取り組み方のすべてが得意な人はいない。けれども、だれもがそのうちのいくつかは得意だ」（"No one is good at all of these ways of working, but everyone is good at some of them."）——Railside の教室の壁に貼られていた複雑指導の標語。Jo Boaler, *Mathematical Mindsets* (2016), Ch.7 より（紙の本のページ番号は未確認）
 
 > 「前の学校では、自分の数学力だけを磨いていた。ここでは社会的にも成長し、人を助けたり助けられたりすることを学んだ」——Railside School の生徒（Boaler & Staples 2008, p. 630 では Janet、Boaler 2016 では Rico という仮名）
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/Mathematical Mindsets（Boaler）|Boaler]]・[[文献/能力で分けない数学の学級で、学科全体が一つの教え方を続けると、生徒の学びと格差はどう変わるかを、三つの高校を追って確かめる（BoalerとStaples2008）|BoalerとStaples2008]]

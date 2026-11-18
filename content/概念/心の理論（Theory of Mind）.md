@@ -108,3 +108,10 @@ Fink, E., Begeer, S., Peterson, C. C., Slaughter, V., & de Rosnay, M. (2014). Fr
 Lecce, S., & Devine, R. T. (2022). Theory of mind at school: Academic outcomes and the influence of the school context. *Infant and Child Development*, 31(1).
 
 > "Theory of Mind abilities show both a positive relation with children's language development and with children's academic achievement." （Brandt, 2026, p. 58）
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **記録なし**（何をどこまで読んだかの記録がまだない）：[[文献/Theory of Mind and Language Development（Brandt）|Brandt]]

@@ -297,3 +297,10 @@ Atwell, N., & Atwell Merkel, A. (2016). *The Reading Zone* (2nd ed.). Scholastic
 [[文献/The Reading Zone（Atwell）]]
 
 > 「よい本（Good-Fit Book）は、自分の目的・興味・理解・語彙がすべて揃ったときに見つかる——それを自分で判断できる読者を育てることが、私たちの仕事だ。」——Boushey & Moser（2014）
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/低学年の読みの基礎技能を研究から組み立てる（Foormanほか2016）|Foormanほか2016]]・[[文献/The Daily 5（Boushey & Moser）|Boushey & Moser]]・[[文献/The Reading Zone（Atwell）|Atwell]]

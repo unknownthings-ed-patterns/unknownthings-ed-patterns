@@ -195,3 +195,10 @@ Hart, B., & Risley, T. R. (1995). *Meaningful Differences in the Everyday Experi
 Dickinson, D. K., Golinkoff, R. M., & Hirsh-Pasek, K. (2010). Speaking out for language: Why language is central to reading development. *Educational Researcher*, 39(4), 305–310.
 
 > 「対話的読み聞かせでは、大人が語り手ではなく観客になる——本の主役は子どもだ。」——Whitehurst（趣意）
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/Raising Kids Who Read（Willingham）|Willingham]]・[[文献/低学年の読みの基礎技能を研究から組み立てる（Foormanほか2016）|Foormanほか2016]]・[[文献/7〜11歳の読み書きの指導を研究から整える（英国EEF2021）|英国EEF2021]]・[[文献/保護者と協力する手立てが、どの家庭・どの条件で効いたかを確かめる（英国EEF2018）|英国EEF2018]]

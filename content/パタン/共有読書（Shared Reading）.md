@@ -237,3 +237,10 @@ Dorn, L. J., & Soffos, C. (2005). *Teaching for Deep Comprehension: A Reading Wo
 Holdaway, D. (1979). *Foundations of Literacy*. Portsmouth, NH: Heinemann.
 
 > 「共有読書は、より知識のある者（教師）と一群の初学者（子どもたち）の間での相互的な言語経験だ。……まるで丁寧に振付けられたダンスのように、教師はサポートを調整して、子どもたちが易しい動きと挑戦的な動きをスムーズなリズムで体験できるようにする。」——Dorn & Soffos（2005）
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/くり返し音読と、自由に読む時間を促すことの効き方を確かめる（全米読書委員会2000流暢さ）|全米読書委員会2000流暢さ]]・[[文献/Teaching for Deep Comprehension（Dorn & Soffos）|Dorn & Soffos]]

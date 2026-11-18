@@ -168,3 +168,11 @@ Barrot, J. S. (2023). Using ChatGPT for second language writing: Pitfalls and po
 > "if AWE tools focus on lower-order concerns (e.g., sentence level), teachers can focus on higher-order concerns (e.g., overall organisation)."（本書 p.17）
 
 > "Teachers should use AWE to complement their feedback processes but should not rely on the tools completely."（本書 p.17）
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/一人ひとりの段階に合わせるソフトで、学年から大きく遅れた中学生が伸びるかを確かめる（Muralidharanほか2019）|Muralidharanほか2019]]・[[文献/宿題にその場で正誤と手がかりを返し、誤答の集計を教師に渡すと、だれが伸びるかを確かめる（Roschelleほか2016）|Roschelleほか2016]]
+- **記録なし**（何をどこまで読んだかの記録がまだない）：[[文献/AI-Powered Language Teaching（Son & Philpott）|Son & Philpott]]

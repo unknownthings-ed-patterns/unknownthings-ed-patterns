@@ -267,3 +267,11 @@ Buehl, D. (2017). *Classroom Strategies for Interactive Learning* (4th ed.). Ste
 Vacca, R. T., & Vacca, J. A. L. (2005). *Content Area Reading: Literacy and Learning Across the Curriculum*. Pearson.
 
 > 「読者は意味を受動的に受け取るのでなく、能動的に作り出す。」——Buehl（2017）
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/Classroom Strategies for Interactive Learning（Buehl）|Buehl]]
+- **一部照合**（原典の一部の章や頁だけを読んで確かめた）：[[文献/背景知識と文章の記憶を確かめる（RechtとLeslie1988）|RechtとLeslie1988]]

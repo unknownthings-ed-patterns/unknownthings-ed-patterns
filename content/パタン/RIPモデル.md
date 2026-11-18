@@ -207,3 +207,10 @@ Allen, P. A. (2009). *Conferring: The Keystone of Reader's Workshop*. Stenhouse 
 > "I realized that, like all good rituals and routines, a predictable structure for reading conferences provides a pattern for me to follow each time I confer with a reader. More important, my students know that each side-by-side conference follows a similar pattern."
 
 [[文献/Conferring（Allen）]]
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/Conferring（Allen）|Allen]]

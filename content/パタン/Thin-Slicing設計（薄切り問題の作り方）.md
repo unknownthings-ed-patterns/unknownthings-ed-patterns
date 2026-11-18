@@ -260,3 +260,10 @@ Marton, F., & Tsui, A. B. M.（2004）. *Classroom Discourse and the Space of Le
 > "Students need to experience variation in order to notice the invariant. Without variation, there is no discernment, and without discernment, there is no learning." — Marton & Tsui（2004）
 
 > "Thin-slicing is the practice of giving students a series of questions that vary one element at a time, allowing the mathematical structure to emerge through the variation." — Liljedahl & Giroux（2024）
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/地力をつける微分と積分（小林俊行）|小林俊行]]・[[文献/美しい数学入門（伊藤由佳理）|伊藤由佳理]]

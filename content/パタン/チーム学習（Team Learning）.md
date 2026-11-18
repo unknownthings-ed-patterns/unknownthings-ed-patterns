@@ -212,3 +212,10 @@ Joyner, E. (2000/2012). No More Drive-By Staff Development. In Senge et al., *Sc
 > 「チームが本当に学んでいるとき、そのチームのメンバーは個人として驚くべき成長を遂げる。個人には決してできなかった方法で。」——Senge（1990）
 
 [[文献/Schools That Learn（Senge et al.）]]
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/人の学び方の研究を授業の設計につなぐ（全米研究評議会2000）|全米研究評議会2000]]・[[文献/学習にゲームの要素を入れると、知識・意欲・行動はどのくらい変わるかを確かめる（SailerとHomner2020）|SailerとHomner2020]]・[[文献/Schools That Learn（Senge et al.）|Senge et al.]]

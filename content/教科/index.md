@@ -45,3 +45,11 @@ title: 教科
 - [[文献/Mathematical Mindsets（Boaler）]] — 数学マインドセット、視覚的数学、オープンタスク
 - [[文献/Teaching Mathematics Vocabulary in Context（Muray）]] — 算数語彙と文脈的指導
 - [[文献/index|文献]] — 参考文献・研究メモ全体の入口
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/Mathematics Tasks for the Thinking Classroom（Liljedahl & Giroux）|Liljedahl & Giroux]]・[[文献/Mathematical Mindsets（Boaler）|Boaler]]
+- **記録なし**（何をどこまで読んだかの記録がまだない）：[[文献/Teaching Mathematics Vocabulary in Context（Muray）|Muray]]

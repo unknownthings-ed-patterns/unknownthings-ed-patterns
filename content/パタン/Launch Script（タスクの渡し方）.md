@@ -225,3 +225,10 @@ Liljedahl, P.（2021）. *Building Thinking Classrooms in Mathematics*. Corwin.
 
 > "The launch of the task is the most critical moment. Say too much and students stop thinking. Say too little and they can't get started."
 > — Liljedahl & Giroux（2024）
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/Mathematics Tasks for the Thinking Classroom（Liljedahl & Giroux）|Liljedahl & Giroux]]

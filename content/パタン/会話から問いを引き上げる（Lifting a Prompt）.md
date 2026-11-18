@@ -165,3 +165,10 @@ flowchart LR
 
 Buckner, A. (2009). *Notebook Connections: Strategies for the Reader's Notebook*. Stenhouse Publishers. (Chapter 5: Beneath the Story — Lifting a Prompt, pp.72–80)
 Coville, B. (1992). *Goblins in the Castle*. Simon & Schuster.
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/Notebook Connections（Buckner）|Buckner]]

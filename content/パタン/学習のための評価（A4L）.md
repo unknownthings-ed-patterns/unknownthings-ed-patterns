@@ -303,3 +303,13 @@ Boaler, J., & Staples, M. (2008). Creating mathematical futures through an equit
 > 「成績のみを受け取った生徒は動機が低下した。コメントのみを受け取った生徒は動機も成果も向上した。成績とコメントの両方を受け取った生徒は——成績のみと同等の動機低下を示した」——Butler (1988) の要約
 
 > 「私はあなたを信じているから、このフィードバックをしています」——Cohen & Garcia (2014) の研究で使われた一文。高校の英語の作文への批判的なフィードバックに、半数だけこの一文を足した実験で、一文を受け取った生徒は1年後に有意に高い成績を取った（Boaler, 2016, Ch.9）
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/評点・コメント・ほめ言葉・何も返さないの4つの返し方で、子どもの注意の向き・興味・成績がどう変わるかを確かめる（Butler1987）|Butler1987]]・[[文献/Mathematical Mindsets（Boaler）|Boaler]]・[[文献/Schools That Learn（Senge et al.）|Senge et al.]]・[[文献/ロイス・サドラーによる形成的アセスメント論の検討（石田智敬, 2021）|石田智敬, 2021]]
+- **一部照合**（原典の一部の章や頁だけを読んで確かめた）：[[文献/相互評価の設計と実施条件を確かめる（Topping1998）|Topping1998]]
+- **孫引き**（ほかの文献を通して知った。原典は未読）：[[文献/Assessment and Classroom Learning（Black & Wiliam）|Black & Wiliam]]
+- **記録なし**（何をどこまで読んだかの記録がまだない）：[[文献/Developing the Theory of Formative Assessment（Black & Wiliam, 2009）|Black & Wiliam, 2009]]

@@ -186,3 +186,10 @@ Fletcher, R., & Portalupi, J. (2001). *Writing workshop: The essential guide*. H
 Calkins, L. M. (1994). *The art of teaching writing* (2nd ed.). Heinemann.
 
 Muschla, G. R. (2005). *Writing workshop survival kit* (2nd ed.). Jossey-Bass.
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/Writing Workshop Survival Kit（Muschla）|Muschla]]

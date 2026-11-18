@@ -195,3 +195,10 @@ Atwell, N., & Atwell Merkel, A. (2016). *The Reading Zone* (2nd ed.). Scholastic
 > "The primary purpose is making sure that everyone is okay—in the reading zone and happy to be there."——Atwell & Atwell Merkel (2016, p. XX)
 
 [[文献/The Reading Zone（Atwell）]]
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/The Reading Zone（Atwell）|Atwell]]

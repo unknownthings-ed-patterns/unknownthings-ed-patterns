@@ -83,3 +83,10 @@ flowchart LR
 ## 出典
 
 - Atwell, N.（1998）In the Middle. Heinemann. / Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Horn, M. & Giacobbe, M.E.（2007）Talking, Drawing, Writing. Stenhouse.
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **一部照合**（原典の一部の章や頁だけを読んで確かめた）：[[文献/Teaching Elementary School Students to Be Effective Writers（Graham et al., 2012）|Graham et al., 2012]]

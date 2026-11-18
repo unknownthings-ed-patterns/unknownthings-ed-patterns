@@ -299,3 +299,11 @@ Calkins, L. (1994). *The Art of Teaching Writing* (2nd ed.). Heinemann.
 > "Revision is the stage of the writing process in which writers “re-see” their work."（Muschla, Section 5 冒頭）
 
 > "Revision is where writers become writers." —Nancie Atwell
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/考える短歌（俵万智）|俵万智]]・[[文献/5〜7歳の読み書きの指導を研究から整える（英国EEF2020）|英国EEF2020]]・[[文献/Writing Workshop Survival Kit（Muschla）|Muschla]]
+- **一部照合**（原典の一部の章や頁だけを読んで確かめた）：[[文献/作文指導の有効な要素を組み合わせる（Writing Next2007）|Writing Next2007]]

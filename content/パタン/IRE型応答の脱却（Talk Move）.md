@@ -203,3 +203,11 @@ flowchart LR
 - Mehan, H. (1979). *Learning Lessons: Social Organization in the Classroom*. Harvard University Press.
 - Cazden, C. B. (2001). *Classroom Discourse: The Language of Teaching and Learning* (2nd ed.). Heinemann.
 - Chapin, S. H., O'Connor, C., & Anderson, N. C. (2009). *Classroom Discussions: Using Math Talk to Help Students Learn* (2nd ed.). Math Solutions.
+
+## 根拠の確かめ（自動生成）
+
+<!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
+このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
+
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/人の学び方の研究を授業の設計につなぐ（全米研究評議会2000）|全米研究評議会2000]]・[[文献/教室の話し合いを変える研修で、子どもの学力が伸びるかを確かめる（EEFの対話的な授業の評価2017）|EEFの対話的な授業の評価2017]]・[[文献/教師と子どものやりとりで、考えを広げることと問い返すことが、多くの子どもが参加する中で起きると、学力は高いかを、72学級の授業で確かめる（Howeほか2019）|Howeほか2019]]・[[文献/問いのあと、答えのあとに教師が3秒以上待つと、子どもの答えと考え方は変わるかを、小学校の理科の授業の録音から確かめる（Rowe1972）|Rowe1972]]
+- **記録なし**（何をどこまで読んだかの記録がまだない）：[[文献/Developing the Theory of Formative Assessment（Black & Wiliam, 2009）|Black & Wiliam, 2009]]

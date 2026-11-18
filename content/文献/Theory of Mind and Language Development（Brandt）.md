@@ -7,6 +7,7 @@ tags: [文献, 心の理論, 言語発達, 発達心理学, 社会的認知, 教
 literature_status: integrated
 ingested: 2026-06-19
 updated: 2026-11-13
+source_check: 記録なし
 ---
 
 # Theory of Mind and Language Development（Brandt, 2026）

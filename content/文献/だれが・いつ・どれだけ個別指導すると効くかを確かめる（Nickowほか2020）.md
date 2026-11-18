@@ -6,6 +6,7 @@ author: "Andre Nickow, Philip Oreopoulos, Vincent Quan"
 year: 2020
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # だれが・いつ・どれだけ個別指導すると効くかを確かめる（Nickowほか2020）

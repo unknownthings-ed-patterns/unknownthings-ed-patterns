@@ -8,6 +8,7 @@ literature_status: integrated
 ingested: 2026-05-08
 reintegrated: 2026-05-17
 updated: 2026-11-14
+source_check: 原典照合
 ---
 
 # Mathematical Mindsets（Boaler, 2016）

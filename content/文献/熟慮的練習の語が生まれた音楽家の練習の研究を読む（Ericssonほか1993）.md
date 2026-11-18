@@ -6,6 +6,7 @@ author: "K. Anders Ericsson, Ralf Th. Krampe, Clemens Tesch-Römer"
 year: 1993
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 熟慮的練習の語が生まれた音楽家の練習の研究を読む（Ericssonほか1993）

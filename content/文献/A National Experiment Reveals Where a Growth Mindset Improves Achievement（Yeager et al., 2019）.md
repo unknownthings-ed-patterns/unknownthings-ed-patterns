@@ -8,6 +8,7 @@ literature_status: integrated
 ingested: 2026-10-11
 source: "Yeager, D. S., Hanselman, P., Walton, G. M., et al.（2019）A national experiment reveals where a growth mindset improves achievement. Nature, 573, 364–369."
 updated: 2026-10-11
+source_check: 原典照合
 ---
 
 # A National Experiment Reveals Where a Growth Mindset Improves Achievement（Yeager et al., 2019）

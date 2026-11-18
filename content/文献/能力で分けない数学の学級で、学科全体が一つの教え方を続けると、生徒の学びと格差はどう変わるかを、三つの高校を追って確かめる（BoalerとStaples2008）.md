@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-05
 updated: 2026-11-06
 source: "Boaler, J., & Staples, M. (2008). Creating mathematical futures through an equitable teaching approach: The case of Railside School. Teachers College Record, 110(3), 608–645."
+source_check: 原典照合
 ---
 
 # 能力で分けない数学の学級で、学科全体が一つの教え方を続けると、生徒の学びと格差はどう変わるかを、三つの高校を追って確かめる（BoalerとStaples2008）

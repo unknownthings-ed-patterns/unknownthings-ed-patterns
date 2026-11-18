@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-18
 updated: 2026-10-18
 source: "Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory. Psychological Bulletin, 119(2), 254–284. https://doi.org/10.1037/0033-2909.119.2.254"
+source_check: 一部照合
 ---
 
 # フィードバックの効果を注意の向きから捉える（KlugerとDeNisi1996）

@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-04
 updated: 2026-11-04
 source: "Scheibehenne, B., Greifeneder, R., & Todd, P. M. (2010). Can there ever be too many options? A meta-analytic review of choice overload. Journal of Consumer Research, 37(3), 409–425."
+source_check: 原典照合
 ---
 
 # 選択肢が多すぎると選べなくなるのかを、50の実験から確かめる（Scheibehenneほか2010）

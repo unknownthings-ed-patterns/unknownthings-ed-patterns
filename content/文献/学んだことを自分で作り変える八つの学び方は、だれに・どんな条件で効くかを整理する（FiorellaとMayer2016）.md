@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-05
 updated: 2026-11-05
 source: "Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning. Educational Psychology Review, 28(4), 717–741."
+source_check: 原典照合
 ---
 
 # 学んだことを自分で作り変える八つの学び方は、だれに・どんな条件で効くかを整理する（FiorellaとMayer2016）

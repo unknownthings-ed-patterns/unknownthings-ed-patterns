@@ -6,6 +6,7 @@ author: "Barbara Foorman ほか"
 year: 2016
 ingested: 2026-10-31
 updated: 2026-10-31
+source_check: 原典照合
 ---
 
 # 低学年の読みの基礎技能を研究から組み立てる（Foormanほか2016）

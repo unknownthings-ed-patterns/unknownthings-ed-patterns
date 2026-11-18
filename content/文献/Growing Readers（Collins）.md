@@ -7,6 +7,7 @@ tags: [文献, 読書指導, リーディング・ワークショップ, 低学�
 ingested: 2026-05-24
 reintegrated: 2026-05-24
 updated: 2026-11-14
+source_check: 原典照合
 ---
 
 # Growing Readers: Units of Study in the Primary Classroom（Collins, 2004）

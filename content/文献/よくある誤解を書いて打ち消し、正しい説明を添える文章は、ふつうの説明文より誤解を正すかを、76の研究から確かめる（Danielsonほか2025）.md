@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-06
 updated: 2026-11-06
 source: "Danielson, R. W., et al. (2025). The effectiveness of refutation text in confronting scientific misconceptions: A meta-analysis. Educational Psychologist, 60(1), 23–47."
+source_check: 原典照合
 ---
 
 # よくある誤解を書いて打ち消し、正しい説明を添える文章は、ふつうの説明文より誤解を正すかを、76の研究から確かめる（Danielsonほか2025）

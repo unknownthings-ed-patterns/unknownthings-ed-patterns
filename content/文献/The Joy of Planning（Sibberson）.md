@@ -6,6 +6,7 @@ year: 2012
 tags: [文献, 国語, 読書指導, ミニレッスン, リーディング・ワークショップ, 授業設計, サイクル計画]
 ingested: 2026-05-13
 updated: 2026-11-07
+source_check: 原典照合
 ---
 
 # The Joy of Planning: Designing Minilesson Cycles in Grades 3-6（Sibberson）

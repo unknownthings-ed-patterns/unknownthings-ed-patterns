@@ -6,6 +6,7 @@ author: "Karthik Muralidharan, Abhijeet Singh, Alejandro J. Ganimian"
 year: 2019
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 一人ひとりの段階に合わせるソフトで、学年から大きく遅れた中学生が伸びるかを確かめる（Muralidharanほか2019）

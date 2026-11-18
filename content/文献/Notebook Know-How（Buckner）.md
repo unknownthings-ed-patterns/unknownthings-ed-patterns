@@ -8,6 +8,7 @@ literature_status: integrated
 ingested: 2026-05-14
 reintegrated: 2026-05-31
 updated: 2026-11-07
+source_check: 原典照合
 ---
 
 # Notebook Know-How（Buckner, 2005）

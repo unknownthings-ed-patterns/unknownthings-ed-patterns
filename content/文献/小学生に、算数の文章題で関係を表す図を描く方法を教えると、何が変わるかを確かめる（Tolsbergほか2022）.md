@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-02
 updated: 2026-11-02
 source: "Tolsberg, K., Põldre, S., & Kikas, E. (2022). Learner-generated drawing as a learning strategy. The effect of teacher-guided intervention program “Learning with Understanding” on composing drawings in math word problems in the primary grades. Frontiers in Education, 7, 962067."
+source_check: 原典照合
 ---
 
 # 小学生に、算数の文章題で関係を表す図を描く方法を教えると、何が変わるかを確かめる（Tolsbergほか2022）

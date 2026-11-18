@@ -6,6 +6,7 @@ author: "Jonathan Guryan, Jens Ludwig, Monica P. Bhatt, Philip J. Cook, Jonathan
 year: 2023
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 中高生でも遅くないことを、毎日の二人一組の数学の個別指導で確かめる（Guryanほか2023）

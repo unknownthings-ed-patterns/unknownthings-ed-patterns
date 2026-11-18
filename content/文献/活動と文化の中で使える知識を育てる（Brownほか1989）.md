@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-19
 updated: 2026-10-19
 source: "Brown, J. S., Collins, A., & Duguid, P. (1989). Situated cognition and the culture of learning. Educational Researcher, 18(1), 32–42. https://doi.org/10.3102/0013189X018001032"
+source_check: 原典照合
 ---
 
 # 活動と文化の中で使える知識を育てる（Brownほか1989）

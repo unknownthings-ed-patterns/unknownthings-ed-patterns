@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-19
 updated: 2026-10-21
 source: "Yackel, E., & Cobb, P. (1996). Sociomathematical norms, argumentation, and autonomy in mathematics. Journal for Research in Mathematics Education, 27(4), 458–477. https://doi.org/10.2307/749877"
+source_check: 一部照合
 ---
 
 # 数学的によい説明の基準を教室で育てる（YackelとCobb1996）

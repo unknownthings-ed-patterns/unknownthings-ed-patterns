@@ -6,6 +6,7 @@ year: 2012
 tags: [文献, パタン・ランゲージ, 教授法, 経験学習, アクティブラーニング]
 ingested: 2026-05-09
 reintegrated: 2026-05-19
+source_check: 原典照合
 ---
 
 # Pedagogical Patterns: Advice For Educators（Berginほか）

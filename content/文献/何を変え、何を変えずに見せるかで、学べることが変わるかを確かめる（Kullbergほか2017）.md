@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-04
 updated: 2026-11-06
 source: "Kullberg, A., Runesson Kempe, U., & Marton, F. (2017). What is made possible to learn when using the variation theory of learning in teaching mathematics? ZDM Mathematics Education, 49(4), 559–569."
+source_check: 原典照合
 ---
 
 # 何を変え、何を変えずに見せるかで、学べることが変わるかを確かめる（Kullbergほか2017）

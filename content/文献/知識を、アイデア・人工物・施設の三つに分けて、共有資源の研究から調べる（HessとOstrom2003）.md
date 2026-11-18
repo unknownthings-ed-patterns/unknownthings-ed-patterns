@@ -6,6 +6,7 @@ tags: [文献, コモンズ, 知識コモンズ, 財産権, オープンアク�
 ingested: 2026-11-18
 updated: 2026-11-18
 source: "Hess, C., & Ostrom, E. (2003). Ideas, artifacts, and facilities: Information as a common-pool resource. Law and Contemporary Problems, 66(1/2), 111–145. https://scholarship.law.duke.edu/lcp/vol66/iss1/5/"
+source_check: 原典照合
 ---
 
 # 知識を、アイデア・人工物・施設の三つに分けて、共有資源の研究から調べる（HessとOstrom2003）

@@ -6,6 +6,7 @@ author: "Alan B. Krueger"
 year: 1999
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 学級の人数を減らすと、だれがいつ伸びるかを無作為化比較で確かめる（Krueger1999）

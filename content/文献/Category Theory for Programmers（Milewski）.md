@@ -7,6 +7,7 @@ tags: [文献, 圏論, 数学, プログラミング, 教育哲学, 関係思考
 literature_status: integrated
 ingested: 2026-05-31
 updated: 2026-05-31
+source_check: 記録なし
 ---
 
 # Category Theory for Programmers（Milewski, 2023）

@@ -8,6 +8,7 @@ literature_status: integrated
 ingested: 2026-10-11
 source: "Siegler, R., et al.（2010）Developing effective fractions instruction for kindergarten through 8th grade: A practice guide（NCEE #2010-4039）. Institute of Education Sciences, U.S. Department of Education."
 updated: 2026-11-11
+source_check: 一部照合
 ---
 
 # Developing Effective Fractions Instruction（Siegler et al., 2010）

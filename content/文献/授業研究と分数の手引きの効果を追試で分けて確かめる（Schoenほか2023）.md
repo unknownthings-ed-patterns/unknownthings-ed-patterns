@@ -6,6 +6,7 @@ author: "Robert C. Schoen, Catherine C. Lewis, Christopher Rhoads, Kevin Lai, Cl
 year: 2023
 ingested: 2026-10-31
 updated: 2026-10-31
+source_check: 原典照合
 ---
 
 # 授業研究と分数の手引きの効果を追試で分けて確かめる（Schoenほか2023）

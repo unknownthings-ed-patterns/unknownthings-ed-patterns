@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-18
 updated: 2026-10-18
 source: "Fredricks, J. A., Blumenfeld, P. C., & Paris, A. H. (2004). School engagement: Potential of the concept, state of the evidence. *Review of Educational Research, 74*(1), 59–109. https://doi.org/10.3102/00346543074001059"
+source_check: 一部照合
 ---
 
 # 学習への関与を行動と感情と思考から捉える（Fredricksほか2004）

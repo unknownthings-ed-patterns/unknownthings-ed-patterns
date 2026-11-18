@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-19
 updated: 2026-10-19
 source: "Topping, K. (1998). Peer assessment between students in colleges and universities. Review of Educational Research, 68(3), 249–276. https://doi.org/10.3102/00346543068003249"
+source_check: 一部照合
 ---
 
 # 相互評価の設計と実施条件を確かめる（Topping1998）

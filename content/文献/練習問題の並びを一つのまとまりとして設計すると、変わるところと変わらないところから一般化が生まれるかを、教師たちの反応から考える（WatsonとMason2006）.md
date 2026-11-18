@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-11
 updated: 2026-11-11
 source: "Watson, A., & Mason, J. (2006). Seeing an exercise as a single mathematical object: Using variation to structure sense-making. Mathematical Thinking and Learning, 8(2), 91–111."
+source_check: 原典照合
 ---
 
 # 練習問題の並びを一つのまとまりとして設計すると、変わるところと変わらないところから一般化が生まれるかを、教師たちの反応から考える（WatsonとMason2006）

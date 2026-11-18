@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-22
 updated: 2026-10-22
 source: "Harris, K. R., Graham, S., & Mason, L. H. (2006). Improving the writing, knowledge, and motivation of struggling young writers: Effects of self-regulated strategy development with and without peer support. American Educational Research Journal, 43(2), 295–340. https://doi.org/10.3102/00028312043002295"
+source_check: 一部照合
 ---
 
 # 書く方略と自己調整を低学年で支える（Harrisほか2006）

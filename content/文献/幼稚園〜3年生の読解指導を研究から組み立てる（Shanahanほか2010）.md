@@ -6,6 +6,7 @@ author: "Timothy Shanahan, Kim Callison, Christine Carriere, Nell K. Duke, P. Da
 year: 2010
 ingested: 2026-10-31
 updated: 2026-11-06
+source_check: 原典照合
 ---
 
 # 幼稚園〜3年生の読解指導を研究から組み立てる（Shanahanほか2010）

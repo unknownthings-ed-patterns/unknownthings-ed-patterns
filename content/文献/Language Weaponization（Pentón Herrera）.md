@@ -7,6 +7,7 @@ tags: [文献, 言語, 権力, 差別, 批判的言語学, 社会正義, 教育]
 literature_status: integrated
 ingested: 2026-06-19
 updated: 2026-06-19
+source_check: 記録なし
 ---
 
 # Language Weaponization（Pentón Herrera, 2026）

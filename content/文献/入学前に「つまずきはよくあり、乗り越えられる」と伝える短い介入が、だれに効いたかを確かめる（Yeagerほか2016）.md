@@ -6,6 +6,7 @@ author: "David S. Yeager, Gregory M. Walton, Shannon T. Brady, ほか10名, Caro
 year: 2016
 ingested: 2026-11-01
 updated: 2026-11-05
+source_check: 原典照合
 ---
 
 # 入学前に「つまずきはよくあり、乗り越えられる」と伝える短い介入が、だれに効いたかを確かめる（Yeagerほか2016）

@@ -6,6 +6,7 @@ tags: [文献, コモンズ, 知識コモンズ, 制度分析, 事例研究, オ
 ingested: 2026-11-18
 updated: 2026-11-18
 source: "Strandburg, K. J., Frischmann, B. M., & Madison, M. J. (2017). The knowledge commons framework. In K. J. Strandburg, B. M. Frischmann, & M. J. Madison (Eds.), Governing medical knowledge commons (pp. 9–18). Cambridge University Press. https://doi.org/10.1017/9781316544587.002"
+source_check: 原典照合
 ---
 
 # 知識のコモンズを、資源・共同体・規則がからみ合う仕組みとして、事例ごとに問いで調べる（Strandburgほか2017）

@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-02
 updated: 2026-11-02
 source: "Baumeister, R. F., Campbell, J. D., Krueger, J. I., & Vohs, K. D. (2003). Does high self-esteem cause better performance, interpersonal success, happiness, or healthier lifestyles? Psychological Science in the Public Interest, 4(1), 1–44."
+source_check: 一部照合
 ---
 
 # 自尊感情を高めると成績は上がるのかを確かめる（Baumeisterほか2003）

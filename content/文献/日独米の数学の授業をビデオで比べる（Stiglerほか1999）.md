@@ -6,6 +6,7 @@ author: "James W. Stigler, Patrick Gonzales, Takako Kawanaka, Steffen Knoll, Ana
 year: 1999
 ingested: 2026-10-31
 updated: 2026-10-31
+source_check: 原典照合
 ---
 
 # 日独米の数学の授業をビデオで比べる（Stiglerほか1999）

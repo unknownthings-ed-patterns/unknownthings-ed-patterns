@@ -8,6 +8,7 @@ literature_status: integrated
 ingested: 2026-10-11
 source: "Gentner, D.（1983）Structure-mapping: A theoretical framework for analogy. Cognitive Science, 7(2), 155–170."
 updated: 2026-11-05
+source_check: 原典照合
 ---
 
 # Structure-Mapping（Gentner, 1983）

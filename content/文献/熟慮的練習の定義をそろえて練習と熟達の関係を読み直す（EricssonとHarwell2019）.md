@@ -6,6 +6,7 @@ author: "K. Anders Ericsson, Kyle W. Harwell"
 year: 2019
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 熟慮的練習の定義をそろえて練習と熟達の関係を読み直す（EricssonとHarwell2019）

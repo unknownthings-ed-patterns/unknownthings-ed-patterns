@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-04
 updated: 2026-11-04
 source: "Moffitt, T. E., Arseneault, L., Belsky, D., Dickson, N., Hancox, R. J., Harrington, H., Houts, R., Poulton, R., Roberts, B. W., Ross, S., Sears, M. R., Thomson, W. M., & Caspi, A. (2011). A gradient of childhood self-control predicts health, wealth, and public safety. Proceedings of the National Academy of Sciences, 108(7), 2693–2698."
+source_check: 原典照合
 ---
 
 # 子どものころの自制心が、32歳の健康・経済状況・犯罪を予測するかを、生まれた子ども全員の追跡から確かめる（Moffittほか2011）

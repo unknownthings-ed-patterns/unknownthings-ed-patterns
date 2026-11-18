@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-04
 updated: 2026-11-06
 source: "Engeström, Y. (2020). Ascending from the abstract to the concrete as a principle of expansive learning. Psychological Science and Education, 25(5), 31–43."
+source_check: 原典照合
 ---
 
 # 胚細胞から具体へ上向する学びを、学校の外の三つの研究から描く（Engeström2020）

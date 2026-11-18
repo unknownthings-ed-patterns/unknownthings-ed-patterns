@@ -6,6 +6,7 @@ author: "Seth Gershenson, Cassandra M. D. Hart, Joshua Hyman, Constance A. Linds
 year: 2022
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 低学年で黒人の教師に一人でも教わると、黒人の子の卒業と進学が変わるかを確かめる（Gershensonほか2022）

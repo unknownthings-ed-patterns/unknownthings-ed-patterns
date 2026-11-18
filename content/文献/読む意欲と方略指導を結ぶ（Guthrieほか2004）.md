@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-16
 updated: 2026-11-12
 source: "Guthrie, J. T., Wigfield, A., Barbosa, P., Perencevich, K. C., Taboada, A., Davis, M. H., Scafiddi, N. T., & Tonks, S. (2004). Increasing reading comprehension and engagement through concept-oriented reading instruction. Journal of Educational Psychology, 96(3), 403–423. https://doi.org/10.1037/0022-0663.96.3.403"
+source_check: 一部照合
 ---
 
 # 読む意欲と方略指導を結ぶ（Guthrieほか2004）

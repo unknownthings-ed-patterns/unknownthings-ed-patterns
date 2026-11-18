@@ -6,6 +6,7 @@ tags: [文献, 直接指導, 発見学習, 作業例, 認知負荷, 論争]
 ingested: 2026-10-31
 updated: 2026-11-06
 source: "Clark, R. E., Kirschner, P. A., & Sweller, J. (2012). Putting students on the path to learning: The case for fully guided instruction. American Educator, 36(1), 6–11."
+source_check: 原典照合
 ---
 
 # 十分な手引きのある教え方を主張する（ClarkKirschnerSweller2012）

@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-02
 updated: 2026-11-04
 source: "Emmer, E. T., Evertson, C. M., & Anderson, L. M. (1979). Effective classroom management at the beginning of the school year (ERIC ED178542). ／Evertson, C. M. (1988). Improving elementary classroom management: A school-based training program for beginning the year (ERIC ED302528)."
+source_check: 原典照合
 ---
 
 # 年度はじめの3週間に手順を教えることが、1年の学級を左右するかを確かめる（Emmerほか1979・Evertson1988）

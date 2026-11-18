@@ -6,6 +6,7 @@ author: "Catherine Lewis, Rebecca Perry"
 year: 2014
 ingested: 2026-10-31
 updated: 2026-10-31
+source_check: 原典照合
 ---
 
 # 教材の手引きを添えた授業研究で教師の分数の知識が伸びる（LewisとPerry2014）

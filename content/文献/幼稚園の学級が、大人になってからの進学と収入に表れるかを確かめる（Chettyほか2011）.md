@@ -6,6 +6,7 @@ author: "Raj Chetty, John N. Friedman, Nathaniel Hilger, Emmanuel Saez, Diane Wh
 year: 2011
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 幼稚園の学級が、大人になってからの進学と収入に表れるかを確かめる（Chettyほか2011）

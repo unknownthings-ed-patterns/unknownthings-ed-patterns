@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-16
 updated: 2026-10-16
 source: "Castles, A., Rastle, K., & Nation, K. (2018). Ending the reading wars: Reading acquisition from novice to expert. Psychological Science in the Public Interest, 19(1), 5–51. https://doi.org/10.1177/1529100618772271"
+source_check: 一部照合
 ---
 
 # 文字の読みと内容理解をつないで育てる（Castlesほか2018）

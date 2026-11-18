@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-22
 updated: 2026-10-22
 source: "Recht, D. R., & Leslie, L. (1988). Effect of prior knowledge on good and poor readers’ memory of text. Journal of Educational Psychology, 80(1), 16–20. https://doi.org/10.1037/0022-0663.80.1.16"
+source_check: 一部照合
 ---
 
 # 背景知識と文章の記憶を確かめる（RechtとLeslie1988）

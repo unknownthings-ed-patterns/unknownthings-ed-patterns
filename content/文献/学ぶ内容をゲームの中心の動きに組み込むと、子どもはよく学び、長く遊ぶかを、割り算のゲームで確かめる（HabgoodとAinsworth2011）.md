@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-05
 updated: 2026-11-05
 source: "Habgood, M. P. J., & Ainsworth, S. E. (2011). Motivating children to learn effectively: Exploring the value of intrinsic integration in educational games. Journal of the Learning Sciences, 20(2), 169–206."
+source_check: 原典照合
 ---
 
 # 学ぶ内容をゲームの中心の動きに組み込むと、子どもはよく学び、長く遊ぶかを、割り算のゲームで確かめる（HabgoodとAinsworth2011）

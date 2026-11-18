@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-04
 updated: 2026-11-04
 source: "Korpershoek, H., Canrinus, E. T., Fokkens-Bruinsma, M., & de Boer, H. (2020). The relationships between school belonging and students' motivational, social-emotional, behavioural, and academic outcomes in secondary education: A meta-analytic review. Research Papers in Education, 35(6), 641–680."
+source_check: 原典照合
 ---
 
 # 学校への所属感が、意欲・自己像・行動・学力とどのくらい結びつくかを82の研究から確かめる（Korpershoekほか2020）

@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-18
 updated: 2026-11-06
 source: "Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*(2), 191–215. https://doi.org/10.1037/0033-295X.84.2.191"
+source_check: 一部照合
 ---
 
 # できるという見通しを経験から育てる（Bandura1977）

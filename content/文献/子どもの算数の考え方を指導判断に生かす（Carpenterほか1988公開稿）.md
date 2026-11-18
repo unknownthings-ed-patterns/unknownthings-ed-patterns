@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-20
 updated: 2026-10-20
 source: "Carpenter, T. P., Fennema, E., Peterson, P. L., Chiang, C.-P., & Loef, M. (1988, April). Using knowledge of children's mathematics thinking in classroom teaching: An experimental study [Conference paper]. American Educational Research Association Annual Meeting. ERIC ED292683."
+source_check: 原典照合
 ---
 
 # 子どもの算数の考え方を指導判断に生かす（Carpenterほか1988公開稿）

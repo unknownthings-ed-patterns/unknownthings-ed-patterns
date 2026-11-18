@@ -3,6 +3,7 @@ type: literature
 status: complete
 tags: [文献, 生得性, 認知科学, 心の理論, ナチュラル・ペダゴジー, 文化的学習, 部族的心理, 評価的学習]
 updated: 2026-06-21
+source_check: 記録なし
 ---
 
 # Innateness in Mind（Carruthers, 2026）

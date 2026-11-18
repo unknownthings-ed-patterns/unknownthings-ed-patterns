@@ -6,6 +6,7 @@ author: "Bethany Rittle-Johnson, Jon R. Star"
 year: 2009
 ingested: 2026-10-31
 updated: 2026-11-04
+source_check: 原典照合
 ---
 
 # 何と何を比べると学びが伸びるかを確かめる（RittleJohnsonとStar2009）

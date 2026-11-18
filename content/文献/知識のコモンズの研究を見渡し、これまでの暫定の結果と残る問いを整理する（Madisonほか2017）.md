@@ -6,6 +6,7 @@ tags: [文献, コモンズ, 知識コモンズ, 制度分析, 事例研究, ユ
 ingested: 2026-11-18
 updated: 2026-11-18
 source: "Madison, M. J., Strandburg, K. J., & Frischmann, B. M. (2017). Knowledge commons [Preprint, LawArXiv]. Forthcoming in P. Menell & D. Schwartz (Eds.), Research handbook on the economics of intellectual property law (Vol. II). Edward Elgar."
+source_check: 原典照合
 ---
 
 # 知識のコモンズの研究を見渡し、これまでの暫定の結果と残る問いを整理する（Madisonほか2017）

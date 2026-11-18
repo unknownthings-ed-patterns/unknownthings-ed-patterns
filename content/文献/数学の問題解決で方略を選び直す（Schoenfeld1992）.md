@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-19
 updated: 2026-10-19
 source: "Schoenfeld, A. H. (1992). Learning to think mathematically: Problem solving, metacognition, and sense-making in mathematics. In D. A. Grouws (Ed.), Handbook of research on mathematics teaching and learning (pp. 334–370). Macmillan."
+source_check: 一部照合
 ---
 
 # 数学の問題解決で方略を選び直す（Schoenfeld1992）

@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-22
 updated: 2026-11-11
 source: "Butler, R. (1988). Enhancing and undermining intrinsic motivation: The effects of task-involving and ego-involving evaluation on interest and performance. *British Journal of Educational Psychology, 58*(1), 1–14. https://doi.org/10.1111/j.2044-8279.1988.tb00874.x"
+source_check: 一部照合
 ---
 
 # 評点とコメントが向ける注意を確かめる（Butler1988）

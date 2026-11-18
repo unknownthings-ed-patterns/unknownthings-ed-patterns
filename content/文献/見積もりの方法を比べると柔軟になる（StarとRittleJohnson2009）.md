@@ -6,6 +6,7 @@ author: "Jon R. Star, Bethany Rittle-Johnson"
 year: 2009
 ingested: 2026-10-31
 updated: 2026-10-31
+source_check: 原典照合
 ---
 
 # 見積もりの方法を比べると柔軟になる（StarとRittleJohnson2009）

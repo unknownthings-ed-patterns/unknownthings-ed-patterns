@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-14
 updated: 2026-11-05
 source: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students’ learning with effective learning techniques: Promising directions from cognitive and educational psychology. Psychological Science in the Public Interest, 14(1), 4–58. https://doi.org/10.1177/1529100612453266"
+source_check: 原典照合
 ---
 
 # 学習方法の効果と適用条件（Dunloskyほか2013）

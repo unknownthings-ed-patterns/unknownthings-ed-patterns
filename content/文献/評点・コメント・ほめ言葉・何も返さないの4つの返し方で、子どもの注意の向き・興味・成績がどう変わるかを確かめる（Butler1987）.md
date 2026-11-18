@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-11
 updated: 2026-11-11
 source: "Butler, R. (1987). Task-involving and ego-involving properties of evaluation: Effects of different feedback conditions on motivational perceptions, interest, and performance. Journal of Educational Psychology, 79(4), 474–482."
+source_check: 原典照合
 ---
 
 # 評点・コメント・ほめ言葉・何も返さないの4つの返し方で、子どもの注意の向き・興味・成績がどう変わるかを確かめる（Butler1987）

@@ -7,6 +7,7 @@ tags: [文献, AI, AIリテラシー, 外国語教育, 教師教育, 国語]
 literature_status: integrated
 ingested: 2026-06-26
 updated: 2026-06-26
+source_check: 記録なし
 ---
 
 # AI-Powered Language Teaching（Son & Philpott, 2026）

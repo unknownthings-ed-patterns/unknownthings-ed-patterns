@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-14
 updated: 2026-10-14
 source: "Graham, S., & Hebert, M. A. (2010). Writing to read: Evidence for how writing can improve reading. Alliance for Excellent Education. A report to Carnegie Corporation of New York."
+source_check: 一部照合
 ---
 
 # 書く活動で読む力を支える（GrahamとHebert2010）

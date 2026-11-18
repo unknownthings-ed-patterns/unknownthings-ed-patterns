@@ -6,6 +6,7 @@ tags: [文献, 算数, 練習, インターリービング, 間隔学習, 教室
 ingested: 2026-10-31
 updated: 2026-10-31
 source: "Rohrer, D., Dedrick, R. F., & Stershic, S. (2015). Interleaved practice improves mathematics learning. Journal of Educational Psychology, 107(3), 900–908. https://doi.org/10.1037/edu0000001"
+source_check: 原典照合
 ---
 
 # 練習問題をまぜると算数の学びが残る（Rohrerほか2015）

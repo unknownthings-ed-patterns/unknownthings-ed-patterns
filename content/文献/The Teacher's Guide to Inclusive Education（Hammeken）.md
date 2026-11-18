@@ -6,6 +6,7 @@ year: 2007
 tags: [文献, 特別支援, インクルーシブ教育, 授業設計, 環境調整, ユニバーサルデザイン]
 ingested: 2026-05-15
 reintegrated: 2026-05-20
+source_check: 原典照合
 ---
 
 # The Teacher's Guide to Inclusive Education（Hammeken, 2007）

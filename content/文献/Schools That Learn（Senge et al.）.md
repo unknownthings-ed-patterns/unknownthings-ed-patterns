@@ -6,6 +6,7 @@ year: 2012
 reintegrated: 2026-05-19
 tags: [文献, 学習組織, システム思考, 学校改革, 組織学習, 尊厳, 美学, 共有ビジョン]
 ingested: 2026-05-14
+source_check: 原典照合
 ---
 
 # Schools That Learn（Senge et al., 2000/2012）

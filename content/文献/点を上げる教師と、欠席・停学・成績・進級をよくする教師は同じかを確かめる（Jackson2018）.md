@@ -6,6 +6,7 @@ author: "C. Kirabo Jackson"
 year: 2018
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 点を上げる教師と、欠席・停学・成績・進級をよくする教師は同じかを確かめる（Jackson2018）

@@ -8,6 +8,7 @@ literature_status: integrated
 ingested: 2026-10-14
 updated: 2026-10-14
 source: "Roediger, H. L., III, & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17(3), 249–255. https://doi.org/10.1111/j.1467-9280.2006.01693.x"
+source_check: 原典照合
 ---
 
 # 想起テストによる長期保持（RoedigerとKarpicke2006）

@@ -6,6 +6,7 @@ author: "Jens Dietrichson, Trine Filges, Julie K. Seerup, Rasmus H. Klokker, Bj�
 year: 2021
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 学習に困難のある小学生への支援の効き方を確かめる（Dietrichsonほか2021）

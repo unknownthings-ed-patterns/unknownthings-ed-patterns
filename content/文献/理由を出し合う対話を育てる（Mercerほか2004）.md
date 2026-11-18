@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-18
 updated: 2026-11-06
 source: "Mercer, N., Dawes, L., Wegerif, R., & Sams, C. (2004). Reasoning as a scientist: Ways of helping children to use language to learn science. *British Educational Research Journal, 30*(3), 359–377. https://doi.org/10.1080/01411920410001689689"
+source_check: 一部照合
 ---
 
 # 理由を出し合う対話を育てる（Mercerほか2004）

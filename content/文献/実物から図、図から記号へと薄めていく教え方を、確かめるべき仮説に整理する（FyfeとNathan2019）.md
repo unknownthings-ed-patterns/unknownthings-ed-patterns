@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-02
 updated: 2026-11-05
 source: "Fyfe, E. R., & Nathan, M. J. (2019). Making “concreteness fading” more concrete as a theory of instruction for promoting transfer. Educational Review, 71(4), 403–422."
+source_check: 原典照合
 ---
 
 # 実物から図、図から記号へと薄めていく教え方を、確かめるべき仮説に整理する（FyfeとNathan2019）

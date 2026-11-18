@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-01
 updated: 2026-11-01
 source: "Humphrey, N., Hennessey, A., Ashworth, E., Frearson, K., Black, L., Petersen, K., Wo, L., Panayiotou, M., Lendrum, A., Wigelsworth, M., Birchinall, L., Squires, G., & Pampaka, M. (2018). Good Behaviour Game: Evaluation report and executive summary. Education Endowment Foundation."
+source_check: 一部照合
 ---
 
 # よい行動ゲームが英国の学級で効かなかった理由を確かめる（Humphreyほか2018）

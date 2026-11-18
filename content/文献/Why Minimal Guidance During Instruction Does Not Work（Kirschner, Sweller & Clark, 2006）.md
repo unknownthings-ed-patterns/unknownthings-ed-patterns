@@ -8,6 +8,7 @@ literature_status: integrated
 ingested: 2026-10-11
 source: "Kirschner, P. A., Sweller, J., & Clark, R. E.（2006）Why minimal guidance during instruction does not work. Educational Psychologist, 41(2), 75–86."
 updated: 2026-11-02
+source_check: 原典照合
 ---
 
 # Why Minimal Guidance During Instruction Does Not Work（Kirschner, Sweller & Clark, 2006）

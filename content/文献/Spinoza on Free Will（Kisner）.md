@@ -5,6 +5,7 @@ author: Matthew J. Kisner
 year: 2026
 tags: [文献, 倫理学, スピノザ, 自由意志, コナトゥス, 両立論, 責任論, 動機づけ]
 ingested: 2026-06-05
+source_check: 記録なし
 ---
 
 # Spinoza on Free Will（Kisner）

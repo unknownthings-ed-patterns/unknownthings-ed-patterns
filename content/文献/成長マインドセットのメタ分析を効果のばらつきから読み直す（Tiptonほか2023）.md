@@ -6,6 +6,7 @@ author: "Elizabeth Tipton, Christopher Bryan, Jared Murray, Mark A. McDaniel, Ba
 year: 2023
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 成長マインドセットのメタ分析を効果のばらつきから読み直す（Tiptonほか2023）

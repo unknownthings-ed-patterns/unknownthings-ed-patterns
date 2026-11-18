@@ -5,6 +5,7 @@ author: J.S. ミル（John Stuart Mill）
 year: 1867
 tags: [文献, ミル, 一般教養教育, リベラルアーツ, 大学教育, 教育目的, 道徳教育, 審美的教育, 知識の体系化, 専門教育批判]
 ingested: 2026-06-03
+source_check: 原典照合
 ---
 
 # 大学教育について

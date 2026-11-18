@@ -6,6 +6,7 @@ author: "Hugues Lortie-Forgues, Matthew Inglis"
 year: 2019
 ingested: 2026-10-31
 updated: 2026-10-31
+source_check: 原典照合
 ---
 
 # 大規模な無作為化比較の多くが結論を出せないことを確かめる（LortieForguesとInglis2019）

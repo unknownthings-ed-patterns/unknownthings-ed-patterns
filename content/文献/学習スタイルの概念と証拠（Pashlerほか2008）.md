@@ -8,6 +8,7 @@ literature_status: integrated
 ingested: 2026-10-14
 updated: 2026-10-14
 source: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. Psychological Science in the Public Interest, 9(3), 105–119. https://doi.org/10.1111/j.1539-6053.2009.01038.x"
+source_check: 原典照合
 ---
 
 # 学習スタイルの概念と証拠（Pashlerほか2008）

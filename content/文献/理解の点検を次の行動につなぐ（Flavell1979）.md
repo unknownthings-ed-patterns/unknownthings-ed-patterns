@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-19
 updated: 2026-10-19
 source: "Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. American Psychologist, 34(10), 906–911. https://doi.org/10.1037/0003-066X.34.10.906"
+source_check: 原典照合
 ---
 
 # 理解の点検を次の行動につなぐ（Flavell1979）

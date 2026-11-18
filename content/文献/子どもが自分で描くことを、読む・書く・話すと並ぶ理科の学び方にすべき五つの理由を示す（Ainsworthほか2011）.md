@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-05
 updated: 2026-11-05
 source: "Ainsworth, S., Prain, V., & Tytler, R. (2011). Drawing to learn in science. Science, 333(6046), 1096–1097."
+source_check: 原典照合
 ---
 
 # 子どもが自分で描くことを、読む・書く・話すと並ぶ理科の学び方にすべき五つの理由を示す（Ainsworthほか2011）

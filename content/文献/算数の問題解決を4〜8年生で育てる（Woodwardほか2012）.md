@@ -6,6 +6,7 @@ author: "John Woodward, Sybilla Beckmann, Mark Driscoll, Megan Franke, Patricia 
 year: 2012
 ingested: 2026-10-31
 updated: 2026-11-11
+source_check: 原典照合
 ---
 
 # 算数の問題解決を4〜8年生で育てる（Woodwardほか2012）

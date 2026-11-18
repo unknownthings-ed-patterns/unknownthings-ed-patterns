@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-22
 updated: 2026-10-22
 source: "Diamond, A. (2013). Executive functions. *Annual Review of Psychology, 64*, 135–168. https://doi.org/10.1146/annurev-psych-113011-143750"
+source_check: 一部照合
 ---
 
 # 実行機能の負担と支援を見分ける（Diamond2013）

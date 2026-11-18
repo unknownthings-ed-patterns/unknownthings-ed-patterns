@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-02
 updated: 2026-11-06
 source: "Kalyuga, S. (2018). Expertise reversal effect and its instructional implications. Impact (Chartered College of Teaching). Edited version of Lee, C. H., & Kalyuga, S. (2014). In V. A. Benassi, C. E. Overson, & C. M. Hakala (Eds.), Applying science of learning in education (pp. 31–44). Society for the Teaching of Psychology."
+source_check: 原典照合
 ---
 
 # 初学者に効く手立てが、知っている学習者には効かなくなる「熟達化の逆転」を確かめる（Kalyuga2018）

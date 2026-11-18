@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-06
 updated: 2026-11-06
 source: "Meyer, J. H. F., & Land, R. (2005). Threshold concepts and troublesome knowledge (2): Epistemological considerations and a conceptual framework for teaching and learning. Higher Education, 49, 373–388."
+source_check: 原典照合
 ---
 
 # 通ると見え方が一変する「閾値概念」と、その手前で学ぶ人が立ち往生するところを、教える人のための枠組みに整理する（MeyerとLand2005）

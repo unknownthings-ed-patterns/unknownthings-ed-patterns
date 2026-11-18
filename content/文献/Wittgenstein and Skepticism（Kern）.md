@@ -5,6 +5,7 @@ author: Andrea Kern
 year: 2026
 tags: [文献, 言語哲学, ウィトゲンシュタイン, 懐疑論, 知識論, 能力, 他者の心]
 ingested: 2026-06-05
+source_check: 記録なし
 ---
 
 # Wittgenstein and Skepticism（Kern）

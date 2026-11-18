@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-16
 updated: 2026-10-16
 source: "Rittle-Johnson, B., Siegler, R. S., & Alibali, M. W. (2001). Developing conceptual understanding and procedural skill in mathematics: An iterative process. Journal of Educational Psychology, 93(2), 346–362. https://doi.org/10.1037/0022-0663.93.2.346"
+source_check: 一部照合
 ---
 
 # 概念理解と手続きを往復して育てる（RittleJohnsonほか2001）

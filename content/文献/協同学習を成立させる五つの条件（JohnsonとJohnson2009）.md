@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-15
 updated: 2026-10-15
 source: "Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. Educational Researcher, 38(5), 365–379. https://doi.org/10.3102/0013189X09339057"
+source_check: 一部照合
 ---
 
 # 協同学習を成立させる五つの条件（JohnsonとJohnson2009）

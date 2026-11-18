@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-20
 updated: 2026-10-20
 source: "Lampert, M. (1990). When the problem is not the question and the solution is not the answer: Mathematical knowing and teaching. American Educational Research Journal, 27(1), 29–63. https://doi.org/10.3102/00028312027001029"
+source_check: 原典照合
 ---
 
 # 予想と根拠の検討を通して数学を学ぶ（Lampert1990）

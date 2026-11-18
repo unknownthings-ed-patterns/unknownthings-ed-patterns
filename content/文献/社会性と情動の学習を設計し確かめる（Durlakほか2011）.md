@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-15
 updated: 2026-11-04
 source: "Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students’ social and emotional learning: A meta-analysis of school-based universal interventions. Child Development, 82(1), 405–432. https://doi.org/10.1111/j.1467-8624.2010.01564.x"
+source_check: 一部照合
 ---
 
 # 社会性と情動の学習を設計し確かめる（Durlakほか2011）

@@ -6,6 +6,7 @@ year: 2009
 tags: [文献, 形成的評価, フィードバック, 評価, 自己調整, 教室談話, 発問, 練り上げ, 特別支援]
 source: "Black, P. & Wiliam, D.（2009）Developing the theory of formative assessment"
 updated: 2026-11-07
+source_check: 記録なし
 ---
 
 # Developing the Theory of Formative Assessment（Black & Wiliam, 2009）

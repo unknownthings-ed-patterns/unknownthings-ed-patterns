@@ -6,6 +6,7 @@ author: "Elli J. Theobald, Mariah J. Hill, Elisa Tran, ほか29名, Scott Freema
 year: 2020
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 能動的な学びが、少数派と低所得の学生との差を縮めるかを確かめる（Theobaldほか2020）

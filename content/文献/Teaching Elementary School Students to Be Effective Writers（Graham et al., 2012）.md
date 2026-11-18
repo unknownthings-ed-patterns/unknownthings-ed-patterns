@@ -8,6 +8,7 @@ literature_status: integrated
 ingested: 2026-10-11
 source: "Graham, S., Bollinger, A., Booth Olson, C., D'Aoust, C., MacArthur, C., McCutchen, D., & Olinghouse, N.（2012）Teaching elementary school students to be effective writers: A practice guide（NCEE 2012-4058）. Institute of Education Sciences, U.S. Department of Education."
 updated: 2026-11-06
+source_check: 一部照合
 ---
 
 # Teaching Elementary School Students to Be Effective Writers（Graham et al., 2012）

@@ -5,6 +5,7 @@ author: Miki Muray
 year: 2004
 tags: [文献, 算数, 語彙, 数学語彙, 文脈的指導]
 ingested: 2026-05-08
+source_check: 記録なし
 ---
 
 # Teaching Mathematics Vocabulary in Context（Muray, 2004）

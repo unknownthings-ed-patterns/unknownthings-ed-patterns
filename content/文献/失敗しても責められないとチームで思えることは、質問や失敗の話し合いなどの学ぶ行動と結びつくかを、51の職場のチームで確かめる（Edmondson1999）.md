@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-05
 updated: 2026-11-05
 source: "Edmondson, A. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350–383."
+source_check: 原典照合
 ---
 
 # 失敗しても責められないとチームで思えることは、質問や失敗の話し合いなどの学ぶ行動と結びつくかを、51の職場のチームで確かめる（Edmondson1999）

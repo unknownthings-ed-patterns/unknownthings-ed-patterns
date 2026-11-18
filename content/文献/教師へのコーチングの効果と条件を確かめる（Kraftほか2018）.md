@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-17
 updated: 2026-10-17
 source: "Kraft, M. A., Blazar, D., & Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547–588. https://doi.org/10.3102/0034654318759268"
+source_check: 一部照合
 ---
 
 # 教師へのコーチングの効果と条件を確かめる（Kraftほか2018）

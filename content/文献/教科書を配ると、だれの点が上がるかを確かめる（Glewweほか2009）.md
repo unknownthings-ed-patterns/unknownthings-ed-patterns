@@ -6,6 +6,7 @@ author: "Paul Glewwe, Michael Kremer, Sylvie Moulin"
 year: 2009
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 教科書を配ると、だれの点が上がるかを確かめる（Glewweほか2009）

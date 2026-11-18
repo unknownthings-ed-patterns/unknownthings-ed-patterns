@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-18
 updated: 2026-11-06
 source: "Soderstrom, N. C., & Bjork, R. A. (2015). Learning versus performance: An integrative review. Perspectives on Psychological Science, 10(2), 176–199. https://doi.org/10.1177/1745691615569000"
+source_check: 一部照合
 ---
 
 # その場のできと長く残る学習を分ける（SoderstromとBjork2015）

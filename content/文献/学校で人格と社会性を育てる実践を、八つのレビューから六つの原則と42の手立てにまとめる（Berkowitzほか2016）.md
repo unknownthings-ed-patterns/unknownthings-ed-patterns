@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-05
 updated: 2026-11-05
 source: "Berkowitz, M. W., Bier, M. C., & McCauley, B. (2016). Effective features and practices that support character development. Invited paper for the National Academies of Sciences, Engineering, and Medicine Workshop on Defining and Measuring Character and Character Education."
+source_check: 原典照合
 ---
 
 # 学校で人格と社会性を育てる実践を、八つのレビューから六つの原則と42の手立てにまとめる（Berkowitzほか2016）

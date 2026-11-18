@@ -6,6 +6,7 @@ author: "Matthew A. Kraft"
 year: 2020
 ingested: 2026-10-31
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 教育の介入の効果量を読む物差しを作り直す（Kraft2020）

@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-05
 updated: 2026-11-05
 source: "Hedegaard, M. (2020). Ascending from the abstract to the concrete in school teaching — the double move between theoretical concepts and children's concepts. Psychological Science and Education, 25(5), 44–57."
+source_check: 原典照合
 ---
 
 # 胚細胞のモデルで小学校の生物・地理・歴史をつなぎ、子どもの関心と教科の概念のあいだを行き来して教える（Hedegaard2020）

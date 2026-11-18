@@ -6,6 +6,7 @@ year: 2024
 tags: [文献, 倫理学, カント, ラカン, 精神分析, 動機づけ, 超自我, 道徳的自律]
 source: "https://youtu.be/AhUW7kIW-3w"
 ingested: 2026-05-29
+source_check: 記録なし
 ---
 
 # 義務と欲望の倫理学：カント vs ラカン

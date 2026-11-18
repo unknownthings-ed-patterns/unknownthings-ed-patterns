@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-17
 updated: 2026-11-04
 source: "Metcalfe, J. (2017). Learning from errors. Annual Review of Psychology, 68, 465–489. https://doi.org/10.1146/annurev-psych-010416-044022"
+source_check: 一部照合
 ---
 
 # 誤りを訂正につないで学ぶ（Metcalfe2017）

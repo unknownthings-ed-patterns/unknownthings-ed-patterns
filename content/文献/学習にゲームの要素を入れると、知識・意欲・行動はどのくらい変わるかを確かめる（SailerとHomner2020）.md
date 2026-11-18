@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-04
 updated: 2026-11-04
 source: "Sailer, M., & Homner, L. (2020). The gamification of learning: A meta-analysis. Educational Psychology Review, 32(1), 77–112."
+source_check: 原典照合
 ---
 
 # 学習にゲームの要素を入れると、知識・意欲・行動はどのくらい変わるかを確かめる（SailerとHomner2020）

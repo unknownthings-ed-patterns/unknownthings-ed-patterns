@@ -6,6 +6,7 @@ author: "Michael Epstein, Marc Atkins, Douglas Cullinan, Krista Kutash, Robin We
 year: 2008
 ingested: 2026-10-31
 updated: 2026-10-31
+source_check: 原典照合
 ---
 
 # 小学校の教室での行動上の問題を減らす（Epsteinほか2008）

@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-04
 updated: 2026-11-04
 source: "Margulieux, L. E., Morrison, B. B., & Decker, A. (2020). Reducing withdrawal and failure rates in introductory programming with subgoal labeled worked examples. International Journal of STEM Education, 7, Article 19."
+source_check: 原典照合
 ---
 
 # 例題の各段階に「何のための段階か」を書き添えると、つまずきやすい学生がやめずに続けられるかを確かめる（Margulieuxほか2020）

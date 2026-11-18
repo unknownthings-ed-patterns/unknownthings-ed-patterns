@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-02
 updated: 2026-11-02
 source: "Becker, C., Lauterbach, G., Spengler, S., Dettweiler, U., & Mess, F. (2017). Effects of regular classes in outdoor education settings: A systematic review on students' learning, social and health dimensions. International Journal of Environmental Research and Public Health, 14(5), 485."
+source_check: 原典照合
 ---
 
 # 学校の授業を定期的に屋外で行うと、学びや人間関係に何が起きるかを確かめる（Beckerほか2017）

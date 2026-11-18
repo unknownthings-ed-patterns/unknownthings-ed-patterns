@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-06
 updated: 2026-11-06
 source: "Deslauriers, L., McCarty, L. S., Miller, K., Callaghan, K., & Kestin, G. (2019). Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom. Proceedings of the National Academy of Sciences, 116(39), 19251–19257."
+source_check: 原典照合
 ---
 
 # 能動的な授業では、学生は多く学んでいるのに、学んだ実感は小さくなるかを、同じ教材で無作為に分けて確かめる（Deslauriersほか2019）

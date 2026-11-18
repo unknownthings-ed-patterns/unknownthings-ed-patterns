@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-04
 updated: 2026-11-04
 source: "Dresel, M., Daumiller, M., Spear, J., Janke, S., Dickhäuser, O., & Steuer, G. (2024). Learning from errors in mathematics classrooms: Development over 2 years in dependence of perceived error climate. British Journal of Educational Psychology, 95(1), 180–196."
+source_check: 原典照合
 ---
 
 # 間違いを受けとめる学級の雰囲気と、間違いから学ぶ力の2年間の変化を確かめる（Dreselほか2024）

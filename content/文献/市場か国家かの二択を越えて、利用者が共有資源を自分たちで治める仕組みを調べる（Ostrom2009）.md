@@ -6,6 +6,7 @@ tags: [文献, コモンズ, 制度, 多中心的ガバナンス, 公共財, 信
 ingested: 2026-11-17
 updated: 2026-11-18
 source: "Ostrom, E. (2009). Beyond markets and states: Polycentric governance of complex economic systems. Prize Lecture, December 8, 2009. Nobel Foundation. https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf"
+source_check: 原典照合
 ---
 
 # 市場か国家かの二択を越えて、利用者が共有資源を自分たちで治める仕組みを調べる（Ostrom2009）

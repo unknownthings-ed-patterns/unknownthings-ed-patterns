@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-16
 updated: 2026-11-04
 source: "Dignath, C., Buettner, G., & Langfeldt, H.-P. (2008). How can primary school students learn self-regulated learning strategies most effectively? A meta-analysis on self-regulation training programmes. Educational Research Review, 3, 101–129. https://doi.org/10.1016/j.edurev.2008.02.003"
+source_check: 一部照合
 ---
 
 # 小学生の自己調整学習を支える（Dignathほか2008）

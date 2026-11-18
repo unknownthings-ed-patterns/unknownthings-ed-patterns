@@ -6,6 +6,7 @@ year: 1998
 tags: [文献, 形成的評価, フィードバック, 評価, 自己評価, 動機づけ, 目標志向, 特別支援]
 source: "Black, P. & Wiliam, D.（1998）Assessment and classroom learning"
 updated: 2026-11-11
+source_check: 孫引き
 ---
 
 # Assessment and Classroom Learning（Black & Wiliam, 1998）

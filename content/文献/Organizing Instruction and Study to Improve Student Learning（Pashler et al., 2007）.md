@@ -8,6 +8,7 @@ literature_status: integrated
 ingested: 2026-10-11
 source: "Pashler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, M., & Metcalfe, J.（2007）Organizing instruction and study to improve student learning（NCER 2007-2004）. Institute of Education Sciences, U.S. Department of Education."
 updated: 2026-11-05
+source_check: 原典照合
 ---
 
 # Organizing Instruction and Study to Improve Student Learning（Pashler et al., 2007）

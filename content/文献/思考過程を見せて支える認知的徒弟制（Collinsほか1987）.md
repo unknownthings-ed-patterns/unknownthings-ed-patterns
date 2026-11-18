@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-14
 updated: 2026-10-14
 source: "Collins, A., Brown, J. S., & Newman, S. E. (1987). Cognitive apprenticeship: Teaching the craft of reading, writing, and mathematics (Technical Report No. 403). Center for the Study of Reading, University of Illinois at Urbana-Champaign. ERIC ED284181."
+source_check: 一部照合
 ---
 
 # 思考過程を見せて支える認知的徒弟制（Collinsほか1987）

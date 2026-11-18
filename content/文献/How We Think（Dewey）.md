@@ -7,6 +7,7 @@ tags: [文献, デューイ, 反省的思考, 探究, 好奇心, 帰納, 演繹,
 literature_status: integrated
 ingested: 2026-05-31
 updated: 2026-11-06
+source_check: 原典照合
 ---
 
 # How We Think（Dewey, 1910）

@@ -5,6 +5,7 @@ author: "Francesco Nappo, Giovanni Valente"
 year: 2026
 tags: [文献, 類推, アナロジー, 科学哲学, 認識論, StructureMapping, Gentner, Hesse, Polya, 問題解決]
 ingested: 2026-06-10
+source_check: 記録なし
 ---
 
 # Analogical Reasoning in Science（Nappo & Valente, 2026）

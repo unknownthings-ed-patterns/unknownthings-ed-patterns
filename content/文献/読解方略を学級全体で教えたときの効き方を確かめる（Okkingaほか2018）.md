@@ -6,6 +6,7 @@ author: "Mariska Okkinga, Roel van Steensel, Amos J. S. van Gelderen, Erik van S
 year: 2018
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 読解方略を学級全体で教えたときの効き方を確かめる（Okkingaほか2018）

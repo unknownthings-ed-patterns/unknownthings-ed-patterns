@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-21
 updated: 2026-10-21
 source: "Snowling, M. J., & Hulme, C. (2011). Evidence-based interventions for reading and language difficulties: Creating a virtuous circle. British Journal of Educational Psychology, 81(1), 1–23. doi:10.1111/j.2044-8279.2010.02014.x."
+source_check: 一部照合
 ---
 
 # 読みの困難に応じて言語と読解を支える（SnowlingとHulme2011）

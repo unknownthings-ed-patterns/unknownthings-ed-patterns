@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-15
 updated: 2026-10-31
 source: "Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? Journal of Educational Psychology, 103(1), 1–18. https://doi.org/10.1037/a0021017"
+source_check: 原典照合
 ---
 
 # 発見学習の支援条件を見分ける（Alfieriほか2011）

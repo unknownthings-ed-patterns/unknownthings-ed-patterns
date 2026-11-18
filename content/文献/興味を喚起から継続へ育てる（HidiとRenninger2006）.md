@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-17
 updated: 2026-11-06
 source: "Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest development. Educational Psychologist, 41(2), 111–127. https://doi.org/10.1207/s15326985ep4102_4"
+source_check: 一部照合
 ---
 
 # 興味を喚起から継続へ育てる（HidiとRenninger2006）

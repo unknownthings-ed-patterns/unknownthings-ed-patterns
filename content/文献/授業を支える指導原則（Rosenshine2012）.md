@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-14
 updated: 2026-11-06
 source: "Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. American Educator, 36(1), 12–19, 39."
+source_check: 原典照合
 ---
 
 # 授業を支える指導原則（Rosenshine2012）

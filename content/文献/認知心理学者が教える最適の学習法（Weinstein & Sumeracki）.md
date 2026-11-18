@@ -7,6 +7,7 @@ tags: [文献, 学習科学, 認知心理学, 間隔学習, 検索練習, イン
 ingested: 2026-05-14
 reintegrated: 2026-05-17
 reintegrated2: 2026-05-20
+source_check: 原典照合
 ---
 
 # 認知心理学者が教える最適の学習法（Weinstein & Sumeracki）

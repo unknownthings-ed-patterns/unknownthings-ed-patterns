@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-16
 updated: 2026-11-04
 source: "Graham, S., & Perin, D. (2007). Writing next: Effective strategies to improve writing of adolescents in middle and high schools — A report to Carnegie Corporation of New York. Alliance for Excellent Education."
+source_check: 一部照合
 ---
 
 # 作文指導の有効な要素を組み合わせる（Writing Next2007）

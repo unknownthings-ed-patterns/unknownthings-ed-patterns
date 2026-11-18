@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-06
 updated: 2026-11-06
 source: "Andrade, H. L. (2019). A critical review of research on student self-assessment. Frontiers in Education, 4, 87."
+source_check: 原典照合
 ---
 
 # 自己評価を、点をつけることではなく、直すための手がかりを自分でつくることとして使うと効くかを、76の研究から見直す（Andrade2019）

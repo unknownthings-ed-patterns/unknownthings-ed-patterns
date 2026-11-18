@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-05
 updated: 2026-11-06
 source: "Panadero, E., Jonsson, A., Pinedo, L., & Fernández-Castilla, B. (2023). Effects of rubrics on academic performance, self-regulated learning, and self-efficacy: A meta-analytic review. Educational Psychology Review, 35, Article 113."
+source_check: 原典照合
 ---
 
 # ルーブリックを使うと、成績・自己調整・自己効力感はどのくらい変わるかを、23の研究から確かめる（Panaderoほか2023）

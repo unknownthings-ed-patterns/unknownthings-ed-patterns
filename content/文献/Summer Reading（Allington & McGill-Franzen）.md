@@ -5,6 +5,7 @@ author: "Richard L. Allington & Anne McGill-Franzen（編）"
 year: 2013
 tags: [文献, 読書指導, 格差, 夏季読書, 本へのアクセス, 自己選択, エビデンス]
 ingested: 2026-06-03
+source_check: 原典照合
 ---
 
 # Summer Reading: Closing the Rich/Poor Reading Achievement Gap

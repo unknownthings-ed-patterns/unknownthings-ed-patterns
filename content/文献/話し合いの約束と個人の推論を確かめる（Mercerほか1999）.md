@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-21
 updated: 2026-10-21
 source: "Mercer, N., Wegerif, R., & Dawes, L. (1999). Children’s talk and the development of reasoning in the classroom. British Educational Research Journal, 25(1), 95–111. doi:10.1080/0141192990250107."
+source_check: 一部照合
 ---
 
 # 話し合いの約束と個人の推論を確かめる（Mercerほか1999）

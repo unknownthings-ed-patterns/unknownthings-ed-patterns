@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-04
 updated: 2026-11-04
 source: "Ritchhart, R., & Perkins, D. (2008). Making thinking visible. Educational Leadership, 65(5), 57–61."
+source_check: 原典照合
 ---
 
 # 思考ルーチンと記録で、考えを見える形にする（RitchhartとPerkins2008）

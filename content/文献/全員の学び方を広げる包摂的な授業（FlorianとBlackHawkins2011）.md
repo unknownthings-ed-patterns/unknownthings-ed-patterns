@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-18
 updated: 2026-11-12
 source: "Florian, L., & Black-Hawkins, K. (2011). Exploring inclusive pedagogy. *British Educational Research Journal, 37*(5), 813–828. https://doi.org/10.1080/01411926.2010.501096"
+source_check: 原典照合
 ---
 
 # 全員の学び方を広げる包摂的な授業（FlorianとBlackHawkins2011）

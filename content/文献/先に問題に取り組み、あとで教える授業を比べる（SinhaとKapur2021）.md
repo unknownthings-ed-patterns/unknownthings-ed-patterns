@@ -6,6 +6,7 @@ author: "Tanmay Sinha, Manu Kapur"
 year: 2021
 ingested: 2026-10-31
 updated: 2026-11-06
+source_check: 原典照合
 ---
 
 # 先に問題に取り組み、あとで教える授業を比べる（SinhaとKapur2021）

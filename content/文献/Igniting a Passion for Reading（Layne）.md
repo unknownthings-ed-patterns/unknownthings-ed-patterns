@@ -6,6 +6,7 @@ year: 2009
 tags: [文献, 読書指導, 動機づけ, アリテラシー, 読み聞かせ, 読書アイデンティティ, ブック・チャット, 読書ラウンジ, WILL, SKILL]
 ingested: 2026-05-15
 updated: 2026-11-11
+source_check: 原典照合
 ---
 
 # Igniting a Passion for Reading（Layne, 2009）

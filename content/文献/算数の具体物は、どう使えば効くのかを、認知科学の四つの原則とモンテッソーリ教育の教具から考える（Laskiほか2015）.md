@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-05
 updated: 2026-11-05
 source: "Laski, E. V., Jor'dan, J. R., Daoust, C., & Murray, A. K. (2015). What makes mathematics manipulatives effective? Lessons from cognitive science and Montessori education. SAGE Open, 5(2), 1–8."
+source_check: 原典照合
 ---
 
 # 算数の具体物は、どう使えば効くのかを、認知科学の四つの原則とモンテッソーリ教育の教具から考える（Laskiほか2015）

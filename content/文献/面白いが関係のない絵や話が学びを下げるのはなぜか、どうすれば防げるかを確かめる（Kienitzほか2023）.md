@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-02
 updated: 2026-11-02
 source: "Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science, 51(4), 595–616."
+source_check: 原典照合
 ---
 
 # 面白いが関係のない絵や話が学びを下げるのはなぜか、どうすれば防げるかを確かめる（Kienitzほか2023）

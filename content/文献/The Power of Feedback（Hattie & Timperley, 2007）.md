@@ -8,6 +8,7 @@ literature_status: integrated
 ingested: 2026-10-11
 source: "Hattie, J., & Timperley, H.（2007）The power of feedback. Review of Educational Research, 77(1), 81–112."
 updated: 2026-11-11
+source_check: 原典照合
 ---
 
 # The Power of Feedback（Hattie & Timperley, 2007）

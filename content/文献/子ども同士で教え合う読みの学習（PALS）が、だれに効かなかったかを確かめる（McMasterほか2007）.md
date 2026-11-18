@@ -6,6 +6,7 @@ author: "Kristen L. McMaster, Douglas Fuchs, Lynn S. Fuchs"
 year: 2007
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 子ども同士で教え合う読みの学習（PALS）が、だれに効かなかったかを確かめる（McMasterほか2007）

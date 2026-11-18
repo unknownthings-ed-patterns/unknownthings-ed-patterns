@@ -6,6 +6,7 @@ author: "Jeremy Roschelle, Mingyu Feng, Robert F. Murphy, Craig A. Mason"
 year: 2016
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 宿題にその場で正誤と手がかりを返し、誤答の集計を教師に渡すと、だれが伸びるかを確かめる（Roschelleほか2016）

@@ -6,6 +6,7 @@ year: 2007
 tags: [文献, 国語, 作文指導, ライティング・ワークショップ, 低学年, 幼児, マルチモーダル, 書く文化]
 ingested: 2026-05-14
 updated: 2026-11-07
+source_check: 原典照合
 ---
 
 # Talking, Drawing, Writing: Lessons for Our Youngest Writers（Horn & Giacobbe）

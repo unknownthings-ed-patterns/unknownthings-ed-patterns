@@ -6,6 +6,7 @@ author: "Abhijit Banerjee, Rukmini Banerji, James Berry, Esther Duflo, Harini Ka
 year: 2016
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 段階に合わせて教えるやり方を公立学校に広げると、どんな条件で効いたかを確かめる（Banerjeeほか2016）

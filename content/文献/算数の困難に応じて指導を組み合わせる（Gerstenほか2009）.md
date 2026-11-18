@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-22
 updated: 2026-11-12
 source: "Gersten, R., Chard, D., Jayanthi, M., Baker, S., Morphy, P., & Flojo, J. (2009). *A meta-analysis of mathematics instructional interventions for students with learning disabilities: A technical report*. Instructional Research Group."
+source_check: 一部照合
 ---
 
 # 算数の困難に応じて指導を組み合わせる（Gerstenほか2009）

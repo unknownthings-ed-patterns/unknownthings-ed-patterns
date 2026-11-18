@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-17
 updated: 2026-10-17
 source: "Shulman, L. S. (1986). Those who understand: Knowledge growth in teaching. Educational Researcher, 15(2), 4–14. https://doi.org/10.3102/0013189X015002004"
+source_check: 一部照合
 ---
 
 # 教科内容を教えるための知識に変える（Shulman1986）

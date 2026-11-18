@@ -5,6 +5,7 @@ author: "Robert F. Blitzer"
 year: 2014
 tags: [文献, 数学, 問題解決, 批判的思考, 論理, 統計, 確率]
 ingested: 2026-05-24
+source_check: 原典照合
 ---
 
 # Thinking Mathematically（Blitzer, 2014）

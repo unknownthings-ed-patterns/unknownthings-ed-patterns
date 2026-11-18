@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-04
 updated: 2026-11-06
 source: "Korpershoek, H., Harms, T., de Boer, H., van Kuijk, M., & Doolaard, S. (2016). A meta-analysis of the effects of classroom management strategies and classroom management programs on students' academic, behavioral, emotional, and motivational outcomes. Review of Educational Research, 86(3), 643–680."
+source_check: 原典照合
 ---
 
 # 学級経営の方略とプログラムは、学力・行動・情緒・意欲をどのくらい変えるかを54の取り組みから確かめる（Korpershoekほか2016）

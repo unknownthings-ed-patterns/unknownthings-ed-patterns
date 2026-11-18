@@ -8,6 +8,7 @@ literature_status: integrated
 ingested: 2026-10-11
 source: "Ryan, R. M., & Deci, E. L.（2000）Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68–78."
 updated: 2026-11-12
+source_check: 原典照合
 ---
 
 # Self-Determination Theory（Ryan & Deci, 2000）

@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-02
 updated: 2026-11-02
 source: "Wammes, J. D., Meade, M. E., & Fernandes, M. A. (2016). The drawing effect: Evidence for reliable and robust memory benefits in free recall. The Quarterly Journal of Experimental Psychology, 69(9), 1752–1776."
+source_check: 一部照合
 ---
 
 # 書き写すより絵に描くと、あとで思い出しやすいかを、7つの実験で確かめる（Wammesほか2016）

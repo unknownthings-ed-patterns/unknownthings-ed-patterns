@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-06
 updated: 2026-11-06
 source: "Canning, E. A., & Harackiewicz, J. M. (2015). Teach it, don't preach it: The differential effects of directly-communicated and self-generated utility value information. Motivation Science, 1(1), 47–71."
+source_check: 原典照合
 ---
 
 # 学ぶ内容の役立ちを、教える側が伝えるのと学ぶ人が自分で書くのとでは、自信のない人への効き方が違うかを、三つの実験で確かめる（CanningとHarackiewicz2015）

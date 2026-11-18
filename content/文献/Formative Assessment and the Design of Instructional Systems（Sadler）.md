@@ -6,6 +6,7 @@ year: 1989
 tags: [文献, 形成的評価, フィードバック, 評価, 自己評価, 評価規準, 学習者の自律]
 source: "Sadler, D. R.（1989）Formative assessment and the design of instructional systems. *Instructional Science*, 18(2), 119–144. https://doi.org/10.1007/BF00117714"
 updated: 2026-11-07
+source_check: 記録なし
 ---
 
 # Formative Assessment and the Design of Instructional Systems（Sadler, 1989）

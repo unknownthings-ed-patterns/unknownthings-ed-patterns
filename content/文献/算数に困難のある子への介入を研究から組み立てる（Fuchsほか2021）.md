@@ -6,6 +6,7 @@ author: "Lynn S. Fuchs ほか"
 year: 2021
 ingested: 2026-10-31
 updated: 2026-10-31
+source_check: 原典照合
 ---
 
 # 算数に困難のある子への介入を研究から組み立てる（Fuchsほか2021）

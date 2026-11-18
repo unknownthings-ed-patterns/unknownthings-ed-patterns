@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-15
 updated: 2026-10-21
 source: "Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students’ comprehension of text: A meta-analysis. Journal of Educational Psychology, 101(3), 740–764. https://doi.org/10.1037/a0015576"
+source_check: 一部照合
 ---
 
 # 読書の対話と個人の理解を分けて確かめる（Murphyほか2009）

@@ -8,6 +8,7 @@ literature_status: integrated
 ingested: 2026-05-31
 updated: 2026-11-05
 source: "Dewey, J. (1909). Moral Principles in Education. Houghton Mifflin."
+source_check: 原典照合
 ---
 
 # Moral Principles in Education（Dewey, 1909）

@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-17
 updated: 2026-11-04
 source: "Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12, 257–285. https://doi.org/10.1207/s15516709cog1202_4"
+source_check: 一部照合
 ---
 
 # 問題解決とスキーマ獲得を分けて捉える（Sweller1988）

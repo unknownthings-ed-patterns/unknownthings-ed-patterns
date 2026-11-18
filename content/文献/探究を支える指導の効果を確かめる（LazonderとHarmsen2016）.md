@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-15
 updated: 2026-10-15
 source: "Lazonder, A. W., & Harmsen, R. (2016). Meta-analysis of inquiry-based learning: Effects of guidance. Review of Educational Research, 86(3), 681–718. https://doi.org/10.3102/0034654315627366"
+source_check: 一部照合
 ---
 
 # 探究を支える指導の効果を確かめる（LazonderとHarmsen2016）

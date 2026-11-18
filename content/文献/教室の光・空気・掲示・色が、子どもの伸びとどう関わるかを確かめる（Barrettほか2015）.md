@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-02
 updated: 2026-11-05
 source: "Barrett, P., Davies, F., Zhang, Y., & Barrett, L. (2015). The impact of classroom design on pupils' learning: Final results of a holistic, multi-level analysis. Building and Environment, 89, 118–133."
+source_check: 一部照合
 ---
 
 # 教室の光・空気・掲示・色が、子どもの伸びとどう関わるかを確かめる（Barrettほか2015）

@@ -6,6 +6,7 @@ year: 2014
 tags: [文献, 読解指導, 読解ストラテジー, テキスト構造, コンテント・エリア, 国語, 理科, 社会]
 ingested: 2026-05-15
 reintegrated: 2026-05-19
+source_check: 原典照合
 ---
 
 # Classroom Strategies for Interactive Learning（Buehl, 2014）

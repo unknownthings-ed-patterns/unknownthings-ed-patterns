@@ -6,6 +6,7 @@ year: 2005
 tags: [文献, 国語, 読書指導, 独立学習, ワークステーション, 小グループ指導, 3-6年, GRR, 段階的手放し, 評価, ドラマ, ワードスタディ]
 ingested: 2026-05-15
 reingested: 2026-05-21
+source_check: 原典照合
 ---
 
 # Practice with Purpose（Diller, 2005）

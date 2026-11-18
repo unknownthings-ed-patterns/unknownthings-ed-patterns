@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-21
 updated: 2026-10-21
 source: "McKeown, M. G., Beck, I. L., & Blake, R. G. K. (2009). Rethinking reading comprehension instruction: A comparison of instruction for strategies and content approaches. Reading Research Quarterly, 44(3), 218–253. doi:10.1598/RRQ.44.3.1."
+source_check: 一部照合
 ---
 
 # 読解方略を文章の意味づくりにつなぐ（McKeownほか2009）

@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-06
 updated: 2026-11-06
 source: "Bandura, A., & Schunk, D. H. (1981). Cultivating competence, self-efficacy, and intrinsic interest through proximal self-motivation. Journal of Personality and Social Psychology, 41(3), 586–598."
+source_check: 原典照合
 ---
 
 # 苦手な引き算を、その日に届く小さな目標で進めると、できる見通しと力と興味がそろって育つかを確かめる（BanduraとSchunk1981）

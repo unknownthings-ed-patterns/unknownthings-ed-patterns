@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-22
 updated: 2026-10-22
 source: "Gillies, R. M. (2016). Cooperative learning: Review of research and practice. *Australian Journal of Teacher Education, 41*(3), 39–54. https://doi.org/10.14221/ajte.2016v41n3.3"
+source_check: 一部照合
 ---
 
 # 協同学習の対話を教師が支える（Gillies2016）

@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-02
 updated: 2026-11-02
 source: "Willis, B., & Reaney-Wood, S. (2026). Flourishing through adventure learning: A (semi)cautionary tale. British Educational Research Journal. https://doi.org/10.1002/berj.70246"
+source_check: 原典照合
 ---
 
 # 合宿型と校内型の冒険の学びを、偶然で割り当てて比べる（英国の実験、WillisとReaney-Wood2026）

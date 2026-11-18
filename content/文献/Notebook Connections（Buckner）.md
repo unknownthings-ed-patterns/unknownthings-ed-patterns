@@ -6,6 +6,7 @@ year: 2009
 tags: [文献, リーディング・ワークショップ, リーダーズノート, 読書指導, 国語]
 ingested: 2026-05-15
 updated: 2026-11-11
+source_check: 原典照合
 ---
 
 # Notebook Connections（Buckner, 2009）

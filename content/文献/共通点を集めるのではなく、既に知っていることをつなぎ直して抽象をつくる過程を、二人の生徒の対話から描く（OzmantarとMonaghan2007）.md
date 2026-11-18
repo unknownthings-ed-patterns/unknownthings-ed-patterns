@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-04
 updated: 2026-11-04
 source: "Ozmantar, M. F., & Monaghan, J. (2007). A dialectical approach to the formation of mathematical abstractions. Mathematics Education Research Journal, 19(2), 89–112."
+source_check: 原典照合
 ---
 
 # 共通点を集めるのではなく、既に知っていることをつなぎ直して抽象をつくる過程を、二人の生徒の対話から描く（OzmantarとMonaghan2007）

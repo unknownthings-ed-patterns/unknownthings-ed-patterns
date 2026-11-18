@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-04
 updated: 2026-11-04
 source: "Ramos-Vallecillo, N., Murillo-Ligorred, V., & Lozano-Blasco, R. (2024). University students' achievement of meaningful learning through participation in thinking routines. European Journal of Investigation in Health, Psychology and Education, 14(4), 1012–1027."
+source_check: 原典照合
 ---
 
 # 大学の講義に思考ルーチンを入れると、学生の参加と成績はどう変わるかを確かめる（Ramos-Vallecilloほか2024）

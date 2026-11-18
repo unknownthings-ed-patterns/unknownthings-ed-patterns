@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-02
 updated: 2026-11-02
 source: "Valentine, J. C., DuBois, D. L., & Cooper, H. (2004). The relation between self-beliefs and academic achievement: A meta-analytic review. Educational Psychologist, 39(2), 111–133."
+source_check: 一部照合
 ---
 
 # 自分についての信念が、のちの学力を予測するかを、縦断研究から確かめる（Valentineほか2004）

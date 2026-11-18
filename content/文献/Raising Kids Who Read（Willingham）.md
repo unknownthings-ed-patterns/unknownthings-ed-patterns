@@ -6,6 +6,7 @@ year: 2015
 tags: [文献, 読書指導, 読書アイデンティティ, 背景知識, 認知科学, 読み聞かせ]
 ingested: 2026-05-15
 updated: 2026-11-07
+source_check: 原典照合
 ---
 
 # Raising Kids Who Read（Willingham, 2015）

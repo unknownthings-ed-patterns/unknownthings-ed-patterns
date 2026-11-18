@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-21
 updated: 2026-11-04
 source: "Graham, S., McKeown, D., Kiuhara, S., & Harris, K. R. (2012). A meta-analysis of writing instruction for students in the elementary grades. Journal of Educational Psychology, 104(4), 879–896. doi:10.1037/a0029185."
+source_check: 一部照合
 ---
 
 # 小学生の作文指導を要素ごとに確かめる（Grahamほか2012）

@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-05
 updated: 2026-11-05
 source: "Peltzer, K., Lira Lorca, A., Krause, U.-M., & Busse, V. (2024). Effects of formative feedback on argumentative writing in English and cross-linguistic transfer to German. Learning and Instruction, 92, 101935."
+source_check: 原典照合
 ---
 
 # 意見文へのフィードバックを、書き込みのコメントにするか、ルーブリックとお手本にするかで、書く力の伸びは変わるかを、無作為に分けて確かめる（Peltzerほか2024）

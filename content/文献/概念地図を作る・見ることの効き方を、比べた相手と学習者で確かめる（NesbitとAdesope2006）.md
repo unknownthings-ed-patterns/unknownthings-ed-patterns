@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-01
 updated: 2026-11-04
 source: "Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. Review of Educational Research, 76(3), 413–448."
+source_check: 一部照合
 ---
 
 # 概念地図を作る・見ることの効き方を、比べた相手と学習者で確かめる（NesbitとAdesope2006）

@@ -6,6 +6,7 @@ year: 1938
 tags: [文献, デューイ, 経験, 連続性, 相互作用, 非教育的経験, 副次的学習, 目的形成, 社会的統制, 自由]
 ingested: 2026-05-22
 updated: 2026-11-06
+source_check: 原典照合
 ---
 
 # Experience and Education（Dewey, 1938）

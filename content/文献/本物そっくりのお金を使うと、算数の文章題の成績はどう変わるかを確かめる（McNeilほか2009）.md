@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-02
 updated: 2026-11-02
 source: "McNeil, N. M., Uttal, D. H., Jarvin, L., & Sternberg, R. J. (2009). Should you show me the money? Concrete objects both hurt and help performance on mathematics problems. Learning and Instruction, 19(2), 171–184."
+source_check: 原典照合
 ---
 
 # 本物そっくりのお金を使うと、算数の文章題の成績はどう変わるかを確かめる（McNeilほか2009）

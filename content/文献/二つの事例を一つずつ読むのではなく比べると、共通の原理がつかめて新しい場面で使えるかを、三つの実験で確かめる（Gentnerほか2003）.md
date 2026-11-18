@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-05
 updated: 2026-11-05
 source: "Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A general role for analogical encoding. Journal of Educational Psychology, 95(2), 393–408."
+source_check: 原典照合
 ---
 
 # 二つの事例を一つずつ読むのではなく比べると、共通の原理がつかめて新しい場面で使えるかを、三つの実験で確かめる（Gentnerほか2003）

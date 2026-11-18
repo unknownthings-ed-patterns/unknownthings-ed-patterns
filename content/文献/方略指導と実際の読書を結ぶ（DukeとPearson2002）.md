@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-14
 updated: 2026-11-06
 source: "Duke, N. K., & Pearson, P. D. (2002). Effective practices for developing reading comprehension. In A. E. Farstrup & S. J. Samuels (Eds.), What research has to say about reading instruction (3rd ed., pp. 205–242). International Reading Association. https://doi.org/10.1598/0872071774.10"
+source_check: 一部照合
 ---
 
 # 方略指導と実際の読書を結ぶ（DukeとPearson2002）

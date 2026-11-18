@@ -6,6 +6,7 @@ author: "Akihiko Takahashi, Thomas McDougal"
 year: 2016
 ingested: 2026-10-31
 updated: 2026-10-31
+source_check: 原典照合
 ---
 
 # 授業研究の効き目を支える仕組みを取り出す（TakahashiとMcDougal2016）

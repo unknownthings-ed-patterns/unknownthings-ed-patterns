@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-02
 updated: 2026-11-02
 source: "Richter, J. (2016). Signaling text-picture relations in multimedia learning: The influence of prior knowledge (Doctoral dissertation). Eberhard Karls Universität Tübingen."
+source_check: 一部照合
 ---
 
 # 図と文の対応を示す手がかりが、だれに効き、だれの邪魔になるかを確かめる（Richter2016）

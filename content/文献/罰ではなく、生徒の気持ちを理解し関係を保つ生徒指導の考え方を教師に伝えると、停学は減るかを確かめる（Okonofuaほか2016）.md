@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-06
 updated: 2026-11-06
 source: "Okonofua, J. A., Paunesku, D., & Walton, G. M. (2016). Brief intervention to encourage empathic discipline cuts suspension rates in half among adolescents. Proceedings of the National Academy of Sciences, 113(19), 5221–5226."
+source_check: 原典照合
 ---
 
 # 罰ではなく、生徒の気持ちを理解し関係を保つ生徒指導の考え方を教師に伝えると、停学は減るかを確かめる（Okonofuaほか2016）

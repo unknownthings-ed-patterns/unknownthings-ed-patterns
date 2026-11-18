@@ -6,6 +6,7 @@ year: 2009
 tags: [文献, 国語, 読書指導, カンファリング, リーディング・ワークショップ, RIPモデル]
 ingested: 2026-05-13
 updated: 2026-11-07
+source_check: 原典照合
 ---
 
 # Conferring: The Keystone of Reader's Workshop（Allen）

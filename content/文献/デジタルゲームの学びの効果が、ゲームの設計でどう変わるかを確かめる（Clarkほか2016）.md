@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-01
 updated: 2026-11-05
 source: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital games, design, and learning: A systematic review and meta-analysis. Review of Educational Research, 86(1), 79–122."
+source_check: 一部照合
 ---
 
 # デジタルゲームの学びの効果が、ゲームの設計でどう変わるかを確かめる（Clarkほか2016）

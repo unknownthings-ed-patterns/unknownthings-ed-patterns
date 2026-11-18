@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-14
 updated: 2026-10-31
 source: "Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. Cognition and Instruction, 1(2), 117–175. https://doi.org/10.1207/s1532690xci0102_1"
+source_check: 一部照合
 ---
 
 # 対話で読解を育てる相互教授法（PalincsarとBrown1984）

@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-02
 updated: 2026-11-02
 source: "Sundararajan, N. K. (2018). Seductive details: A meta-regression and empirical study (Doctoral dissertation). Washington State University."
+source_check: 一部照合
 ---
 
 # 面白いが関係のない絵や話が学びを下げる効果を、54の研究から確かめる（Sundararajan2018）

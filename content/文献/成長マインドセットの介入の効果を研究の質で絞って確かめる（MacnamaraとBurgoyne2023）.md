@@ -6,6 +6,7 @@ author: "Brooke N. Macnamara, Alexander P. Burgoyne"
 year: 2023
 ingested: 2026-10-31
 updated: 2026-10-31
+source_check: 原典照合
 ---
 
 # 成長マインドセットの介入の効果を研究の質で絞って確かめる（MacnamaraとBurgoyne2023）

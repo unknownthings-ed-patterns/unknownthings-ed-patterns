@@ -6,6 +6,7 @@ author: "Abhijit V. Banerjee, Shawn Cole, Esther Duflo, Leigh Linden"
 year: 2007
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 遅れている子を取り出して地域の若い女性が教える補習の効き方を確かめる（Banerjeeほか2007）

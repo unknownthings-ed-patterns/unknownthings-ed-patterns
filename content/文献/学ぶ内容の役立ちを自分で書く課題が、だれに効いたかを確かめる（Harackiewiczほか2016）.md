@@ -6,6 +6,7 @@ author: "Judith M. Harackiewicz, Elizabeth A. Canning, Yoi Tibbetts, Stacy J. Pr
 year: 2016
 ingested: 2026-11-01
 updated: 2026-11-06
+source_check: 原典照合
 ---
 
 # 学ぶ内容の役立ちを自分で書く課題が、だれに効いたかを確かめる（Harackiewiczほか2016）

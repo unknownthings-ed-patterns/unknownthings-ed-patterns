@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-06
 updated: 2026-11-12
 source: "Winkelmes, M.-A., Bernacki, M., Butler, J., Zochowski, M., Golanics, J., & Harriss Weavil, K. (2016). A teaching intervention that increases underserved college students' success. Peer Review, 18(1/2), 31–36."
+source_check: 原典照合
 ---
 
 # 課題の目的・やること・評価の規準をはっきり示すと、大学1年生、とくに家族で初めて大学に進んだ学生の自信と所属感は伸びるかを確かめる（Winkelmesほか2016）

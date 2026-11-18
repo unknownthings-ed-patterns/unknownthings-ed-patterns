@@ -8,6 +8,7 @@ literature_status: integrated
 ingested: 2026-10-14
 updated: 2026-10-14
 source: "Karpicke, J. D., Blunt, J. R., Smith, M. A., & Karpicke, S. S. (2014). Retrieval-based learning: The need for guided retrieval in elementary school children. Journal of Applied Research in Memory and Cognition, 3(3), 198–206. https://doi.org/10.1016/j.jarmac.2014.07.008"
+source_check: 原典照合
 ---
 
 # 小学生の想起練習を支える手がかり（Karpickeほか2014）

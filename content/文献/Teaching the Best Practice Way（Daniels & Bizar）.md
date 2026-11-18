@@ -6,6 +6,7 @@ year: 2005
 tags: [文献, 授業設計, リテラチャー・サークル, 協同学習, ワークショップ, ベスト・プラクティス, K-12, 省察的評価, 統合単元]
 ingested: 2026-05-15
 updated: 2026-11-11
+source_check: 原典照合
 ---
 
 # Teaching the Best Practice Way（Daniels & Bizar, 2005）

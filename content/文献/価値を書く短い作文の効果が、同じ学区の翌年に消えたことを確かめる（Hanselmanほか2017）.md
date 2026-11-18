@@ -6,6 +6,7 @@ author: "Paul Hanselman, Christopher S. Rozek, Jeffrey Grigg, Geoffrey D. Borman
 year: 2017
 ingested: 2026-11-01
 updated: 2026-11-04
+source_check: 原典照合
 ---
 
 # 価値を書く短い作文の効果が、同じ学区の翌年に消えたことを確かめる（Hanselmanほか2017）

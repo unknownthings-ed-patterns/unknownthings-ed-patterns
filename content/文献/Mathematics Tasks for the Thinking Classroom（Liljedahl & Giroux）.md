@@ -11,6 +11,7 @@ literature_status: integrated
 ingested: 2026-05-14
 reintegrated: 2026-05-17
 updated: 2026-11-07
+source_check: 原典照合
 ---
 
 # Mathematics Tasks for the Thinking Classroom, Grades K-5（Liljedahl & Giroux）

@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-04
 updated: 2026-11-06
 source: "McTighe, J., & Seif, E. (n.d.; posted 2011). A summary of underlying theory and research base for Understanding by Design. / McTighe, J. (2025). Research studies on Understanding by Design (UbD)."
+source_check: 原典照合
 ---
 
 # 逆向き設計が学力を伸ばすという根拠を、作者自身のまとめから確かめる（McTigheとSeif・McTighe2025）

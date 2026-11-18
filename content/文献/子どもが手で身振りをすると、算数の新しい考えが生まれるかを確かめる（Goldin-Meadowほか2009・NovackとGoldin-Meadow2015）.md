@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-02
 updated: 2026-11-06
 source: "Goldin-Meadow, S., Cook, S. W., & Mitchell, Z. A. (2009). Gesturing gives children new ideas about math. Psychological Science, 20(3), 267–272. ／Novack, M., & Goldin-Meadow, S. (2015). Learning from gesture: How our hands change our minds. Educational Psychology Review, 27(3), 405–412."
+source_check: 原典照合
 ---
 
 # 子どもが手で身振りをすると、算数の新しい考えが生まれるかを確かめる（Goldin-Meadowほか2009・NovackとGoldin-Meadow2015）

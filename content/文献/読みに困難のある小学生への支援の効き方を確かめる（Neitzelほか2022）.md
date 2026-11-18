@@ -6,6 +6,7 @@ author: "Amanda J. Neitzel, Cynthia Lake, Marta Pellegrini, Robert E. Slavin"
 year: 2022
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 読みに困難のある小学生への支援の効き方を確かめる（Neitzelほか2022）

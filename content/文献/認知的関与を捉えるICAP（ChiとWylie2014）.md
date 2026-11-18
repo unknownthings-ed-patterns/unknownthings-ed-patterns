@@ -8,6 +8,7 @@ literature_status: integrated
 ingested: 2026-10-14
 updated: 2026-11-05
 source: "Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. Educational Psychologist, 49(4), 219–243. https://doi.org/10.1080/00461520.2014.965823"
+source_check: 原典照合
 ---
 
 # 認知的関与を捉えるICAP（ChiとWylie2014）

@@ -6,6 +6,7 @@ author: "Marta Pellegrini, Cynthia Lake, Amanda Neitzel, Robert E. Slavin"
 year: 2021
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 小学校の算数で効いたプログラムの種類を確かめる（Pellegriniほか2021）

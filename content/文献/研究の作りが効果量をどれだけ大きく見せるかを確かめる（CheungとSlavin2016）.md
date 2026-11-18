@@ -6,6 +6,7 @@ author: "Alan C. K. Cheung, Robert E. Slavin"
 year: 2016
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 研究の作りが効果量をどれだけ大きく見せるかを確かめる（CheungとSlavin2016）

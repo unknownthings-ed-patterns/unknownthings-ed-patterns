@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-17
 updated: 2026-10-17
 source: "Bransford, J. D., & Schwartz, D. L. (1999). Rethinking transfer: A simple proposal with multiple implications. Review of Research in Education, 24, 61–100. https://doi.org/10.3102/0091732X024001061"
+source_check: 一部照合
 ---
 
 # 次の学びへの準備として転移を捉える（BransfordとSchwartz1999）

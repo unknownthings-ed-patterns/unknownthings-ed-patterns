@@ -6,6 +6,7 @@ author: "Brooke N. Macnamara, Megha Maitra"
 year: 2019
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 熟慮的練習の名研究を追試で確かめる（MacnamaraとMaitra2019）

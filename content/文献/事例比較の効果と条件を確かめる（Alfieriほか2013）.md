@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-16
 updated: 2026-10-16
 source: "Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D. (2013). Learning through case comparisons: A meta-analytic review. Educational Psychologist, 48(2), 87–113. https://doi.org/10.1080/00461520.2013.775712"
+source_check: 一部照合
 ---
 
 # 事例比較の効果と条件を確かめる（Alfieriほか2013）

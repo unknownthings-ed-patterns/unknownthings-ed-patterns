@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-01
 updated: 2026-11-01
 source: "Schroeder, N. L., Nesbit, J. C., Anguiano, C. J., & Adesope, O. O. (2018). Studying and constructing concept maps: A meta-analysis. Educational Psychology Review, 30(2), 431–455."
+source_check: 一部照合
 ---
 
 # 概念地図のメタ分析を研究を増やして確かめ直す（Schroederほか2018）

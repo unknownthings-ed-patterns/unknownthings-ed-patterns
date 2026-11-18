@@ -6,6 +6,7 @@ year: 1990
 tags: [文献, 教育評価, 評価, 妥当性, 論証, テスト, 特別支援, ケイン]
 source: "Kane, M. T.（1990）An argument-based approach to validation. *ACT Research Report Series*, 90-13. American College Testing Program.（ERIC: ED336428）"
 updated: 2026-08-04
+source_check: 記録なし
 ---
 
 # An Argument-Based Approach to Validation（Kane, 1990）

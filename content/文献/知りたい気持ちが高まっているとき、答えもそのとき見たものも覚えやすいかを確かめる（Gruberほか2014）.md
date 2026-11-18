@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-04
 updated: 2026-11-06
 source: "Gruber, M. J., Gelman, B. D., & Ranganath, C. (2014). States of curiosity modulate hippocampus-dependent learning via the dopaminergic circuit. Neuron, 84(2), 486–496."
+source_check: 原典照合
 ---
 
 # 知りたい気持ちが高まっているとき、答えもそのとき見たものも覚えやすいかを確かめる（Gruberほか2014）

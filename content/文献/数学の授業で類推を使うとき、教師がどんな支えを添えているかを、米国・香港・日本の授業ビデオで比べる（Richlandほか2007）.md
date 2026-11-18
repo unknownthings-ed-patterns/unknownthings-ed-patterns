@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-05
 updated: 2026-11-05
 source: "Richland, L. E., Zur, O., & Holyoak, K. J. (2007). Cognitive supports for analogies in the mathematics classroom. Science, 316(5828), 1128–1129."
+source_check: 原典照合
 ---
 
 # 数学の授業で類推を使うとき、教師がどんな支えを添えているかを、米国・香港・日本の授業ビデオで比べる（Richlandほか2007）

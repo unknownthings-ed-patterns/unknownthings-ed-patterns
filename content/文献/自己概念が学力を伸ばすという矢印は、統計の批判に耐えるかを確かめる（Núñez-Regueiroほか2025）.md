@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-02
 updated: 2026-11-02
 source: "Núñez-Regueiro, F., Marsh, H. W., Pekrun, R., Lüdtke, O., & Guo, J. (2025). The reciprocal effects model is robust to alternative modeling specifications: A response to Sorjonen et al., 2025. Educational Psychology Review."
+source_check: 原典照合
 ---
 
 # 自己概念が学力を伸ばすという矢印は、統計の批判に耐えるかを確かめる（Núñez-Regueiroほか2025）

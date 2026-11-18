@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-10-17
 updated: 2026-11-06
 source: "Roorda, D. L., Jak, S., Zee, M., Oort, F. J., & Koomen, H. M. Y. (2017). Affective teacher–student relationships and students’ engagement and achievement: A meta-analytic update and test of the mediating role of engagement. School Psychology Review, 46(3), 239–261. https://doi.org/10.17105/SPR-2017-0035.V46-3"
+source_check: 一部照合
 ---
 
 # 教師との関係と学習への参加を分けて捉える（Roordaほか2017）

@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-05
 updated: 2026-11-05
 source: "Ramani, G. B., Siegler, R. S., & Hitti, A. (2012). Taking it to the classroom: Number board games as a small group learning activity. Journal of Educational Psychology, 104(3), 661–672."
+source_check: 原典照合
 ---
 
 # 数を一直線に並べたすごろくを、教室の小グループで補助の先生と遊ぶと、幼児の数の力は伸びるかを確かめる（Ramaniほか2012）

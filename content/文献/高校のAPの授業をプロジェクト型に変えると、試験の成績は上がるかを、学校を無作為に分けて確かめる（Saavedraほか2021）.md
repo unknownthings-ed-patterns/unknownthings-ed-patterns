@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-05
 updated: 2026-11-05
 source: "Saavedra, A. R., Liu, Y., Haderlein, S. K., Rapaport, A., Garland, M., Hoepfner, D., Morgan, K. L., & Hu, A. (2021). Knowledge in Action efficacy study over two years. USC Dornsife Center for Economic and Social Research. (ERIC ED616435)"
+source_check: 原典照合
 ---
 
 # 高校のAPの授業をプロジェクト型に変えると、試験の成績は上がるかを、学校を無作為に分けて確かめる（Saavedraほか2021）

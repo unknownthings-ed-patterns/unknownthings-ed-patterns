@@ -6,6 +6,7 @@ author: "Eric S. Taylor, John H. Tyler"
 year: 2012
 ingested: 2026-11-01
 updated: 2026-11-01
+source_check: 原典照合
 ---
 
 # 授業観察による1年間の評価を受けた中堅の教師は、その後も伸びるかを確かめる（TaylorとTyler2012）

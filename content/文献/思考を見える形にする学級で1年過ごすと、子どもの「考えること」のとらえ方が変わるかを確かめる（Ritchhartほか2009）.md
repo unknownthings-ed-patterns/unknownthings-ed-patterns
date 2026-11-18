@@ -7,6 +7,7 @@ literature_status: integrated
 ingested: 2026-11-04
 updated: 2026-11-04
 source: "Ritchhart, R., Turner, T., & Hadar, L. (2009). Uncovering students' thinking about thinking using concept maps. Metacognition and Learning, 4(2), 145–159."
+source_check: 原典照合
 ---
 
 # 思考を見える形にする学級で1年過ごすと、子どもの「考えること」のとらえ方が変わるかを確かめる（Ritchhartほか2009）

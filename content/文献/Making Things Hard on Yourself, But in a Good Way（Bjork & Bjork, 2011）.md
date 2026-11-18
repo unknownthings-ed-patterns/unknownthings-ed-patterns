@@ -8,6 +8,7 @@ literature_status: integrated
 ingested: 2026-10-11
 source: "Bjork, E. L., & Bjork, R. A.（2011）Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher et al.（Eds.）, Psychology and the real world（pp. 56–64）. Worth Publishers."
 updated: 2026-11-06
+source_check: 原典照合
 ---
 
 # Making Things Hard on Yourself, But in a Good Way（Bjork & Bjork, 2011）

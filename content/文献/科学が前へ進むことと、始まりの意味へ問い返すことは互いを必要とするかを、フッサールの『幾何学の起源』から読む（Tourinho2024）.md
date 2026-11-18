@@ -6,6 +6,7 @@ tags: [文献, 現象学, フッサール, 幾何学の起源, 伝統, 知識の
 ingested: 2026-11-18
 updated: 2026-11-18
 source: "Tourinho, C. D. C. (2024). Implications between teleological advancement and the return to origins: The adventure of Geometry in Husserl. Sofia, 13(2), e13247261, 1–15. https://doi.org/10.47456/sofia.v13i2.47261"
+source_check: 原典照合
 ---
 
 # 科学が前へ進むことと、始まりの意味へ問い返すことは互いを必要とするかを、フッサールの『幾何学の起源』から読む（Tourinho2024）

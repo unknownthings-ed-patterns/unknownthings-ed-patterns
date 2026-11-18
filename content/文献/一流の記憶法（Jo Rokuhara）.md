@@ -5,6 +5,7 @@ author: Jo Rokuhara
 year: 年不詳（Kindle）
 tags: [文献, 記憶術, 学習科学, 場所法, ペグ法, 関係法, 間隔学習, 想起練習, 試験勉強]
 ingested: 2026-05-21
+source_check: 原典照合
 ---
 
 # 一流の記憶法（Jo Rokuhara）

@@ -6,6 +6,7 @@ year: 2005
 tags: [文献, 国語, 読書指導, 読解, 深い理解, リーディング・ワークショップ, テキスト・セット, 文学討論, ミニレッスン, 共有読書, ストラテジー, スケール・オブ・ヘルプ]
 ingested: 2026-05-15
 updated: 2026-11-07
+source_check: 原典照合
 ---
 
 # Teaching for Deep Comprehension（Dorn & Soffos, 2005）

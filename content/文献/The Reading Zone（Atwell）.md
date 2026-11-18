@@ -7,6 +7,7 @@ tags: [文献, リーディング・ワークショップ, 読書指導, 国語,
 ingested: 2026-05-13
 reintegrated: 2026-05-17
 updated: 2026-11-07
+source_check: 原典照合
 ---
 
 # The Reading Zone（Atwell & Atwell Merkel, 2016）

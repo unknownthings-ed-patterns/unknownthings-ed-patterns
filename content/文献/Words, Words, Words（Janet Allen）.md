@@ -5,6 +5,7 @@ author: "Janet Allen"
 year: 1999
 tags: [文献, 語彙, 国語, 読書指導, 言語発達]
 ingested: 2026-05-20
+source_check: 原典照合
 ---
 
 # Words, Words, Words: Teaching Vocabulary in Grades 4-12

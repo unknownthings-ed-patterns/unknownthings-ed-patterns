@@ -6,6 +6,7 @@ tags: [文献, 能動的学習, 講義, メタ分析, 大学, 理系]
 ingested: 2026-10-31
 updated: 2026-11-06
 source: "Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. Proceedings of the National Academy of Sciences, 111(23), 8410–8415. https://doi.org/10.1073/pnas.1319030111"
+source_check: 原典照合
 ---
 
 # 講義だけの授業と能動的な学びを比べる（Freemanほか2014）

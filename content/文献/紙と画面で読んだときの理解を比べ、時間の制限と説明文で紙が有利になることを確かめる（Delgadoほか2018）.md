@@ -44,7 +44,7 @@ source_check: 原典照合
 - 先行研究（Lauterman と Ackerman 2014、Sidi ほか 2017。本 Wiki は原典未読）では、要約のキーワードを書く、課題を大事なものと位置づけるといった簡単な手立てで、時間の制限があっても画面の不利と自信過剰が消えた、と紹介する（p. 35）
 - 入試などのデジタルの試験は、知識や技能だけでなく、デジタルで読む力の個人差も測ってしまうおそれがある、とする（p. 35）
 
-**結論**（pp. 35–36）
+**結論**（p. 36）
 - 紙を選ぶほうがよいことを結果は示すが、デジタル端末を避けよと勧めるのは現実的でない。画面でも紙と同じくらい読める条件は予測できるので、その条件を見きわめて使うよう求める
 
 ## 適用範囲と限界
@@ -65,17 +65,17 @@ source_check: 原典照合
 
 （訳・本Wiki）この意外な結果は、子どもがますます早くからデジタル端末に触れ、大人が技術に慣れ、技術がよくなれば画面の不利は消える、と手をこまねいて待つことはできないことを示している。
 
-> "Although the current results suggest that paper-based reading should be favoured over digital-based reading, it is unrealistic to recommend avoiding digital devices."（p. 35）
+> "Although the current results suggest that paper-based reading should be favoured over digital-based reading, it is unrealistic to recommend avoiding digital devices."（p. 36）
 
 （訳・本Wiki）今回の結果は、デジタルで読むより紙で読むほうを選ぶべきだと示しているが、デジタル端末を避けよと勧めるのは現実的でない。
 
-> "In particular, an important conclusion from our analysis is that there are predictable conditions that seem to allow media equivalence."（p. 35）
+> "In particular, an important conclusion from our analysis is that there are predictable conditions that seem to allow media equivalence."（p. 36）
 
 （訳・本Wiki）とくに、この分析からの大事な結論は、紙と画面が同じくらいになるらしい、予測できる条件がある、ということだ。
 
 ## 教育実践への示唆（Wiki側の適用案）
 
-- 説明文を、時間を区切って読ませる場面（テストを含む）では、紙を用意する。画面しかないときは、時間に余裕を持たせる（[[パタン/読む媒体を選ぶ（紙と画面）]]）
+- 説明文を、時間を区切って読む場面（テストを含む）では、紙を用意する。画面しかないときは、時間に余裕を持たせる（[[パタン/読む媒体を選ぶ（紙と画面）]]）
 - 画面で読むときは、読み終えたら「要約のキーワードを三つ書く」のような、深く読む構えをつくる一手を入れる。ただしこれは先行研究の紹介で、本 Wiki は原典を読んでいない
 - 端末で受けるテストの結果には、デジタルで読む力の差が混ざりうる。測りたい力の外の難しさとして点検する（[[パタン/余計な難しさを外す（構成概念に無関係な分散）]]）
 - 物語文を楽しんで読む場面では、紙か画面かで理解が変わるという根拠は今のところ弱い

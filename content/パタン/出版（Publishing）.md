@@ -155,6 +155,7 @@ Muschla第2版（2006）で追加された章。ワープロを使った推敲�
 - [[文献/Teaching Elementary School Students to Be Effective Writers（Graham et al., 2012）]] — 本当の読み手に向けて書き、共同体を教室の外へ広げる（勧め2b・4）
 
 ---
+- [[パタン/書く道具を選ぶ（手書きとキーボード）]] — 仕上げて届ける作品を、手書きとキーボードのどちらで書くか
 
 ## クラスター図
 
@@ -172,6 +173,7 @@ flowchart LR
     ne3839de383bce38388e38395e382a9e383aae382aae38395e382a1e382a4e383ab["ポートフォリオファイル"]
     ne382b3e3839fe383a5e3838be38386e382a3e38292e381a4e3818fe3828b["コミュニティをつくる"]
     ne7b7a8e99b86efbc8845646974696e67efbc89["編集（Editing）"]
+    ne69bb8e3818fe98193e585b7e38292e981b8e381b6efbc88e6898be69bb8e3818de381a8e382ade383bce3839ce383bce38389efbc89["書く道具を選ぶ（手書きとキーボード）"]
 
     ne587bae78988efbc885075626c697368696e67efbc89 --- ne383abe383bce38396e383aae38383e382af
     ne587bae78988efbc885075626c697368696e67efbc89 --- ne4bd9ce5aeb6e381aee6a485e5ad90efbc88417574686f722773204368616972efbc89
@@ -184,6 +186,7 @@ flowchart LR
     ne587bae78988efbc885075626c697368696e67efbc89 --- ne3839de383bce38388e38395e382a9e383aae382aae38395e382a1e382a4e383ab
     ne587bae78988efbc885075626c697368696e67efbc89 --- ne382b3e3839fe383a5e3838be38386e382a3e38292e381a4e3818fe3828b
     ne587bae78988efbc885075626c697368696e67efbc89 --- ne7b7a8e99b86efbc8845646974696e67efbc89
+    ne587bae78988efbc885075626c697368696e67efbc89 --- ne69bb8e3818fe98193e585b7e38292e981b8e381b6efbc88e6898be69bb8e3818de381a8e382ade383bce3839ce383bce38389efbc89
 
     classDef hub fill:#f0f0f0,stroke:#555,color:#000,font-weight:bold
     class ne587bae78988efbc885075626c697368696e67efbc89 hub

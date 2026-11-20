@@ -9,6 +9,8 @@
  *   ④ frontmatter の tags に「パタン」が含まれない
  *   ⑤ 引用ゼロの文献ページ（どのパタンからも [[文献/X]] されていない）
  *   ⑥ パタン→文献リンクはあるが文献→パタンの逆参照がない
+ *   ⑳ 文献ページの source_check が未設定・不正
+ *   ㉑ 引く文献がすべて孫引き・要旨のみ・記録なしのパタン（情報）
  */
 
 import { readFileSync, writeFileSync, readdirSync, existsSync } from 'fs'
@@ -347,6 +349,30 @@ for (const [name, d] of data) {
   if (orphans.length > 0) orphanedLinkPatterns.push({ name, links: orphans })
 }
 
+// ⑳ 文献ページの source_check（本 Wiki が原典をどこまで確かめたか）が未設定・不正
+// ㉑ 引く文献がすべて「孫引き・要旨のみ・記録なし」のパタン（根拠に戻れない。情報。0 を目指すものではない）
+const SOURCE_CHECK_LEVELS = ['原典照合', '一部照合', '要旨のみ', '孫引き', '記録なし', 'その他']
+const WEAK_LEVELS = new Set(['要旨のみ', '孫引き', '記録なし'])
+const sourceCheckOf = new Map()
+const badSourceCheck = []
+for (const f of readdirSync(BUNKEN).filter(f => f.endsWith('.md') && f !== 'index.md')) {
+  const n = f.replace(/\.md$/, '')
+  const fm = readFileSync(join(BUNKEN, f), 'utf8').match(/^---\n([\s\S]*?)\n---/)
+  const m = fm && fm[1].match(/^source_check:\s*"?([^"\n]+?)"?\s*$/m)
+  const v = m ? m[1].trim() : ''
+  if (SOURCE_CHECK_LEVELS.includes(v)) sourceCheckOf.set(n, v)
+  else badSourceCheck.push({ name: n, value: v })
+}
+const weakGrounding = []
+for (const [name, d] of data) {
+  const body = d.rawContent.replace(/^## 根拠の確かめ（自動生成）[\s\S]*?(?=^## |(?![\s\S]))/m, '')
+  const bl = [...new Set([...body.matchAll(/\[\[文献\/([^\]|#]+?)(?:[|#][^\]]*)?\]\]/g)].map(m => m[1].trim()))]
+    .filter(l => sourceCheckOf.has(l) && sourceCheckOf.get(l) !== 'その他')
+  if (bl.length > 0 && bl.every(l => WEAK_LEVELS.has(sourceCheckOf.get(l)))) {
+    weakGrounding.push({ name, links: bl.map(l => `${l}（${sourceCheckOf.get(l)}）`) })
+  }
+}
+
 // ⑨ status 管理
 const statusDraft    = [...data.entries()].filter(([, d]) => d.status === 'draft').map(([n]) => n).sort((a,b) => a.localeCompare(b,'ja'))
 const statusUnknown  = [...data.entries()].filter(([, d]) => !d.status).map(([n]) => n).sort((a,b) => a.localeCompare(b,'ja'))
@@ -400,6 +426,8 @@ const CHECKS = [
   { key: '⑰出典なし',       val: noSource.length },
   { key: '⑱frontmatter',    val: frontmatterIssues.length },
   { key: '⑲孤立リンク',    val: orphanedLinkPatterns.length },
+  { key: '⑳原典確認未設定', val: badSourceCheck.length },
+  { key: '㉑根拠に戻れない', val: weakGrounding.length },
 ]
 
 let prevCounts = null
@@ -745,6 +773,32 @@ if (orphanedLinkPatterns.length === 0) {
 }
 L.push('')
 
+// ⑳
+L.push(`## ⑳ 文献ページの source_check 未設定・不正（${badSourceCheck.length} 件）`)
+L.push('')
+L.push(`文献ページの frontmatter に \`source_check: ${SOURCE_CHECK_LEVELS.join(' | ')}\` を置く。本 Wiki が原典をどこまで確かめたか。パタン側の「根拠の確かめ（自動生成）」の元になる。`)
+L.push('')
+if (badSourceCheck.length === 0) {
+  L.push('問題なし。')
+} else {
+  for (const { name, value } of badSourceCheck) L.push(`- [[文献/${name}]]${value ? `（${value}）` : ''}`)
+}
+L.push('')
+
+// ㉑
+L.push(`## ㉑ 引く文献がすべて孫引き・要旨のみ・記録なしのパタン（${weakGrounding.length} 件・情報）`)
+L.push('')
+L.push('根拠に戻る道が細いパタン。原典を読んで文献ページの確認を進めるか、確かめた文献を足す候補。0 を目指す項目ではない。')
+L.push('')
+if (weakGrounding.length === 0) {
+  L.push('なし。')
+} else {
+  for (const { name, links } of weakGrounding.sort((a,b) => a.name.localeCompare(b.name,'ja'))) {
+    L.push(`- [[パタン/${name}]] — ${links.join('・')}`)
+  }
+}
+L.push('')
+
 // パタン成熟度
 const total = data.size
 const cntComplete   = [...data.values()].filter(d => d.status === 'complete').length
@@ -771,4 +825,4 @@ if (!existsSync(REPORT) || readFileSync(REPORT, 'utf8') !== reportContent) {
 const historyData = { date: today, ...Object.fromEntries(CHECKS.map(c => [c.key, c.val])) }
 writeFileSync(HISTORY_PATH, JSON.stringify(historyData, null, 2), 'utf8')
 
-console.log(`Lint: ①非対称=${asymmetric.length} ②AI欠落=${missingActionable.length} ③リンク切れ=${brokenLinks.length} ④タグなし=${noPatternTag.length} ⑤文献引用ゼロ=${uncitedBunken.length} ⑥文献逆参照欠落=${missingBunkenBacklinks.length} ⑦孤立パタン=${isolatedPatterns.length} ⑧実践概念逆参照欠落=${missingWikiBacklinks.length} ⑨draft=${statusDraft.length}/未設定=${statusUnknown.length} ⑩疎結合=${sparsePatterns.length} ⑪重複リンク=${duplicateLinks.length} ⑫実践逆参照欠落=${missingJissenBacklinks.length} ⑬概念逆参照欠落=${missingGainenBacklinks.length} ⑭充実度=${incompleteStructure.length} ⑮他Dir逆参照欠落=${missingOtherDir.length} ⑯古いパタン=${stalePatterns.length} ⑰出典なし=${noSource.length} ⑱frontmatter=${frontmatterIssues.length} ⑲孤立リンク=${orphanedLinkPatterns.length}`)
+console.log(`Lint: ①非対称=${asymmetric.length} ②AI欠落=${missingActionable.length} ③リンク切れ=${brokenLinks.length} ④タグなし=${noPatternTag.length} ⑤文献引用ゼロ=${uncitedBunken.length} ⑥文献逆参照欠落=${missingBunkenBacklinks.length} ⑦孤立パタン=${isolatedPatterns.length} ⑧実践概念逆参照欠落=${missingWikiBacklinks.length} ⑨draft=${statusDraft.length}/未設定=${statusUnknown.length} ⑩疎結合=${sparsePatterns.length} ⑪重複リンク=${duplicateLinks.length} ⑫実践逆参照欠落=${missingJissenBacklinks.length} ⑬概念逆参照欠落=${missingGainenBacklinks.length} ⑭充実度=${incompleteStructure.length} ⑮他Dir逆参照欠落=${missingOtherDir.length} ⑯古いパタン=${stalePatterns.length} ⑰出典なし=${noSource.length} ⑱frontmatter=${frontmatterIssues.length} ⑲孤立リンク=${orphanedLinkPatterns.length} ⑳原典確認未設定=${badSourceCheck.length} ㉑根拠に戻れない(情報)=${weakGrounding.length}`)

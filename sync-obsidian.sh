@@ -42,6 +42,9 @@ cd "$REPO"
 # クラスター図を自動生成（<!-- cluster: manual --> のあるファイルはスキップ）
 "$NODE_BIN" generate-cluster-diagrams.mjs
 
+# 根拠の確かめ（文献ページの source_check から、引くページの ## 出典 の直後に自動生成）
+"$NODE_BIN" generate-source-check.mjs
+
 # lintチェック → wiki/メンテナンス/lint-report.md に書き出し
 "$NODE_BIN" lint-wiki.mjs
 

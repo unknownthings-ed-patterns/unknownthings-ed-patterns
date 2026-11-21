@@ -5,7 +5,7 @@ year: 2018
 tags: [文献, 教師の学び, 省察, フィードバック]
 literature_status: integrated
 ingested: 2026-10-17
-updated: 2026-10-17
+updated: 2026-11-21
 source: "Kraft, M. A., Blazar, D., & Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547–588. https://doi.org/10.3102/0034654318759268"
 source_check: 一部照合
 ---
@@ -57,6 +57,7 @@ Kraft, M. A., Blazar, D., & Hogan, D. (2018). The effect of teacher coaching on 
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 研究の中の堪能者を読む（だれに・どんな条件で効いたかの収集表）
 - [[文献/段階に合わせて教えるやり方を公立学校に広げると、どんな条件で効いたかを確かめる（Banerjeeほか2016）]] — 研修と教材だけでは担任のやり方が変わらず、授業を見に行く支えで変わった例
 - [[文献/授業観察による1年間の評価を受けた中堅の教師は、その後も伸びるかを確かめる（TaylorとTyler2012）]] — 授業観察とルーブリックによる1年間の評価で、教師がその後も伸びた研究
+- [[文献/先生が学校や仕事を辞める・とどまる理由を、185の研究から、辞めたい気持ちと実際の離職に分けて確かめる（Gundlachほか2024）]] — 研修やメンター制度と、先生が実際にとどまることの結びつきは小さかった（定着のメタ分析）
 
 ## 展開したい問い
 

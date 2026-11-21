@@ -5,7 +5,7 @@ year: 2019
 tags: [文献, 能動的な学び, 学んだ実感, メタ認知, 流暢さ, 大学, 物理, 無作為化比較, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-22
 source: "Deslauriers, L., McCarty, L. S., Miller, K., Callaghan, K., & Kestin, G. (2019). Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom. Proceedings of the National Academy of Sciences, 116(39), 19251–19257."
 source_check: 原典照合
 ---
@@ -86,6 +86,7 @@ PubMed Central の HTML 版（PMC6765278、CC BY-NC-ND 4.0）で、意義の欄�
 - [[文献/講義だけの授業と能動的な学びを比べる（Freemanほか2014）]] — 能動的な学びは効くというメタ分析。本研究は、教材を同じにして能動だけを切り替えた
 - [[文献/その場のできと長く残る学習を分ける（SoderstromとBjork2015）]] — その場の感触と、実際の学びのずれ
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 能動的な授業と学んだ実感のずれ
+- [[文献/生成AIに自由に聞ける練習のあと、AIなしのテストで高校生の数学の点が下がるかを、答えを出さない設計と比べて確かめる（Bastaniほか2025）]] — 本研究を引き、生成 AI を使った生徒も自分の学びを高く見積もったと報告する
 
 ## 展開したい問い
 

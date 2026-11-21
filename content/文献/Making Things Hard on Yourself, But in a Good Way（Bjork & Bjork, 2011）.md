@@ -7,7 +7,7 @@ tags: [文献, 望ましい困難, 学習科学, 記憶, 間隔学習, インタ
 literature_status: integrated
 ingested: 2026-10-11
 source: "Bjork, E. L., & Bjork, R. A.（2011）Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher et al.（Eds.）, Psychology and the real world（pp. 56–64）. Worth Publishers."
-updated: 2026-11-06
+updated: 2026-11-22
 source_check: 原典照合
 ---
 
@@ -139,6 +139,7 @@ Bjork, E. L., & Bjork, R. A. (2011). Making things hard on yourself, but in a go
 | 文献 | [[文献/Organizing Instruction and Study to Improve Student Learning（Pashler et al., 2007）]] | 間隔とテストを、根拠の強さつきで教室の手順にした実践ガイド |
 | 文献 | [[文献/練習問題をまぜると算数の学びが残る（Rohrerほか2015）]] | 交互にまぜる練習を、中学の算数の教室で3か月かけて確かめた実験 |
 | パタン | [[パタン/発見を委ねる（自分で見つけたものこそ盛り上がる）]] | 自分で生み出すこと（生成効果） |
+| 文献 | [[文献/生成AIに自由に聞ける練習のあと、AIなしのテストで高校生の数学の点が下がるかを、答えを出さない設計と比べて確かめる（Bastaniほか2025）]] | 答えを出さずにヒントを返す AI の設計の根拠として本エッセイを引く。答えを写せる AI では、AI なしのテストの点が下がった |
 
 ## 未パタン化の論点
 

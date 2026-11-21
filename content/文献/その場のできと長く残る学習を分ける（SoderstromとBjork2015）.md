@@ -5,7 +5,7 @@ year: 2015
 tags: [文献, 学習科学, メタ認知, 望ましい困難]
 literature_status: integrated
 ingested: 2026-10-18
-updated: 2026-11-06
+updated: 2026-11-22
 source: "Soderstrom, N. C., & Bjork, R. A. (2015). Learning versus performance: An integrative review. Perspectives on Psychological Science, 10(2), 176–199. https://doi.org/10.1177/1745691615569000"
 source_check: 一部照合
 ---
@@ -54,6 +54,7 @@ Soderstrom, N. C., & Bjork, R. A. (2015). Learning versus performance: An integr
 - [[パタン/熟慮的練習]] — できと学習の区別
 - [[パタン/自己調整]] — 学習の自己判断
 - [[文献/能動的な授業では、学生は多く学んでいるのに、学んだ実感は小さくなるかを、同じ教材で無作為に分けて確かめる（Deslauriersほか2019）]] — 授業直後の学んだ実感が、実際の学びと逆を向いた教室の実験
+- [[文献/生成AIに自由に聞ける練習のあと、AIなしのテストで高校生の数学の点が下がるかを、答えを出さない設計と比べて確かめる（Bastaniほか2025）]] — 生成 AI に聞ける練習で点が上がり、AI なしのテストで下がった高校の数学の実験
 
 ## 展開したい問い
 

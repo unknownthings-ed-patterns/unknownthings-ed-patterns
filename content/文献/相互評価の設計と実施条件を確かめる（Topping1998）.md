@@ -5,7 +5,7 @@ year: 1998
 tags: [文献, 形成的評価, ピアフィードバック, 評価]
 literature_status: integrated
 ingested: 2026-10-19
-updated: 2026-10-19
+updated: 2026-11-21
 source: "Topping, K. (1998). Peer assessment between students in colleges and universities. Review of Educational Research, 68(3), 249–276. https://doi.org/10.3102/00346543068003249"
 source_check: 一部照合
 ---
@@ -49,6 +49,7 @@ Topping, K. (1998). Peer assessment between students in colleges and universitie
 ## 関連するWikiページ
 
 - [[パタン/ピアフィードバック]] — 規準の共有から練習・修正・教師の点検までを一続きにする。
+- [[文献/仲間に返すフィードバックの質と、その後の書き直しや学びの関係を確かめる（Alemdagほか2026）]] — 事前の練習があると、コメントの質と成果の結びつきが強かった（.26 対 .12）。書く側のほうが受ける側より強く結びついた
 - [[パタン/評価的専門性を渡す（ギルド知識のダウンロード）]] — 規準を配るだけでなく、実例を評価して根拠を話す機会を設ける。
 - [[パタン/形成的評価]] — 評価情報を受け取った後の行動と作品の変化を確認する。
 - [[パタン/省察的評価]] — 相互評価をした側の判断と、自分の作品への戻り方も振り返る。

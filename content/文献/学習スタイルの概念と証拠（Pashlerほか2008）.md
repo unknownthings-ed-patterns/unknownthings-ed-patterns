@@ -6,7 +6,7 @@ year: 2008
 tags: [文献, 学習科学, 個別化, マルチモダール, 認知心理学]
 literature_status: integrated
 ingested: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-21
 source: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. Psychological Science in the Public Interest, 9(3), 105–119. https://doi.org/10.1111/j.1539-6053.2009.01038.x"
 source_check: 原典照合
 ---
@@ -70,6 +70,7 @@ Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Conc
 - [[パタン/授業のユニバーサルデザイン]] — アクセスの確保を、学習スタイル診断に依存させない。
 - [[パタン/A3.注意の持続（変化性）]] — 活動形式の変化の目的を、型別指導とは分けて説明する。
 - [[パタン/身体的理解]] — 身体的活動の意義を、運動型という分類の有効性で説明しない。
+- [[文献/HattieのVisible Learningを、元のメタ分析に戻って全部の要因で点検する（Kalmendal Brunsほか2026）]] — Hattie の Visible Learning の要因「学び方のスタイルに授業を合わせる」は、教育研究者の関連性の評定で最も低い要因の一つだった。
 
 ## Wiki内の記述との照合
 

@@ -5,7 +5,7 @@ source: "Cheung, A. C. K., & Slavin, R. E. (2016). How methodological features a
 author: "Alan C. K. Cheung, Robert E. Slavin"
 year: 2016
 ingested: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-21
 source_check: 原典照合
 ---
 
@@ -93,6 +93,7 @@ source_check: 原典照合
 | 文献 | [[文献/能動的な学びが、少数派と低所得の学生との差を縮めるかを確かめる（Theobaldほか2020）]] | 研究者自身が教えた授業の研究であることを限界に書く例 |
 | 文献 | [[文献/一人ひとりの段階に合わせるソフトで、学年から大きく遅れた中学生が伸びるかを確かめる（Muralidharanほか2019）]] | 学年相当のテストが効果を小さく見せた例（何を測るテストかで両方向に変わる） |
 | 文献 | [[文献/教科書を配ると、だれの点が上がるかを確かめる（Glewweほか2009）]] | 無作為化でない比べ方では教科書の効果が大きく見え、無作為化比較ではほぼゼロだった例 |
+| 文献 | [[文献/HattieのVisible Learningを、元のメタ分析に戻って全部の要因で点検する（Kalmendal Brunsほか2026）]] | Hattie の Visible Learning の全部の要因の点検（再現できたのは301のうち2つ） |
 
 ## 展開したい問い
 

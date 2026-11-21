@@ -5,7 +5,7 @@ source: "Kraft, M. A. (2020). Interpreting effect sizes of education interventio
 author: "Matthew A. Kraft"
 year: 2020
 ingested: 2026-10-31
-updated: 2026-11-01
+updated: 2026-11-21
 source_check: 原典照合
 ---
 
@@ -105,6 +105,7 @@ source_check: 原典照合
 | パタン | [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] | 研究の中の堪能者を読む（だれに・どんな条件で効いたかの収集表） |
 | 文献 | [[文献/研究の作りが効果量をどれだけ大きく見せるかを確かめる（CheungとSlavin2016）]] | 研究の作りと効果量の大きさ |
 | 文献 | [[文献/効果量を、1年の伸び・集団の差・似た研究と比べて読む（Hillほか2008）]] | 学年ごとの1年の伸びなど、効果量を比べる物差し |
+| 文献 | [[文献/HattieのVisible Learningを、元のメタ分析に戻って全部の要因で点検する（Kalmendal Brunsほか2026）]] | Hattie の Visible Learning の全部の要因の点検（再現できたのは301のうち2つ） |
 
 ## 展開したい問い
 

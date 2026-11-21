@@ -5,7 +5,7 @@ source: "Lortie-Forgues, H., & Inglis, M. (2019). Rigorous large-scale education
 author: "Hugues Lortie-Forgues, Matthew Inglis"
 year: 2019
 ingested: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-21
 source_check: 原典照合
 ---
 
@@ -88,6 +88,7 @@ source_check: 原典照合
 | 文献 | [[文献/授業研究と分数の手引きの効果を追試で分けて確かめる（Schoenほか2023）]] | 小さく有意でない大規模試験の例 |
 | 文献 | [[文献/成長マインドセットのメタ分析を効果のばらつきから読み直す（Tiptonほか2023）]] | 証拠がないことは、ないことの証拠ではない（メタ分析の調整要因について） |
 | パタン | [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] | 研究の中の堪能者を読む（だれに・どんな条件で効いたかの収集表） |
+| 文献 | [[文献/HattieのVisible Learningを、元のメタ分析に戻って全部の要因で点検する（Kalmendal Brunsほか2026）]] | Hattie の Visible Learning の全部の要因の点検（再現できたのは301のうち2つ） |
 
 ## 展開したい問い
 

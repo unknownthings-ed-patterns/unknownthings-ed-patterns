@@ -5,7 +5,7 @@ year: 2003
 tags: [文献, 自尊感情, 自己概念, 学力, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-22
 source: "Baumeister, R. F., Campbell, J. D., Krueger, J. I., & Vohs, K. D. (2003). Does high self-esteem cause better performance, interpersonal success, happiness, or healthier lifestyles? Psychological Science in the Public Interest, 4(1), 1–44."
 source_check: 一部照合
 ---
@@ -63,6 +63,7 @@ Baumeister, R. F., Campbell, J. D., Krueger, J. I., & Vohs, K. D. (2003). Does h
 - [[パタン/アドベンチャー]] — 自尊感情と成績
 - [[パタン/適切な行動に注目する]] — 称賛の使い方
 - [[パタン/読書アイデンティティ]] — 自尊感情
+- [[文献/子どもの自分についての見方（自己概念・自尊感情）と結びつくものを、105のメタ分析から比べる（Jansenほか2024）]] — 自尊感情・自己概念と結びつくものを、105本のメタ分析で比べた
 - [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 自尊感情
 - [[文献/算数の自己概念と学力が、6年間で互いにどう影響し合うかを確かめる（Marshほか2018）]] — 教科の自己概念と学力の相互効果を、6年間追って確かめた研究
 - [[文献/自己概念が学力を伸ばすという矢印は、統計の批判に耐えるかを確かめる（Núñez-Regueiroほか2025）]] — 教科の自己概念が学力に影響するという効果が、統計の批判に耐えるかの論争

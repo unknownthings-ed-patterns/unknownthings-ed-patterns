@@ -5,7 +5,7 @@ source: "Kalmendal Bruns, A., Dietrichson, J., Håkansson, J., Edyburn, D., Nord
 author: "André Kalmendal Bruns, Jens Dietrichson, Jan Håkansson, Dave Edyburn, Thomas Nordström, Rickard Carlsson"
 year: 2026
 ingested: 2026-11-21
-updated: 2026-11-21
+updated: 2026-11-22
 source_check: 原典照合
 ---
 
@@ -123,6 +123,7 @@ source_check: 原典照合
 - [[パタン/形成的評価]]・[[パタン/テストを繰り返す]]・[[パタン/到達レベルの自己評価]]・[[パタン/フィードバック]] — Hattie の数字を引いていたパタン
 - [[概念/外れ値とパタン・ランゲージ]] — 平均効果量の読み方
 - [[異論と反証]] — この論文から足した異論の一覧
+- [[文献/熟達した教師は経験を積んだだけの教師と何が違うかを、全米の資格審査の教室で確かめる（Hattie2003）]] — 『Visible Learning』の前の講演。出典のない効果量の一覧と「先生が約30%」の数字を含む
 
 ## 展開したい問い
 

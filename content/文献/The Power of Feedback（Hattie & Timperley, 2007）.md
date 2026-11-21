@@ -7,7 +7,7 @@ tags: [文献, フィードバック, 形成的評価, 評価, メタ分析, 自
 literature_status: integrated
 ingested: 2026-10-11
 source: "Hattie, J., & Timperley, H.（2007）The power of feedback. Review of Educational Research, 77(1), 81–112."
-updated: 2026-11-11
+updated: 2026-11-22
 source_check: 原典照合
 ---
 
@@ -226,6 +226,7 @@ Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited
 | パタン | [[パタン/成長マインドセット]] | 能力をほめると遂行志向になり失敗後に崩れる（Mueller & Dweck, 1998）を紹介 |
 
 - [[文献/フィードバックの効果を注意の向きから捉える（KlugerとDeNisi1996）]] — 470効果量・0.38・32%の原典上の位置を確かめる。
+- [[文献/熟達した教師は経験を積んだだけの教師と何が違うかを、全米の資格審査の教室で確かめる（Hattie2003）]] — 本論文で「審査中」とされるフィードバックのモデルの前に行われた講演。そこではフィードバックの効果量を 1.13 としている
 
 ## 未パタン化の論点
 

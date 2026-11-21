@@ -5,7 +5,7 @@ year: 1986
 tags: [文献, 教材研究, 教師の学び, 授業設計]
 literature_status: integrated
 ingested: 2026-10-17
-updated: 2026-10-17
+updated: 2026-11-22
 source: "Shulman, L. S. (1986). Those who understand: Knowledge growth in teaching. Educational Researcher, 15(2), 4–14. https://doi.org/10.3102/0013189X015002004"
 source_check: 一部照合
 ---
@@ -50,6 +50,7 @@ Shulman, L. S. (1986). Those who understand: Knowledge growth in teaching. Educa
 - [[パタン/予想される反応を先に書く（応答の幅を絞る）]] — 反応の予想を、内容に固有の理解や誤概念に結びつける。
 - [[パタン/熟慮的配列]] — 前後の学習と他教科とのつながりを、配列の検討材料にする。
 - [[文献/授業研究の効き目を支える仕組みを取り出す（TakahashiとMcDougal2016）]] — 授業研究の教材研究で、教えるための内容の知識を深める。
+- [[文献/熟達した教師は経験を積んだだけの教師と何が違うかを、全米の資格審査の教室で確かめる（Hattie2003）]] — 熟達者と経験者を分けるのは内容の知識の量ではなく、教える場面での使い方だとする（Shulman 1987 を引く）
 
 ## 展開したい問い
 

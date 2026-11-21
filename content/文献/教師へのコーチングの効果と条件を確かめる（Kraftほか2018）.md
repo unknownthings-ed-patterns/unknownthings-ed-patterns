@@ -5,7 +5,7 @@ year: 2018
 tags: [文献, 教師の学び, 省察, フィードバック]
 literature_status: integrated
 ingested: 2026-10-17
-updated: 2026-11-21
+updated: 2026-11-22
 source: "Kraft, M. A., Blazar, D., & Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547–588. https://doi.org/10.3102/0034654318759268"
 source_check: 一部照合
 ---
@@ -45,6 +45,7 @@ Kraft, M. A., Blazar, D., & Hogan, D. (2018). The effect of teacher coaching on 
 
 ## 関連するWikiページ
 
+- [[文献/個別指導の講師に生成AIがその場で返し方の案を出すと、子どもの算数の習得が増えるかを、講師を無作為に分けて確かめる（Wangほか2024）]] — 本論文を、コーチングは効くが人数を増やしにくい根拠として引き、教える最中に AI で熟練者の判断を届ける道具を試した
 - [[パタン/ピアコーチング]] — 教師自身の学びでは、観察・対話・再試行を継続して結ぶ。
 - [[パタン/省察]] — 教師の振り返りを、観察された授業場面と次の試行につなぐ。
 - [[パタン/省察的評価]] — 教師の行動の変化と、子どもの成果を別々に評価する。

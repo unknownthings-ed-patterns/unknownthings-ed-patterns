@@ -4,7 +4,7 @@ author: "Charlotte Hess, Elinor Ostrom"
 year: 2003
 tags: [文献, コモンズ, 知識コモンズ, 財産権, オープンアクセス, 学術情報]
 ingested: 2026-11-18
-updated: 2026-11-18
+updated: 2026-11-23
 source: "Hess, C., & Ostrom, E. (2003). Ideas, artifacts, and facilities: Information as a common-pool resource. Law and Contemporary Problems, 66(1/2), 111–145. https://scholarship.law.duke.edu/lcp/vol66/iss1/5/"
 source_check: 原典照合
 ---
@@ -43,7 +43,7 @@ Hess, C., & Ostrom, E. (2003). Ideas, Artifacts, and Facilities: Information as 
 - 対象は**学術情報**（論文・本・図書館・リポジトリ）で、教育や教え方の実践知を直接扱っていない。「教育」は、Public Library of Science の目的の引用に出てくるだけである。教育実践知に当てはめるのは本 Wiki の類推である
 - 2003年の論文で、取り上げる仕組み（arXiv の投稿数、PLS の署名者数など）は2002年時点の数字である
 - 学術情報の全体は、境界も利用者も規則もはっきりしないので、『コモンズのガバナンス』の分析をそのまま当てはめられないと、著者自身が書いている（p. 132）
-- 本の形で広げた Hess & Ostrom（2007）*Understanding Knowledge as a Commons* は、出版社による正規の無料版が見当たらず、本 Wiki はまだ読んでいない。その流れを受け継いだ枠組みは [[文献/知識のコモンズを、資源・共同体・規則がからみ合う仕組みとして、事例ごとに問いで調べる（Strandburgほか2017）|Strandburg ほか 2017]] で読んだ
+- 本の形で広げた Hess & Ostrom（2007）*Understanding Knowledge as a Commons* は、出版社による正規の無料版が見当たらない。そのうち枠組みの章は、刊行前の草稿を [[文献/知識のコモンズを、資源・共同体・規則から行為の場と結果へたどり、評価の基準で調べる（HessとOstrom2007草稿）|Hess & Ostrom 2007 草稿]] で読んだ（この論文の三つの区別を引き継ぎ、権利の束を七つに広げている）。その流れを受け継いだ枠組みは [[文献/知識のコモンズを、資源・共同体・規則がからみ合う仕組みとして、事例ごとに問いで調べる（Strandburgほか2017）|Strandburg ほか 2017]] で読んだ
 
 ## 重要な引用
 
@@ -79,6 +79,7 @@ Hess, C., & Ostrom, E. (2003). Ideas, Artifacts, and Facilities: Information as 
 - [[パタン/教室図書館]] — 教室の本棚を、規則と手入れで保つ小さな共有資源として読む
 - [[文献/知識のコモンズを、資源・共同体・規則がからみ合う仕組みとして、事例ごとに問いで調べる（Strandburgほか2017）]] — この論文の流れを受け継いで、知識のコモンズを事例ごとに調べる枠組み
 - [[引用・利用について]] — 本 Wiki の利用の条件
+- [[文献/知識のコモンズを、資源・共同体・規則から行為の場と結果へたどり、評価の基準で調べる（HessとOstrom2007草稿）]] — 同じ著者の続き。三つの区別を IAD の枠組みに入れ、権利の束を七つ（貢献・取り下げを追加）に広げた
 
 ## 展開したい問い
 

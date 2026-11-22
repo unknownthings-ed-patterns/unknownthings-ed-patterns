@@ -4,7 +4,7 @@ author: "Michael J. Madison, Katherine J. Strandburg, Brett M. Frischmann"
 year: 2017
 tags: [文献, コモンズ, 知識コモンズ, 制度分析, 事例研究, ユーザー・イノベーション]
 ingested: 2026-11-18
-updated: 2026-11-18
+updated: 2026-11-23
 source: "Madison, M. J., Strandburg, K. J., & Frischmann, B. M. (2017). Knowledge commons [Preprint, LawArXiv]. Forthcoming in P. Menell & D. Schwartz (Eds.), Research handbook on the economics of intellectual property law (Vol. II). Edward Elgar."
 source_check: 原典照合
 ---
@@ -78,6 +78,7 @@ Madison, M. J., Strandburg, K. J., & Frischmann, B. M. (2017). Knowledge Commons
 - [[文献/市場か国家かの二択を越えて、利用者が共有資源を自分たちで治める仕組みを調べる（Ostrom2009）]] — 自然資源の設計原則
 - [[パタン/共有ビジョンのプロセス]] — 目的から始める
 - [[自分のパタンを作る]] — 使い手が自分の教室に合わせて変え、伝える
+- [[文献/知識のコモンズを、資源・共同体・規則から行為の場と結果へたどり、評価の基準で調べる（HessとOstrom2007草稿）]] — 「ニュー・コモンズ」の一つ。IAD を知識に当てはめ、設計原則はまだ取り出せないと書いた（p. 39）
 
 ## 展開したい問い
 

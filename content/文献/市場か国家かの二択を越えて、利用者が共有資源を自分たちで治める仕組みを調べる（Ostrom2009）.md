@@ -4,7 +4,7 @@ author: "Elinor Ostrom"
 year: 2009
 tags: [文献, コモンズ, 制度, 多中心的ガバナンス, 公共財, 信頼]
 ingested: 2026-11-17
-updated: 2026-11-18
+updated: 2026-11-23
 source: "Ostrom, E. (2009). Beyond markets and states: Polycentric governance of complex economic systems. Prize Lecture, December 8, 2009. Nobel Foundation. https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf"
 source_check: 原典照合
 ---
@@ -69,6 +69,7 @@ Ostrom, E. (2009). Beyond Markets and States: Polycentric Governance of Complex 
 - [[パタン/ナッジ]] — 「強制する（あるいはナッジする）」制度との対比
 - [[文献/知識を、アイデア・人工物・施設の三つに分けて、共有資源の研究から調べる（HessとOstrom2003）]] — 同じ枠組みを学術情報に当てはめた論文（知識コモンズ論）
 - [[概念/世界市民教育とパタン・ランゲージ]] — 公教育の「公」をどう読むか
+- [[文献/知識のコモンズを、資源・共同体・規則から行為の場と結果へたどり、評価の基準で調べる（HessとOstrom2007草稿）]] — IAD の枠組みと段階的な制裁を、知識のコモンズ（デジタル・リポジトリ）に当てはめた章（刊行前の草稿）
 
 ## 展開したい問い
 

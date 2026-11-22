@@ -5,7 +5,7 @@ author: "D. Royce Sadler"
 year: 1989
 tags: [文献, 形成的評価, フィードバック, 評価, 自己評価, 評価規準, 学習者の自律]
 source: "Sadler, D. R.（1989）Formative assessment and the design of instructional systems. *Instructional Science*, 18(2), 119–144. https://doi.org/10.1007/BF00117714"
-updated: 2026-11-07
+updated: 2026-11-22
 source_check: 記録なし
 ---
 
@@ -208,6 +208,7 @@ Sadler, D. R. (1989). Formative assessment and the design of instructional syste
 - [[パタン/ルーブリック]] — 標準の外在化の一形式とその限界
 - [[概念/教育評価論]] — サドラーとアイスナーの位置づけ
 - [[パタン/イメージ]] — 複数の範例で目指す姿を持つ
+- [[文献/熟慮的練習の定義をそろえて練習と熟達の関係を読み直す（EricssonとHarwell2019）]] — 熟慮的練習の条件②〜④が、本論文の3条件とほぼ重なる（本 Wiki の読み）。ただし音楽の目標は答えが一つに近い
 
 ---
 - [[概念/形成的評価の5つの戦略（3×3の枠組み）]] — サドラーの規準論が、戦略①「学習の意図と成功の規準の共有」として定式化された

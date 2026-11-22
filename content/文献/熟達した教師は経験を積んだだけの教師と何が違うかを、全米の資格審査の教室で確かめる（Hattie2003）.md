@@ -70,7 +70,7 @@ ACER の公式の保管庫（ACEReSearch）の PDF（全18頁、表紙1頁＋原
 
 （訳・本Wiki）熟達者と経験者は、教育課程についての知識や教え方の知識の量では違わない。
 
-> "Expert teachers are VERY context bound, and find it hard to think outside the specifics of their classrooms and students."（p. 6）
+> "Expert teachers are VERY context bound, and find it hard to think outside the specifics of their classrooms and students. Generalization is not always their strength."（p. 6）
 
 （訳・本Wiki）熟達した教師はとても文脈に縛られていて、自分の教室と子どもの具体を離れて考えることが難しい。一般化は、いつも得意とは限らない。
 

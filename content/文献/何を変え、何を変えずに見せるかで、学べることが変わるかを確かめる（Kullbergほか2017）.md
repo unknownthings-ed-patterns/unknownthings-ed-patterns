@@ -5,7 +5,7 @@ year: 2017
 tags: [文献, 変化の理論, 比較, 例の選び方, 算数, 数学, 授業研究, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-04
-updated: 2026-11-06
+updated: 2026-11-25
 source: "Kullberg, A., Runesson Kempe, U., & Marton, F. (2017). What is made possible to learn when using the variation theory of learning in teaching mathematics? ZDM Mathematics Education, 49(4), 559–569."
 source_check: 原典照合
 ---
@@ -50,7 +50,7 @@ Kullberg, A., Runesson Kempe, U., & Marton, F. (2017). What is made possible to 
 
 | 手立て | だれに | どんな条件で | 結果 | 段 |
 | --- | --- | --- | --- | --- |
-| 一つの式を変えずに、操作や数だけを変えた例を並べる（変化の理論による例の設計） | スウェーデンの7年生の一次方程式の授業（教師1人の前後の授業） | 教師が1年半、変化の理論を使う授業研究に参加した前と後 | 後の授業では、等式の性質や分配法則に気づける例の並びになった。子どもの学びは測っていない | 仮説（1人の授業の例の分析） |
+| 一つの式を変えずに、操作や数だけを変えた例を並べる（変化の理論による例の設計） | スウェーデンの7年生の一次方程式の授業（教師1人の前後の授業） | 教師が1年半、変化の理論を使う授業研究に参加した前と後 | 後の授業では、等式の性質や分配法則に気づける例の並びになった。子どもの学びは測っていない | 弱（1人の授業の例の分析） |
 
 ## 根拠の範囲と注意
 

@@ -5,7 +5,7 @@ year: 2016
 tags: [文献, シグニファイア, マルチメディア学習, 熟達化の逆転, メタ分析, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-25
 source: "Richter, J. (2016). Signaling text-picture relations in multimedia learning: The influence of prior knowledge (Doctoral dissertation). Eberhard Karls Universität Tübingen."
 source_check: 一部照合
 ---
@@ -46,7 +46,7 @@ Richter, J. (2016). *Signaling text-picture relations in multimedia learning: Th
 | 手立て | だれに | どんな条件で | 結果 | 段 |
 | --- | --- | --- | --- | --- |
 | 図と文の対応を示す手がかり（色分け・指し示し・ラベル） | 前の知識が少ない〜中くらい／多い（45比較、6割が大学生） | 手がかりあり／なし | 少ない〜中くらいで r = 0.19、多いと r = −0.08（有意でない、研究は4つ） | 中 |
-| 同上（デジタル教科書に24か所） | ドイツの8年生127人（化学） | よく作られた版に足す／足さない | 前の知識が少ない生徒は伸び、多い生徒はかえって下がった | 仮説（1つの学校での実験） |
+| 同上（デジタル教科書に24か所） | ドイツの8年生127人（化学） | よく作られた版に足す／足さない | 前の知識が少ない生徒は手がかりのある版のほうがよく、多い生徒は手がかりのある版のほうが、ない版で学んだ同じ層の生徒より低かった（学ぶ前より下がったのではない。逆転は層ごとの検定ではなく、予測した型への対比で示された、pp. 86–87） | 仮説（1つの学校での実験） |
 
 ## 根拠の範囲と注意
 

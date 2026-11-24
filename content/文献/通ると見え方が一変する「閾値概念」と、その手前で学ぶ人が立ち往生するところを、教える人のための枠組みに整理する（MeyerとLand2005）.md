@@ -5,7 +5,7 @@ year: 2005
 tags: [文献, 閾値概念, 厄介な知識, 境界の状態, 見せかけの理解, キーコンセプト, 大学教育, 理論, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-25
 source: "Meyer, J. H. F., & Land, R. (2005). Threshold concepts and troublesome knowledge (2): Epistemological considerations and a conceptual framework for teaching and learning. Higher Education, 49, 373–388."
 source_check: 原典照合
 ---
@@ -58,7 +58,7 @@ Meyer, J. H. F., & Land, R. (2005). Threshold concepts and troublesome knowledge
 
 | 手立て | だれに | どんな条件で | 結果 | 段 |
 | --- | --- | --- | --- | --- |
-| 教科の中の「通ると見え方が一変する」概念を見つけ、その手前の立ち往生と分かったふりに目を向けて、示し方と順序を組み直す | 主に大学生（経済学・文化研究・数学などの例） | 理論の枠組みの提案。教員との会話と、学会発表の小さな事例研究を例に引く | 効果を確かめたものではない。単純化した最初の示し方が、かえって閾値を越えるのを妨げるという指摘も、原典自身が「未検証」とする | 仮説（理論の提案） |
+| 教科の中の「通ると見え方が一変する」概念を見つけ、その手前の立ち往生と分かったふりに目を向けて、示し方と順序を組み直す | 主に大学生（経済学・文化研究・数学などの例） | 理論の枠組みの提案。教員との会話と、学会発表の小さな事例研究を例に引く | 効果を確かめたものではない。単純化した最初の示し方が、かえって閾値を越えるのを妨げるという指摘も、原典自身が「未検証」とする | 弱（理論の提案） |
 
 ## 根拠の範囲と注意
 

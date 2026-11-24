@@ -5,7 +5,7 @@ year: 2018
 tags: [文献, 熟達化の逆転, 認知負荷, 段階的手放し, 個別化, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-02
-updated: 2026-11-06
+updated: 2026-11-25
 source: "Kalyuga, S. (2018). Expertise reversal effect and its instructional implications. Impact (Chartered College of Teaching). Edited version of Lee, C. H., & Kalyuga, S. (2014). In V. A. Benassi, C. E. Overson, & C. M. Hakala (Eds.), Applying science of learning in education (pp. 31–44). Society for the Teaching of Psychology."
 source_check: 原典照合
 ---
@@ -60,7 +60,7 @@ Lee, C. H., & Kalyuga, S. (2014). Expertise reversal effect and its instructiona
 
 ## 関連するWikiページ
 
-- [[文献/図と文の対応を示す手がかりが、だれに効き、だれの邪魔になるかを確かめる（Richter2016）]] — 図と文の手がかりで、知識の多い生徒の成績がかえって下がった学校での実験
+- [[文献/図と文の対応を示す手がかりが、だれに効き、だれの邪魔になるかを確かめる（Richter2016）]] — 図と文の手がかりのある版で、知識の多い生徒の成績が、ない版で学んだ同じ層の生徒より低かった学校での実験
 - [[文献/Why Minimal Guidance During Instruction Does Not Work（Kirschner, Sweller & Clark, 2006）]] — 初学者には手厚い手引きが要るという議論
 - [[文献/実物から図、図から記号へと薄めていく教え方を、確かめるべき仮説に整理する（FyfeとNathan2019）]] — 知っている学習者には実物の段階が要らないかもしれないという仮説
 - [[パタン/段階的手放し]] — 熟達化の逆転

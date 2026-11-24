@@ -5,7 +5,7 @@ source: "Hattie, J. A. C. (2003, October). Teachers make a difference: What is t
 author: "John Hattie"
 year: 2003
 ingested: 2026-11-22
-updated: 2026-11-22
+updated: 2026-11-25
 source_check: 原典照合
 ---
 
@@ -105,6 +105,7 @@ ACER の公式の保管庫（ACEReSearch）の PDF（全18頁、表紙1頁＋原
 - [[文献/教科内容を教えるための知識に変える（Shulman1986）]] — 内容の知識より、教えるための内容の知識が熟達を分ける、という論の背景（本稿が引くのは Shulman 1987）
 - [[文献/The Power of Feedback（Hattie & Timperley, 2007）]] — 本稿で「審査中」とされるフィードバックのモデルの、のちの論文
 - [[文献/HattieのVisible Learningを、元のメタ分析に戻って全部の要因で点検する（Kalmendal Brunsほか2026）]] — 本稿の効果量の一覧の元になった統合の作り方への点検
+- [[文献/先生が授業を楽しんでいると、子どもも楽しむか、それは熱意として見えることを通してかを、数学の71学級で確かめる（Frenzelほか2009）]] — 「教えることへの情熱」の一面を量的に見た研究：先生の楽しさは熱意として見えると子どもの楽しさと結びつく
 
 ## 展開したい問い
 

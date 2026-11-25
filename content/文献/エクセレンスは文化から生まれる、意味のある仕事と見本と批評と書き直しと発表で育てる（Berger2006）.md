@@ -19,7 +19,7 @@ Berger, R. (2006). Fostering an ethic of excellence. *The Fourth and Fifth Rs: R
 
 センターのサイトから今は消えているので、2006年にセンターのサイトに置かれていた号そのものを、インターネット・アーカイブ（Wayback Machine）の保存から取った（https://web.archive.org/web/20060307213257/http://www.cortland.edu:80/character/newsletters/2006-blue-winter.pdf）。号全体（6頁）を raw/教育研究原典2026年11月/FourthFifthRs_2006_Winter_Berger_Fostering_Ethic_of_Excellence.pdf に保存し、バーガーの記事（pp. 1–4）を全部読んだ。同じ号の別の記事（Elbot & Fulton「The Power of a Touchstone」pp. 5–6）は読んだが、このページでは扱わない。
 
-p. 2 の囲み「CREATING A CULTURE OF EXCELLENCE: FIVE PEDAGOGICAL PRACTICES」には筆者名がない。バーガーを三人称で書いていないが、ボストンの学校の例など本文にない内容を含むので、**編集部がまとめた囲みの可能性がある**（本 Wiki の注意）。
+p. 2 の囲み「CREATING A CULTURE OF EXCELLENCE: FIVE PEDAGOGICAL PRACTICES」には筆者名がない。一人称の語りではなく、ボストンの学校の例など本文にない内容を含むので、**編集部がまとめた囲みの可能性がある**（本 Wiki の注意）。
 
 **一人の教師の実践の記録と主張で、研究ではない。** 学校の卒業率・進学率（95%・約90%）は、本文が挙げた数字で、本 Wiki は確かめていない。
 
@@ -76,7 +76,8 @@ p. 2 の囲み「CREATING A CULTURE OF EXCELLENCE: FIVE PEDAGOGICAL PRACTICES」
 
 ## 原文との照合（2026-11-25）
 
-- 上の英語の引用6件を、PDF から取り出した本文と、空白・引用符・行末のハイフンをそろえて機械で照合した。結果は下の「照合の記録」に書く
+- 上の英語の引用6件を、PDF から取り出した本文と、空白・引用符・行末のハイフンをそろえて機械で照合した。4件はそのまま一致した。残る2件（p. 3）は、2段組の左右の段の行が PDF の中で交互に並ぶためにそのままでは一致せず、語の並びと、段組を保った取り出しの目視で、引用と同じことを確かめた。頁も6件とも一致した
+- p. 2 の囲み「FIVE PEDAGOGICAL PRACTICES」の内容（批評の決まり・書き直し・発表）も原文で確かめた
 - [[パタン/文化をつくる]] が引く「エクセレンスの秘密は、文化にあります。……」（邦訳『子どもの誇りに灯をともす』からの訳）は、この記事の p. 2 の段落と同じ内容で、英語の原文で確かめられた
 
 ## 教育実践への示唆（Wiki側の適用案）

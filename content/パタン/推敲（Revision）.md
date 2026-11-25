@@ -4,7 +4,7 @@ status: complete
 tags: [パタン, 国語, 作文指導, ライティング・ワークショップ, 推敲, リビジョン, 評価]
 source: "Muschla, G.R.（2006）Writing Workshop Survival Kit, 2nd ed. Jossey-Bass. / Atwell, N.（1998）In the Middle. Heinemann. / Calkins, L.（1994）The Art of Teaching Writing. Heinemann."
 related: []
-updated: 2026-11-14
+updated: 2026-11-25
 ---
 
 # 推敲（Revision）
@@ -250,6 +250,7 @@ Muschla（2006）が提示する推敲の3つの問い：
 
 ---
 - [[パタン/書く道具を選ぶ（手書きとキーボード）]] — 何度も書き直す作文は、キーボードで書くと書き直しが増え、書きながら直すようになる
+- [[文献/エクセレンスは文化から生まれる、意味のある仕事と見本と批評と書き直しと発表で育てる（Berger2006）]] — 「エクセレンスの倫理には書き直しが要る」。最終稿は外の聴き手に向ける（バーガー）
 
 ## クラスター図
 
@@ -312,5 +313,5 @@ Calkins, L. (1994). *The Art of Teaching Writing* (2nd ed.). Heinemann.
 <!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
 このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
 
-- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/考える短歌（俵万智）|俵万智]]・[[文献/コンピュータで書くことを学ぶと、作文の量と質が変わるかを、1992〜2002年の研究で確かめる（Goldbergほか2003）|Goldbergほか2003]]・[[文献/5〜7歳の読み書きの指導を研究から整える（英国EEF2020）|英国EEF2020]]・[[文献/Writing Workshop Survival Kit（Muschla）|Muschla]]
+- **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/考える短歌（俵万智）|俵万智]]・[[文献/コンピュータで書くことを学ぶと、作文の量と質が変わるかを、1992〜2002年の研究で確かめる（Goldbergほか2003）|Goldbergほか2003]]・[[文献/5〜7歳の読み書きの指導を研究から整える（英国EEF2020）|英国EEF2020]]・[[文献/Writing Workshop Survival Kit（Muschla）|Muschla]]・[[文献/エクセレンスは文化から生まれる、意味のある仕事と見本と批評と書き直しと発表で育てる（Berger2006）|Berger2006]]
 - **一部照合**（原典の一部の章や頁だけを読んで確かめた）：[[文献/作文指導の有効な要素を組み合わせる（Writing Next2007）|Writing Next2007]]

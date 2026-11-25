@@ -5,7 +5,7 @@ year: 2004
 tags: [文献, 自己概念, 自尊感情, 学力, メタ分析, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-02
-updated: 2026-11-22
+updated: 2026-11-25
 source: "Valentine, J. C., DuBois, D. L., & Cooper, H. (2004). The relation between self-beliefs and academic achievement: A meta-analytic review. Educational Psychologist, 39(2), 111–133."
 source_check: 一部照合
 ---

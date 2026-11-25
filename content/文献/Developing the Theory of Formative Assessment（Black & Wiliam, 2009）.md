@@ -5,8 +5,8 @@ author: "Paul Black & Dylan Wiliam"
 year: 2009
 tags: [文献, 形成的評価, フィードバック, 評価, 自己調整, 教室談話, 発問, 練り上げ, 特別支援]
 source: "Black, P. & Wiliam, D.（2009）Developing the theory of formative assessment"
-updated: 2026-11-07
-source_check: 記録なし
+updated: 2026-11-25
+source_check: 一部照合
 ---
 
 # Developing the Theory of Formative Assessment（Black & Wiliam, 2009）
@@ -170,6 +170,13 @@ Black, P., & Wiliam, D. (2009). Developing the theory of formative assessment. *
 > そうしたアプローチは、上流の計画がそれに好適な文脈を提供しないのであれば、栄えることができない。（§7）
 
 ---
+
+## 原文との照合（2026-11-25）
+
+- 照合に使った原典：vault の raw/Developing_the_theory_of_formative_assessment.pdf（著者校正前のプレプリント・全40頁）
+- 「重要な引用」の英語の引用19件を、PDF から取り出した本文と、空白・引用符・行末のハイフンをそろえて機械で照合した。18件はそのまま一致した。残る1件（Takahashi 2008 の練り上げの定義）は、原文の途中に頁の区切りと脚注が挟まるためで、語句は一致した
+- 引用の位置は節番号で示しているので、頁は照合していない
+- 照合したのは引用だけで、要約の各項目を原文と一つずつ当てることはしていない
 
 ## 教育実践への示唆
 

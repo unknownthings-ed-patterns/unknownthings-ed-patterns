@@ -320,6 +320,5 @@ Boaler, J., & Staples, M. (2008). Creating mathematical futures through an equit
 このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
 
 - **原典照合**（原典にあたって、引用や要約を照らした）：[[文献/ロイス・サドラーによる形成的アセスメント論の検討（石田智敬, 2021）|石田智敬, 2021]]・[[文献/評点・コメント・ほめ言葉・何も返さないの4つの返し方で、子どもの注意の向き・興味・成績がどう変わるかを確かめる（Butler1987）|Butler1987]]・[[文献/Mathematical Mindsets（Boaler）|Boaler]]・[[文献/Schools That Learn（Senge et al.）|Senge et al.]]
-- **一部照合**（原典の一部の章や頁だけを読んで確かめた）：[[文献/相互評価の設計と実施条件を確かめる（Topping1998）|Topping1998]]
+- **一部照合**（原典の一部の章や頁だけを読んで確かめた）：[[文献/相互評価の設計と実施条件を確かめる（Topping1998）|Topping1998]]・[[文献/Developing the Theory of Formative Assessment（Black & Wiliam, 2009）|Black & Wiliam, 2009]]
 - **孫引き**（ほかの文献を通して知った。原典は未読）：[[文献/Assessment and Classroom Learning（Black & Wiliam）|Black & Wiliam]]
-- **記録なし**（何をどこまで読んだかの記録がまだない）：[[文献/Developing the Theory of Formative Assessment（Black & Wiliam, 2009）|Black & Wiliam, 2009]]

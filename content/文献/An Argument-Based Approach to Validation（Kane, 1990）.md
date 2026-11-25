@@ -5,8 +5,8 @@ author: "Michael T. Kane"
 year: 1990
 tags: [文献, 教育評価, 評価, 妥当性, 論証, テスト, 特別支援, ケイン]
 source: "Kane, M. T.（1990）An argument-based approach to validation. *ACT Research Report Series*, 90-13. American College Testing Program.（ERIC: ED336428）"
-updated: 2026-08-04
-source_check: 記録なし
+updated: 2026-11-25
+source_check: 一部照合
 ---
 
 # An Argument-Based Approach to Validation（Kane, 1990）
@@ -312,13 +312,13 @@ Kane, M. T. (1990). *An argument-based approach to validation* (ACT Research Rep
 >
 > **すでにきわめてもっともらしい仮定にさらなる支持を与える証拠は、論証全体のもっともらしさをたいして上げない。** 最も注意に値するのは、解釈的論証の中の問題含みの仮定、すなわち最も疑いにさらされている仮定である。……**解釈的論証は、その最も弱い環より強くはならない。**（The Summative Stage）
 
-> "An effort to check on all assumptions leads to infinite regress ... The solution to this problem that is usually employed in science is to simply take some assumptions as given, as unproblematic background knowledge."
+> "An effort to check on all assumptions leads to infinite regress ... The solution to this problem that is usually employed in science (Lakatos, 1978; Lakatos & Musgrave, 1970) is to simply take some assumptions as given, as unproblematic background knowledge."
 >
 > すべての仮定を確かめようとする努力は**無限後退**に至る。……科学において通常用いられるこの問題への解決は、**一部の仮定を単に与件として、問題含みでない背景知識として取ること**である。（The Summative Stage）
 
-> "The 'Cheshire Cat' advised Alice to 'begin at the beginning, work your way through to the end, and stop'. We are not so fortunate as Alice; there is no definite end to be reached. However, we can decide at some point that we have addressed all of the highly problematic assumptions ... and that the argument is good enough for the present."
+> "The 'Cheshire Cat' advised Alice to 'begin at the beginning, work your way through to the end, and stop'. We are not so fortunate as Alice; there is no definite end to be reached. However, we can decide at some point that we have addressed all of the highly problematic assumptions ... we can get to the point where we decide that the argument is good enough for the present."
 >
-> チェシャ猫はアリスに「初めから始め、終わりまで行き、そこで止まりなさい」と助言した。**我々はアリスほど幸運ではない。到達すべき明確な終わりは無い。** しかし我々はある時点で、きわめて問題含みの仮定はすべて扱ったと判断し……**その論証は当面のところ十分によいと決める**ことはできる。（A Six-Step Process）
+> チェシャ猫はアリスに「初めから始め、終わりまで行き、そこで止まりなさい」と助言した。**我々はアリスほど幸運ではない。到達すべき明確な終わりは無い。** しかし我々はある時点で、きわめて問題含みの仮定はすべて扱ったと判断し……**その論証は当面のところ十分によいと決める**ところまで来ることはできる。（A Six-Step Process）
 
 > "the interpretive argument is always subject to new challenges, and, therefore, the validity of the interpretation is never proven."
 >
@@ -328,7 +328,7 @@ Kane, M. T. (1990). *An argument-based approach to validation* (ACT Research Rep
 >
 > 解釈的論証は、人間によって作られテストスコアに割り当てられるという意味で**人工物**である。それは開発され、改訂され、放棄されうる。**それは作られるのであって、見つかるのではない。**（Characteristics of Interpretive Arguments）
 
-> "Because of their structure, interpretive arguments do not have to be accepted or rejected as a whole; we can change or reject parts of the argument while retaining other parts. Therefore questions about the validity of an interpretation ... do not generally lead to a yes-or-no answer."
+> "Because of their structure, interpretive arguments do not have to be accepted or rejected as a whole; we can change or reject parts of the argument while retaining other parts. ... Therefore questions about the validity of an interpretation ... do not generally lead to a yes-or-no answer."
 >
 > その構造ゆえに、解釈的論証は全体として受け入れるか拒否するかを迫られるものではない。**一部を変更ないし拒否しつつ、他の部分を保つことができる。** したがって解釈の妥当性についての問いは、一般に yes / no の答えには至らない。（Characteristics of Interpretive Arguments）
 
@@ -364,6 +364,14 @@ Kane, M. T. (1990). *An argument-based approach to validation* (ACT Research Rep
 | **妥当性論証**（validity argument） | 解釈的論証の中の推論と仮定を受け入れる根拠。実証データ、「常識」と先行研究、そして量的および／または質的な推論に基づく。妥当性論証は、解釈の妥当性を受け入れる基盤を提供する |
 
 ---
+
+## 原文との照合（2026-11-25）
+
+- 照合に使った原典：vault の raw/Kane（1990）An Argument-Based Approach to Validation（ERIC ED336428）.pdf（ERIC のスキャン版・全49頁）
+- 「重要な引用」の英語の引用20件を、PDF から取り出した本文と機械で照合した。8件はそのまま一致し、残りの多くはスキャンの文字の読み取りの誤り（strcag・encugh・sane など）や、行の順の乱れによる不一致で、語を並べて比べると引用と同じだった
+- **3件で、省いた箇所の示し方が足りなかったので直した**。①「Because of their structure…」は、原文で間にある一文（In particular, …）を「...」なしで省いていた ②「Cheshire Cat…」は、「...」のあとを「and that the argument…」とつないでいたが、原文は「we can get to the point where we decide that the argument…」 ③「An effort to check…」は、文中の文献表示（Lakatos, 1978; Lakatos & Musgrave, 1970）を印なしで省いていた。どれも意味は変わらない
+- 引用の位置は節名で示しているので、頁は照合していない
+- 照合したのは引用だけで、要約の各項目を原文と一つずつ当てることはしていない
 
 ## 教育実践への示唆
 

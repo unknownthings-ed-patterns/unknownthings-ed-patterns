@@ -274,5 +274,5 @@ Filer, A. (1995). Teacher assessment: Social process and social products. *Asses
 <!-- source-check: 自動生成。手で編集しない。文献ページの frontmatter の source_check から作る -->
 このページが引く文献を、本 Wiki が原典でどこまで確かめたかで分けた。くわしくは各文献ページの「書誌・確認した範囲」や「原文との照合」へ。
 
+- **一部照合**（原典の一部の章や頁だけを読んで確かめた）：[[文献/Developing the Theory of Formative Assessment（Black & Wiliam, 2009）|Black & Wiliam, 2009]]
 - **孫引き**（ほかの文献を通して知った。原典は未読）：[[文献/Assessment and Classroom Learning（Black & Wiliam）|Black & Wiliam]]
-- **記録なし**（何をどこまで読んだかの記録がまだない）：[[文献/Developing the Theory of Formative Assessment（Black & Wiliam, 2009）|Black & Wiliam, 2009]]

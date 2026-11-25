@@ -5,8 +5,8 @@ author: "Samuel Messick"
 year: 1994
 tags: [文献, 教育評価, 評価, 妥当性, 構成概念妥当性, テスト, ルーブリック, 特別支援, メシック]
 source: "Messick, S.（1994）Validity of psychological assessment: Validation of inferences from persons' responses and performances as scientific inquiry into score meaning. *ETS Research Report Series*, 1994(2), i–28（Report No. RR-94-45）. https://doi.org/10.1002/j.2333-8504.1994.tb01618.x"
-updated: 2026-08-03
-source_check: 記録なし
+updated: 2026-11-25
+source_check: 一部照合
 ---
 
 # Validity of Psychological Assessment（Messick, 1994）
@@ -362,6 +362,13 @@ competence（有能さ）、creativity（創造性）、intelligence（知能）
 > このように、**妥当性と価値は二つではなく一つの要請であり、テストの妥当化はアセスメントの科学と倫理の両方に関わる**。だからこそ妥当性は社会的価値としての力を持つのである。（結語）
 
 ---
+
+## 原文との照合（2026-11-25）
+
+- 照合に使った原典：vault の raw/Validity of Psychological Assessment- Validation of Inferences….pdf（ERIC のスキャン版・全33頁）
+- 「重要な引用」の英語の引用25件を、PDF から取り出した本文と機械で照合した。20件はそのまま一致した。5件はスキャンの文字の読み取りの誤り（subjectmatter・lov・respon nts など）による不一致で、語を並べて比べると引用と同じだった
+- 引用の位置は節名で示しているので、頁は照合していない
+- 照合したのは引用だけで、要約の各項目を原文と一つずつ当てることはしていない
 
 ## 教育実践への示唆
 

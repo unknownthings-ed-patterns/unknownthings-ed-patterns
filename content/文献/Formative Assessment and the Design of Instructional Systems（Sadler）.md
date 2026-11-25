@@ -5,8 +5,8 @@ author: "D. Royce Sadler"
 year: 1989
 tags: [文献, 形成的評価, フィードバック, 評価, 自己評価, 評価規準, 学習者の自律]
 source: "Sadler, D. R.（1989）Formative assessment and the design of instructional systems. *Instructional Science*, 18(2), 119–144. https://doi.org/10.1007/BF00117714"
-updated: 2026-11-22
-source_check: 記録なし
+updated: 2026-11-25
+source_check: 一部照合
 ---
 
 # Formative Assessment and the Design of Instructional Systems（Sadler, 1989）
@@ -156,6 +156,13 @@ Sadler, D. R. (1989). Formative assessment and the design of instructional syste
 > ここから導かれる系は、本物の評価経験を指導システムに設計しないことが、多くの学習者に人為的なパフォーマンスの天井を課すか、あるいは学習の速度を制限するかのどちらかである、ということである。（p.143）
 
 ---
+
+## 原文との照合（2026-11-25）
+
+- 照合に使った原典：vault の raw/Formative-Assessment-and-Design-of-Instructional-Systems.pdf（*Instructional Science* 誌の誌面・pp. 119–144 の全26頁）
+- 「重要な引用」の英語の引用21件を、PDF から取り出した本文と機械で照合した。19件はそのまま一致し、2件（p. 142）は PDF の文字の読み取りで語がつながっていた（onthe）ための不一致で、語句は一致した
+- 引用に付けた頁も、誌面の頁と合っていることを確かめた
+- 照合したのは引用だけで、要約の各項目を原文と一つずつ当てることはしていない
 
 ## 教育実践への示唆
 

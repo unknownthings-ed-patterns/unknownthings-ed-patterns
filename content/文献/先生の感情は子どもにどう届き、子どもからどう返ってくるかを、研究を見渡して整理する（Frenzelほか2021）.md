@@ -4,7 +4,7 @@ author: "Anne C. Frenzel, Lia Daniels, Irena Burić"
 year: 2021
 tags: [文献, 感情, 楽しさ, 熱意, 教師, 教師と子どもの関係, 総説]
 ingested: 2026-11-25
-updated: 2026-11-25
+updated: 2026-11-26
 source: "Frenzel, A. C., Daniels, L., & Burić, I. (2021). Teacher emotions in the classroom and their implications for students. Educational Psychologist, 56(4), 250–264. https://doi.org/10.1080/00461520.2021.1985501"
 source_check: 原典照合
 ---
@@ -94,6 +94,7 @@ Frenzel, A. C., Daniels, L., & Burić, I. (2021). Teacher emotions in the classr
 - [[パタン/間違いや失敗から学ぶ文化]] — 失敗した子への同情は、力が足りないという合図になりうる
 - [[パタン/心理的安全性（コンフォートゾーン）]] — 学級の感情の土台は、先生と子どもの往復でできる
 - [[文献/教師との関係と学習への参加を分けて捉える（Roordaほか2017）]] — 先生の感情は、関係の質を通して子どもに届く
+- [[文献/ごっこ遊びは幼い子の本気の仕事、子どもの話を書き留めて物語を演じる（Paley2009対談）]] — 子どもの話を聴き、書き留め、遊びから話し合いを始める実践者の側の記録（ペイリー）
 
 ## 展開したい問い
 

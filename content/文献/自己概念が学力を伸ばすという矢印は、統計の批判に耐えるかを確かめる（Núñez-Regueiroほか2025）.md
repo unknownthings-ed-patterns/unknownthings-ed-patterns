@@ -5,7 +5,7 @@ year: 2025
 tags: [文献, 自己概念, 学力, 縦断研究, 論争, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-25
 source: "Núñez-Regueiro, F., Marsh, H. W., Pekrun, R., Lüdtke, O., & Guo, J. (2025). The reciprocal effects model is robust to alternative modeling specifications: A response to Sorjonen et al., 2025. Educational Psychology Review."
 source_check: 原典照合
 ---
@@ -22,7 +22,7 @@ Núñez-Regueiro, F., Marsh, H. W., Pekrun, R., Lüdtke, O., & Guo, J. (2025). T
 
 ## 要約
 
-- **何が争われているか**：「教科の自己概念と学力は互いに影響し合う」という相互効果モデルは、いくつかのメタ分析（Valentine ほか 2004 など）で支持されてきた。2024年の Marsh らの研究は、ドイツの中学生（約3,500人、5年分）のデータで、学力は同じ年の自己概念をすぐに高め、自己概念は次の年の学力を高めると報告した（pp. 3–4）。
+- **何が争われているか**：「教科の自己概念と学力は互いに影響し合う」という相互効果モデルは、いくつかのメタ分析（Valentine ほか 2004 など）で支持されてきた。2024年の Marsh らの研究は、ドイツの中学生（約3,500人、5年分。バイエルン州の PALMA 調査のデータで、本Wikiの文献ページ Marsh ほか 2018 と同じ調査。pp. 2, 8）のデータで、学力は同じ年の自己概念をすぐに高め、自己概念は次の年の学力を高めると報告した（pp. 3–4）。
 - **批判**：Sorjonen ほか（2025）は、このデータに似せて作った模擬データで別の統計モデルを当てはめ、「自己概念が学力に影響する」と仮定しないモデルでも、ほぼ同じくらいデータに合うと示し、相互効果モデルの証拠は決定的でないと主張した（p. 3）。
 - **反論の要点**：
   - 批判は、元データではなく、相関の表から作った模擬データを使っており、時期ごとの測りの誤差やばらつきの変化を含められていない（pp. 8–9）。

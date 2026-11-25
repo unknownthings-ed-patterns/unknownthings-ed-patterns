@@ -5,7 +5,7 @@ year: 2011
 tags: [文献, 自己調整, 授業設計, 学級経営]
 literature_status: integrated
 ingested: 2026-10-15
-updated: 2026-11-04
+updated: 2026-11-25
 source: "Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students’ social and emotional learning: A meta-analysis of school-based universal interventions. Child Development, 82(1), 405–432. https://doi.org/10.1111/j.1467-8624.2010.01564.x"
 source_check: 一部照合
 ---
@@ -45,6 +45,7 @@ Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, 
 
 ## 関連するWikiページ
 
+- [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 収集表：学校で全員に行う社会性と情動の学習（中）
 - [[パタン/自己調整]] — 感情や対人場面の調整を、教え練習する対象として扱う。
 - [[パタン/焦点を絞った目標設定]] — 社会的・情動的技能の目標を、具体的な行動へ落とす。
 - [[パタン/スモールステップ]] — 分割した技能を、つながる活動と実際の練習へ戻す。

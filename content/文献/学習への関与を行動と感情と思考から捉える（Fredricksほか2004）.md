@@ -5,7 +5,7 @@ year: 2004
 tags: [文献, 動機づけ, メタ認知, 授業設計]
 literature_status: integrated
 ingested: 2026-10-18
-updated: 2026-10-18
+updated: 2026-11-25
 source: "Fredricks, J. A., Blumenfeld, P. C., & Paris, A. H. (2004). School engagement: Potential of the concept, state of the evidence. *Review of Educational Research, 74*(1), 59–109. https://doi.org/10.3102/00346543074001059"
 source_check: 一部照合
 ---
@@ -47,6 +47,7 @@ Fredricks, J. A., Blumenfeld, P. C., & Paris, A. H. (2004). School engagement: P
 
 ## 関連するWikiページ
 
+- [[パタン/研究の中の堪能者を読む（だれに・どんな条件で効いたか）]] — 収集表：関与の三つの面と測り方（弱）
 - [[パタン/考える文化]] — 活動量と考えの内容を分け、思考する機会も点検する。
 - [[パタン/深い理解（表層と深層）]] — 読み終えた行動と、意味をつくる工夫を区別する。
 - [[パタン/アリテラシー（読む意志）]] — 読む量だけで読む意志を判定せず、関心と意味への関与を聞く。

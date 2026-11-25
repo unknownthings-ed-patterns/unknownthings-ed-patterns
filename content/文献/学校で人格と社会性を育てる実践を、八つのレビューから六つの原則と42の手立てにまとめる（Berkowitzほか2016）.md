@@ -5,7 +5,7 @@ year: 2016
 tags: [文献, 人格教育, 社会性と情動の学習, 学校の文化, 内在化, レビュー, 根拠の強さ]
 literature_status: integrated
 ingested: 2026-11-05
-updated: 2026-11-05
+updated: 2026-11-25
 source: "Berkowitz, M. W., Bier, M. C., & McCauley, B. (2016). Effective features and practices that support character development. Invited paper for the National Academies of Sciences, Engineering, and Medicine Workshop on Defining and Measuring Character and Character Education."
 source_check: 原典照合
 ---
@@ -40,7 +40,7 @@ Berkowitz, M. W., Bier, M. C., & McCauley, B. (2016). *Effective features and pr
 - **どの手立てが多く挙がったか**（pp. 28–29）：
   - 42の手立てのうち、六つのレビューが挙げたのは「学校全体で人格を育てる文化・焦点をもつこと」だけでした。
   - 五つのレビューが挙げたのは、共通の価値・ことば、道徳的な行動の機会、大人や年長の子どもが手本・相談相手になること、の三つです。
-  - 四つのレビューが挙げたのは、家庭・地域との関わり、人格について教えること、社会性と情動の力を教えること、高い期待、の四つです。
+  - 四つのレビューが挙げたのは、家庭・地域との関わり、人格について教えること、社会性と情動の力を教えること、高い期待、の四つです。原典は「Five more practices」と書いて四つしか挙げていません（p. 28。原典の不備）。
   - 17の手立ては、一つのレビューにしか挙がっていませんでした。
 - **学力の研究との重なり**（pp. 24–27）：
   - 学力を伸ばす学校の研究（Hattie、Marzano など四つ）と比べると、42の手立てのうち30が、学力の研究でも挙がっていました。著者は「よい人格教育は、よい教育である」と書きます（p. 29）。
@@ -75,6 +75,7 @@ Berkowitz, M. W., Bier, M. C., & McCauley, B. (2016). *Effective features and pr
 - **査読を経ていない**：研究集会のために依頼された論文です。
 - **原典の記述の不備**：
   - 人格の四つの面を並べるところで「市民（civic）」が二度出てきます（p. 13）。
+  - 四つのレビューが挙げた手立てを「五つ」と書きながら、四つしか並べていません（p. 28）。
   - 「発達に沿った教え方」の手立ての、本文での並べ方（練習の機会が二か所に出る）と、表2の並べ方（教科への組み込みが入る）が少し違います（pp. 23–24, 39）。
 
 ## 本Wikiの観点から
